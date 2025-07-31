@@ -63,3 +63,16 @@ footer {
     margin-top: 2rem;
     font-size: 0.8rem;
 }
+
+pre {
+    background: #f4f4f4;
+    border: 1px solid #ddd;
+    padding: 1.5rem;
+    border-radius: 8px;
+    overflow-x: auto;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+}
+
+code {
+    font-family: 'Space Mono', monospace;
+}
