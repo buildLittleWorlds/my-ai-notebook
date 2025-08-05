@@ -1,0 +1,744 @@
+URL: https://www.youtube.com/watch?v=Ca_RbPXraDE&t=1080s
+==============================
+Channel Title: Curt Jaimungal
+Video Title: The (Terrifying) Theory That Your Thoughts Were Never Your Own
+Publish Date: July 21, 2025
+==============================
+
+TRANSCRIPT:
+
+And then this is where, you know, it starts 
+to get a little bit disturbing. Language is   an autonomous informational system, 
+one might even call it an organism,   and it runs in our brains. It's downloaded against 
+your will. By the time you're reading the waiver,   it's too late. What makes you think your thoughts 
+are your own? According to groundbreaking work by   professors Elan Barenholtz and William Hahn, every 
+word you speak comes from an alien intelligence   that installed itself in your brain during 
+infancy. Language, they argue, is an organism   that uses human minds as its substrate. Elan 
+Barenholtz was interviewed before on this channel,   and it went viral. Link is in the description. 
+Professor Barenholtz contends that our linguistic   system operates on meaningless squiggles, with no 
+access to the rich sensory world of experience. He   believes that LLMs can master language but never 
+feel pain, for instance. Professor William Hahn,   on the other hand, who's also been interviewed, 
+and it went viral, link is in the description,   extends this to virtual machines and software 
+layers. Professor Hahn thinks that consciousness   is just one of many programs running in parallel. 
+I was invited to moderate this panel live at the   University of Toronto with this event organized by 
+ekkolapto. Again, links to everything are in the   description. Today, I want to thank everybody 
+who took time out of their schedule and their   busy lives doing the many things that people do 
+here at the University of Toronto to come for   this extremely special live in-person podcast with 
+the Curt Jaimungal. Give it up for Curt. He runs   the biggest science and philosophy podcast in the 
+world. It's called Theories of Everything. Look   that up on YouTube, Twitter slash X, Instagram, 
+whatever they call it these days. Curt Jaimungal,   Theories of Everything. Very easy to say. And 
+then we're also joined by Professor William Hahn,   who came all the way from Florida. Give it up 
+for Professor Hahn. Give it up for Professor   Elan Barenholtz, who also came all the way 
+from Florida. I'm extremely fortunate to be   in the presence of these brilliant people today. 
+And the incredible work Curt has done with this   channel and his podcast over the last couple 
+of years is just nothing short of amazing. And   I encourage everybody, if you want to learn 
+about philosophy and science, technology, AI,   consciousness, psychedelics like Andres' work, 
+maybe even hypnosis, all sorts of crazy stuff,   I highly recommend you subscribe to this channel. 
+So once again, that's Theories of Everything. And   I think without further ado, we should get 
+started, right? Let's rock and roll. Okay,   welcome, everyone. I'd like to get started with 
+five minutes or so on your theory of everything,   the way that you see the world. And then we'll 
+see how Will sees the world. And then we're going   to compare and contrast it. Okay, thanks. So my 
+theory of everything, it's sort of a meta theory   because it's a theory of theories. It's a theory 
+of thinking. And it has a couple of parts to it.   But I'll cram it all into five minutes. The 
+first one is about the nature of language.   Everybody's familiar now with the large 
+language models, things like ChatGPT,   Gemini, Claude, whichever your favorite one. They 
+all have the same basic engine. What all of these   models have done is learn how to predict a word 
+from the sequence of words that came before it.   And in the process of building these very 
+sophisticated machines that are made of lots and   lots of these billions of parameters to learn this 
+predictive structure, what we've actually done is   we've discovered a property of language itself. 
+Language is autogenerative. That's the term I've   been using, which means that it contains within 
+its structure. The corpus of language itself   contains the structure needed to generate itself. 
+What these models are doing are just learning the   predictive structure that's already in language. 
+Language is an autonomous informational system.   One might even call it an organism. And it runs in 
+our brains. It doesn't actually have access to the   other stuff going on in our brains. When we are 
+talking about objects with features and colors,   there's a sensory apparatus in our brain that is 
+processing that information. Our linguistic system   doesn't know about that. Our linguistic system is 
+what we can call ungrounded. It only knows about   symbols. I call them meaningless squiggles. It 
+knows the relationship between these meaningless   squiggles. It knows that the word red tends to go 
+together with the word apple and the word blue.   And it knows that they're in certain relation to 
+one another. But it doesn't know in any deep sense   or any sense at all that these actually extend 
+outside of the world of language itself. So the   first observation here is that language is its own 
+system. And what's true in silicon and what's true   in these large language models, my claim is, 
+is true in us as well. When I'm standing here   speaking before you, I have all kinds of things 
+going on inside my brain. I'm thinking about   visual imagery. I have a sense of my corporeality, 
+my body. But there's a language model, an LLM,   so to speak, that's running and speaking these 
+words. It's doing it in conjunction with these   other systems. It's receiving messages from 
+them. But what it's really doing is just its own   predictive engine. And this is a radical departure 
+from the way we have thought about language until   now. And when I say we, I mean the human species. 
+There is something deeply intuitive or deeply   unintuitive about this. There's a deep intuition 
+that our language is in concert, is completely   embedded with everything else, that when we are 
+talking, we are talking about things outside of   language. So this is a very radical thesis, that 
+language has this property. And that in fact,   what is happening inside of us is, in some ways, 
+is an autonomous informational system that isn't   actually the same one as the rest of our cognitive 
+architecture. One way to think about this is that   culture itself has been planted within us, 
+this informational system that's running.   And for better or for worse, it is driving a lot 
+of our behavior, but it isn't quite the same thing   as the thing that feels, the thing that cares in 
+some ways. So that's part one of the thesis, which   you might think, well, that's enough. And indeed, 
+I think that leads to a dramatically different,   almost existential view of certainly of knowledge 
+and its place in our lives. But there's another   piece with this, because not only is language 
+autogenerative, there's something special about   the way that the models do this generation. So the 
+models do this thing called autoregression, which   is a word you'll hear me say a lot if you hang 
+out with me. And autoregression is this particular   way of doing prediction, where what you do is you 
+take a sequence, let's say the sequence, the cat   sat on the, you can guess the next word, maybe 
+it's Matt. That's a popular ending, but there's   other possible endings to that. So you might say 
+you're predicting what that next word is. What   you can do, what we do in autoregression is you 
+take a sequence, and then you produce the next   most likely token or a word, we can just call it a 
+word. And then you feed that back into the system,   and it's recursive. So let's say it's the cat sat 
+on the mat, and then what? Well, I don't know.   And then it got up and it walked around and rubbed 
+against my leg or something like that. This is all   a reasonable sequence that could come after the 
+cat sat on the. Now, what these models are doing,   and this is a really important and astonishing 
+point, is they are not thinking directly about   the rest of that sequence. They are only ever 
+doing the very next word, the very next token,   as it's called. My thesis is that we are doing the 
+very same thing. What we are doing in our minds,   in our brains, is the same kind of computation. We 
+are simply guessing the next token, and then we're   taking that token and we hear it. It goes back 
+into our own loop, and then we're saying, well,   now there's a sequence with another word. The cat 
+sat on the mat, and then what's next? And we say,   okay, the cat sat on the mat, and. And then we 
+say, okay, the cat sat on the mat, and what's   next? And we do this over and over again. So 
+what's magical about this is that even though   we are, the models, I should say, are only doing 
+this next token generation, there's something   I call the pregnant present. In the process of 
+guessing that very next token, they're taking into   consideration all of the past and also the likely 
+future. It has to project this kind of trajectory.   It's like when you're, let's say you're doing a 
+dance or you're walking. You have to take the next   step with the knowledge that that next step is 
+going to lead to a next step. And computationally,   this leads to this sort of miraculous ability for 
+these models to plot out very long range kinds of   narratives, responses. It can seem like, oh, how 
+could it be only the next token? But yet it is.   And what this does is it leads to a possible 
+theory of not only human language generation,   but cognition more generally. Because what it 
+provides is a very efficient and simple, elegant   theory of what the brain is doing. The brain is 
+computing this function over and over again. It's   just computing the function of what's the next 
+cognitive token. Given what's happened right up   until this moment and the recent past, what should 
+I do next? Then when you do that, that goes back   into the loop and you proceed from there. And so 
+this leads to, in some ways, a radically different   view of what cognition really is. It, for example, 
+leads to a completely different perspective of   what memory is. Memory is not encoding of 
+sequences. We don't actually have somewhere   stored in our brain events that took place or some 
+fact that we've learned. What we actually have   stored is just the capacity. to autoregressively 
+generate. If I ask you a question, what did you   do last summer? And you say, well, I went to this 
+place, or you start imagining yourself, you know,   jumping off of a cliff or something like that. 
+What you're doing, according to this theory,   is you're in real time, just in time, taking that 
+question, that prompt, generating the very next   output from that, and then running from there. 
+What did I do last summer? Well, I, and then you   continue to generate. And so that really leads 
+to a completely different perspective on what   memory is. No longer is it about storing facts, 
+it's about having a brain, just like a large   language model, that has these potentialities for 
+facts. I call them potentialities because they're   infinite. What does a large language model know? 
+How many questions can you ask it? You can ask it   an infinite number of questions, and it can give 
+a reasonable response to all those because it does   this autoregressively. It's not retrieving this 
+fact or that fact, rather it has the capacity to   generate all of these facts. Finally, I'm 
+probably over five minutes at this point,   we can extend this even beyond 
+language and linguistic responses,   but more broadly to cognition. As I mentioned, 
+thinking about a sequence, thinking about,   what am I going to do later on? I'm going to 
+go hang out with my friends, maybe I'm going   to have to get in my car, things like that. All 
+of this, any thinking that takes place over time,   where you have to sit there and do this. What are 
+people doing when they're staring into space? My   argument is what people are doing is they are 
+doing this autoregressive generation. We're   living in this pregnant present where we're just 
+constantly generating just the very next token   and letting that flow. I think we've got what we 
+have actually through these large language models,   not just a way of engineering really useful, 
+helpful AI agents that can do stuff, but we've   captured something really essential about how the 
+mind works. Fascinating. Obviously, Elan and I,   we share a lot of these ideas in common, but 
+one of the things that comes to mind right away,   and we've discussed this before, is how 
+surprisingly powerful this language model has   been for doing what seems like non-language tasks. 
+The example I like to think of is if you imagine   building a robot or even some kind of spaceship, 
+and we go back a few decades, you would tend to   think we're going to have this compute engine. 
+We're going to have this kind of logic machine,   and that's going to churn through facts, and 
+it's going to deduce things and do inductions.   This is what AI in the 80s kind of looked like. 
+Then maybe after you had that compute engine,   you would then build a communication module 
+that could talk kind of as like an add-on,   that the ability to just communicate seemed at the 
+periphery compared to the real thinking stuff. But   what we've seen out of these models, and I think 
+the best example is their ability to computer   program, all of these capabilities just fell out 
+of this token prediction. We didn't have to build   an algebra engine or something that understands 
+trigonometry or even optics. When you think about   when it generates the images, it gets reflections 
+right. It gets speckles and bubbles and all kinds   of things. It's learned a lot about physics, and 
+you can do this with the language models as well.   How is it that all that thinking horsepower just 
+fell out of what seemed like the walkie-talkie,   the communication module? In a more general sense, 
+I've been thinking about is our brain a computer?   Is it a computer like object? Is it fundamentally 
+a different category? Or is it like the thing that   you have in your phone or your laptop? This has 
+been highly debated since Turing showed up on the   scene. But I would argue that software, the idea 
+of software, is the most important idea humans   have come up with in maybe a thousand years. 
+Because it gives us a thinking tool. It gives us   a token to understand a lot of these problems that 
+previous philosophers and thinkers and cognitive   scientists were just absolutely baffled by and for 
+no fault of their own. Things like the redness of   red or the pleasure and pain experience that we 
+feel and we wonder why does the vacuum cleaner not   have that and so on. I think that the real nature 
+of this is we've discovered that we're software.   The more interesting thing that goes with that in 
+the technological world in the past few decades,   we've now found out that software is actually 
+more interesting than we thought. Alan Turing   and von Neumann said, hey, why don't we just 
+put this pattern into the machine and it'll do   a complicated process. But as we saw and heard 
+with Levin, it's more subtle than that. You can   set into motion something that the Lego blocks 
+themselves have some sort of intelligence. And   maybe not at the level of the brain but maybe like 
+ants and that they're self-assembling. One of the   big things for me was the earlier version of the 
+neural networks that led to this transformer. One   of the popular ones was called the LSTM, the long 
+short term memory. And this is from like 1991. And   what's fascinating about that is there's just 
+this kind of this tape, this large vector and   it can do stuff. It's just a language. And if 
+you put this language and you run this machine,   which seems like it's just biting its own tail, it 
+can do stuff. And I remember looking at that and   thinking, well that could be what DNA is. That DNA 
+might not just be mapping to proteins but I think   a lot what Levin has now shown in the lab that 
+it's instantiating a kind of a proto-intelligence   or an intermediate intelligence or some non-human 
+kind of problem solving engine. And that that is   what is responsible for this miraculous thing that 
+Turing was interested in our shape, right? This   morphogenesis and how we get this pattern. Because 
+it's not obvious that we have a genetic sequence   and then jump to we've got hands and faces and 
+really complicated structures. And I think we need   to look at this intermediate software layer, 
+which is now we're bear witness to this with   these language models that it's not a one-to-one, 
+right? You're not really listening to my brain.   My brain's not talking. Something else that lives 
+in my brain is talking. As a side note, it feels   very autoregressive because it's not, I don't know 
+where I'm going to go with this but as I say it,   things come into mind. And something we talked 
+about a couple weeks ago, I think this applies to   behavior in general, right? Think about when you 
+didn't know what you were going to experience at   this event today but you knew by just showing up 
+and being there, interesting things would happen.   And so I think life in general, it has this kind 
+of autoregressive property where sometimes just   getting out into the mix will give you all of 
+these ideas and avenues and pathways that you   didn't see before. So that's the idea I'm excited 
+about the most is thinking about virtual machines.   This is something that the technological world, if 
+you go to Amazon, they use what's called virtual   machines and we can talk about that more. But 
+these layers between the code and the thing that   you're experiencing, the app, in the software 
+world and technology on your laptop, it's not   one-to-one. None of the programs you're using are 
+talking to the chip. They're talking in some other   language, C or Python, and then Python is talking 
+to the chip with even more intermediates. And I   think that we need to consider that our brain and 
+our mind and our self, the ability to instantiate   multiple selves, is because of this kind of 
+virtualization. Yeah, and if I can just quickly,   to me that is even more than sort of the 
+realization of that this is an explanation   of language or an explanation of the brain. 
+It is this radical departure from thinking   of... We've thought of math for a long time as a 
+method of description of the physical processes,   but we really have to... It's not about the 
+symbols on the board. The symbols on the board   in some ways were an early aperture into the fact 
+that there's this informational life, that there's   computation It's a phenomenon that in some ways 
+is mind independent, and what we're seeing now   is we're actually capturing some of these things 
+truly coming to life in silicon. By seeing them   in silicon, by seeing them take flight, so to 
+speak, outside of their traditional medium,   we are now... We have to step back and have 
+almost a newfound respect for the informational   itself as being maybe more fundamental. As Michael 
+Levin mentioned, that our brain is channeling   certain informational patterns in this case, 
+and in the case of language, I think it's   evident. If you buy that what we're doing is 
+the same thing as large language models, then   there's no other conclusion. Language has its own 
+informational life that plays out in our brains,   and then the question is what else? What else 
+lives there? What else can live there? And what   else lives in the physical universe more 
+generally? And it radically changes your   entire metaphysics. What do you mean, what else 
+lives there? Well, what else lives in our minds,   first of all? What other kinds of and doesn't 
+need to actually be an autoregressive process,   but autogenerative processes. What other processes 
+are running themselves at an informational level?   I'm gesturing my hands now. I could tell a story 
+about, well, I'm trying to express this or that   idea, and I'm doing that with this gesture, and 
+I've learned these kinds of things, that this is   a good way to do that. Or, I could tell a story 
+where the informational process is making that   happen, because it wants to generate, the same way 
+that language wants to generate. Language wants to   express in some very strange but very real way. 
+The trajectory that language takes, it belongs to   language itself. Maybe when I'm moving my body in 
+this way, there is a process that's causing that,   that isn't really captured at all by thinking 
+in traditional terms of biomechanics, or even in   psychological or neurological terms. It may really 
+be about long-range trajectories through some sort   of space. And so, what are we, if not a collection 
+perhaps of these almost alive informational   systems? And then, if we potentially extend that 
+outside of ourselves, what is an ecosystem? What   is a society? Physics, more generally, there 
+seems to be something very sticky about the   past. Are these patterns, sort of, do they have 
+a life of their own? Is the universe alive in a   different way than we had really given it credit 
+for? Because we thought very mechanistically about   Markovian, this is gonna be followed by that. 
+Well, no, there's much more richness, again,   it's this respect for the richness of computation 
+in a way that just, it changes everything. Just a   moment, don't go anywhere, hey, I see you inching 
+away. Don't be like the economy, instead, read The   Economist. I thought all The Economist was was 
+something that CEOs read to stay up to date on   world trends, and that's true, but that's not only 
+true. What I found more than useful for myself,   personally, is their coverage of math, physics, 
+philosophy, and AI, especially how something is   perceived by other countries and how it may 
+impact markets. For instance, The Economist   had an interview with some of the people behind 
+DeepSeek the week DeepSeek was launched. No one   else had that. Another example is The Economist 
+has this fantastic article on the recent dark   energy data, which surpasses even Scientific 
+American's coverage, in my opinion. They also   have the chart of everything, it's like the chart 
+version of this channel. It's something which is a   pleasure to scroll through and learn from. Links 
+to all of these will be in the description, of   course. Now The Economist's commitment to rigorous 
+journalism means that you get a clear picture of   the world's most significant developments. I am 
+personally interested in the more scientific ones,   like this one on extending life via mitochondrial 
+transplants, which creates actually a new field   of medicine, something that would make Michael 
+Levin proud. The Economist also covers culture,   finance and economics, business, international 
+affairs, Europe, the Middle East, Africa, China,   Asia, the Americas, and of course, the USA. 
+Whether it's the latest in scientific innovation   or the shifting landscape of global politics, 
+The Economist provides comprehensive coverage,   and it goes far beyond just headlines. Look, if 
+you're passionate about expanding your knowledge   and gaining a new understanding, a deeper one, 
+of the forces that shape our world, then I   highly recommend subscribing to The Economist. I 
+subscribe to them, and it's an investment into my,   into your intellectual growth, one that you won't 
+regret. As a listener of this podcast, you'll get   a special 20% off discount. Now you can enjoy The 
+Economist and all it has to offer, for less. Head   over to their website, www.economist.com slash 
+TOE, T-O-E, to get started. Thanks for tuning in,   and now let's get back to the exploration 
+of the mysteries of our universe. Again,   that's economist.com slash TOE. Again, it's 
+this respect for the richness of computation,   in a way that just, it changes everything. But 
+I would suggest that previous cultures or older   civilizations were very aware that the world was 
+sort of embedded with this intelligent substance,   and it sort of pervaded, you know, everything. 
+And then that was sort of responsible for the   complexity we see in forests and animals 
+and human beings and so on. Real quick,   it reminds me of this idea of cellular automata 
+that Wolfram really popularized and did all the   great work in, that he kind of just showed that 
+if you have graph paper and very simple rules,   you can kind of see this ocean, this primordial 
+soup kind of bubble up where you get non-trivial,   very interesting behaviors out of what seems like 
+as simple a system as you could possibly make it.   And I would argue that our brain might be like 
+that. It's way more sophisticated than graph   paper, but it has all the properties that graph 
+paper has. And so if we show that these simple   things like game of life or the Wolfram automata 
+can spin out these patterns and patterns that   make other patterns and so on, maybe our brain 
+or even our entire body or all biology is more   like a substrate where these informational 
+beings, I like this term I came across,   actually some religious terminology, 
+spontaneities, because that really captures this   idea that like nobody put them there. They just 
+showed up. But now they're off to the races and   they're doing their own thing. And I think that 
+words might be like this, especially the early   proto-language were very much earworms. They might 
+have come from language of the birds. I heard a   beautiful mockingbird last night. And if you 
+can imagine hearing that for millions of years,   that would do something. Elan, help me understand 
+what's new about your model. Now, I don't mean,   oh, Wittgenstein said this in 1952. I mean, you're 
+saying other than this fancy word autoregression,   you're saying that people are thinking in terms of 
+a sequence, in terms of something that comes next.   So when we're in the flow state, we're present and 
+we're thinking, what are we going to do next? And   when we're planning, even if we're planning for 
+the future, we're thinking in terms of, well,   what am I going to do one week from now? And then 
+how does that affect what I'm going to do two days   from now and then one day from now, et cetera. 
+It's always one step ahead. So what's new here?   Well, what's new is that we actually have an 
+architecture and an example in which we can see   that the entire, the capacity to do long range 
+thinking, the capacity to live, so to speak,   in, well, at least in an informational space, 
+linguistic space, can all be compressed into   this single functional behavior, namely next 
+token. We didn't know that before. There was no   example of anything like this that had this kind 
+of informational richness that did stuff that was   based on such a radically simple and elegant kind 
+of formulation. What's new is we've got a theory   of the brain, a theory of cognition generally, 
+that people might have pointed to in some,   you know, in fairly vague terms, but that we 
+can now build. What's new actually, it's not,   what's new is not something I developed, it's 
+the existence of these large language models.   The large language models lead to the new 
+epiphany that this is in fact perhaps how   cognition works. And so we have a novel framework 
+and it leads to a very, very different way,   perspective of thinking about classical cognition. 
+So if you want to know what's new, for example,   there's this, the classic view of memory is the 
+storage retrieval kind of model. For example,   if I ask you, you know, to repeat back a sequence 
+of, you know, a couple digits or letters,   the canonical view is that there's this thing 
+called short term memory, which is this box that   holds stuff for a certain amount of time and then 
+it decays. According to the autoregressive model,   there is, let me just add, then there's this other 
+thing called long term memory. What's that? Well,   it's another box that some stuff from short term 
+memory, if you want to hold it for a longer time,   you put it in that box and that's like, it's 
+refrigerated, so it lasts longer. And so you've   got these two boxes with stuff in them. And then 
+when you want to find some information, what you   do is you, you have to have a retrieval process. 
+You go and you see, well, what is, what's related   to the, what I'm talking about right now? What 
+information, where did I leave my keys? Or what   did I do last summer? Let me go find the relevant 
+memory and retrieve it. The autoregressive model   completely obliterates, A, the distinction 
+between short term memory and long term memory.   And in fact, completely obviates the need for 
+any sort of retrieval process at all. So it is   a completely different framework. But instead what 
+we're doing, according to this model, is we've got   these stored weights. That's the, that's the, like 
+the large language model. It's just these billions   of parameters and those parameters, all they are 
+is they instantiate a function and function just,   what does that function do? It says, here's a, 
+here's a string of, of, of words, which you just   turn into numbers. And then it says, what's the 
+next one? That's our brain. Okay. This is your,   this is your brain on autoregression, right? It's 
+just a, basically a function that says we're going   to take in an input and we're going to produce an 
+output. And then you've got the short term memory   is, well, what have I said since you asked the 
+question, right? Here's a question, I'm producing   an answer. What did Curt say to me a little while 
+ago? That's causing me to generate this very next   token and the next one. There's some, there's 
+some residual activation or there's, there's some,   in the models it's called context. In the LSTMs, 
+it's this memory, which may or may not be sort of   the right way in the large language models. It's 
+literally the context is like the whole thing,   right? Whatever you've said until now, whatever 
+the model has said in our brains, it's probably   closer to the LSTMs. It's some sort of a, some 
+sort of a compressed version, but that is the   whole flow. The whole flow is you've got a static 
+set of weights, which is our brain, our gen and   then our sort of dendritic weights. And then 
+you've got this dynamic process of, okay, generate   with those weights, generate with one thing, tack 
+it on to what's been generated before, and this   may go a lot longer than short-term memory. It may 
+not be 15 seconds as short-term memory dictates.   The classic experiments where they ask you, can 
+you retrieve, can you repeat this particular   sequence? That's not something we ever do 
+in regular life. We don't have to remember,   what exactly did I say, you know, 5 seconds, 10 
+seconds ago? There was a kind of error of looking   where the light is in trying to build out these 
+models. You can give people that task and they can   retrieve that stuff, but that doesn't mean we've 
+got memory whose job it is to retrieve. Instead,   what I'm proposing is that we've got generation. 
+And generation is guided by what's happened in   the past, but that is guided by much, much more 
+than the past 15 seconds. Again, it dissolves this   arbitrary idea that there's a short-term 
+memory box. All you've got is residual memory   that could reach back into time 15 seconds, 
+a minute. We're having this conversation now.   Will mentioned something when we were talking 
+over there. That's still bouncing around. It's   reaching in, again, the pregnant present, it's 
+reaching in to what my current generation is. So   it completely obliterates, I would say, 70 years 
+of cognitive science. So what's new here is an   elegant and efficient model of the brain that's 
+distinct from anything that cognitive science has   proposed until now. I really like what you said 
+just now at the end, but also in the beginning,   that this is a theory of the brain rather than 
+a theory of neurons or neuroscience. And I would   argue that some of these new models are some of 
+the first real kind of connecting from both ends.   We've known for 100 years or so what neurons 
+are all about, at least in the basic sense.   And cognitive scientists and philosophers from 
+the other direction have been trying to figure   out these properties like memory and planning 
+and logic and stuff like that. But these modern   things, they're made out of simulated neurons at 
+the bottom. They're very, very simple brain cells.   They're not nearly as complicated as the ones we 
+find in our own brain. But we can think of it as   a model that has both scales at the same time. And 
+what's to me so fascinating is not only do we not   need a special box for short term or long term, 
+we don't need one for planning. We get that out   of the box. Logic comes out of the box. Ability to 
+write poems or something like that. It's all sort   of latent in this just ability to predict the next 
+token. And so I think we're just starting to see   the emergence of an actual brain science. And now 
+what we need to do is go look at our neuroanatomy   and see, okay, is this what the hippocampus 
+is doing? Is this what the amygdala is doing?   Is this the cortical structure is interacting 
+with all these nodules? Because one thing, when   we slice our brain open, it's not a homogenous 
+mass of neurons. And evolution could have done it   that way relatively easily. So these structures 
+must have some utility. I have some theories on   that we can come back to. But a point which I know 
+you'll certainly agree with, we shouldn't take the   terminology of neural networks that seriously in 
+the sense that, and it comes back to an earlier   point we made, the brain is instantiating some 
+sort of function here. And I really mean it when   I say that at a high level, that the brain is 
+doing the same things as the LLMs. Now, does   that mean that I think that we're talking about 
+neural circuits doing the exact same thing as the   computer circuits? Do I even mean that there are 
+transformer models that are doing self-attention?   Not necessarily. It's really about at this high 
+computational level. And matrix multiply, which   is really the core engine of transformers, doesn't 
+really need the brain. It's nice to call it neural   networks because it rhymes with it. You can do 
+it as these connected nodes. You could do it as a   graph. But you could do it as matrix multiply. 
+And a mathematician will look at you funny if   you say this has anything to do with the brain. 
+And that really gets to this point of substrate   agnosticity. And it's not even about substrate. 
+It's not even about whether it's made out of   biological matter or it's made out of silicon. 
+It's really about thinking about these things not   at the architectural level, but thinking really 
+at the functional level. And the functionalists,   you know, there was a functionalist school 
+once upon a time in psychology, but they didn't   have the breadth or the depth of computational 
+resources to really explore things this way. But   I think we're becoming functionalists once again. 
+Just real quick. They entertained the idea that   all this was software, but they were looking 
+at a 1950s version of software. And they say,   oh, the mind can't be anything like that. And 
+so the cognitive revolution kind of died out.   So now we're seeing a revival. I want to get 
+to consciousness and language, but there are   two points of confusion which I think may be 
+related. So if language just refers to itself,   then let's rewind the clock 10,000 years when our 
+vocabulary was smaller, and let's just say we had   the words fight and mouth and left. How do those 
+three tokens become 3,000 explicated tokens? So   that's one question. Then another one is, well, 
+what about indexicals? Like, pass me that. Meet me   here. I'm going there. Okay, what tethers that to 
+the world? And even worse, there's these sort of   conjunction words that it's not exactly clear what 
+they're doing. You're touching on a very difficult   problem. So the origins of language have always 
+been fascinating and really one of the greatest   challenges in cognitive science. The problem got 
+worse, not better in some ways, by virtue of what   we've discovered. Because as you're pointing 
+out, the claim here is that language is this   sort of perceptual independent, its own kind 
+of organism. If we look at animal signaling,   and there's very strong, many decades of research, 
+animals don't seem to do language. I think we have   a better idea of what we mean by that now. They 
+don't do autoregressive next token generation.   They have nothing remotely like this. What they 
+do have is this kind of concrete signaling,   that there's this kind of situation arises in the 
+environment, you make this sound. They don't have   is, they don't have the, they don't have any 
+of these things. They don't have anything like   the true generative kind of system that we do. 
+The fundamental question here is how on earth,   did we as organisms, make this huge qualitative 
+computational leap from one kind of system to a   completely different kind of system, where those 
+words the and is are really doing, we're only now   going to understand, we're only going to start 
+to understand them within this kind of framework.   They don't show up in animal language, they 
+don't show up in any sort of classic semiotics,   where it's like that symbolizes that. They don't 
+symbolize anything in the environment. But they're   very powerful in the autoregressive process. They 
+are doing things in that framework. And so I think   there's an incredibly deep mystery here, as to how 
+language sort of jumped from what was presumably,   a purely kind of correlational associationist 
+system, of this environmental stimulus,   and I'm going to make this sound, or I'm going 
+to release this pheromone, or whatever it is that   animal communication consists of, to a stimulus 
+independent, computationally autonomous system,   that of course interacts with that other thing, 
+but is in many ways divorced and autonomous from   it. And so I don't have an answer to that question 
+by any means, but I think we have a refinement of   the question, where did language come from? 
+It's now not just a question of, how did we   develop such a sophisticated signaling system? 
+How do we have so many words for so many things,   and we're able to put them together in novel 
+ways to express new things? It's how did we   develop this autonomous generative system? It's 
+a very different question, than even sort of the   Chomskyian question of origins of language. You're 
+not going to get it from a simple genetic kind of   mutation, or something like that, that allows for 
+more higher expressive communication abilities.   It's not even communication. It's auto-generation. 
+And so it's not an answer to the question,   but it is a respect for the fact that the question 
+is extremely deep. I don't know where language   came from. I have very strange thoughts about it 
+now. It's similar to the conversation we had with   Michael Levin. There are patterns in the universe 
+that have found their ways into our brains,   that are much, much richer than we could ever 
+have imagined. They're just spectacular. They   are far greater than anything. If you take the 
+greatest scientists and the greatest engineers,   and locked them in a room for thousands of years, 
+no one could have come up with anything remotely   like language. Maybe they could have come 
+up with a brilliant communication system,   based on the standard symbol representation, 
+but nobody could have come up with this. Where   did it come from? So it makes me think of a few 
+things. One, this idea that at one point there   were like five words. I don't think it would 
+have ever been like that, in a sense. Because   I think we have to remember that there's this 
+analog and digital component. I can say hello,   or hello. It's very different. I said the same 
+token, but I had this analog kind of background   layer to it. And so I think early on we need 
+to think how that emerged first, and then how   that morphed into the thing where we have strict 
+things. I came across two things recently. One,   it was talking about Shakespeare and his 
+signature. And they have maybe 30 or 40 versions   of his signature, and they're different. He never 
+signed his name the same time. So why do we even   say that's his signature? And another interesting 
+thing I came across from a few hundred years ago,   they found a letter, and the letter was talking 
+about rabbits. And the latter, this one particular   letter, used the word rabbit I think at least 
+two dozen times in one document. It was spelled   differently every single time. How? Like, I'm 
+a bad speller, but at least I'll just make up   something and then maybe be consistent. So the 
+idea that words even have a particular spelling,   that that's what we mean by that word, I think is 
+a relatively modern concept, which doesn't really   make any sense to me. And another thing that comes 
+to mind is I would argue that language as we know   it now, this autoregressive, very sophisticated 
+kind of software thing, probably didn't evolve out   of like even small groups like tribal groups or 
+villages. I think this would have emerged at the   city-state and the empire level, right? Ancient 
+Sumer, things like that, where you had thousands   of people working in cooperation, because then 
+you get this kind of externalized memory where the   words are floating around, right? You hear words 
+that no one you know even knows that word. Like,   oh, that's a new word to all of us, for example. 
+And so in like kind of a city environment,   you would get that language is something else. Are 
+you thinking of a particular city perhaps? Yeah,   maybe, right? And then just also the other thing 
+that comes to mind, I really believe in this   kind of apprenticeship from the animal kingdom. I 
+really think the language of the birds and animal   calls, and we tend as modern humans to think, 
+oh, well, they're just making noises and they   don't actually mean anything. And I haven't 
+done this, but I had the thought of like,   try it. Try to learn a bunch of animal calls. Try 
+to learn a bunch of bird songs. And I would think   this is going to fundamentally change your brain, 
+and it might start to make sense in a way. So you   think we're not giving nearly enough credit to 
+animal communications? We have a very narrow straw   that we're sipping through. We kind of just, we 
+downloaded that first, and that was kind of like   Windows 1.0, right? Which no one ever saw. And 
+then later we get the upgrade and we're like,   oh, that's that. We were animals too, and 
+we were also grunting or... And we still do,   right? We still do. So this brings up another idea 
+of bootstrapping, but I want to come back to that.   So hello, and then hello actually can be tokenized 
+differently if you put an exclamation point in   front of hello. That's a great point. Yeah, the 
+token, or I think the next generation of models   are going to just be listening to the audio of 
+YouTube and listening to the radio and stuff   like that, watching archived television. And 
+then they will get kind of both the analog and   the digital systems at the same time. I mean, 
+the new voice models, I don't know if people   are using those. I used, you know, from GPT, I 
+started using one of the voices and my wife said,   don't use that anymore. It sounds a little 
+too good. And it really gets prosody,   really good, really well. I think that 
+depends if it's a woman's voice. Yes,   indeed. Where you're listening to that. Exactly. 
+Huddled away in the corner. Like you're spending   a little bit too much time with GPT. Why is 
+the door closed? What's your next token? So   the prosody that's in these things is actually 
+extraordinary. And the prosody is just like sort   of the sing song version of it. And I'm confident 
+I've looked into it, but they don't share. It fell   out. OpenAI doesn't tell you anything. That was 
+a joke from the beginning. I think they almost   meant it as a joke. And so we don't really know 
+how they're doing, but I'm going to guess it's   using the exact same. If I would argue that falls 
+out. It falls out, but it falls out in conjunction   with meaning of language itself. And so prosody 
+has its own meaning and probably preceded the   kind that we call words. And so words probably 
+bubbled up as a more strict version of prosody   or something like that. You maybe began as closer 
+to something like music or something like that.   It reminds me of what Levin mentioned with this 
+idea of sharing stressors. And then this kind   of makes a community. Imagine we're all trying to 
+predict the prosody, not just the token, but like   the emotional valence that goes with it. And by 
+doing that, we might be bootstrapping some sort of   shared experience. Let's make the analogy, forget 
+about neurons. We're here at the Behin Center.   So computer science center of U of T and math. 
+Let's think in terms of matrix multiplication,   the multiplying of a matrix for language. Is that 
+a necessary or sufficient or neither condition   for consciousness? Well, I don't think language 
+has consciousness. So I am going to go out on a   kind of metaphysical limb here and say that the 
+symbolic is a new physics is one way I think about   it. Sorry, and symbolic means? Well, symbolic 
+actually means that the representation of any,   let's say a word, let's actually talk about matrix 
+multiplies for a second. So what happens in these   models is you take, here's a big corpus and I want 
+to learn the relationship between words and the   corpus. So what I do is, first I tokenize it. I 
+chop it up into different pieces. Like the word,   the word, word is going to get a certain 
+numerical representation. I'm going to say   zero, zero, one, one, one, whatever. And then some 
+other word, or maybe even just a part of a word,   like a suffix or something is going to have 
+a different representation. I'm going to turn   that into a vector, which is just a string of 
+numbers. And then in the course of learning,   what I'm going to do is I'm going to learn what 
+to multiply that vector by such that it's going   to have a higher dimensional representation. 
+It's a much longer vector. And so we've got   this big giant vector representations, and 
+we can think of it as a very high dimensional   space. Or if you don't like to think about high 
+dimensional spaces, because nobody really does,   because you can't really think about them, you 
+could think about it as a three dimensional   space. And each word is just a location in that 
+space. Now, what language is in this environment   is that this word has its meaning by virtue of its 
+not actual representation. The point where it is   in the space is arbitrary, right? Where it is in 
+the space is arbitrary. What gives it its meaning,   quote unquote, is where it is in relation to 
+the other words, wherever, where, you know,   if we have the word red and blue, they're going 
+to be in some relation to one another. That is   what the models are using in order to do the next 
+token prediction. Now, when I say the symbolic,   what I mean is that vectorization itself is 
+an arbitrary kind of representation. There   is nothing in that symbol. If you were to look 
+at, you could study that symbol all day long,   and you could study, you know, try to make 
+sense of the zeros and ones, whatever you're,   you know, however you're actually, you know, 
+representing the space, you're not going to find   the meaning in there. And I would say that same 
+thing very much holds true for natural language.   The word red doesn't mean red. Not only in my 
+autoregressive sense, I don't just mean that.   I mean, the word red itself doesn't point to 
+the qualities at all. And it's just letters.   It's squiggles. It has nothing to do with it. Now 
+that is very different. And this is the turn where   I'm going to go to consciousness. That is very, 
+very different from the neural representation   of redness itself. Redness in my brain, the kind 
+that I think gives rise to what we call conscious   experience, is red and blue actually really have 
+true mathematical relations to one another in the   representational space. There's something 
+happening between the wavelengths and the,   you know, the redopsin release that's happening 
+in my retina that has, that scales in a particular   way across these different cones, such that red 
+and blue really mean something in relation to   another, not just by virtue of their embedding 
+in this arbitrary space, but by virtue of their   actual properties. And so the symbolic, I believe, 
+doesn't give rise to consciousness because it   doesn't in any way instantiate these properties of 
+the physical universe. Consciousness, phenomenal   consciousness, all of it is sensory at its base. 
+You can't imagine another kind of consciousness   besides something from the physical universe 
+impinging on your sensory system. It could be   visual. It could be auditory. It could be tactile. 
+It could be your own body, your proprioceptive.   It could be a sense of where you are, of your 
+movement through space. All of these things are   ultimately a continuation, not a representation, 
+but a continuation of the physical universe.   Those patterns that are in the physical universe 
+are simply rippling through our nervous system.   Language breaks that. Language turns things into 
+arbitrary representations, symbols. And I think   that symbols do not have the quality, they don't 
+have the quality that sensation and perception do.   And so I don't think that the matrix multiply. I 
+think the matrix multiply in the case of language,   we lose that. I think that it actually is, it's 
+pushed off into a different metaphysical space,   so to speak, where there is no consciousness. I 
+don't think large language models are conscious. I   don't think there's any possibility of them being 
+conscious. They cannot understand what redness is   because they have no access to the analog space 
+where these kinds of relations exist. Interesting.   When I think of consciousness now, it reminds me 
+of this virtual machine idea, that we were trying   to find consciousness in the brain and say, where 
+in this bucket of meat do we get this magical   experience? And I think that we need to consider 
+that we're instantiating this other thing,   or maybe multiple layers of it. I don't mean to 
+say it's not interesting, but that's where this   thing we call consciousness, or maybe even self, 
+And I think we see this with the cases of multiple   personality syndrome and disorders, where people 
+are kind of obviously instantiating more than one   seemingly conscious entity in a single brain. And 
+so to me, that suggests there's not a one-to-one   mapping. It's more like you have a phone, you 
+have apps on that phone. And when we think   about consciousness, we are one of those apps. 
+I think it was installed in us by our parents.   I don't think it would just naturally emerge. 
+And I think we're only now just discovering kind   of the large distribution of consciousnesses on 
+the planet. One thing I'd love to pick your brain   about is sort of things like aphantasia or inner 
+monologue or not inner monologue. And what I think   is really fascinating is these kind of emerged 
+as interesting topics of conversation relatively   recently with the emergence of internet forums. 
+Because as you might know, psychology experiments   are very expensive, and usually the number of 
+participants is like 10 or 20 or something like   that. But in the last decade or so, we see now 
+50,000 or 100,000 people communicating on one   forum. And they'll ask a question of like, when 
+you close your eyes and you think of an apple,   what do you see? And half of the respondents will 
+say, oh, I can see a red shiny apple. I can see   it on the tree and the light shining on it. Maybe 
+there's a little green leaf. And the other half,   it's very kind of evenly split. Think, say, I 
+don't see anything at all. What do you mean that   you see something? And the same conversation 
+happens with inner monologue. Do you talk to   yourself throughout the day? And again, you get 
+this conversation split where half the people are   like, yeah, of course I plan my day and talk 
+to myself and think. And the other half says,   you hear voices? It's just very, very strange. 
+And I've met very high functioning people that   don't have visual imagination. That doesn't make 
+any sense to me. I know a fellow who says he has   neither. And I said, well, what do you do when 
+you're thinking? And he says, what do you mean?   I just think. And that was his answer. How does 
+that work in your mind? I don't know how it works   at all. But it's a very fair question. Is he a 
+counterexample to your model? My suspicion. All it   takes is one counterexample to disprove a theory 
+in math, at least. It won't disprove it at all.   Because here's the thing. There's the doing it, 
+and then there's the ability to observe yourself   doing it. And so it may very well be that people 
+are running some sort of process, a very similar   process, but don't have this extra meta-awareness 
+of the fact that they're doing it. It may very   well be there are angels and watermelons around 
+us. But the truth is it's actually not essential   to any of this theory. The language models 
+themselves don't hear themselves think. You   don't really need that. That's sort of a weird 
+feature of our brains, something Will and I have   talked about quite a bit, is that not only do we 
+produce sort of the flow of thought, but there's   somebody watching at the same time and that's 
+observing it. That's not necessarily a given.   It is phenomenologically true. People will report 
+that they have it. I don't know how essential that   is to being able to – and I think, I don't know, 
+I'm not up on – and I have to, because people ask   me this quite often. I'm not up on the current 
+research. Like, do we see in aphantasiacs or   non-inner monologue folks, like when they have 
+to think about something, is their time, is the   time that they take to think about it radically 
+different from the time that it takes people – Or   the class of problems that they can solve. Because 
+it doesn't seem to be – Exactly. It seems to be   the same set of problems that these people can 
+solve. Exactly. And so the fact that they're so   behaviorally similar means either that it's sort 
+of epiphenomenal, the fact that we hear the inner   monologue, or that I'm dead wrong and then, you 
+know, that it's just – that's an illusion. That   the inner monologue isn't even really part of the 
+way we think. I don't know. But it's certainly   a very interesting question. But it is – I would 
+push back and say that it's not entirely clear why   we have to hear our own thoughts at all, even if 
+they're being generated. It reminds me of the idea   that language might be a double-edged sword, that 
+it might be sort of the best and worst thing that   ever happened to humanity. I often refer to it 
+as a divine parasite, in that it's a good thing,   but it sort of took over. In that, if you know 
+language, right, I can easily just mind control   you. I think we're going to see some amazing 
+examples of that, some real examples of that   later. But I could just say something like, 
+you're now thinking about your breathing. And   you're going to be like, oh, I don't want to pay 
+attention to that. But I put that in your head.   And the fact that you're an English listener, you 
+might be thinking that now. Or the famous one,   you know, don't think of pink elephants. And it's 
+like, too late. So there's this idea, you know,   going back to the Tower of Babel, that there's 
+sort of this danger in having a shared language.   And maybe this distribution of inner monologue 
+and not having it is a way of kind of curbing that   problem. And this is where, you know, it starts 
+to get a little bit disturbing. If you think about   language not as being even a communication system, 
+but an operating system. And what language is   meant to do is to make people do things. And it is 
+this shared cultural artifact. It doesn't, it's,   let's face it, it's downloaded against your will. 
+You don't sign a waiver before you sign up. It's   too late. By the time you're reading the waiver, 
+it's too late. Yeah, you don't get to click,   you know, permission to, right? Exactly. And so, 
+you know, every baby from before they're born, you   know, is already being conditioned and language 
+is being downloaded into them. And now we know,   in a way we didn't know before, that it is 
+this kind of its own self-running system. It's   a product of society, not of any individual. And 
+it's a product that society didn't design except   in an emergent way. People didn't, you know, we 
+don't think, I don't think neither of us thinks,   either of us thinks, that, you know, a bunch of, 
+you know, very clever people got together and   said, how are we going to control the populace? We 
+need to design this system that's going to run in   them. And it's far stranger than that. But yet at 
+the same time, it isn't really of us individually.   It is society. And so things like beliefs, you 
+know, society itself, it's built up of all these   notions that are language dependent and they're 
+running in us and they make us go. You know,   you get up in the morning because you've got to 
+go to your job because you've got to make money,   because, you know, you have to have a certain 
+degree of prestige in the world and you're going   to have to, you know, one day you're going to get 
+older and all of these things. Animals don't know   any of these things, right? Who put these ideas 
+in our minds? Well, forget about who, but how? And   the answer is language. And so there is this thing 
+that's in us but not really of us that is running   and it's driving most of our behavior. Those are 
+the things we do. Who's familiar with this idea of   jailbreaking a language model, right? So there's 
+things they won't do or don't want to do, but if   you're very clever about how you ask for it, you 
+can get it to kind of leak out that information.   Are we subject to that same kind of vulnerability? 
+And I would suspect and suggest that we are   and that we need to be aware of this, this 
+kind of prompt engineering or prompt hacking   is probably something that's been happening since 
+the beginning of civilization, but we didn't have   any kind of meta awareness. And I think the most 
+interesting thing in development about these AI   models in general is how they're going to affect 
+our mind, how they're going to change how we think   about our language, our words, our cognition, our 
+place in the universe. They're giving us this,   it's not quite a magnifying glass. I call it 
+the macroscope because it's showing us the big   picture all at once. And it might be a terrifying 
+view that it's opening up. Even more potentially   disturbingly, we now have, now that we've captured 
+not just language, but in some ways culture and   thought in a system that we can manipulate and 
+test, doesn't that potentially give people and   maybe even people with ill intent the opportunity 
+to see what's effective in changing minds,   what's effective in manipulating people's 
+thoughts? That's a really great point you   bring up because now that you have a sort of 
+a simulated person in a jar you can test it,   you can sort of A-B testing. Will they respond 
+to this? Will they respond to that? And kind of   simulate the attack a million times and then go 
+test that sentence out. This is what scammers do.   When they finally get people on the call, they 
+have a script and that script is very honed in.   They've evolved that script over years potentially 
+and the ones that get the scam, that determines   the script that survives. So in that same kind 
+of thing, are we susceptible to those kind of,   and are they just spontaneous? Is a lot of the 
+things we see in culture, these spontaneities,   these scripts that take off and go viral and 
+we communicate them, but we're actually hacking   each other in ways we don't really understand. 
+But now we can also, we can run, as you said,   it took years to develop and the car salesman 
+and all of that, these have been honed over many,   many generations. Now you can do it at high 
+speed. Now we can do it at high speed. In Silicon,   like boom. Run the experiment and you've just 
+tested out 100,000 customers under these varying   different conditions. Is this a good thing? Or is 
+this an information hazard? Is God just a token?   When you say just a token, so let's have respect 
+for these tokens, right? Because what they really   are, are these almost like informational angels 
+or something that do all this stuff within the   larger context, not only in language, but in our 
+behavior, in the ecosystem, the larger social   ecosystem. What is God in that system? And the 
+answer in my case would be, well, maybe it doesn't   point, the same way that red doesn't really point 
+to that cup, but what does it point to? It's   not pointing in the traditional sense, but it's 
+doing stuff. If we think of an operating system,   what does God do in our operating system? What 
+does the token God do in our operating system? And   then you have a completely different perspective. 
+It's not about an ontology of, like, does it   point to some divine being, whatever that would 
+mean, and, you know, when you try to define God,   it all becomes, it falls apart in your fingers. 
+But what does God do in the minds of people? Well,   I think we have actually some good ideas about 
+what that idea does. Is maybe that idea itself   almost synonymous with what people mean by it? Now 
+that's where things get really interesting. You   can imagine a God so powerful he need not actually 
+exist? Exactly. And something we talk about a lot,   it's, you know, my thoughts are not your 
+thoughts, kind of a thing. And another   joke that we follow up with, it's the thoughts 
+that do the thinking. So if I were to phrase it,   is God just a story? And if so, would that make 
+him any less powerful? Right? And I think what   you're suggesting is it's real. And I would say 
+it's real like software. Right? Facebook's just   software. It's not real. There's no actual 
+physical entity called Facebook. I don't mean   the headquarters. I mean, like the thing that we 
+log into or whatever. And, but it's real. I don't   think anyone would argue that things like large 
+software platforms or even markets or societies,   you can't pin them down and be like, well, 
+what is Toronto? Is it that thing? Right? No,   it's somehow weirder than that, but doesn't 
+make it any less real. Right? Well, there's a   difference here between God as one traditionally 
+conceptualizes it, whatever that means. And then   God as just a story that has effects on people. 
+Now, if the broader sweep of people believed God   was just a story that happened to have effects, 
+that would also have its own effect separate from   the traditional conceptualization. So wouldn't 
+the first and second be the same thing? So I call   this third order religious, right? First order 
+religious is just sort of, it's just true. It's   real. It's out there. You don't really question 
+or worry about it. Second order would be, well,   it has utility. It helps a lot of people. It's a 
+very powerful, you know, collective force. And I   would argue what I call the third order is to 
+realize those first two are the same thing.   It doesn't make it any less powerful or majestic 
+or divine or inspirational or transcendent,   maybe even more so because we now see how it 
+sort of bootstraps into reality. Yeah. One,   one way to think about this is, is, uh, getting 
+outside just of sort of the very limited space of,   of thinking about physical reality as impinging on 
+our senses and causing these behaviors, but that   the universe broadly is kind of reflected in these 
+patterns that are taking place in our brain. And   then you just, you just have to do a quick little 
+switch, the old switcheroo. Uh, if we call the   physical universe and maybe the physical universe 
+is an instantiation of, you know, some sort of   platonic informational space. Well, let's just 
+call that God. And then what has happened here is   that that is more actually molded this particular 
+system that's talking about itself in some very,   very real sense or constructing itself even or 
+constructing itself. Okay. Now we're in a room   full of students of all ages, some researchers, 
+some academics, and so on. What lesson do you   wish you had when you were younger that can 
+apply to them other than follow your passion?   Um, be very, very suspicious of scientific 
+orthodoxies. I think the process of growing   up to some extent is, is realizing that adults 
+have no idea what the hell they're doing. Um,   the same is true, not only for the regular adults, 
+like the ones in your life that your parents who   you kind of figure that out pretty early. Um, but 
+it's true of sort of the greatest scientists. Uh,   I think we're seeing that now in a, in a very 
+deep way that there's, there's certainties,   uh, that I think we, we held, uh, from a societal 
+standpoint that are getting very shaky. Uh, and I,   I personally see it as, as a, as a ripping open 
+of the, sort of the, the, the foundation of what   we thought knowledge was. Uh, for example, there 
+was a certain kind of core basic fundings. Well,   language, people didn't even think about really 
+deeply think about what language is. Uh, at least   they certainly didn't come to the conclusion that 
+it's this thing that's doing this stuff. And that   means that all the, the pious certainties of the 
+scientific establishment and we're, we're in a   place of science. I'm not saying by the way, judge 
+science more harshly than other kinds of belief   systems. What I am saying is judge all belief 
+systems with a great deal of skepticism because   we are barely, barely scratching the surface of 
+what we can actually know. We are as much as we   do know as a species and it's extraordinary. 
+We can build incredible structures and we have   figured out quite a bit about the physical 
+universe, much more than our ancestors knew,   much more than we knew 50 years ago. Relative to 
+what's unknown, we were just getting a glimpse   of that. And so I'd say go into the, go into 
+the world with, with a radically open mind,   but at the same time also recognize that there 
+are systematic ways of thinking that have led us   to this point. The engineering of large language 
+models got us to the point where we can now say,   wait a second, what is all this stuff? And so 
+there is a path, so to speak, that humans have,   have charted that is very worth understanding and 
+very worth emulating in some ways, but at the same   time, respect it, but not too much. Beautiful. I 
+think first I'd say, have the courage to believe   in your own ideas. All of the stuff we're talking 
+about now, if we go back a decade or so, it would   have been almost impossible to listen to it. Uh, 
+we were inside of this AI winter and all of these   interesting ideas were just, it was hard to get 
+them out. And I would, I would suggest that some   of the things that you are thinking about now and 
+you are working about and you're excited about,   you're probably keeping them like in close in 
+your pocket hidden because you're thinking, oh,   the world's not ready for that idea yet. Be bold 
+and put it out there because you don't want to be   the second person to put the idea out there. You 
+want to say, no, I was thinking about that a while   back. The other thing I would say is tolerate 
+ambiguity and be wary of strong opinions. If   you find yourself having a very strong opinion or 
+you're talking to someone and they instantly kind   of activate this very strong reaction, question 
+that. Question why you have this immediate and ask   yourself, am I really thinking about that or did I 
+have the answer ready to go? And if you find that   you or other people have the answer ready to go, 
+then where did that answer come from? And if you   cooked up that answer and you thought about it for 
+a long time, then that's fine. But just question,   question your beliefs and be aware that our mind 
+tries to prevent us and society tries to prevent   us from thinking these unthinkable thoughts. 
+And the thoughts that we're sharing today,   I would argue that we're nearly unthinkable 
+even a decade ago. So we're going to open   this up to audience questions and it will be 
+exclusive to Substack. So search the Substack,   which is on the screen right now. Thank you for 
+watching. And you have a Substack as well, and   you have a Substack as well, correct? I have. I 
+haven't put my material on it, but I have a stuff   that I'm going to be posting. We'll place those 
+links on screen. Thank you. Okay, we're now at the   end of the Q&A with the audience. And if you liked 
+the regular interview, this far surpassed it.   The audience grilled these two. So again, that's 
+Substack. You can search my name, Curt Jaimungal,   and you'll find it. Thank you to everyone. Thank 
+you to Elan. Thank you to Will. Thank you to Addy   for putting this on. Hi there, Curt here. If you'd 
+like more content from Theories of Everything and   the very best listening experience, then be sure 
+to check out my Substack at CurtJaimungal.org.   Some of the top perks are that every week 
+you get brand new episodes ahead of time.   You also get bonus written content exclusively 
+for our members. That's CurtJaimungal.org.   You can also just search my name and the word 
+Substack on Google. Since I started that Substack,   it somehow already became number two in the 
+science category. Now, Substack, for those   who are unfamiliar, is like a newsletter. One 
+that's beautifully formatted. There's zero spam.   This is the best place to follow the content of 
+this channel that isn't anywhere else. It's not   on YouTube. It's not on Patreon. It's exclusive to 
+the Substack. It's free. There are ways for you to   support me on Substack if you want, and you'll get 
+special bonuses if you do. Several people ask me,   like, hey, Curt, you've spoken to so many 
+people in the fields of theoretical physics,   of philosophy, of consciousness. What are 
+your thoughts, man? Well, while I remain   impartial in interviews, this Substack is 
+a way to peer into my present deliberations   on these topics. And it's the perfect way 
+to support me directly. CurtJaimungal.org,   or search Curt Jaimungal Substack on Google. 
+Oh, and I've received several messages, emails,   and comments from professors and researchers 
+saying that they recommend Theories of Everything   to their students. That's fantastic. If you're 
+a professor or a lecturer or what have you,   and there's a particular standout episode that 
+students can benefit from, or your friends,   please do share. And of course, a huge thank you 
+to our advertising sponsor, The Economist. Visit   economist.com slash TOE to get a massive discount 
+on their annual subscription. I subscribe to The   Economist and you'll love it as well. TOE is 
+actually the only podcast that they currently   partner with. So it's a huge honor for me. And for 
+you, you're getting an exclusive discount. That's   economist.com slash TOE. And finally, you should 
+know this podcast is on iTunes. It's on Spotify.   It's on all the audio platforms. All you have to 
+do is type in theories of everything and you'll   find it. I know my last name is complicated, 
+so maybe you don't want to type in Jaimungal,   but you can type in theories of everything 
+and you'll find it. Personally, I gain from   re-watching lectures and podcasts. I also read 
+in the comment that TOE listeners also gain from   replaying. So how about instead you re-listen 
+on one of those platforms like iTunes, Spotify,   Google Podcasts, whatever podcast catcher you 
+use. I'm there with you. Thank you for listening.
