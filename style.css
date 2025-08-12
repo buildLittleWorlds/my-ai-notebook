@@ -76,3 +76,9 @@ pre {
 code {
     font-family: 'Space Mono', monospace;
 }
+
+/* --- Style for the header link --- */
+header h1 a {
+    color: inherit; /* This makes the link take on the color of its parent (the h1) */
+    text-decoration: none; /* This removes the underline */
+}
