@@ -249,3 +249,34 @@ header h1 a:hover {
         grid-template-columns: 1fr;
     }
 }
+
+/* ===== Romantic Quick Kit global UI ===== */
+.top-links {
+  margin-top: 0.6rem;
+}
+
+.quickkit-pill {
+  display: inline-block;
+  padding: 0.35rem 0.7rem;
+  border: 1px solid #e6e6e6;
+  border-radius: 999px;
+  background: #fbfbfb;
+  text-decoration: none;
+  font-size: 0.9rem;
+  color: #2a2a2a;
+  transition: background 0.15s ease, border-color 0.15s ease;
+}
+
+.quickkit-pill:hover {
+  background: #f5f5f5;
+  border-color: #e0e0e0;
+}
+
+/* Optional: homepage teaser card */
+.quickkit-card {
+  border: 1px solid #eee;
+  background: #fcfcfc;
+  border-radius: 12px;
+  padding: 1rem 1.2rem;
+  margin: 0 0 1.5rem 0;
+}
