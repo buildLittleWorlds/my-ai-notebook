@@ -7,7 +7,7 @@
   <link rel="stylesheet" href="style.css">
   <link href="https://fonts.googleapis.com/css2?family=Space+Mono&display=swap" rel="stylesheet">
   <script src="template.js"></script>
-  <meta name="description" content="Practical tools for analyzing AI-generated texts: detecting patterns, tracing sources, and reading algorithmic signatures."/>
+  <meta name="description" content="Practical tools for analyzin...atterns, tracing sources, and reading algorithmic signatures."/>
 </head>
 <body>
 <header data-template="header"></header>
@@ -15,10 +15,19 @@
   <article>
     <div class="top-links">
       <a href="ai-hermeneutics-kit.html" class="quickkit-pill">← Back to AI Hermeneutics Kit</a>
+      <a href="index.html" class="quickkit-pill">Quick Kit Menu →</a>
     </div>
-    <h1>AI Text Forensics (Practical Analysis Tools)</h1>
 
-    <p>Just as Lorenzo Valla exposed the Donation of Constantine as a forgery by analyzing its anachronistic Latin, we can develop forensic methods for AI texts. These aren't "forgeries" in the traditional sense, but they do leave distinctive traces that reveal their algorithmic origins.</p>
+    <h1>AI Text Forensics</h1>
+    <p class="subtitle">How to read machine-written text like a forensic linguist.</p>
+
+    <div class="callout">
+      <p><strong>What this is:</strong> A practical guide to identifying the likely presence of AI in a text and to reading it well if it is.</p>
+      <p><strong>What this is not:</strong> A magical detector. There is no single test that proves a text was written by AI. This is a method for weighing evidence.</p>
+    </div>
+
+    <h2>Why Forensics?</h2>
+    <p>Interpretation starts with the artifact. Think of this like Lorenzo Valla analyzing the <em>Donation of Constantine</em>: he didn’t ask what people believed; he examined the Latin. You’re doing the same, studying style, syntax, structure, and sources.</p>
 
     <h2>The Four Forensic Dimensions</h2>
 
@@ -27,115 +36,101 @@
 
     <h4>What to Look For:</h4>
     <ul>
-      <li><strong>Formulaic Transitions:</strong> "Furthermore," "It's worth noting," "In conclusion"—phrases that appear with unnatural frequency</li>
-      <li><strong>Hedge Language:</strong> "It seems," "appears to be," "might suggest"—statistical uncertainty made linguistic</li>
+      <li><strong>Formulaic Transitions:</strong> "Furthermore,"...In conclusion," transitional phrases that appear with unnatural frequency</li>
+      <li><strong>Hedge Language:</strong> "It seems," "appears to be," "might suggest." Statistical uncertainty made linguistic</li>
       <li><strong>List Structures:</strong> Artificial preference for numbered lists and bullet points</li>
       <li><strong>Semantic Drift:</strong> Gradual topic changes that follow associational rather than logical patterns</li>
       <li><strong>Register Inconsistency:</strong> Mixing formal academic language with casual expressions</li>
     </ul>
 
-    <h4>Method: The Pattern Map</h4>
-    <ol>
-      <li>Identify repeated phrases across multiple outputs from the same model</li>
-      <li>Note unnatural word frequency patterns</li>
-      <li>Track how the model handles transitions between ideas</li>
-      <li>Map its preferred sentence structures and paragraph organization</li>
-    </ol>
+    <h4>Methods:</h4>
+    <ul>
+      <li>Look for repetition patterns in phrasing, especially near paragraph boundaries</li>
+      <li>Scan for “thesaurus spirals”: rare synonyms used inconsistently</li>
+      <li>Check punctuation habits: em dashes vs commas vs semicolons</li>
+    </ul>
 
     <h3>2. Training Data Archaeology: Tracing the Sources</h3>
-    <p>AI texts are composites of their training data. Like archaeological layers, you can sometimes identify the strata.</p>
+    <p>AI texts reflect statistical patterns from their training data (and may sometimes memorize or regurgitate snippets). Like archaeological layers, you can sometimes identify the strata.</p>
 
     <h4>What to Look For:</h4>
     <ul>
-      <li><strong>Genre Mixing:</strong> Academic citations mixed with blog informality</li>
-      <li><strong>Temporal Anachronisms:</strong> Victorian diction with contemporary references</li>
-      <li><strong>Style Blending:</strong> Multiple authorial voices within a single paragraph</li>
-      <li><strong>Knowledge Cutoffs:</strong> References that mysteriously stop at specific dates</li>
-      <li><strong>Domain Crossover:</strong> Technical terminology appearing in non-technical contexts</li>
+      <li><strong>Temporal Anachronism:</strong> Sources implicitly from different eras mashed together</li>
+      <li><strong>Genre Blending:</strong> Academic diction with pop journalism cadence</li>
+      <li><strong>Canonical Gravity:</strong> Over-reliance on “obvious” examples and quotations</li>
+      <li><strong>Surface Paraphrase:</strong> Rephrasings that preserve order and emphasis of a likely source</li>
     </ul>
 
-    <h4>Method: The Source Trace</h4>
-    <ol>
-      <li>Identify distinctive phrases and search for their likely origins</li>
-      <li>Note where the text sounds like specific genres or publications</li>
-      <li>Look for "seams" where different textual traditions meet awkwardly</li>
-      <li>Track references to see what corpus the model likely trained on</li>
-    </ol>
+    <h4>Methods:</h4>
+    <ul>
+      <li>Extract distinctive phrases (5–8 words) and search for near-matches</li>
+      <li>Map references: which authors/titles recur, and how are they combined?</li>
+      <li>Compare metaphors: do images feel generic or oddly mixed?</li>
+    </ul>
 
-    <h3>3. Coherence Mapping: Following the Algorithmic Logic</h3>
-    <p>AI texts follow statistical coherence rather than human intentional coherence. This creates distinctive patterns.</p>
+    <h3>3. Logical Profile: How the Text Moves</h3>
+    <p>AI writing often follows probabilistic transitions rather than argumentative necessity.</p>
 
     <h4>What to Look For:</h4>
     <ul>
-      <li><strong>Local vs. Global Coherence:</strong> Sentences that connect well locally but drift globally</li>
-      <li><strong>Probability Cascades:</strong> Ideas that follow from statistical likelihood rather than logical necessity</li>
-      <li><strong>Circular Reasoning:</strong> Arguments that repeat premises in slightly different language</li>
-      <li><strong>Context Window Effects:</strong> Sudden topic shifts when the model "forgets" earlier content</li>
-      <li><strong>Hallucination Patterns:</strong> Confident assertions about non-existent facts</li>
+      <li><strong>Centerless Summaries:</strong> Everything is relevant; nothing is decisive</li>
+      <li><strong>Over-symmetric Structure:</strong> 3–5 tidy sections with parallel subpoints regardless of topic</li>
+      <li><strong>Confidence + Vagueness:</strong> Authoritative tone with low-commitment claims</li>
     </ul>
 
-    <h4>Method: The Logic Map</h4>
-    <ol>
-      <li>Trace how each paragraph connects to the previous one</li>
-      <li>Identify where statistical association replaces causal reasoning</li>
-      <li>Note gaps between premise and conclusion</li>
-      <li>Map where the argument structure breaks down or becomes circular</li>
-    </ol>
+    <h4>Methods:</h4>
+    <ul>
+      <li>Outline the argument—does each step necessitate the next, or just plausibly follow?</li>
+      <li>Check citations: are they integral to claims or ornament on the surface?</li>
+      <li>Test for “rubber logic”: replace key terms—does the paragraph still read plausibly?</li>
+    </ul>
 
-    <h3>4. Bias Detection: Reading the Cultural Sediment</h3>
-    <p>AI models inevitably embed the biases of their training data. These appear as subtle but consistent patterns.</p>
+    <h3>4. Signature Artifacts: Known Model Behaviors</h3>
+    <p>Some behaviors are widely documented in contemporary LLMs.</p>
 
     <h4>What to Look For:</h4>
     <ul>
-      <li><strong>Default Assumptions:</strong> Whose perspective is treated as "neutral"?</li>
-      <li><strong>Representative Examples:</strong> Which groups appear in examples and which are invisible?</li>
-      <li><strong>Value Embeddings:</strong> What concepts are associated with positive vs. negative language?</li>
-      <li><strong>Cultural Specificity:</strong> Which cultural references are treated as universal?</li>
-      <li><strong>Authority Patterns:</strong> Which types of sources are cited or referenced?</li>
+      <li><strong>Repetition/Bluntness:</strong> looping phrases, bland generalities</li>
+      <li><strong>Over-structure:</strong> boilerplate intros/outros; stock “takeaways” sections</li>
+      <li><strong>Context Loss:</strong> difficulty retrieving mid-document details in long contexts</li>
     </ul>
 
-    <h4>Method: The Bias Audit</h4>
-    <ol>
-      <li>Identify implicit normative claims disguised as descriptive statements</li>
-      <li>Note which perspectives are present and which are absent</li>
-      <li>Track patterns of inclusion and exclusion in examples</li>
-      <li>Examine which authorities and sources the model defers to</li>
-    </ol>
+    <h4>Methods:</h4>
+    <ul>
+      <li>Probe with specific follow-ups (“where did X come from?”). Look for confident mistakes</li>
+      <li>Move key details to the middle of a long prompt to test retrieval degradation</li>
+      <li>Ask for a rephrase in a constrained style to expose training-pattern defaults</li>
+    </ul>
 
-    <h2>Forensic Interpretation Strategies</h2>
-
-    <h3>The Valla Method: Expose the Anachronisms</h3>
-    <p>Like Valla exposing medieval words in a supposedly ancient document, identify where AI texts reveal their artificial construction through impossible combinations.</p>
-
-    <h3>The Böckh Method: Reconstruct the Library</h3>
-    <p>Treat AI texts as evidence of their training corpus. What can this output tell us about what the model "read"?</p>
-
-    <h3>The Archaeological Method: Layer Analysis</h3>
-    <p>Identify different textual "strata" within a single AI output—academic papers, news articles, Wikipedia entries, social media posts—and analyze how they interact.</p>
-
-    <h2>Practical Exercise: Forensic Reading</h2>
-    <p>Take any AI-generated text and apply these questions:</p>
-    <ol>
-      <li><strong>Grammatical Level:</strong> What phrases or structures immediately mark this as AI-generated?</li>
-      <li><strong>Archaeological Level:</strong> What human texts does this echo or combine?</li>
-      <li><strong>Logical Level:</strong> Where does statistical coherence replace intentional coherence?</li>
-      <li><strong>Cultural Level:</strong> What biases or assumptions are embedded in the language choices?</li>
-    </ol>
-
-    <h3>Case Study: AI Poetry</h3>
+    <h2>Worked Example</h2>
     <p>Consider this AI-generated sonnet line: "The autumn leaves doth whisper secrets old." Forensic analysis reveals:</p>
     <ul>
-      <li><strong>Grammatical:</strong> Archaic "doth" with modern "whisper"—a blend no human poet would make</li>
+      <li><strong>Grammatical:</strong> Archaic "doth" with modern "whisper"—a blend many contemporary poets would avoid unless intentionally anachronistic</li>
       <li><strong>Archaeological:</strong> Combines Shakespearean sonnet patterns with Romantic nature imagery</li>
-      <li><strong>Logical:</strong> Follows statistical patterns of "poetic" language without deeper metaphorical coherence</li>
-      <li><strong>Cultural:</strong> Defaults to Western, pre-modern pastoral imagery as "universal" poetry</li>
+      <li><strong>Logical:</strong> Follows statistical patterns... of "poetic" language without deeper metaphorical coherence</li>
+    </ul>
+
+    <h2>Decision Framework: Weighing Evidence</h2>
+    <ol>
+      <li><strong>Collect signals</strong> across the four dimensions</li>
+      <li><strong>Assign weights</strong> based on strength and independence of each signal</li>
+      <li><strong>Form a judgment</strong> about likelihood of AI authorship—not a proof, a probability</li>
+      <li><strong>Adapt your reading</strong> accordingly (see below)</li>
+    </ol>
+
+    <h2>How to Read AI Texts Better</h2>
+    <ul>
+      <li><strong>Interrogate claims</strong>—require concrete references, not just authority tone</li>
+      <li><strong>Track metaphors</strong>—note when imagery is generic or mixed</li>
+      <li><strong>Force commitments</strong>—ask for choices and tradeoffs, not just summaries</li>
+      <li><strong>Re-anchor</strong>—tie assertions to sources and inspect those sources</li>
     </ul>
 
     <h3>Go Deeper (Open Sources)</h3>
     <ul>
-      <li><strong>AI Detection:</strong> <a href="https://arxiv.org/abs/1906.04043">"The Curious Case of Neural Text Degeneration"</a> (ArXiv)</li>
-      <li><strong>Bias in Language Models:</strong> <a href="https://arxiv.org/abs/1607.06520">"Man is to Computer Programmer as Woman is to Homemaker?"</a> (ArXiv)</li>
-      <li><strong>Forensic Linguistics Guide:</strong> <a href="https://guides.lib.uoguelph.ca/c.php?g=130967&p=4938496">University of Guelph Forensic Analysis Guide</a></li>
+      <li><strong>AI Detection:</strong> <a href="https://arxiv.org/abs/1904.09751">"The Curious Case of Neural Text Degeneration"</a> (arXiv, Holtzman et&nbsp;al., 2019/2020)</li>
+      <li><strong>Bias in Language Models:</strong> <a href="https://arxiv.org/abs/1607.06520">"Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings"</a> (arXiv, Bolukbasi et&nbsp;al., 2016)</li>
+      <li><strong>Forensic Linguistics (Wikipedia):</strong> <a href="https://en.wikipedia.org/wiki/Forensic_linguistics">What is forensic linguistics?</a> (an interesting (and pretty related) rabbit hole</li>
     </ul>
 
     <div class="bottom-links">
