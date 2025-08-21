@@ -275,6 +275,9 @@ header h1 a:hover {
 .top-links {
   margin-top: 0.6rem;
 }
+.top-links .quickkit-pill {
+  margin-right: 0.5rem;
+}
 
 .bottom-links {
   margin-top: 2.5rem;
