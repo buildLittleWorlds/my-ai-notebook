@@ -5,13 +5,13 @@ kit_type: romantic
 ---
 <div class="top-links">
 
-<a href="{{ '/kits/romantic-quick-kit/' | relative_url }}" class="quickkit-pill">← Back to Quick
+<a href="{{ '/romantic/romantic-quick-kit/' | relative_url }}" class="quickkit-pill">← Back to Quick
 Kit Menu</a>
 
 </div>
 
 
-If authenticity and [organic unity]({{ '/kits/romantic-kit-organic-form/' | relative_url }}) were
+If authenticity and [organic unity]({{ '/romantic/romantic-kit-organic-form/' | relative_url }}) were
 the Romantics' ideals, "the Machine" was their shadow. Their critique
 was aimed not just at the new factories of the Industrial Revolution,
 but at the entire mechanistic worldview inherited from the
@@ -95,7 +95,7 @@ the "miraculous in the common" and thereby re-enchant the world.
 
 <div class="bottom-links">
 
-<a href="{{ '/kits/romantic-quick-kit/' | relative_url }}" class="quickkit-pill">← Back to Quick
+<a href="{{ '/romantic/romantic-quick-kit/' | relative_url }}" class="quickkit-pill">← Back to Quick
 Kit Menu</a>
 
 </div>

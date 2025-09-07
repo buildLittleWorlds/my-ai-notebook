@@ -5,7 +5,7 @@ kit_type: romantic
 ---
 <div class="top-links">
 
-<a href="{{ '/kits/romantic-quick-kit/' | relative_url }}" class="quickkit-pill">← Back to Quick
+<a href="{{ '/romantic/romantic-quick-kit/' | relative_url }}" class="quickkit-pill">← Back to Quick
 Kit Menu</a>
 
 </div>
@@ -36,7 +36,7 @@ Coleridge, who drew heavily on German thinkers like A. W. Schlegel.
   interdependent; you cannot change one without altering the other.
 
 In the terms of our [hermeneutic
-method]({{ '/kits/romantic-kit-hermeneutics/' | relative_url }}), a work has organic form when
+method]({{ '/romantic/romantic-kit-hermeneutics/' | relative_url }}), a work has organic form when
 its **grammatical** structure (its language, genre, and shape) is a
 necessary and unique consequence of its singular **psychological**
 vision.
@@ -114,7 +114,7 @@ inner, developmental logic of the artist's life and vision.
 
 <div class="bottom-links">
 
-<a href="{{ '/kits/romantic-quick-kit/' | relative_url }}" class="quickkit-pill">← Back to Quick
+<a href="{{ '/romantic/romantic-quick-kit/' | relative_url }}" class="quickkit-pill">← Back to Quick
 Kit Menu</a>
 
 </div>

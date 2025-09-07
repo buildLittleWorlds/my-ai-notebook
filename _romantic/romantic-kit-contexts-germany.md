@@ -5,7 +5,7 @@ kit_type: romantic
 ---
 <div class="top-links">
 
-<a href="{{ '/kits/romantic-quick-kit/' | relative_url }}" class="quickkit-pill">← Back to Quick
+<a href="{{ '/romantic/romantic-quick-kit/' | relative_url }}" class="quickkit-pill">← Back to Quick
 Kit Menu</a>
 
 </div>
@@ -39,7 +39,7 @@ concepts that would be adapted and transformed across Europe.
   ultimate "Mischgedicht" (mixed genre) destined to synthesize all other
   forms of poetry, philosophy, and criticism into a new, living
   whole.<sup>[1](#ref1)</sup>
-- **[Organic Unity]({{ '/kits/romantic-kit-organic-form/' | relative_url }}) as Metaphysics:**
+- **[Organic Unity]({{ '/romantic/romantic-kit-organic-form/' | relative_url }}) as Metaphysics:**
   Friedrich Schelling’s *Naturphilosophie* gave philosophical weight to
   the organic metaphor. It argued that nature and mind were two sides of
   the same living, creative reality, providing a basis for theories of
@@ -57,7 +57,7 @@ concepts that would be adapted and transformed across Europe.
   discourse could not capture.
 
 This philosophical project was a grand act of ["natural
-supernaturalism."]({{ '/kits/romantic-kit-technology-machine/' | relative_url }}) Thinkers like
+supernaturalism."]({{ '/romantic/romantic-kit-technology-machine/' | relative_url }}) Thinkers like
 Schiller and Hegel took the Biblical plot of Creation, Fall, and
 Redemption and translated it into a secular, philosophical history of
 consciousness. The fall from Eden became the mind's necessary fall into
@@ -101,7 +101,7 @@ forms.
 
 <div class="bottom-links">
 
-<a href="{{ '/kits/romantic-quick-kit/' | relative_url }}" class="quickkit-pill">← Back to Quick
+<a href="{{ '/romantic/romantic-quick-kit/' | relative_url }}" class="quickkit-pill">← Back to Quick
 Kit Menu</a>
 
 </div>

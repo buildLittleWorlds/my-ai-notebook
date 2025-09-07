@@ -5,7 +5,7 @@ kit_type: ai
 ---
 <div class="top-links">
 
-<a href="{{ '/kits/ai-hermeneutics-kit/' | relative_url }}" class="quickkit-pill">← Back to AI
+<a href="{{ '/ai-hermeneutics/ai-hermeneutics-kit/' | relative_url }}" class="quickkit-pill">← Back to AI
 Hermeneutics Kit</a>
 
 </div>
@@ -65,7 +65,7 @@ For practical reading strategies, connect this page to two lenses:
 
 <div class="bottom-links">
 
-<a href="{{ '/kits/ai-hermeneutics-kit/' | relative_url }}" class="quickkit-pill">← Back to AI
+<a href="{{ '/ai-hermeneutics/ai-hermeneutics-kit/' | relative_url }}" class="quickkit-pill">← Back to AI
 Hermeneutics Kit</a>
 
 </div>

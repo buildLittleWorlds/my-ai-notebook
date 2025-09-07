@@ -5,7 +5,7 @@ kit_type: romantic
 ---
 <div class="top-links">
 
-<a href="{{ '/kits/romantic-quick-kit/' | relative_url }}" class="quickkit-pill">← Back to Quick
+<a href="{{ '/romantic/romantic-quick-kit/' | relative_url }}" class="quickkit-pill">← Back to Quick
 Kit Menu</a>
 
 </div>
@@ -20,13 +20,13 @@ Revolutions.
 
 ### Signature Ideas in Practice
 
-- **[Authenticity]({{ '/kits/romantic-kit-authenticity/' | relative_url }}) in Language and
+- **[Authenticity]({{ '/romantic/romantic-kit-authenticity/' | relative_url }}) in Language and
   Subject:** The program's core, laid out in Wordsworth’s "Preface to
   Lyrical Ballads," was a radical call for authenticity. It rejected
   neoclassical artifice in favor of "the very language of men" and found
   its subjects in the "common life," dignifying the experiences of
   rustic and marginalized people.
-- **[Organic Form]({{ '/kits/romantic-kit-organic-form/' | relative_url }}) in Practice:**
+- **[Organic Form]({{ '/romantic/romantic-kit-organic-form/' | relative_url }}) in Practice:**
   Coleridge was the key conduit for German ideas on organicism. He
   argued that a poem's form must grow from within, like a plant, shaped
   by the "seminal principle" of the imagination. This rejected the
@@ -64,7 +64,7 @@ The movement cannot be understood apart from its historical moment.
   and nature.
 - **The "Mechanical Age":** Reacting against Blake's "dark Satanic
   mills," Romantic poetry often positioned the [pastoral and the
-  wild]({{ '/kits/romantic-kit-technology-machine/' | relative_url }}) as a necessary refuge from
+  wild]({{ '/romantic/romantic-kit-technology-machine/' | relative_url }}) as a necessary refuge from
   the alienation of industrial city life.
 
 ### Open Texts (The Primary Sources)
@@ -79,7 +79,7 @@ The movement cannot be understood apart from its historical moment.
 
 <div class="bottom-links">
 
-<a href="{{ '/kits/romantic-quick-kit/' | relative_url }}" class="quickkit-pill">← Back to Quick
+<a href="{{ '/romantic/romantic-quick-kit/' | relative_url }}" class="quickkit-pill">← Back to Quick
 Kit Menu</a>
 
 </div>

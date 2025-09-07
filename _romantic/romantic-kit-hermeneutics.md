@@ -5,7 +5,7 @@ kit_type: romantic
 ---
 <div class="top-links">
 
-<a href="{{ '/kits/romantic-quick-kit/' | relative_url }}" class="quickkit-pill">← Back to Quick
+<a href="{{ '/romantic/romantic-quick-kit/' | relative_url }}" class="quickkit-pill">← Back to Quick
 Kit Menu</a>
 
 </div>
@@ -135,7 +135,7 @@ work itself.
 
 <div class="bottom-links">
 
-<a href="{{ '/kits/romantic-quick-kit/' | relative_url }}" class="quickkit-pill">← Back to Quick
+<a href="{{ '/romantic/romantic-quick-kit/' | relative_url }}" class="quickkit-pill">← Back to Quick
 Kit Menu</a>
 
 </div>

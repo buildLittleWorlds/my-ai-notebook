@@ -5,7 +5,7 @@ kit_type: ai
 ---
 <div class="top-links">
 
-<a href="{{ '/kits/ai-hermeneutics-kit/' | relative_url }}" class="quickkit-pill">← Back to AI
+<a href="{{ '/ai-hermeneutics/ai-hermeneutics-kit/' | relative_url }}" class="quickkit-pill">← Back to AI
 Hermeneutics Kit</a>
 
 </div>
@@ -81,7 +81,7 @@ gaps, and narratological/paratextual organization.
 
 <div class="bottom-links">
 
-<a href="{{ '/kits/ai-hermeneutics-kit/' | relative_url }}" class="quickkit-pill">← Back to AI
+<a href="{{ '/ai-hermeneutics/ai-hermeneutics-kit/' | relative_url }}" class="quickkit-pill">← Back to AI
 Hermeneutics Kit</a>
 
 </div>

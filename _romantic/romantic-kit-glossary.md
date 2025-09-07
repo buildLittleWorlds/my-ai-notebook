@@ -5,7 +5,7 @@ kit_type: romantic
 ---
 <div class="top-links">
 
-<a href="{{ '/kits/romantic-quick-kit/' | relative_url }}" class="quickkit-pill">← Back to Quick
+<a href="{{ '/romantic/romantic-quick-kit/' | relative_url }}" class="quickkit-pill">← Back to Quick
 Kit Menu</a>
 
 </div>
@@ -26,7 +26,7 @@ organizing principle and unique style of a work. It is something the
 interpreter **reconstructs** through textual evidence using the two-rail
 method.
 
-[Authenticity]({{ '/kits/romantic-kit-authenticity/' | relative_url }})  
+[Authenticity]({{ '/romantic/romantic-kit-authenticity/' | relative_url }})  
 A demonstrable quality of a work that expresses a singular vision rather
 than imitating external models. It is evidenced by a unique and coherent
 style that unites form and content. In the German context, it is the
@@ -39,14 +39,14 @@ that moral action becomes a natural, graceful expression of the self.
 Hegel later critiqued this ideal as a consciousness pathologically
 obsessed with its own purity, leading to inaction.
 
-[Bildungsroman / Crisis-Autobiography]({{ '/kits/romantic-kit-hermeneutics/' | relative_url }})  
+[Bildungsroman / Crisis-Autobiography]({{ '/romantic/romantic-kit-hermeneutics/' | relative_url }})  
 German for "formation-story." A narrative that traces the protagonist's
 psychological and moral development, often through a spiritual crisis.
 For Romantics, this became a primary genre, as in Wordsworth's *The
 Prelude*, where the story of the poet's own life becomes an exemplary
 journey of self-creation.
 
-[Circuitous Journey]({{ '/kits/romantic-kit-organic-form/' | relative_url }})  
+[Circuitous Journey]({{ '/romantic/romantic-kit-organic-form/' | relative_url }})  
 A central Romantic plot, identified by M. H. Abrams, in which the
 protagonist moves from a state of primal unity, through a painful fall
 into alienation and division, toward a final return to a higher, more
@@ -71,7 +71,7 @@ The theory of art, central to Romanticism, which holds that the primary
 purpose of an artwork is to be an authentic expression of the artist's
 inner life, their unique feelings, and their singular vision (*Gefühl*).
 
-[Fragment]({{ '/kits/romantic-kit-contexts-germany/' | relative_url }})  
+[Fragment]({{ '/romantic/romantic-kit-contexts-germany/' | relative_url }})  
 A literary form, central to German Romanticism, that presents insights
 as intentionally incomplete or aphoristic. It values the provocative and
 open-ended over the closed, systematic treatise.
@@ -83,7 +83,7 @@ pre-reflective, and immediate mode of awareness. For thinkers like
 Schleiermacher, it is the ground from which conceptual thought
 (*Denken*), religious piety, and artistic creation emerge.
 
-[Grammatical / Psychological Rails]({{ '/kits/romantic-kit-hermeneutics/' | relative_url }})  
+[Grammatical / Psychological Rails]({{ '/romantic/romantic-kit-hermeneutics/' | relative_url }})  
 Schleiermacher’s two necessary lines of inquiry for interpretation: the
 **grammatical** (analyzing the shared system of language and genre) and
 the **psychological** (reconstructing the author's singular pattern of
@@ -96,7 +96,7 @@ refuses to recognize or forgive the imperfections of those who act in
 the world, leading to a state of judgmental hypocrisy and self-imposed
 isolation.
 
-[Hermeneutic Circle]({{ '/kits/romantic-kit-hermeneutics/' | relative_url }})  
+[Hermeneutic Circle]({{ '/romantic/romantic-kit-hermeneutics/' | relative_url }})  
 The iterative process of understanding where the meaning of the parts
 informs the whole, and the evolving sense of the whole refines the
 meaning of the parts.
@@ -107,7 +107,7 @@ goal is not merely to understand a text's formal properties but to
 achieve a temporary, sympathetic merging of the reader's consciousness
 with the reconstructed consciousness of the author.
 
-[Imagination vs. Fancy]({{ '/kits/romantic-kit-contexts-england/' | relative_url }})  
+[Imagination vs. Fancy]({{ '/romantic/romantic-kit-contexts-england/' | relative_url }})  
 Coleridge's crucial distinction. **Imagination** is the vital, creative
 power that unifies and shapes material into an organic whole. **Fancy**
 is a lesser, mechanical faculty that simply recombines existing elements
@@ -135,17 +135,17 @@ world where each person's highest duty is to their own unique, inner
 moral law or authentic self, often placing them in opposition to a
 conformist society.
 
-[The Machine (Metaphor)]({{ '/kits/romantic-kit-technology-machine/' | relative_url }})  
+[The Machine (Metaphor)]({{ '/romantic/romantic-kit-technology-machine/' | relative_url }})  
 A metaphor for any system (industrial, social, aesthetic) that feels
 rigid, impersonal, and dehumanizing. The central counter-concept to the
 **organic**.
 
-[Mechanical Form]({{ '/kits/romantic-kit-organic-form/' | relative_url }})  
+[Mechanical Form]({{ '/romantic/romantic-kit-organic-form/' | relative_url }})  
 For Coleridge, a form imposed on material from the outside, like a mold.
 It is the direct opposite of **Organic Form**. It follows pre-set rules
 and is associated with "Fancy."
 
-[Mischgedicht]({{ '/kits/romantic-kit-contexts-germany/' | relative_url }})  
+[Mischgedicht]({{ '/romantic/romantic-kit-contexts-germany/' | relative_url }})  
 (German: 'mixed poem/genre'). A term central to Friedrich Schlegel's
 theory, describing the *Roman* as a genre that intentionally fuses
 different forms (epic, lyric, dramatic) and modes (poetry, prose,
@@ -158,18 +158,18 @@ institutions, cities, or unethical people—can stain or violate the
 integrity of the authentic, inner self. This fear makes [Principled
 Withdrawal](#principled-withdrawal) a primary ethical strategy.
 
-[Natural Supernaturalism]({{ '/kits/romantic-kit-technology-machine/' | relative_url }})  
+[Natural Supernaturalism]({{ '/romantic/romantic-kit-technology-machine/' | relative_url }})  
 A phrase from Carlyle’s *Sartor Resartus* that M. H. Abrams used to
 describe the Romantic secularization of inherited theological patterns
 (fall, redemption, apocalypse) into a worldview grounded in mind and
 nature.
 
-[Naturphilosophie]({{ '/kits/romantic-kit-organic-form/' | relative_url }})  
+[Naturphilosophie]({{ '/romantic/romantic-kit-organic-form/' | relative_url }})  
 A movement in German Idealism that viewed nature as a single, dynamic,
 self-organizing organism, providing the philosophical basis for the
 theory of organic form.
 
-[Organic Form]({{ '/kits/romantic-kit-organic-form/' | relative_url }})  
+[Organic Form]({{ '/romantic/romantic-kit-organic-form/' | relative_url }})  
 The principle that a work’s form should grow from its inner idea, like a
 plant from a seed. This "seed" is often identified with the
 *Keimentschluß*. The form is shaped by the creative "Imagination."
@@ -181,13 +181,13 @@ deliberately retreats from engagement with a corrupt world or person in
 order to preserve their own inner purity and authenticity. It elevates
 solitude and non-complicity into a moral ideal.
 
-[Progressive Universal Poetry]({{ '/kits/romantic-kit-contexts-germany/' | relative_url }})  
+[Progressive Universal Poetry]({{ '/romantic/romantic-kit-contexts-germany/' | relative_url }})  
 Friedrich Schlegel's term for the ultimate goal of Romantic art. It was
 not just an abstract idea but was specifically embodied in the genre of
 the *Roman*, which he saw as a 'Mischgedicht' capable of endlessly
 combining all forms of art and knowledge.
 
-[Roman (Schlegelian)]({{ '/kits/romantic-kit-contexts-germany/' | relative_url }})  
+[Roman (Schlegelian)]({{ '/romantic/romantic-kit-contexts-germany/' | relative_url }})  
 For Friedrich Schlegel, not just the modern novel, but the central,
 all-encompassing genre of modern (i.e., post-classical) art. Following
 Herder, he included medieval romances, the works of Dante, Cervantes,
@@ -195,17 +195,17 @@ and even Shakespeare's plays under this term. The *Roman* was the
 vehicle for "progressive universal poetry" and the highest form of
 *romantische Poesie*.
 
-[Romantic Hermeneutics]({{ '/kits/romantic-kit-hermeneutics/' | relative_url }})  
+[Romantic Hermeneutics]({{ '/romantic/romantic-kit-hermeneutics/' | relative_url }})  
 The methodical art of interpretation, based on the premise that
 misunderstanding is the norm. It uses the hermeneutic circle and the two
 rails to reconstruct a work's meaning.
 
-[Romantic Irony]({{ '/kits/romantic-kit-contexts-germany/' | relative_url }})  
+[Romantic Irony]({{ '/romantic/romantic-kit-contexts-germany/' | relative_url }})  
 A mode of writing, central to German Romanticism, where a work
 demonstrates self-awareness of its own constructedness. It signals the
 artist's freedom over their material.
 
-[The 'Self' (Subjectivity)]({{ '/kits/romantic-kit-authenticity/' | relative_url }})  
+[The 'Self' (Subjectivity)]({{ '/romantic/romantic-kit-authenticity/' | relative_url }})  
 For the Romantics, the inner life of the individual (consciousness,
 emotion, memory, and vision) which they elevated as the primary source
 of truth and the proper subject of art. This represented a profound
@@ -226,14 +226,14 @@ rational understanding. It was contrasted with the Beautiful (which is
 calm, orderly, and pleasing). The Sublime is often found in wild,
 untamed nature.
 
-[Theodicy (Secular / Private)]({{ '/kits/romantic-kit-authenticity/' | relative_url }})  
+[Theodicy (Secular / Private)]({{ '/romantic/romantic-kit-authenticity/' | relative_url }})  
 Traditionally a justification of God's goodness in the face of evil. The
 Romantics adapted this into a secular project, attempting to justify the
 existence of suffering and loss in an individual's life by showing it
 was necessary for the growth of the mind and the achievement of a higher
 consciousness.
 
-[Volksgeist]({{ '/kits/romantic-kit-contexts-germany/' | relative_url }})  
+[Volksgeist]({{ '/romantic/romantic-kit-contexts-germany/' | relative_url }})  
 Literally, "spirit of the people." Herder's idea that each nation or
 culture has its own unique character, language, and creative genius,
 which is the source of its authentic art (e.g., folk tales, ballads).
@@ -258,7 +258,7 @@ which is the source of its authentic art (e.g., folk tales, ballads).
 
 <div class="bottom-links">
 
-<a href="{{ '/kits/romantic-quick-kit/' | relative_url }}" class="quickkit-pill">← Back to Quick
+<a href="{{ '/romantic/romantic-quick-kit/' | relative_url }}" class="quickkit-pill">← Back to Quick
 Kit Menu</a>
 
 </div>

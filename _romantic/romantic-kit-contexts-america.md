@@ -5,7 +5,7 @@ kit_type: romantic
 ---
 <div class="top-links">
 
-<a href="{{ '/kits/romantic-quick-kit/' | relative_url }}" class="quickkit-pill">← Back to Quick
+<a href="{{ '/romantic/romantic-quick-kit/' | relative_url }}" class="quickkit-pill">← Back to Quick
 Kit Menu</a>
 
 </div>
@@ -24,19 +24,19 @@ and a quasi-religious reverence for nature.
 
 ### Signature Ideas in Practice
 
-- **Radical [Authenticity]({{ '/kits/romantic-kit-authenticity/' | relative_url }})
+- **Radical [Authenticity]({{ '/romantic/romantic-kit-authenticity/' | relative_url }})
   (Self-Reliance):** Emerson's 1841 essay "Self-Reliance" transformed
   the Romantic ideal of authenticity into an ethical command. For the
   Transcendentalists, conformity was a moral failure. The highest virtue
   was a radical fidelity to one's own inner voice, or "intuition," which
   they believed was a direct connection to the divine "Over-Soul."
-- **The [Organic]({{ '/kits/romantic-kit-organic-form/' | relative_url }}) Life:** Thoreau took
+- **The [Organic]({{ '/romantic/romantic-kit-organic-form/' | relative_url }}) Life:** Thoreau took
   the ideal of an organic, unified existence literally. His experiment
   at Walden Pond was an attempt to live a deliberate life, stripped of
   inessentials, in which his daily rhythms were in harmony with the
   seasons. His work is a practical application of the Romantic desire to
   heal the split between the self, nature, and society.
-- **The Critique of the [Machine]({{ '/kits/romantic-kit-technology-machine/' | relative_url }})
+- **The Critique of the [Machine]({{ '/romantic/romantic-kit-technology-machine/' | relative_url }})
   in the Garden:** The American landscape itself, the "wilderness," was
   a central character. The Romantics saw it as a source of spiritual
   renewal, an "organic Eden." Their critique of technology was often
@@ -93,7 +93,7 @@ self-redemption.
 
 <div class="bottom-links">
 
-<a href="{{ '/kits/romantic-quick-kit/' | relative_url }}" class="quickkit-pill">← Back to Quick
+<a href="{{ '/romantic/romantic-quick-kit/' | relative_url }}" class="quickkit-pill">← Back to Quick
 Kit Menu</a>
 
 </div>

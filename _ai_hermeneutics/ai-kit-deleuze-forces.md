@@ -5,7 +5,7 @@ kit_type: ai
 ---
 <div class="top-links">
 
-<a href="{{ '/kits/ai-hermeneutics-kit/' | relative_url }}" class="quickkit-pill">← Back to AI
+<a href="{{ '/ai-hermeneutics/ai-hermeneutics-kit/' | relative_url }}" class="quickkit-pill">← Back to AI
 Hermeneutics Kit</a>
 
 </div>
@@ -71,7 +71,7 @@ active tool for production or a reactive machine for reproduction.
 
 <div class="bottom-links">
 
-<a href="{{ '/kits/ai-hermeneutics-kit/' | relative_url }}" class="quickkit-pill">← Back to AI
+<a href="{{ '/ai-hermeneutics/ai-hermeneutics-kit/' | relative_url }}" class="quickkit-pill">← Back to AI
 Hermeneutics Kit</a>
 
 </div>

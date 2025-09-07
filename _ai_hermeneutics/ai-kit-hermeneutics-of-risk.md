@@ -5,7 +5,7 @@ kit_type: ai
 ---
 <div class="top-links">
 
-<a href="{{ '/kits/ai-hermeneutics-kit/' | relative_url }}" class="quickkit-pill">← Back to AI
+<a href="{{ '/ai-hermeneutics/ai-hermeneutics-kit/' | relative_url }}" class="quickkit-pill">← Back to AI
 Hermeneutics Kit</a>
 
 </div>
@@ -105,7 +105,7 @@ the machine is, in turn, reading us.
 
 <div class="bottom-links">
 
-<a href="{{ '/kits/ai-hermeneutics-kit/' | relative_url }}" class="quickkit-pill">← Back to AI
+<a href="{{ '/ai-hermeneutics/ai-hermeneutics-kit/' | relative_url }}" class="quickkit-pill">← Back to AI
 Hermeneutics Kit</a>
 
 </div>

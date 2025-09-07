@@ -5,7 +5,7 @@ kit_type: romantic
 ---
 <div class="top-links">
 
-<a href="{{ '/kits/romantic-quick-kit/' | relative_url }}" class="quickkit-pill">← Back to Quick
+<a href="{{ '/romantic/romantic-quick-kit/' | relative_url }}" class="quickkit-pill">← Back to Quick
 Kit Menu</a>
 
 </div>
@@ -24,7 +24,7 @@ demonstrate through analysis.
 ## How to Read for Authenticity
 
 Authenticity is discovered by applying the [two-rail
-method]({{ '/kits/romantic-kit-hermeneutics/' | relative_url }}). It is the demonstrable
+method]({{ '/romantic/romantic-kit-hermeneutics/' | relative_url }}). It is the demonstrable
 coherence between the **psychological side** (the work's unique pattern
 of choices) and the **grammatical side** (the conventions it engages
 with). An "authentic" work is one where a distinctive vision has shaped
@@ -110,7 +110,7 @@ creates a more profound, more resilient, and more complete individual.
 
 <div class="bottom-links">
 
-<a href="{{ '/kits/romantic-quick-kit/' | relative_url }}" class="quickkit-pill">← Back to Quick
+<a href="{{ '/romantic/romantic-quick-kit/' | relative_url }}" class="quickkit-pill">← Back to Quick
 Kit Menu</a>
 
 </div>
