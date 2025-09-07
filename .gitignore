@@ -1,3 +1,28 @@
+# Jekyll build output (GitHub Pages builds this automatically)
+_site/
+
+# Ruby/Bundle
+.bundle/
+vendor/
+Gemfile.lock
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Development files
+*.swp
+*.swo
+*~
+
+# Claude Code
+.claude/
+
 # Folders to ignore
 Romantic-art/
 old-posts/
