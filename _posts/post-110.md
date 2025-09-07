@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Objection 2: \"AI Writing Harms Others and the University\""
+post_number: 110
+---
+
+**The objection:** If AI use becomes common, it harms other students who want "human-only" writing credentials. It also harms the university if it cannot uphold its standards of "strong writing" as human-authored thought.
+
+### A Mill Passage
+
+> *"As soon as any part of a person's conduct affects prejudicially the interests of others, society has jurisdiction over it [...] But there is no room for entertaining any such question when a person's conduct affects the interests of no persons besides himself [...] In all such cases, there should be perfect freedom, legal and social, to do the action and stand the consequences."*
+
+### Applying Mill's Principle
+
+1. **Other students.** Do they lose a right when peers use AI? Their liberty to pursue human-only craft is untouched; their grades and degree requirements are set by their own performance. What changes is comparative *prestige* or a preferred pecking order of methods. For Mill, that is not the sort of concrete injury that justifies coercion.
+
+2. **The university.** Institutions may define assessment criteria. But invoking "standards" to suppress legitimate variation in method is the classic slide from education to moulding. Mill warns that enforced sameness, even in the name of improvement, erodes individuality. Uniform inputs do not guarantee genuine excellence; diverse "experiments of living" do.
+
+### Response
+
+Genuine harms remain sanctionable: plagiarism, misrepresentation, fabrication, privacy violations. Those are other-regarding wrongs. By contrast, choosing tools and workflows falls within the self-regarding sphere. It may unsettle tradition or status hierarchies, but discomfort and loss of comparative advantage are not Mill-style harms.
+
+Universities can protect integrity without prescribing inner process: require students to demonstrate *reasoned agency* (show revisions, source evaluation, verification of claims), not to disclose or conform their *methods*. This preserves standards of outcome while respecting autonomy in means.

@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Jekyll Conversion Progress &amp; Remaining Work — Professor Plate's Notebook</title>
+  <link rel="stylesheet" href="/my-ai-notebook/style.css"/>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Mono&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header class="site-header">
+    <h1><a href="/my-ai-notebook/">Professor Plate's Notebook</a></h1>
+    
+    <nav class="top-links">
+      <a class="quickkit-pill" href="/my-ai-notebook/romantic-quick-kit" aria-label="Romantic Quick Kit">
+        Romantic Quick Kit
+      </a>
+      <a class="quickkit-pill" href="/my-ai-notebook/ai-hermeneutics-kit" aria-label="AI Hermeneutics Kit">
+        AI Hermeneutics Kit
+      </a>
+    </nav>
+    
+  </header>
+
+  <main>
+    <h1 id="jekyll-conversion-progress--remaining-work">Jekyll Conversion Progress &amp; Remaining Work</h1>
+
+<h2 id="-completed---phase-1-jekyll-foundation">✅ COMPLETED - Phase 1: Jekyll Foundation</h2>
+<p>All Jekyll setup work is complete:</p>
+<ul>
+  <li><strong>Jekyll installed</strong> ✅</li>
+  <li><strong>Gemfile created</strong> ✅ (with github-pages and webrick gems)</li>
+  <li><strong>_config.yml configured</strong> ✅ (with collections for posts, kits, notebooks, debate)</li>
+  <li><strong>All layout templates created</strong> ✅ (9 layouts in _layouts/ folder)</li>
+  <li><strong>index.md homepage created</strong> ✅</li>
+  <li><strong>Sample post converted</strong> ✅ (_posts/this-site.md as example)</li>
+</ul>
+
+<p><strong>Current Status: ~20% complete</strong> - Foundation is solid, now need to convert content.</p>
+
+<hr />
+
+<h2 id="-remaining-work-phase-2-5">🔄 REMAINING WORK: Phase 2-5</h2>
+
+<h3 id="what-were-doing-high-level">What We’re Doing (High Level)</h3>
+<p>Converting from hand-written HTML to Jekyll means:</p>
+<ul>
+  <li>Write content in simple Markdown files instead of HTML</li>
+  <li>Jekyll automatically combines Markdown with templates to create HTML</li>
+  <li>Your <code class="language-plaintext highlighter-rouge">style.css</code> stays exactly the same</li>
+  <li>GitHub Pages builds your site automatically when you push changes</li>
+</ul>
+
+<h2 id="phase-2-convert-your-content">Phase 2: Convert Your Content</h2>
+
+<h3 id="step-1-convert-remaining-110-blog-posts">Step 1: Convert Remaining 110 Blog Posts</h3>
+<p>You have <code class="language-plaintext highlighter-rouge">post2.html</code> through <code class="language-plaintext highlighter-rouge">post111.html</code> to convert. Here’s the systematic process:</p>
+
+<h4 id="for-each-post-file">For Each Post File:</h4>
+<ol>
+  <li><strong>Open the HTML file</strong> (e.g., <code class="language-plaintext highlighter-rouge">post2.html</code>)</li>
+  <li><strong>Create new Markdown file</strong> in <code class="language-plaintext highlighter-rouge">_posts/</code> folder:
+    <ul>
+      <li>Simple naming: <code class="language-plaintext highlighter-rouge">post-2.md</code>, <code class="language-plaintext highlighter-rouge">post-3.md</code>, etc.</li>
+      <li>Example: <code class="language-plaintext highlighter-rouge">post2.html</code> → <code class="language-plaintext highlighter-rouge">_posts/post-2.md</code></li>
+    </ul>
+  </li>
+  <li><strong>Copy content</strong> from between <code class="language-plaintext highlighter-rouge">&lt;article&gt;</code> tags ONLY</li>
+  <li><strong>Remove all HTML tags</strong> (<code class="language-plaintext highlighter-rouge">&lt;h2&gt;</code>, <code class="language-plaintext highlighter-rouge">&lt;p&gt;</code>, <code class="language-plaintext highlighter-rouge">&lt;article&gt;</code>, etc.)</li>
+  <li><strong>Add front matter</strong> at top:</li>
+</ol>
+
+<div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nn">---</span>
+<span class="na">layout</span><span class="pi">:</span> <span class="s">post</span>
+<span class="na">title</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Your</span><span class="nv"> </span><span class="s">Post</span><span class="nv"> </span><span class="s">Title"</span>
+<span class="na">post_number</span><span class="pi">:</span> <span class="m">2</span>
+<span class="nn">---</span>
+
+Your content here, just plain text with blank lines between paragraphs.
+</code></pre></div></div>
+
+<h4 id="quick-reference">Quick Reference:</h4>
+<ul>
+  <li><strong>Remove</strong>: <code class="language-plaintext highlighter-rouge">&lt;h2&gt;</code> headings (template handles this)</li>
+  <li><strong>Remove</strong>: All HTML tags (<code class="language-plaintext highlighter-rouge">&lt;p&gt;</code>, <code class="language-plaintext highlighter-rouge">&lt;article&gt;</code>, <code class="language-plaintext highlighter-rouge">&lt;em&gt;</code>, etc.)</li>
+  <li><strong>Keep</strong>: Plain text content only</li>
+  <li><strong>Add</strong>: Front matter with title and post_number</li>
+  <li><strong>Don’t add</strong>: next_post/prev_post (Jekyll auto-generates)</li>
+</ul>
+
+<h4 id="batch-processing-tip">Batch Processing Tip:</h4>
+<p>Work through posts systematically: <code class="language-plaintext highlighter-rouge">post2.html</code> → <code class="language-plaintext highlighter-rouge">post3.html</code> → etc. You can do this in batches of 10-20 posts at a time.</p>
+
+<h3 id="step-2-convert-kit-hub-pages">Step 2: Convert Kit Hub Pages</h3>
+
+<h4 id="a-romantic-quick-kit">A. Romantic Quick Kit</h4>
+<ol>
+  <li><strong>Find file</strong>: <code class="language-plaintext highlighter-rouge">romantic-quick-kit.html</code></li>
+  <li><strong>Create</strong>: <code class="language-plaintext highlighter-rouge">_kits/romantic-quick-kit.md</code></li>
+  <li><strong>Add front matter</strong>:
+    <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nn">---</span>
+<span class="na">layout</span><span class="pi">:</span> <span class="s">kit-hub</span>
+<span class="na">title</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Romantic</span><span class="nv"> </span><span class="s">Quick</span><span class="nv"> </span><span class="s">Kit"</span>
+<span class="na">subtitle</span><span class="pi">:</span> <span class="s2">"</span><span class="s">How</span><span class="nv"> </span><span class="s">to</span><span class="nv"> </span><span class="s">use</span><span class="nv"> </span><span class="s">this"</span>
+<span class="nn">---</span>
+</code></pre></div>    </div>
+  </li>
+  <li><strong>Copy content</strong> from inside <code class="language-plaintext highlighter-rouge">&lt;article&gt;</code> tags</li>
+  <li><strong>Update links</strong>: Remove <code class="language-plaintext highlighter-rouge">.html</code> extensions from internal links
+    <ul>
+      <li><code class="language-plaintext highlighter-rouge">romantic-kit-hermeneutics.html</code> → <code class="language-plaintext highlighter-rouge">/romantic-kit-hermeneutics</code></li>
+    </ul>
+  </li>
+</ol>
+
+<h4 id="b-ai-hermeneutics-kit">B. AI Hermeneutics Kit</h4>
+<ol>
+  <li><strong>Find file</strong>: <code class="language-plaintext highlighter-rouge">ai-hermeneutics-kit.html</code></li>
+  <li><strong>Create</strong>: <code class="language-plaintext highlighter-rouge">_kits/ai-hermeneutics-kit.md</code></li>
+  <li><strong>Add front matter</strong>:
+    <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nn">---</span>
+<span class="na">layout</span><span class="pi">:</span> <span class="s">kit-hub</span>
+<span class="na">title</span><span class="pi">:</span> <span class="s2">"</span><span class="s">AI</span><span class="nv"> </span><span class="s">Hermeneutics</span><span class="nv"> </span><span class="s">Kit"</span>
+<span class="na">subtitle</span><span class="pi">:</span> <span class="s2">"</span><span class="s">How</span><span class="nv"> </span><span class="s">to</span><span class="nv"> </span><span class="s">use</span><span class="nv"> </span><span class="s">this"</span>
+<span class="nn">---</span>
+</code></pre></div>    </div>
+  </li>
+  <li><strong>Copy content</strong> and <strong>update links</strong> (remove <code class="language-plaintext highlighter-rouge">.html</code> extensions)</li>
+</ol>
+
+<h3 id="step-3-convert-individual-kit-pages">Step 3: Convert Individual Kit Pages</h3>
+<p>Find all individual kit HTML files and convert each one:</p>
+
+<h4 id="for-each-kit-file">For Each Kit File:</h4>
+<ol>
+  <li><strong>Find HTML files</strong> that start with <code class="language-plaintext highlighter-rouge">romantic-kit-</code> or <code class="language-plaintext highlighter-rouge">ai-kit-</code></li>
+  <li><strong>Create corresponding <code class="language-plaintext highlighter-rouge">.md</code> files</strong> in <code class="language-plaintext highlighter-rouge">_kits/</code> folder:
+    <ul>
+      <li><code class="language-plaintext highlighter-rouge">romantic-kit-hermeneutics.html</code> → <code class="language-plaintext highlighter-rouge">_kits/romantic-kit-hermeneutics.md</code></li>
+      <li><code class="language-plaintext highlighter-rouge">ai-kit-something.html</code> → <code class="language-plaintext highlighter-rouge">_kits/ai-kit-something.md</code></li>
+    </ul>
+  </li>
+  <li><strong>Add front matter</strong>:
+    <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nn">---</span>
+<span class="na">layout</span><span class="pi">:</span> <span class="s">kit</span>
+<span class="na">title</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Your</span><span class="nv"> </span><span class="s">Kit</span><span class="nv"> </span><span class="s">Title"</span>
+<span class="nn">---</span>
+</code></pre></div>    </div>
+  </li>
+  <li><strong>Copy content</strong> from inside <code class="language-plaintext highlighter-rouge">&lt;article&gt;</code> tags</li>
+  <li><strong>Remove HTML tags</strong>, keep plain text</li>
+</ol>
+
+<h3 id="step-4-convert-notebooks-system">Step 4: Convert Notebooks System</h3>
+
+<h4 id="a-create-main-notebooks-page">A. Create Main Notebooks Page</h4>
+<ol>
+  <li><strong>Find file</strong>: <code class="language-plaintext highlighter-rouge">notebooks.html</code></li>
+  <li><strong>Create</strong>: <code class="language-plaintext highlighter-rouge">notebooks.md</code> (in root directory)</li>
+  <li><strong>Add front matter</strong>:
+    <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nn">---</span>
+<span class="na">layout</span><span class="pi">:</span> <span class="s">notebooks-hub</span>
+<span class="na">title</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Archivists'</span><span class="nv"> </span><span class="s">Window</span><span class="nv"> </span><span class="s">—</span><span class="nv"> </span><span class="s">Catalog</span><span class="nv"> </span><span class="s">by</span><span class="nv"> </span><span class="s">Orders"</span>
+<span class="na">lede</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Your</span><span class="nv"> </span><span class="s">existing</span><span class="nv"> </span><span class="s">description</span><span class="nv"> </span><span class="s">from</span><span class="nv"> </span><span class="s">notebooks.html"</span>
+<span class="na">show_debate_notice</span><span class="pi">:</span> <span class="no">true</span>
+<span class="na">debate_notice_text</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Your</span><span class="nv"> </span><span class="s">existing</span><span class="nv"> </span><span class="s">debate</span><span class="nv"> </span><span class="s">notice</span><span class="nv"> </span><span class="s">text"</span>
+<span class="na">debate_link</span><span class="pi">:</span> <span class="s2">"</span><span class="s">/archivists-debate"</span>
+<span class="na">debate_link_text</span><span class="pi">:</span> <span class="s2">"</span><span class="s">History</span><span class="nv"> </span><span class="s">of</span><span class="nv"> </span><span class="s">the</span><span class="nv"> </span><span class="s">Debate</span><span class="nv"> </span><span class="s">→"</span>
+<span class="nn">---</span>
+</code></pre></div>    </div>
+  </li>
+</ol>
+
+<h4 id="b-convert-individual-notebook-entries">B. Convert Individual Notebook Entries</h4>
+<ol>
+  <li><strong>Find all archivist files</strong>: <code class="language-plaintext highlighter-rouge">archivist-a1.html</code>, <code class="language-plaintext highlighter-rouge">archivist-a2.html</code>, etc.</li>
+  <li><strong>Create corresponding files</strong> in <code class="language-plaintext highlighter-rouge">_notebooks/</code> folder:
+    <ul>
+      <li><code class="language-plaintext highlighter-rouge">archivist-a1.html</code> → <code class="language-plaintext highlighter-rouge">_notebooks/archivist-a1.md</code></li>
+    </ul>
+  </li>
+  <li><strong>Add front matter</strong> to each:
+```markdown
+—
+title: “Entry Title from HTML”
+order: “Boundary” (or whatever order applies)
+region: “Dens” (or whatever region applies)
+excerpt: “Brief description…”
+—</li>
+</ol>
+
+<p>Content from inside &lt;article&gt; tags, HTML removed</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+#### C. Convert Debate History
+1. **Find debate files**: `archivists-debate.html` and related files
+2. **Create files** in `_debate/` folder with front matter:
+```markdown
+---
+title: "Debate Title"
+phase: "Phase 1" (or appropriate phase)
+participants: ["Archivist A", "Archivist B"]
+---
+
+Debate content with HTML removed
+</code></pre></div></div>
+
+<h3 id="step-5-create-posts-index-page">Step 5: Create Posts Index Page</h3>
+<ol>
+  <li><strong>Create file</strong>: <code class="language-plaintext highlighter-rouge">posts.md</code> (in root directory)</li>
+  <li><strong>Add content</strong>:
+    <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nn">---</span>
+<span class="na">layout</span><span class="pi">:</span> <span class="s">posts-list</span>
+<span class="na">title</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Blog</span><span class="nv"> </span><span class="s">Posts"</span>
+<span class="nn">---</span>
+</code></pre></div>    </div>
+  </li>
+</ol>
+
+<p><em>Note: <code class="language-plaintext highlighter-rouge">index.md</code> already exists and is configured correctly.</em></p>
+
+<hr />
+
+<h2 id="phase-3-github-pages-configuration">Phase 3: GitHub Pages Configuration</h2>
+
+<h3 id="step-1-configure-github-pages">Step 1: Configure GitHub Pages</h3>
+<ol>
+  <li><strong>Go to your GitHub repository</strong> online</li>
+  <li><strong>Click Settings tab</strong></li>
+  <li><strong>Scroll to Pages section</strong></li>
+  <li><strong>Set Source</strong>: “Deploy from a branch”</li>
+  <li><strong>Select branch</strong>: “main”</li>
+  <li><strong>Select folder</strong>: “/ (root)”</li>
+  <li><strong>Click Save</strong></li>
+</ol>
+
+<h3 id="step-2-optional-add-jekyll-workflow">Step 2: (Optional) Add Jekyll Workflow</h3>
+<p><em>GitHub Pages builds Jekyll automatically, but this gives more control:</em></p>
+
+<ol>
+  <li><strong>Create folder</strong>: <code class="language-plaintext highlighter-rouge">.github/workflows/</code></li>
+  <li><strong>Create file</strong>: <code class="language-plaintext highlighter-rouge">.github/workflows/jekyll.yml</code></li>
+  <li><strong>Add workflow content</strong> (see original guide for YAML code)</li>
+</ol>
+
+<p><em>You can skip this step initially and add it later if needed.</em></p>
+
+<h2 id="phase-4-testing-and-deployment">Phase 4: Testing and Deployment</h2>
+
+<h3 id="step-1-test-locally-recommended">Step 1: Test Locally (Recommended)</h3>
+<p><em>Jekyll and Gemfile are already set up, so you can start testing:</em></p>
+
+<ol>
+  <li><strong>Install dependencies</strong>:
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>bundle <span class="nb">install</span>
+</code></pre></div>    </div>
+  </li>
+  <li><strong>Run local server</strong>:
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>bundle <span class="nb">exec </span>jekyll serve
+</code></pre></div>    </div>
+  </li>
+  <li><strong>View your site</strong>: Open <code class="language-plaintext highlighter-rouge">http://localhost:4000</code> in browser</li>
+  <li><strong>Test navigation</strong>: Check that posts, kits, notebooks work correctly</li>
+</ol>
+
+<h3 id="step-2-deploy-to-github">Step 2: Deploy to GitHub</h3>
+<p><strong>After you’ve converted content and tested locally:</strong></p>
+
+<ol>
+  <li><strong>Add all new files</strong>:
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git add <span class="nb">.</span>
+</code></pre></div>    </div>
+  </li>
+  <li><strong>Commit changes</strong>:
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git commit <span class="nt">-m</span> <span class="s2">"Convert content to Jekyll markdown files"</span>
+</code></pre></div>    </div>
+  </li>
+  <li><strong>Push to GitHub</strong>:
+    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git push origin main
+</code></pre></div>    </div>
+  </li>
+  <li><strong>Wait 2-3 minutes</strong> for GitHub Pages to build</li>
+  <li><strong>Check your live site</strong> at your GitHub Pages URL</li>
+</ol>
+
+<h3 id="troubleshooting">Troubleshooting</h3>
+<ul>
+  <li><strong>Build fails?</strong> Check GitHub Actions tab for errors</li>
+  <li><strong>Links broken?</strong> Make sure you removed <code class="language-plaintext highlighter-rouge">.html</code> from internal links</li>
+  <li><strong>Missing content?</strong> Check front matter formatting (the <code class="language-plaintext highlighter-rouge">---</code> sections)</li>
+</ul>
+
+<h2 id="phase-5-cleanup-only-after-everything-works">Phase 5: Cleanup (ONLY After Everything Works!)</h2>
+
+<h3 id="️-important-test-first">⚠️ Important: Test First!</h3>
+<p><strong>Do NOT delete anything until your Jekyll site is working perfectly on GitHub Pages.</strong></p>
+
+<h3 id="files-to-delete-after-confirming-success">Files to Delete (After Confirming Success):</h3>
+<ul>
+  <li><strong>All post HTML files</strong>: <code class="language-plaintext highlighter-rouge">post1.html</code>, <code class="language-plaintext highlighter-rouge">post2.html</code>, … <code class="language-plaintext highlighter-rouge">post111.html</code></li>
+  <li><strong>All kit HTML files</strong>: <code class="language-plaintext highlighter-rouge">romantic-kit-hermeneutics.html</code>, etc.</li>
+  <li><strong>Old index files</strong>: <code class="language-plaintext highlighter-rouge">posts.html</code>, <code class="language-plaintext highlighter-rouge">notebooks.html</code></li>
+  <li><strong>Old kit hubs</strong>: <code class="language-plaintext highlighter-rouge">romantic-quick-kit.html</code>, <code class="language-plaintext highlighter-rouge">ai-hermeneutics-kit.html</code></li>
+  <li><strong>Old includes</strong>: <code class="language-plaintext highlighter-rouge">header.html</code>, <code class="language-plaintext highlighter-rouge">footer.html</code> (if they exist)</li>
+  <li><strong>Archivist HTML files</strong>: <code class="language-plaintext highlighter-rouge">archivist-a1.html</code>, etc.</li>
+  <li><strong>Debate HTML files</strong>: <code class="language-plaintext highlighter-rouge">archivists-debate.html</code>, etc.</li>
+</ul>
+
+<h3 id="files-to-keep">Files to Keep:</h3>
+<ul>
+  <li><strong>Style</strong>: <code class="language-plaintext highlighter-rouge">style.css</code> (unchanged!)</li>
+  <li><strong>Media</strong>: <code class="language-plaintext highlighter-rouge">images/</code> folder, any other assets</li>
+  <li><strong>Jekyll files</strong>: <code class="language-plaintext highlighter-rouge">_config.yml</code>, <code class="language-plaintext highlighter-rouge">_layouts/</code>, <code class="language-plaintext highlighter-rouge">_posts/</code>, <code class="language-plaintext highlighter-rouge">_kits/</code>, <code class="language-plaintext highlighter-rouge">_notebooks/</code>, <code class="language-plaintext highlighter-rouge">_debate/</code></li>
+  <li><strong>New pages</strong>: <code class="language-plaintext highlighter-rouge">index.md</code>, <code class="language-plaintext highlighter-rouge">posts.md</code>, <code class="language-plaintext highlighter-rouge">notebooks.md</code></li>
+  <li><strong>Project files</strong>: <code class="language-plaintext highlighter-rouge">Gemfile</code>, <code class="language-plaintext highlighter-rouge">Gemfile.lock</code></li>
+</ul>
+
+<hr />
+
+<h2 id="your-new-workflow">Your New Workflow</h2>
+
+<h3 id="adding-a-new-blog-post">Adding a New Blog Post:</h3>
+<ol>
+  <li>Create <code class="language-plaintext highlighter-rouge">_posts/title.md</code></li>
+  <li>Add front matter and content</li>
+  <li><code class="language-plaintext highlighter-rouge">git add</code>, <code class="language-plaintext highlighter-rouge">git commit</code>, <code class="language-plaintext highlighter-rouge">git push</code></li>
+  <li>Site rebuilds automatically</li>
+</ol>
+
+<h3 id="editing-content">Editing Content:</h3>
+<ol>
+  <li>Find the <code class="language-plaintext highlighter-rouge">.md</code> file</li>
+  <li>Edit plain text content</li>
+  <li><code class="language-plaintext highlighter-rouge">git add</code>, <code class="language-plaintext highlighter-rouge">git commit</code>, <code class="language-plaintext highlighter-rouge">git push</code></li>
+  <li>Site rebuilds automatically</li>
+</ol>
+
+<hr />
+
+<h2 id="quick-reference-1">Quick Reference</h2>
+
+<h3 id="common-issues">Common Issues:</h3>
+<ul>
+  <li><strong>Build fails</strong>: Check GitHub Actions tab</li>
+  <li><strong>Links broken</strong>: Remove <code class="language-plaintext highlighter-rouge">.html</code> from internal links</li>
+  <li><strong>Missing content</strong>: Check front matter formatting</li>
+</ul>
+
+<h3 id="file-structure">File Structure:</h3>
+<ul>
+  <li><strong>Blog posts</strong>: <code class="language-plaintext highlighter-rouge">_posts/title.md</code></li>
+  <li><strong>Kit pages</strong>: <code class="language-plaintext highlighter-rouge">_kits/filename.md</code></li>
+  <li><strong>Notebook entries</strong>: <code class="language-plaintext highlighter-rouge">_notebooks/filename.md</code></li>
+  <li><strong>Debate documents</strong>: <code class="language-plaintext highlighter-rouge">_debate/filename.md</code></li>
+</ul>
+
+<h3 id="benefits">Benefits:</h3>
+<ul>
+  <li>Write in simple Markdown instead of HTML</li>
+  <li>Automatic navigation and post lists</li>
+  <li>Consistent styling across all pages</li>
+  <li>Easy maintenance and updates</li>
+</ul>
+
+  </main>
+
+  <footer>
+    <p>&copy;2025 Daniel Plate</p>
+  </footer>
+</body>
+</html>

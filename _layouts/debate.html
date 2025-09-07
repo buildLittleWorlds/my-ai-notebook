@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<article>
+  <h1>{{ page.title }}</h1>
+  
+  {% if page.phase %}
+  <p class="meta"><strong>Phase:</strong> {{ page.phase }}</p>
+  {% endif %}
+  
+  {% if page.participants %}
+  <p class="meta"><strong>Participants:</strong> {{ page.participants | join: ", " }}</p>
+  {% endif %}
+  
+  {{ content }}
+  
+  <!-- Auto-generate navigation to other debate phases -->
+  {% if page.collection == "debate" %}
+  <nav style="margin-top:2rem; padding-top:1rem; border-top:1px solid #eee;">
+    <h3>Other Debate Documents</h3>
+    {% assign other_debates = site.debate | where_exp: "item", "item.url != page.url" | sort: "phase" %}
+    <ul>
+      {% for debate in other_debates %}
+      <li>
+        <a href="{{ debate.url | relative_url }}">{{ debate.title }}</a>
+        {% if debate.phase %}<span class="phase">({{ debate.phase }})</span>{% endif %}
+      </li>
+      {% endfor %}
+    </ul>
+  </nav>
+  {% endif %}
+</article>

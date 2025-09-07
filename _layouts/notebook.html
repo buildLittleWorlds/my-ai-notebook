@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<article>
+  <h1>{{ page.title }}</h1>
+  
+  {% if page.catalog_code %}
+  <p><strong>Catalog Code:</strong> {{ page.catalog_code }}</p>
+  {% endif %}
+  
+  {% if page.region %}
+  <p><strong>Region:</strong> {{ page.region }}</p>
+  {% endif %}
+  
+  {% if page.order %}
+  <p><strong>Order:</strong> {{ page.order }}</p>
+  {% endif %}
+  
+  {{ content }}
+  
+  <div class="bottom-links" style="margin-top:1.25rem;">
+    <a class="quickkit-pill" href="{{ '/notebooks' | relative_url }}">← Back to Notebooks</a>
+  </div>
+</article>

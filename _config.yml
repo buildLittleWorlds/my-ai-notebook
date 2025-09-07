@@ -1,0 +1,68 @@
+# Site
+title: "Professor Plate's Notebook"
+description: "Essays, arguments, and notes in progress"
+url: "https://buildlittleworlds.github.io"
+baseurl: "/my-ai-notebook"            # project site, so we need the repo name
+timezone: "America/Chicago"  # change to your zone
+
+# Build
+markdown: kramdown
+kramdown:
+  input: GFM
+highlighter: rouge
+permalink: /:title/
+
+# Collections (no 'posts' here — posts are built-in via _posts/)
+collections:
+  kits:
+    output: true
+    permalink: /kits/:name/     # <-- add a prefix to avoid slug collisions
+  notebooks:
+    output: true
+    permalink: /notebooks/:name/
+  debate:
+    output: true
+    permalink: /debate/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      permalink: "/:title/"
+  - scope:
+      path: ""
+      type: "kits"
+    values:
+      layout: "kit"
+  - scope:
+      path: ""
+      type: "notebooks"
+    values:
+      layout: "notebook"
+  - scope:
+      path: ""
+      type: "debate"
+    values:
+      layout: "debate"
+
+# Plugins (optional; all are whitelisted by GitHub Pages)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Exclude from processing
+exclude:
+  - all-blog-in-one-file/
+  - backups/
+  - planning-posts/
+  - vendor/
+  - node_modules/
+  - .github/
+  - .DS_Store
+  - Gemfile
+  - Gemfile.lock
+  - README.md

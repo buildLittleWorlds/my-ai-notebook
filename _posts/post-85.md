@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Beyond the Binary: Hegel's Turn to Ethical Life"
+post_number: 85
+---
+
+Hegel's critique of the beautiful soul is so sharp that it can be mistaken for an endorsement simple pragmatism. If the flight into pure intention is an abdication of morality, it might seem that the only alternative is to judge actions by their tangible, real-world results. But it's wrong to conclude Hegel is a simple consequentialist. That misses the most important move in his philosophy.
+
+An embrace of the economic or political objection to the boycott is just as one-sided and abstract as the beautiful soul's obsession with purity. The pragmatist who reduces ethics to a calculus of impact commits a mirror-image error. They focus solely on the external consequence, ignoring the entire subjective dimension of conviction and freedom that Hegel identifies as the great achievement of modern morality. Both the "pure" boycotter and the "realistic" pragmatist accept the fundamental split between the inner self and the outer world; they are arguing from opposite sides of a chasm.
+
+Hegel's solution is not to choose a side but to heal the split itself. He attempts to overcome their one-sidedness. This is the move into what he calls *Sittlichkeit*, or "ethical life."
+
+*Sittlichkeit* refers to the established ethical order of a community, the living substance of its customs, traditions, and social institutions. For Hegel, true freedom isn't realized in the heroic isolation of the individual conscience or in the unreflective action of the pragmatist but through meaningful participation in a shared, rational community. A Hegelian response tries to transform the institutions that create the ethical problem in the first place. It requires moving beyond the individualistic act of consumption toward the collective, political act of citizenship, which is one of the potential ["Three Roads Forward."](/post-63) This is the difficult but necessary work of building a society where ethical life is not a matter of private retreat but of shared, concrete reality.

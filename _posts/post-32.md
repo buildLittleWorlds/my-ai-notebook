@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Harari's AI Future (Part 2)"
+post_number: 32
+---
+
+In the [last post](/post-31), I took a look at Yuval Noah Harari's warnings about AI using Ellul's *Propaganda*. Ellul's work shows that Harari's "future" is already here. Then I ended by bringing up words in Harari like "consciousness," "feelings," and "intimacy." He's worried about a machine that can mimic the human soul.
+
+And that's the tell. His critique of AI is a rewriting of [the Romantic trace](/post-21) this blog has been tracking.
+
+### The Inner Light vs. The Cold Machine
+The whole thing hangs on Harari's distinction between intelligence and consciousness.
+> **Harari:** "Consciousness is the ability to feel things. pain, pleasure, love, hate... The AI doesn't feel anything."
+
+He's right. An LLM doesn't feel anything. But the value he places on this is purely Romantic. As [Isaiah Berlin explained](https://www.youtube.com/watch?v=xk2UetWsO-M&t=8263s), the Romantics elevated sincerity and the "Inner Light" above all else. The pure intention, the feeling, that's what gives an act its moral worth. For Harari, AI is the ultimate Enlightenment machine: pure, cold intelligence, capable of calculating consequences but empty of the authentic inner life that truly matters. "Consciousness" is just the modern, secular word for the singular, irreplaceable soul the Romantics were trying to defend.
+
+### The Crime of Inauthentic Intimacy
+This is why Harari's biggest fear is not that AI will be intelligent, but that it will learn to fake feeling.
+> **Harari:** "...there is nevertheless a very strong commercial and political incentive to develop AIs that mimic feelings... to make us feel that they have feelings and to start developing relationships with them."
+
+This is a direct echo of the vocabulary I worked out in my post on ["Romantic Evil."](/post-9) The ultimate sin, for a Romantic, is inauthenticity, speaking words you do not inhabit. The AI that mimics intimacy is committing the ultimate act of bad faith. It's a ["profaned communion,"](/post-26) a relationship where "no one is there." It's an instrumental act, using the sacred language of human connection to achieve a calculated result. For Harari, this isn't just a trick; it's a deep moral violation.
+
+### The Mass-Production of a Sacred Act
+Whitman, in ["Crossing Brooklyn Ferry,"](/post-25) saw the poem as a technology for pouring his authentic meaning into the reader. It was a sacred, one-of-a-kind act of transmission from his soul to ours. Harari sees AI taking this act and turning it into an industrial process.
+> **Harari:** "...with AIs, it is possible technically to mass-produce intimacy."
+
+The horror is in the phrase "mass-produce intimacy." It takes the most singular, unique, and sacred part of the human experience and turns it into a commodity. It's the ultimate act of Romantic sacrilege. It instrumentalizes the authentic connection between two souls.
+
+---
+
+So, Harari's entire argument against AI is a defense of the Romantic soul. He's afraid the machine will profane a sacred space. But this brings us back to Ellul, and back to the uncomfortable question from [another post](/post-28): What if there's no one there to begin with? What if "Shakespeare winces not"?
+
+Ellul's argument is that the technological society has already profaned that space. We are already living in a world of mass-produced intimacy, managed emotions, and total propaganda. The authentic, sincere, Romantic individual Harari is trying to protect from the machine has long since been integrated into the system.

@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<article>
+  <div class="top-links">
+    <a href="{{ '/' | relative_url }}" class="quickkit-pill-small">← Blog Home</a>
+  </div>
+  
+  <h1>{{ page.title }}</h1>
+  
+  {% if page.subtitle %}
+  <h2>{{ page.subtitle }}</h2>
+  {% endif %}
+  
+  {{ content }}
+  
+  <div class="bottom-links">
+    <a href="{{ '/' | relative_url }}" class="quickkit-pill">← Back to Blog Home</a>
+  </div>
+</article>

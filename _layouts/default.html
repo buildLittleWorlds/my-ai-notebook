@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>{{ page.title }} — Professor Plate's Notebook</title>
+  <link rel="stylesheet" href="{{ '/style.css' | relative_url }}"/>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Mono&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header class="site-header">
+    <h1><a href="{{ '/' | relative_url }}">Professor Plate's Notebook</a></h1>
+    {% if page.layout != 'home' %}
+    <nav class="top-links">
+      <a class="quickkit-pill" href="{{ '/romantic-quick-kit' | relative_url }}" aria-label="Romantic Quick Kit">
+        Romantic Quick Kit
+      </a>
+      <a class="quickkit-pill" href="{{ '/ai-hermeneutics-kit' | relative_url }}" aria-label="AI Hermeneutics Kit">
+        AI Hermeneutics Kit
+      </a>
+    </nav>
+    {% endif %}
+  </header>
+
+  <main>
+    {{ content }}
+  </main>
+
+  <footer>
+    <p>&copy;2025 Daniel Plate</p>
+  </footer>
+</body>
+</html>

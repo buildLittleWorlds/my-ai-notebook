@@ -1,0 +1,31 @@
+---
+layout: post
+title: "The Student's Right to Their Own Methods"
+post_number: 111
+---
+
+A professor might say: *"We value transparency here. Honesty requires everyone to share how they work so others can benefit. If you're not doing anything wrong, why hide your methods?"*
+
+It sounds fair. Who could be against honesty and sharing? But in practice, this demand cuts into something vital: the student's ownership of their intellectual methods.
+
+### Mill on the Experiments of Living
+
+> *"It is desirable, in short, that in things which do not primarily concern others, individuality should assert itself. Where, not the person's own character, but the traditions or customs of other people are the rule of conduct, there is wanting one of the principal ingredients of human happiness, and quite the chief ingredient of individual and social progress."*
+
+Intellectual methods (how one gathers, organizes, verifies, drafts, and transforms material) are precisely such "experiments." They belong to the inward domain where individuality should assert itself.
+
+### Why Methods Matter (Concrete Stakes)
+
+- **Creative property:** A distinctive workflow (research pipelines, note taxonomies, prompt/playbooks, edit heuristics) is part of what makes a writer's work valuable. Compelled disclosure socializes that value.
+- **Competitive advantage:** Students legitimately compete by developing better processes. Mandatory transparency erodes the advantage of hard-won method and turns invention into compliance.
+- **Risk-taking under privacy:** Breakthroughs often come from "foolish-looking" experiments. Surveillance chills experimentation and selects for safe orthodoxy.
+- **Method ≠ morality:** Treating private process as a public virtue test (confess your method, or you're "hiding") confuses honesty with exposure. It replaces integrity of outcomes with policing of interiors.
+- **Scope creep into sanctions:** Once methods are compelled into the open, they become targetable by taste-based rules. Students lose freedom not because they harmed anyone but because they worked "the wrong way."
+
+### Answering "If You're Not Doing Wrong, Why Hide?"
+
+This is the language of surveillance, not education. Mill warns that social pressure easily extends beyond preventing harm into enforcing sameness. Privacy here protects autonomy, creativity, and diversification of approaches. Universities can demand *truthful outcomes* (source accuracy, argument quality, proper attribution) without conscripting *inner process* into public inspection.
+
+### Claim
+
+The student has a strong and legitimate interest in saying: "My methods are mine; I will choose what, if anything, to reveal." What they lose under compulsory transparency is not just privacy but the special value of their work: the freedom to build unique processes of thought and let those processes bear fruit in their writing.
