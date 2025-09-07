@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Crossing Brooklyn Ferry"
+post_number: 25
+date: 2024-01-26
+---
+
+When people talk about the "soul of art" or the "human spark," what do they actually mean? The vocabulary is always vague, more a feeling than an argument. But it's a real feeling and there's a real argument in there somewhere. There's a poem that makes the case better than any essay: [Walt Whitman's "Crossing Brooklyn Ferry."](https://www.poetryfoundation.org/poems/45470/crossing-brooklyn-ferry)
+
+The poem is a direct address to us, his future readers. From the very beginning, he makes a radical promise. He's not just describing a scene; he's claiming to be with us, right now:
+
+> And you that shall cross from shore to shore years hence are more to me, and more in my meditations, than you might suppose.
+
+How can he make this claim? He doesn't ground it in abstract philosophy but in the body and the senses. This is the first thing about the Romantic worldview: the connection is real because the experience is shared and authentic. So Whitman builds a bridge between his body and ours: the fundamentals of perception and feeling are the same. "Just as you feel when you look on the river and sky, so I felt," he writes. He lists the sensory details: the sea-gulls, the ships, the sunset, the "shimmering track of beams." Proof that his experience and ours are fundamentally interchangeable. He had a body, we have a body, and the world acts upon them in the same way. This shared experience is the foundation of the contract between him and us.
+
+From that physical foundation, he makes a spiritual leap. This shared experience dissolves time and space. This is the second thing. The power of the singular, transcendent human soul. He says it right here:
+
+> It avails not, time nor place—distance avails not,  
+> I am with you, you men and women of a generation, or ever so many generations hence...
+
+This is the "human spark" people talk about. It's the belief that a text is not just a collection of words but a vessel for a human presence. When we read, we are in communion with an actual person, a unique consciousness who "consider'd long and seriously of you before you were born." For Whitman, the poem is a "technology" (I think he means it literally as the only real kind of time machine there is) that allows his soul to achieve a kind of immortality and be present with us now.
+
+Then he tells us what the purpose of this connection is. It's not just to see what he saw, but to receive something from him. "What is it then between us?" he asks. His answer is that he "fuses me into you, and pours my meaning into you." This is *the* Romantic idea of the author. The author is not just a skilled arranger of words; he is a source, a presence who imparts something of his essential self to the reader. His "meaning." The text is the medium for this sacred act of transmission.
+
+This is the worldview that feels most threatened by AI. "Crossing Brooklyn Ferry" is the perfect articulation of everything people believe an AI cannot do. An AI has no body, no lived experience on the ferry. It has no singular soul to transcend time. And it has no authentic "meaning" of its own to pour into a reader. The whole Romantic argument against AI is that it seems to have the form of art without the human presence that gives it life. It gives us a ferry, a river, a sunset, but on the other end, there is no one there.
