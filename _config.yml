@@ -14,9 +14,12 @@ permalink: /:title/
 
 # Collections (no 'posts' here — posts are built-in via _posts/)
 collections:
-  kits:
+  romantic:
     output: true
-    permalink: /kits/:name/     # <-- add a prefix to avoid slug collisions
+    permalink: /romantic/:name/
+  ai_hermeneutics:
+    output: true
+    permalink: /ai-hermeneutics/:name/
   notebooks:
     output: true
     permalink: /notebooks/:name/
@@ -34,7 +37,12 @@ defaults:
       permalink: "/:title/"
   - scope:
       path: ""
-      type: "kits"
+      type: "romantic"
+    values:
+      layout: "kit"
+  - scope:
+      path: ""
+      type: "ai_hermeneutics"
     values:
       layout: "kit"
   - scope:
