@@ -2,11 +2,6 @@
 layout: kit-hub
 title: "Romantic Quick Kit"
 ---
-<div class="top-links">
-
-<a href="{{ '/' | relative_url }}" class="quickkit-pill-small">← Blog Home</a>
-
-</div>
 
 
 ## How to use this
@@ -33,8 +28,3 @@ explore the key features of this journey.
 - [Contexts: America]({{ '/kits/romantic-kit-contexts-america/' | relative_url }})
 - [Quick Glossary]({{ '/kits/romantic-kit-glossary/' | relative_url }})
 
-<div class="bottom-links">
-
-<a href="{{ '/' | relative_url }}" class="quickkit-pill">← Back to Blog Home</a>
-
-</div>

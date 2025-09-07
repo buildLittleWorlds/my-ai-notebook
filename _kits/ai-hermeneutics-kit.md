@@ -2,11 +2,6 @@
 layout: kit-hub
 title: "AI Hermeneutics Kit"
 ---
-<div class="top-links">
-
-<a href="{{ '/' | relative_url }}" class="quickkit-pill-small">← Blog Home</a>
-
-</div>
 
 
 ## How to use this
@@ -65,8 +60,3 @@ from theory to a practical method of reading.
 
 - [Glossary & Key Concepts]({{ '/kits/ai-kit-glossary/' | relative_url }})
 
-<div class="bottom-links">
-
-<a href="{{ '/' | relative_url }}" class="quickkit-pill">← Back to Blog Home</a>
-
-</div>
