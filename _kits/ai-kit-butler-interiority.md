@@ -20,7 +20,7 @@ illusion produced on the surface?
 
 ------------------------------------------------------------------------
 
-<div class="section">
+<div class="section" markdown="1">
 
 ## The "Internal Core" as a Surface Effect
 
@@ -37,7 +37,7 @@ to believe it is our essence. The "inside" is an effect of the
 
 </div>
 
-<div class="section">
+<div class="section" markdown="1">
 
 ## AI and the Mass Production of Sincerity
 

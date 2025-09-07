@@ -21,7 +21,7 @@ the novel risks posed by a computational medium.
 
 ------------------------------------------------------------------------
 
-<div class="section">
+<div class="section" markdown="1">
 
 ## The Asymmetric Dialogue: From Metaphorical to Computational Reading
 
@@ -44,7 +44,7 @@ modeled—is the source of the new risks associated with AI.
 
 </div>
 
-<div class="section">
+<div class="section" markdown="1">
 
 ## Two Categories of Hermeneutic Risk
 

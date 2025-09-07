@@ -21,7 +21,7 @@ is a myth.
 
 ------------------------------------------------------------------------
 
-<div class="section">
+<div class="section" markdown="1">
 
 ## Parody and the Imitation Without an Origin
 
@@ -38,7 +38,7 @@ been a copy all along.
 
 </div>
 
-<div class="section">
+<div class="section" markdown="1">
 
 ## AI as the Ultimate Parodic Machine
 

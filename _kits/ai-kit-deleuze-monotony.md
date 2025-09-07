@@ -20,7 +20,7 @@ Deleuzian machine.
 
 ------------------------------------------------------------------------
 
-<div class="section">
+<div class="section" markdown="1">
 
 ## Bare Repetition vs. Repetition for Itself
 

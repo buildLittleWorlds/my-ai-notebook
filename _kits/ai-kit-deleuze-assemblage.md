@@ -26,7 +26,7 @@ forming an assemblage, a new, temporary desiring-machine.
 
 ------------------------------------------------------------------------
 
-<div class="section">
+<div class="section" markdown="1">
 
 ## How the Assemblage Works
 
@@ -53,7 +53,7 @@ Deleuzian question "How does it work, and what does it produce?"
 
 </div>
 
-<div class="section">
+<div class="section" markdown="1">
 
 ## A Diagnostic for the Assemblage
 

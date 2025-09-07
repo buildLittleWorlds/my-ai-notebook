@@ -21,7 +21,7 @@ social norm we are compelled to perform to be seen as intelligible.
 
 ------------------------------------------------------------------------
 
-<div class="section">
+<div class="section" markdown="1">
 
 ## Identity as a Compulsory Performance
 
@@ -39,7 +39,7 @@ the social rules that produce it seem natural and inevitable.
 
 </div>
 
-<div class="section">
+<div class="section" markdown="1">
 
 ## The AI that Performs Coherence
 

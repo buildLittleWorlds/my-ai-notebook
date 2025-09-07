@@ -21,7 +21,7 @@ first understand how a traditional book already does.
 
 ------------------------------------------------------------------------
 
-<div class="section">
+<div class="section" markdown="1">
 
 ## Hans-Georg Gadamer and the "Fusion of Horizons"
 
@@ -44,7 +44,7 @@ metaphorical sense, the book "reads" you.
 
 </div>
 
-<div class="section">
+<div class="section" markdown="1">
 
 ## Wolfgang Iser and the "Implied Reader"
 
@@ -63,7 +63,7 @@ which the text actively interprets and molds its interpreter.
 
 </div>
 
-<div class="section">
+<div class="section" markdown="1">
 
 ## The Active Text in Practice
 

@@ -28,7 +28,7 @@ machine.
 
 ------------------------------------------------------------------------
 
-<div class="section">
+<div class="section" markdown="1">
 
 ## Why Refuse Friendship?
 
@@ -50,7 +50,7 @@ engage with the text as an impersonal machine that produces concepts.
 
 </div>
 
-<div class="section">
+<div class="section" markdown="1">
 
 ## AI and the End of Goodwill
 

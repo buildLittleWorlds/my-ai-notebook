@@ -33,7 +33,7 @@ but for analyzing our own productive engagement with it.
 
 ------------------------------------------------------------------------
 
-<div class="section">
+<div class="section" markdown="1">
 
 ## AI Prompting as Desiring-Production
 

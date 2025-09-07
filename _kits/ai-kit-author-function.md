@@ -21,7 +21,7 @@ precise questions about AI's role in creating texts.
 
 ------------------------------------------------------------------------
 
-<div class="section">
+<div class="section" markdown="1">
 
 ## The Romantic Baseline: The Author as Origin
 
@@ -40,7 +40,7 @@ ideal.
 
 </div>
 
-<div class="section">
+<div class="section" markdown="1">
 
 ## The 20th-Century Critique: De-centering the Author
 
@@ -86,7 +86,7 @@ Ricoeur set for all interpretation.
 
 </div>
 
-<div class="section">
+<div class="section" markdown="1">
 
 ## Conclusion: A More Precise Question
 

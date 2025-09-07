@@ -20,7 +20,7 @@ reframes the entire problem of AI authorship.
 
 ------------------------------------------------------------------------
 
-<div class="section">
+<div class="section" markdown="1">
 
 ## There Is No "Doer Behind the Deed"
 
@@ -37,7 +37,7 @@ precede the performance; the subject is an effect of the performance.
 
 </div>
 
-<div class="section">
+<div class="section" markdown="1">
 
 ## AI as the Ultimate Performative Author
 

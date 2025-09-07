@@ -21,7 +21,7 @@ potential risks of AI, we must first place them in this long tradition.
 
 ------------------------------------------------------------------------
 
-<div class="section">
+<div class="section" markdown="1">
 
 ## Plato's Fear of Poetry: The Original "Dangerous Text"
 
@@ -36,7 +36,7 @@ was a direct consequence of its interpretive power.
 
 </div>
 
-<div class="section">
+<div class="section" markdown="1">
 
 ## Heresy, Blasphemy, and the Power of the Word
 
@@ -54,7 +54,7 @@ neutral—they have real-world power to disrupt and transform.
 
 </div>
 
-<div class="section">
+<div class="section" markdown="1">
 
 ## A Modern Hermeneutic View of Textual Power
 
