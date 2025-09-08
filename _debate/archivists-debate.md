@@ -30,26 +30,26 @@ The debate unfolds as a four-phase institutional drama, with the balance of temp
 
 **Temperamental balance:** Clerkly dominance, with occasional philosophical seeds. Romance barely appears.
 
-- **[Memo 1.2 — Establishment of Borough Drawers]({{ '/debate/memo1-2/' | relative_url }})** **(Philosophical)**  
+- **[Memo 1.2 — Establishment of Borough Drawers]({{ '/debate/phase1-memo-1-2/' | relative_url }})** **(Philosophical)**  
   *Early systematizing disguised as protocol; proposes conceptual drawers across regions*
 
-- **[Minute 3.7 — Rationale: Provenance First]({{ '/debate/minute-3-7/' | relative_url }})** **(Clerkly)**  
+- **[Minute 3.7 — Rationale: Provenance First]({{ '/debate/phase1-minute-3-7/' | relative_url }})** **(Clerkly)**  
   *Pure procedural precision; argues that geography is the least falsifiable attribute*
 
 ## Phase II — Faults in Geography (Years 13–20) {#phase-2}
 
 **Temperamental balance:** All three temperaments emerge clearly for the first time. Phase II is the hinge.
 
-- **[Field Report 17.2 — On the Dens Boundary vs. Testimony]({{ '/debate/field-report-17-2/' | relative_url }})** **(Clerkly)**  
+- **[Field Report 17.2 — On the Dens Boundary vs. Testimony]({{ '/debate/phase2-field-edges-report/' | relative_url }})** **(Clerkly)**  
   *Lanver's mechanical documentation of unstable Dens boundary where ditch meters and testimony contradict*
 
-- **[Colloquy Note 18.9 — On the Fivefold Silhouette Copies]({{ '/debate/colloquy-note-18-9/' | relative_url }})** **(Philosophical)**  
+- **[Colloquy Note 18.9 — On the Fivefold Silhouette Copies]({{ '/debate/phase2-colloquy-withdrawal/' | relative_url }})** **(Philosophical)**  
   *Corvell's systematic reframing of authenticity as Doubling problem; provenance fails, recurrence is crisp*
 
-- **[Colloquy Note 14.6 — On Withdrawal as a Filing Principle]({{ '/debate/colloquy-note-14-6/' | relative_url }})** **(Romantic)**  
+- **[Colloquy Note 14.6 — On Withdrawal as a Filing Principle]({{ '/debate/phase2-colloquy-fivefold/' | relative_url }})** **(Romantic)**  
   *Dell's testimonial recognition that silence and withdrawal constitute active methods, not mere absence*
 
-- **[Case Note 19.4 — On the Pickbox Cart and Authorless Burden]({{ '/debate/case-note-19-4/' | relative_url }})** **(Romantic)**  
+- **[Case Note 19.4 — On the Pickbox Cart and Authorless Burden]({{ '/debate/phase2-case-pickbox/' | relative_url }})** **(Romantic)**  
   *Durn's narrative documentation of the authorless cart; proposes Mediation & Aperture through witness voices*
 
 ## Phase III — Orders Proposal (Year 22) {#phase-3}
@@ -62,7 +62,7 @@ Mediation & Aperture.
 - **Memorandum — "Toward a Unified Scheme of Archival Ordering" (T. Varro)** **(Philosophical)**  
   *cornerstone systematization; Orders supersede region as primary class*
 
-- **[Counter-Memo 22.4 — On the Stubbornness of "Provenance First"]({{ '/debate/counter-memo-22-4/' | relative_url }})** **(Philosophical)**  
+- **[Counter-Memo 22.4 — On the Stubbornness of "Provenance First"]({{ '/debate/phase3-counter-memo-metaphysics-risk/' | relative_url }})** **(Philosophical)**  
   *Varro's systematic challenge to Minute 3.7; argues geography as "least falsifiable" has hardened into superstition*
 
 - **Counter-Memo — "On the Danger of Metaphysics in Filing" (S. Kettel)** **(Clerkly)**  
@@ -72,10 +72,10 @@ Mediation & Aperture.
 
 **Temperamental balance:** All three temperaments collide, generating institutional self-consciousness about the Archive's world-shaping role.
 
-- **[Memorandum 23.1 — On the Necessity of Cross-Indexing Densmok]({{ '/debate/memorandum-23-1/' | relative_url }})** **(Philosophical)**  
+- **[Memorandum 23.1 — On the Necessity of Cross-Indexing Densmok]({{ '/debate/phase4-memo-densmok-crossindex/' | relative_url }})** **(Philosophical)**  
   *Gravent's systematic masterwork establishing cross-indexing requirements; Densmok as "hinge" between regions*
 
-- **[Counter-Memo 23.4 — Against Overreach in the Filing of Densmok]({{ '/debate/counter-memo-23-4/' | relative_url }})** **(Clerkly)**  
+- **[Counter-Memo 23.4 — Against Overreach in the Filing of Densmok]({{ '/debate/phase4-counter-memo-overreach/' | relative_url }})** **(Clerkly)**  
   *Keffel's anxious response to Gravent; warns against mandatory cross-indexing replacing evidence with taxonomy*
 
 - **Hearing — "Does the Catalog Create the Case?"** **(Romantic)**  
