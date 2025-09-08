@@ -1,10 +1,36 @@
 ---
+layout: debate
 title: "Archivists' Debate — Cataloging the World"
 phase: "Complete History"
 participants: ["T. Varro", "S. Kettel", "Archive Staff"]
 excerpt: "The central question: Does the archive mirror the world's structure, or does the archive's language help shape it?"
-permalink: /archivists-debate/
+permalink: /debate/archivists-debate/
 ---
+
+<!-- 
+TECHNICAL STANDARDS FOR NEW DEBATE DOCUMENTS:
+
+Required frontmatter template:
+---
+layout: debate
+title: "Document Title — Descriptive Subtitle"
+phase: "I" (use I/II/III/IV only)
+doc_type: "Memo"
+temperament: "Clerkly" (or Romantic/Philosophical)
+order_focus: ["Order1", "Order2"] (array format, or "n/a")
+regions: ["Region1"] (always array format)
+archive_date: "Year N, QN"
+date: 2024-01-01
+clerk_initials: "XX" (NOT "clerk:")
+status: "Adopted"
+excerpt: "Brief description"
+permalink: /debate/phase{N}-{type}-{slug}/
+---
+
+Filename pattern: phase{N}-{type}-{descriptive-slug}.md
+NO H1 headings in content - Jekyll displays title automatically
+Jekyll linking: {{ '/debate/phase{N}-{type}-{slug}/' | relative_url }}
+-->
 
 This hub collects internal memoranda, colloquy minutes, and circulars regarding the re-organization of
 the Capital archive. The central question: *Does the archive mirror the world's structure, or does the
@@ -36,6 +62,9 @@ The debate unfolds as a four-phase institutional drama, with the balance of temp
 - **[Minute 3.7 — Rationale: Provenance First]({{ '/debate/phase1-minute-3-7/' | relative_url }})** **(Clerkly)**  
   *Pure procedural precision; argues that geography is the least falsifiable attribute*
 
+- **[Minute 3.12 — Slip DR-02: On a Town Named by a Map]({{ '/debate/phase1-minute-3-12-dead-river-map/' | relative_url }})** **(Clerkly)**  
+  *Phase I filing of Dead River evidence showing town created by map-device rather than geographical features*
+
 ## Phase II — Faults in Geography (Years 13–20) {#phase-2}
 
 **Temperamental balance:** All three temperaments emerge clearly for the first time. Phase II is the hinge.
@@ -55,6 +84,15 @@ The debate unfolds as a four-phase institutional drama, with the balance of temp
 - **[Case Note 19.4 — On the Pickbox Cart and Authorless Burden]({{ '/debate/phase2-case-pickbox/' | relative_url }})** **(Romantic)**  
   *Durn's narrative documentation of the authorless cart; proposes Mediation & Aperture through witness voices*
 
+- **[Case Note 20.3 — On "Yeller": Fivefold Signs and the Missing]({{ '/debate/phase2-case-yeller-fivefold/' | relative_url }})** **(Romantic)**  
+  *Dell's testimonial exploration of "yeller" as encoded violence; public melody hiding private confession*
+
+- **[Case Note 20.7 — Map Without River: How a Device Makes a Town]({{ '/debate/phase2-case-dead-river-map-of-maps/' | relative_url }})** **(Philosophical)**  
+  *Dell's systematic analysis of Dead River as map-generated place; device-first filing over regional classification*
+
+- **[Case Note 20.9 — Counting as Device (The Recruiter & the Pickbox Cart)]({{ '/debate/phase2-case-counting-device-pickbox/' | relative_url }})** **(Romantic)**  
+  *Dell's testimonial analysis of five-count recruitment method and pickbox cart as doubling devices operating through numerical recurrence*
+
 ## Phase III — Orders Proposal (Year 22) {#phase-3}
 
 **Temperamental balance:** Philosophical dominance with clerkly resistance. Romance largely absent—systematizers vs. custodians.
@@ -68,6 +106,12 @@ Mediation & Aperture.
 - **[Counter-Memo 22.4 — On the Stubbornness of "Provenance First"]({{ '/debate/phase3-counter-memo-metaphysics-risk/' | relative_url }})** **(Philosophical)**  
   *Varro's systematic challenge to Minute 3.7; argues geography as "least falsifiable" has hardened into superstition*
 
+- **[Memorandum 22.7 — Devices that Install Institutions: The Crawford Library & the Church]({{ '/debate/phase3-memo-devices-install-institutions/' | relative_url }})** **(Philosophical)**  
+  *Dell's systematic analysis of institutional devices; library and church as civic apertures that create public legibility*
+
+- **[Brief 22.9 — Verbal Maps as Aperture (Lord Fullman Grist)]({{ '/debate/phase3-brief-verbal-maps-grist/' | relative_url }})** **(Philosophical)**  
+  *Dell's systematic analysis of spoken mapmaking as aperture operation, extending device logic to verbal practices*
+
 - **Counter-Memo — "On the Danger of Metaphysics in Filing" (S. Kettel)** **(Clerkly)**  
   *anxious pushback warning the archive risks shaping reality through labels*
 
@@ -78,11 +122,11 @@ Mediation & Aperture.
 - **[Memorandum 23.1 — On the Necessity of Cross-Indexing Densmok]({{ '/debate/phase4-memo-densmok-crossindex/' | relative_url }})** **(Philosophical)**  
   *Gravent's systematic masterwork establishing cross-indexing requirements; Densmok as "hinge" between regions*
 
+- **[Hearing 23.6 — Cheats, Shows, and the Feedback Ledger (Dead River)]({{ '/debate/phase4-hearing-dead-river-feedback-ledger/' | relative_url }})** **(Romantic)**  
+  *Dell's testimonial hearing documenting feedback loops between archival categories and Dead River practices through entertainment and circulation devices*
+
 - **[Counter-Memo 23.4 — Against Overreach in the Filing of Densmok]({{ '/debate/phase4-counter-memo-overreach/' | relative_url }})** **(Clerkly)**  
   *Keffel's anxious response to Gravent; warns against mandatory cross-indexing replacing evidence with taxonomy*
-
-- **Hearing — "Does the Catalog Create the Case?"** **(Romantic)**  
-  *dramatic testimony from Sticks clinics and North singers on how labels travel back into practice*
 
 ## Appendix — Selected Sources {#appendix}
 

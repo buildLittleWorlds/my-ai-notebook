@@ -85,47 +85,54 @@ permalink: /debate/your-filename/
 
 **Required Fields:**
 - `layout: debate` (always use this)
-- `title:` (descriptive title in quotes)
-- `phase:` (I, II, III, or IV)
+- `title:` (descriptive title in quotes with subtitle after em-dash)
+- `phase:` (I, II, III, or IV - single Roman numerals only)
 - `doc_type:` (from list in Step 1B)
 - `temperament:` (Clerkly/Romantic/Philosophical - REQUIRED)
-- `order_focus:` (array of 1-3 Orders from Step 1D)
-- `regions:` (relevant geographic areas)
-- `date:` (fictional archive date)
-- `clerk:` (your initials or fictional clerk)
+- `order_focus:` (array of 1-3 Orders from Step 1D, or "n/a")
+- `regions:` (array format even for single region)
+- `archive_date:` (fictional archive date in "Year N, QN" format)
+- `date: 2024-01-01` (standardized Jekyll date)
+- `clerk_initials:` (NOT "clerk:" - must be "clerk_initials:")
 - `status:` (Adopted/Filed/Referred/Superseded)
-- `permalink:` (must match filename)
+- `excerpt:` (brief description for listings)
+- `permalink:` (must match filename exactly: /debate/filename-without-.md/)
 
 ---
 
 ## Step 3: Format Your Content
 
 ### A. Required Content Structure
+**CRITICAL: Do NOT include H1 (#) headings - Jekyll displays the frontmatter title automatically**
+
 Your prose document must include these sections:
 
 ```markdown
 ## Abstract
-2-4 sentences describing what question this document addresses.
+2-4 sentences describing what question this document addresses in your chosen temperament voice.
 
 ## Exhibits
-Links to archive slips and quoted clips using Protocol 7.3 format.
+Include 1-2 quoted clips with proper formatting and temperament-appropriate commentary.
 
 ### Clip Example (Required - at least 1):
 **Clip (A1):**
 || Face-window shall be circular; no door; slips only. ||
 **Provenance:** Capital · Inspection Log (caliper checks)
 **Order(s):** Mediation & Aperture
-**Commentary:** Access is designed; paper passes; bodies do not.
+**Commentary (Temperament):** Commentary matching your temperament:
+- Clerkly: "Filed under Capital. Protocol documented."
+- Romantic: "The window speaks: bodies denied, paper permitted."  
+- Philosophical: "Evidence of systematic access control through designed constraint."
 
-## Main Content
-2-6 paragraphs of your argument/analysis in administrative tone.
+## Main Content/Argument
+2-6 paragraphs in your chosen temperament voice (not generic administrative).
 
 ## Disposition
 **Adopted** / **Filed Without Action** / **Referred to Committee** / **Superseded**
 
 ## Cross-References
-- **[Slip Code]** — Brief description with Order
-- **Phase [N] — [Document Title]** — Related debate document
+Use proper Jekyll linking syntax:
+- **Phase [N] — [Document Title]({{ '/debate/phase{N}-{type}-{slug}/' | relative_url }})**
 ```
 
 ### B. Voice and Style Requirements

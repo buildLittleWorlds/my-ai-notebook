@@ -138,7 +138,16 @@ Every piece of evidence you use should be treated as a **clip**—verbatim or ne
 
 ## 6) The kinds of documents you should produce (by temperament and phase)
 
-Write one document per day, **in character**. But now you must choose not only voice and rank (junior clerk, field officer, registrar, dissenter) but **temperament**. Keep them short (400–900 words), but let the temperament shape your administrative tone. The debate hub's plan lists the main genres and the Phase they tend to belong to, but each genre leans toward certain temperaments:
+Write one document per day, **in character**. But now you must choose not only voice and rank (junior clerk, field officer, registrar, dissenter) but **temperament**. Keep them short (400–900 words), but let the temperament shape your administrative tone. 
+
+**CRITICAL TECHNICAL REQUIREMENTS:**
+* Filename pattern: `phase{N}-{type}-{descriptive-slug}.md`
+* Frontmatter field `clerk_initials:` NOT `clerk:`
+* Phase field: "I", "II", "III", "IV" (not full descriptions)
+* All regions and orders as arrays: `["Region1"]` not just `"Region1"`
+* NO H1 headings in content - Jekyll displays frontmatter title
+
+The debate hub's plan lists the main genres and the Phase they tend to belong to, but each genre leans toward certain temperaments:
 
 **Genre-Temperament Tendencies:**
 * **Memos**: Often philosophical (ambitious, systematizing)

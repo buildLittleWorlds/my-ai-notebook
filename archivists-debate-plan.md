@@ -11,7 +11,7 @@
 
 ## 1) Page Skeleton & Roles
 
-### `archivists-debate.html` — Hub / Table of Contents
+### `archivists-debate.md` — Hub / Table of Contents
 
 **Sections** (anchored pills in-page):
 
@@ -36,55 +36,63 @@
 
 ## 2) Link Map (What each hub item should point to)
 
-For each bullet below, create a short HTML page (400–900 words) in `/debate/`. Use the file names shown (you can adjust slugs, but keep the overall pattern).
+For each bullet below, create a short Markdown page (400–900 words) in `_debate/`. Use the standardized filename pattern: `phase{N}-{type}-{descriptive-slug}.md`
+
+**CRITICAL FILENAME STANDARDS:**
+* All files must be `.md` not `.md`
+* Pattern: `phase{N}-{type}-{descriptive-slug}.md`
+* Examples: `phase1-memo-1-2.md`, `phase2-case-pickbox.md`, `phase3-counter-memo-metaphysics-risk.md`
+* NO spaces in filenames, use hyphens
+* Lowercase only
+* Descriptive slug should be 2-4 words max
 
 ### Phase I — Regional Drawers (Clerkly dominance, philosophical seeds)
 
-* **`/debate/phase1-memo-1-2.html`** — *Memo 1.2: Establishment of Borough Drawers* **(Philosophical)**
+* **`phase1-memo-1-2.md`** — *Memo 1.2: Establishment of Borough Drawers* **(Philosophical)**
   Rationale: geography as least-falsifiable attribute; custody chain; drawer list; early codes. Early systematizing disguised as protocol.
-* **`/debate/phase1-minute-3-7.html`** — *Minute 3.7: Provenance First* **(Clerkly)**
+* **`phase1-minute-3-7.md`** — *Minute 3.7: Provenance First* **(Clerkly)**
   Meeting notes that codify "Region → Form → Title" as the primary filing sequence. Pure procedural precision.
-* **`/debate/phase1-circular-5-1.html`** — *Circular 5.1: Chain-of-Slips Protocol* **(Clerkly)**
+* **`phase1-circular-5-1.md`** — *Circular 5.1: Chain-of-Slips Protocol* **(Clerkly)**
   How slip custody works (stamps, initials, window rules). Mechanical focus on procedures. Seeds later fights about apertures.
 
 ### Phase II — Faults in Geography (All three temperaments emerge)
 
-* **`/debate/phase2-field-edges-report.html`** — *Field Report: Dens Boundary vs Testimony* **(Clerkly)**
+* **`/debate/phase2-field-edges-report.md`** — *Field Report: Dens Boundary vs Testimony* **(Clerkly)**
   Shows ditch meters vs oral accounts; the "edge" moves; geography misleads without a boundary Order tag. Mechanical documentation of contradictions.
-* **`/debate/phase2-colloquy-fivefold.html`** — *Colloquy Note: Fivefold Silhouette Copies* **(Philosophical)**
+* **`/debate/phase2-colloquy-fivefold.md`** — *Colloquy Note: Fivefold Silhouette Copies* **(Philosophical)**
   Authenticity problem framed as **Doubling**, not place; provenance is noisy, recurrence is crisp. Systematic reframing of evidence.
-* **`/debate/phase2-case-pickbox.html`** — *Case Note: The Pickbox & Authorless Burden* **(Romantic)**
+* **`/debate/phase2-case-pickbox.md`** — *Case Note: The Pickbox & Authorless Burden* **(Romantic)**
   Cart testimony refuses authorship. Suggests **Mediation & Aperture** as primary class. Narrative attention to witness voices and mysterious objects.
-* **`/debate/phase2-colloquy-withdrawal.html`** — *Colloquy Note: On Withdrawal as Filing Principle* **(Romantic)**
+* **`/debate/phase2-colloquy-withdrawal.md`** — *Colloquy Note: On Withdrawal as Filing Principle* **(Romantic)**
   Minor archivist narrativizes silence practices; argues gaps are evidence. Testimonial approach to non-speech methods.
 
 ### Phase III — Orders Proposal (Philosophical dominance vs. clerkly resistance)
 
-* **`/debate/phase3-memo-orders.html`** — *Memorandum: Toward a Unified Scheme of Archival Ordering* (Varro) **(Philosophical)**
+* **`/debate/phase3-memo-orders.md`** — *Memorandum: Toward a Unified Scheme of Archival Ordering* (Varro) **(Philosophical)**
   Defines six Orders; proposes Orders-first filing; Regions = secondary tags. Systematic legislating of metaphysical categories.
-* **`/debate/phase3-counter-memo-metaphysics-risk.html`** — *Counter-Memo: On the Danger of Metaphysics* (Kettel) **(Clerkly)**
+* **`/debate/phase3-counter-memo-metaphysics-risk.md`** — *Counter-Memo: On the Danger of Metaphysics* (Kettel) **(Clerkly)**
   Argues labels *shape* witness speech; warns of catalog creating cases. Anxious procedural pushback against philosophical overreach.
-* **`/debate/phase3-brief-crossindex.html`** — *Brief: Cross-Index Standards v1* **(Philosophical)**
+* **`/debate/phase3-brief-crossindex.md`** — *Brief: Cross-Index Standards v1* **(Philosophical)**
   Introduces mandatory dual-tagging: **Order(s)** + **Region(s)**; minimum one cross-reference per slip. Technical systematization.
-* **`/debate/phase3-counter-memo-provenance-stubbornness.html`** — *Counter-Memo: On the Stubbornness of "Provenance First"* (Varro) **(Philosophical)**
+* **`/debate/phase3-counter-memo-provenance-stubbornness.md`** — *Counter-Memo: On the Stubbornness of "Provenance First"* (Varro) **(Philosophical)**
   Challenges Minute 3.7; argues geography has hardened into superstition. Philosophical irritation at clerkly caution.
 
 ### Phase IV — Implementation & Objections (Three-way collision)
 
-* **`/debate/phase4-directive-orders-first.html`** — *Directive: Orders-First, Regions-Second* **(Philosophical)**
+* **`/debate/phase4-directive-orders-first.md`** — *Directive: Orders-First, Regions-Second* **(Philosophical)**
   Official policy; compliance date; retrofits to legacy drawers; exception path. Systematic implementation of the new order.
-* **`/debate/phase4-memo-densmok-crossindex.html`** — *Memorandum: On the Necessity of Cross-Indexing Densmok* (Gravent) **(Philosophical)**
+* **`/debate/phase4-memo-densmok-crossindex.md`** — *Memorandum: On the Necessity of Cross-Indexing Densmok* (Gravent) **(Philosophical)**
   Definitive directive on Densmok as "hinge" requiring multiple Order tags. Philosophical masterwork on cross-regional phenomena.
-* **`/debate/phase4-counter-memo-overreach.html`** — *Counter-Memo: Against Overreach in Filing Densmok* (Keffel) **(Clerkly)**
+* **`/debate/phase4-counter-memo-overreach.md`** — *Counter-Memo: Against Overreach in Filing Densmok* (Keffel) **(Clerkly)**
   Response to Gravent; argues against mandatory cross-indexing for all slips. Clerkly resistance to systematic overreach.
-* **`/debate/phase4-hearing-create-the-case.html`** — *Hearing: "Does the Catalog Create the Case?"* **(Romantic)**
+* **`/debate/phase4-hearing-create-the-case.md`** — *Hearing: "Does the Catalog Create the Case?"* **(Romantic)**
   Testimony from Sticks clinics & North singers about label feedback into practice. Dramatic presentation of witness voices concerned about archival world-making.
-* **`/debate/phase4-edge-cases-window.html`** — *Edge Case Ruling: Capital Aperture & Stair Throttle* **(Clerkly)**
+* **`/debate/phase4-edge-cases-window.md`** — *Edge Case Ruling: Capital Aperture & Stair Throttle* **(Clerkly)**
   Window/stair architecture filed under **Mediation & Aperture**; explains why physical design is catalog-relevant. Legalistic ruling on procedural implementation.
 
 ### Appendix — Selected Sources (Pointers, not essays)
 
-* **`/debate/appendix-sources.html`** — one page with grouped bullets:
+* **`/debate/appendix-sources.md`** — one page with grouped bullets:
 
   * **Boundary** (Dens contradictions; ditch logs)
   * **Doubling** (Quarry journeys; fivefold impressions)
@@ -99,24 +107,50 @@ For each bullet below, create a short HTML page (400–900 words) in `/debate/`.
 
 ## 3) Content Spec for Each Debate Doc
 
-**Header block (at top of each `/debate/*.html`):**
+**YAML Frontmatter Template (REQUIRED):**
 
-* Title (e.g., *Memo 1.2 — Establishment of Borough Drawers*)
-* **Phase:** I / II / III / IV
-* **Doc Type:** Memo / Minute / Field Report / Colloquy Note / Hearing / Directive / Brief / Ruling
-* **Temperament:** Clerkly / Romantic / Philosophical (determines voice and approach)
-* **Order Focus:** one or more of the six (if Phase I, can be "n/a")
-* **Region(s):** if relevant to evidence
-* **Date & Clerk Initials:** e.g., Year 22, Q1 — JV
-* **Status Badge:** Draft / Adopted / Superseded
+```yaml
+---
+layout: debate
+title: "Document Title — Descriptive Subtitle"
+phase: "I"
+doc_type: "Memo"
+temperament: "Philosophical"
+order_focus: ["Boundary", "Doubling"]
+regions: ["Dens", "Capital"]
+archive_date: "Year 22, Q1"
+date: 2024-01-01
+clerk_initials: "JV"
+status: "Adopted"
+excerpt: "Brief description of document's significance"
+permalink: /debate/phase{N}-{type}-{descriptive-slug}/
+---
+```
 
-**Body sections (suggested):**
+**CRITICAL FRONTMATTER REQUIREMENTS:**
+* `layout: debate` (always required)
+* `phase:` use single Roman numerals ("I", "II", "III", "IV") NOT full descriptions
+* `temperament:` MUST be one of: "Clerkly" / "Romantic" / "Philosophical"
+* `order_focus:` array format ["Order1", "Order2"] or "n/a" for Phase I docs
+* `regions:` always as array ["Region1", "Region2"] even for single regions
+* `archive_date:` fictional archive date in format "Year N, QN"
+* `date: 2024-01-01` (standardized Jekyll date field)
+* `clerk_initials:` NOT "clerk:" - must be "clerk_initials:"
+* `permalink:` MUST match filename exactly: /debate/filename-without-extension/
 
-1. **Abstract (2–4 sentences)** — what question this doc addresses, written in the document's temperamental voice.
-2. **Exhibits** — links to slips (A1–I1) and ore passages; include 1–2 quoted "clips" (use the Protocol 7.3 **How to Cite a Clip** aside pattern). **Commentary on clips must match temperament:** clerkly (mechanical preservation), romantic (testimonial weaving), philosophical (systematic organization).
-3. **Argument** — 2–6 short paragraphs; **temperamental voice** (not generic administrative tone); show how filing choice affects meaning through the lens of the document's temperament.
-4. **Disposition** — Adopted / Filed Without Action / Sent to Colloquy.
-5. **Cross-Refs** — "See also: \[Phase II field report], \[Phase III counter-memo]."
+**Body sections (REQUIRED - NO H1 headings):**
+
+**CRITICAL: Do NOT include H1 (#) headings that duplicate the title - Jekyll will display the frontmatter title automatically.**
+
+1. **## Abstract** — what question this doc addresses, written in the document's temperamental voice.
+2. **## Exhibits** — include 1–2 quoted "clips" with proper formatting. **Commentary on clips must match temperament:** 
+   - Clerkly: "Filed under X. Contradiction noted." 
+   - Romantic: "She swore the ditch had grown; the town agreed."
+   - Philosophical: "Evidence demonstrates Order through systematic pattern."
+3. **## Main Content/Argument** — 2–6 short paragraphs in **temperamental voice**
+4. **## Disposition** — Adopted / Filed Without Action / Sent to Colloquy.
+5. **## Cross-References** — Links to other debate docs using proper Jekyll syntax:
+   `{{ '/debate/phase{N}-{type}-{slug}/' | relative_url }}`
 
 **Clip protocol:** reuse the `<aside class="cite-sidebar">` ("How to Cite a Clip") or a compact variant. Every debate doc should include at least **one** fully formatted Clip with commentary that demonstrates the temperamental approach to the same evidence.
 
@@ -152,16 +186,16 @@ Primary metaphysical **Orders** (top-level classes):
 
 ## 6) File Naming & Slugs
 
-* Hub: `archivists-debate.html`
-* Debate docs: `/debate/phase{N}-{type}-{slug}.html`
+* Hub: `archivists-debate.md`
+* Debate docs: `/debate/phase{N}-{type}-{slug}.md`
 
   * Examples:
 
-    * `phase1-memo-1-2.html`
-    * `phase2-field-edges-report.html`
-    * `phase3-counter-memo-metaphysics-risk.html`
-    * `phase4-hearing-create-the-case.html`
-* Appendix: `/debate/appendix-sources.html`
+    * `phase1-memo-1-2.md`
+    * `phase2-field-edges-report.md`
+    * `phase3-counter-memo-metaphysics-risk.md`
+    * `phase4-hearing-create-the-case.md`
+* Appendix: `/debate/appendix-sources.md`
 
 **Why:** consistent, human-readable URLs; easy to sort by Phase.
 
@@ -169,11 +203,11 @@ Primary metaphysical **Orders** (top-level classes):
 
 ## 7) Cross-Link Policy (From Slips → Debate)
 
-Each slip (e.g., `archivist-b1.html`) should add a tiny **footer line**:
+Each slip (e.g., `archivist-b1.md`) should add a tiny **footer line**:
 
 > “Filed under **\[Order]**. See **Debate: Phase II — \[doc title]** for the filing rationale.”
 
-* Keep it a single sentence; link both the **Order** anchor in `notebooks.html` **and** the relevant debate doc.
+* Keep it a single sentence; link both the **Order** anchor in `notebooks.md` **and** the relevant debate doc.
 * This creates bidirectional flow: **evidence** → **policy** → **evidence**.
 
 ---
@@ -195,7 +229,7 @@ Each slip (e.g., `archivist-b1.html`) should add a tiny **footer line**:
 
 **MVP (ship now):**
 
-* Hub (`archivists-debate.html`) with Phase sections.
+* Hub (`archivists-debate.md`) with Phase sections.
 * 1 doc per Phase (4 total) + Appendix page.
 * Add one cross-link footer to 3–5 key slips.
 
