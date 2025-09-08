@@ -14,7 +14,6 @@ excerpt: "Lanver's documentation of the instability of the Dens boundary where d
 permalink: /debate/phase2-field-edges-report/
 ---
 
-# Field Report 17.2 — On the Dens Boundary vs. Testimony
 
 **Session:** Boundary Subcommittee, Field Office South Ditch
 **Recorder:** Archivist P. Lanver

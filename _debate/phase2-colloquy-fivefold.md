@@ -14,8 +14,6 @@ excerpt: "Dell's early recognition that silence and withdrawal constitute active
 permalink: /debate/phase2-colloquy-fivefold/
 ---
 
-# Colloquy Note 14.6 — On Withdrawal as a Filing Principle
-
 **Session:** Informal Colloquy, Senate-House Annex B
 **Recorder:** Minor Archivist E. Dell
 **Date:** Year 15 (interim between Phase II field reports)

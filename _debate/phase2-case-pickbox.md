@@ -14,8 +14,6 @@ excerpt: "Durn's documentation of the authorless Pickbox Cart that defies region
 permalink: /debate/phase2-case-pickbox/
 ---
 
-# Case Note 19.4 — On the Pickbox Cart and Authorless Burden
-
 **Session:** Field Case Submission, North Annex Hearing Room
 **Recorder:** Archivist C. Durn
 **Date:** Year 19

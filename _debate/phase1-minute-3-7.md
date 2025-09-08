@@ -13,8 +13,6 @@ excerpt: "Meeting minutes that codify 'Region → Form → Title' as the primary
 permalink: /debate/phase1-minute-3-7/
 ---
 
-# Minute 3.7 — "Provenance First"
-
 **Session:** Colloquy of Junior Archivists, Year 8
 **Recorder:** Clerk A. Hessel (initialed “AH”)
 **Status:** Adopted unanimously

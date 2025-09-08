@@ -14,7 +14,6 @@ excerpt: "Gravent's definitive directive on cross-indexing Densmok slips, establ
 permalink: /debate/phase4-memo-densmok-crossindex/
 ---
 
-# Memorandum 23.1 — On the Necessity of Cross-Indexing Densmok
 
 **Session:** Senate-House, Grand Colloquy of Archivists
 **Author:** Senior Archivist J. Gravent (called “the Giant of the South Arcade”)

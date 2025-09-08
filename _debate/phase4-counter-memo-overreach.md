@@ -14,7 +14,6 @@ excerpt: "Keffel's response to Gravent's Memorandum 23.1, arguing against mandat
 permalink: /debate/phase4-counter-memo-overreach/
 ---
 
-# Counter-Memo 23.4 — Against Overreach in the Filing of Densmok
 
 **Session:** Senate-House, Cross-Orders Committee
 **Author:** Archivist M. Keffel (Mid-Rank, North Wing)

@@ -14,7 +14,6 @@ excerpt: "Varro's challenge to Minute 3.7, arguing that 'geography is least fals
 permalink: /debate/phase3-counter-memo-metaphysics-risk/
 ---
 
-# Counter-Memo 22.4 — On the Stubbornness of "Provenance First"
 
 **Session:** Senate-House Working Group on Orders, Year 22
 **Author:** Senior Archivist T. Varro

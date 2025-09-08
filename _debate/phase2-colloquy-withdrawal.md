@@ -14,7 +14,6 @@ excerpt: "Corvell's documentation of silhouette impressions that multiply withou
 permalink: /debate/phase2-colloquy-withdrawal/
 ---
 
-# Colloquy Note 18.9 — On the Fivefold Silhouette Copies
 
 **Session:** Informal Colloquy, South Arcade Chamber
 **Recorder:** Archivist L. Corvell
