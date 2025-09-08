@@ -8,10 +8,10 @@ This is a Jekyll-powered academic blog focused on literary theory, hermeneutics,
 
 ### 1. **Blog Posts** (`_posts/` collection)
 - **Purpose**: Traditional academic blog posts containing essays, arguments, and notes in progress
-- **Content**: Literary criticism, theoretical discussions, methodological explorations
+- **Content**: Literary criticism, theoretical discussions, methodological explorations (110 posts total)
 - **Layout**: Uses `post` layout
 - **URL Pattern**: `/:title/`
-- **File Pattern**: `_posts/post-[number].md`
+- **File Pattern**: `_posts/2024-MM-DD-post-[number].md`
 - **Front Matter**: 
   ```yaml
   layout: post
@@ -20,13 +20,14 @@ This is a Jekyll-powered academic blog focused on literary theory, hermeneutics,
   ```
 - **Navigation**: Accessible via main homepage tile and `/posts/` page
 
-### 2. **Kits** (`_kits/` collection) - Theoretical Frameworks
-Two main kit systems providing interpretive frameworks:
+### 2. **Kits** - Two Theoretical Framework Collections
+Two separate collections providing interpretive frameworks:
 
-#### A. **Romantic Quick Kit** (`/romantic-quick-kit/`)
+#### A. **Romantic Quick Kit** (`_romantic/` collection → `/romantic/`)
 - **Purpose**: Method and key concepts for reading Romanticism
-- **Hub File**: `_kits/romantic-quick-kit.md` (uses `kit-hub` layout)
-- **Individual Pages**: `romantic-kit-[topic].md` files covering:
+- **Hub File**: `romantic.md` landing page at `/romantic/`
+- **Main Hub**: `_romantic/romantic-quick-kit.md` (detailed framework)
+- **Individual Pages**: `romantic-kit-[topic].md` files (9 total) covering:
   - Hermeneutics (reading method)
   - Authenticity (self & sincerity)
   - Organic form (art, nature, unity)
@@ -34,10 +35,11 @@ Two main kit systems providing interpretive frameworks:
   - Historical contexts (Germany, England, America)
   - Glossary of terms
 
-#### B. **AI Hermeneutics Kit** (`/ai-hermeneutics-kit/`)
+#### B. **AI Hermeneutics Kit** (`_ai_hermeneutics/` collection → `/ai-hermeneutics/`)
 - **Purpose**: Framework for interpreting AI-generated texts
-- **Hub File**: `_kits/ai-hermeneutics-kit.md` (uses `kit-hub` layout)  
-- **Individual Pages**: `ai-kit-[topic].md` files covering:
+- **Hub File**: `ai-hermeneutics.md` landing page at `/ai-hermeneutics/`
+- **Main Hub**: `_ai_hermeneutics/ai-hermeneutics-kit.md` (detailed framework)
+- **Individual Pages**: `ai-kit-[topic].md` files (18 total) covering:
   - Theoretical foundations (author-function, interpretive dialogue, dangerous texts)
   - Deleuze applications (goodwill, forces, assemblages, monotony)
   - Butler frameworks (performativity, interiority, parody, regulation)
@@ -45,8 +47,9 @@ Two main kit systems providing interpretive frameworks:
   - Glossary and reference materials
 
 **Kit Technical Details**:
-- **Layouts**: `kit-hub` for main pages, `kit` for individual pages
-- **URL Pattern**: `/kits/:name/`
+- **Collections**: `romantic` and `ai_hermeneutics` (separate collections)
+- **URL Patterns**: `/romantic/:name/` and `/ai-hermeneutics/:name/`
+- **Layout**: `kit` layout for all pages
 - **Cross-linking**: Extensive internal linking between related concepts
 - **Style**: Academic but accessible, with practical reading applications
 
@@ -118,9 +121,12 @@ excerpt: "[KEY QUOTE FROM COMMENTARY]"
 ### Collections Setup (`_config.yml`):
 ```yaml
 collections:
-  kits:
+  romantic:
     output: true
-    permalink: /kits/:name/
+    permalink: /romantic/:name/
+  ai_hermeneutics:
+    output: true
+    permalink: /ai-hermeneutics/:name/
   notebooks:
     output: true  
     permalink: /notebooks/:name/
@@ -134,8 +140,7 @@ collections:
 - **`home.html`** - Homepage with four main tiles
 - **`post.html`** - Individual blog posts
 - **`posts-list.html`** - Blog post index
-- **`kit-hub.html`** - Main kit pages (romantic/AI)
-- **`kit.html`** - Individual kit pages
+- **`kit.html`** - All kit pages (both romantic and AI hermeneutics)
 - **`notebooks-hub.html`** - Notebooks index (auto-generates from collection)
 - **`notebook.html`** - Individual notebook entries
 - **`debate.html`** - Debate documents
@@ -143,9 +148,9 @@ collections:
 ### Navigation Structure
 Homepage (`/`) provides four main entry points:
 1. Blog Posts → `/posts/` → individual posts
-2. Romantic Quick Kit → `/romantic-quick-kit/` → individual romantic kit pages  
-3. AI Hermeneutics Kit → `/ai-hermeneutics-kit/` → individual AI kit pages
-4. Quarry Notebooks → `/notebooks/` → individual notebook entries + `/archivists-debate/`
+2. Romantic Quick Kit → `/romantic/` → individual romantic kit pages  
+3. AI Hermeneutics Kit → `/ai-hermeneutics/` → individual AI kit pages
+4. Quarry Notebooks → `/notebooks/` → individual notebook entries + `/debate/archivists-debate/`
 
 ### Development Workflow
 ```bash
@@ -186,7 +191,8 @@ bundle exec jekyll build
 ├── _layouts/             # HTML templates  
 ├── _includes/            # Reusable components
 ├── _posts/               # Blog posts (110+ files)
-├── _kits/                # Theoretical frameworks (27+ files)
+├── _romantic/            # Romantic Quick Kit (9 files)
+├── _ai_hermeneutics/     # AI Hermeneutics Kit (18 files)
 ├── _notebooks/           # Archive entries (18+ files)
 ├── _debate/              # Archival methodology debates
 ├── index.md              # Homepage

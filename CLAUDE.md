@@ -27,13 +27,15 @@ This site is configured for GitHub Pages deployment with baseurl `/my-ai-noteboo
 ## Site Architecture
 
 ### Four Main Collections
-1. **Posts** (`_posts/`) - Traditional academic blog posts (110+ files)
-2. **Kits** (`_kits/`) - Theoretical frameworks: Romantic Quick Kit and AI Hermeneutics Kit (27+ files)  
-3. **Notebooks** (`_notebooks/`) - Fictional archive entries organized by six interpretive "Orders" (18+ files)
-4. **Debate** (`_debate/`) - Meta-archival methodology discussions
+1. **Posts** (`_posts/`) - Traditional academic blog posts (110 files)
+2. **Romantic** (`_romantic/`) - Romantic theory framework with 9 components
+3. **AI Hermeneutics** (`_ai_hermeneutics/`) - AI interpretation framework with 18 components
+4. **Notebooks** (`_notebooks/`) - Fictional archive entries organized by six interpretive "Orders" (18 files)
+5. **Debate** (`_debate/`) - Meta-archival methodology discussions
 
 ### Collection Configuration
-- **Kits**: `/kits/:name/` - Individual framework pages with hub pages at `/romantic-quick-kit/` and `/ai-hermeneutics-kit/`
+- **Romantic**: `/romantic/:name/` - Romantic theory components with hub page at `/romantic/romantic-quick-kit/`
+- **AI Hermeneutics**: `/ai-hermeneutics/:name/` - AI hermeneutics components with hub page at `/ai-hermeneutics/ai-hermeneutics-kit/`
 - **Notebooks**: `/notebooks/:name/` - Archive entries accessible via `/notebooks/` hub
 - **Debate**: `/debate/:name/` - Archival methodology documents
 - **Posts**: `/:title/` - Blog posts accessible via `/posts/`
@@ -62,12 +64,12 @@ The notebooks implement a rigorous fictional archive organized by six interpreti
 
 Each entry follows strict formatting with catalog codes, provenance, extracts, and archivist commentary.
 
-### Kit System
-Two comprehensive theoretical frameworks:
-- **Romantic Quick Kit** - Method and concepts for reading Romanticism
-- **AI Hermeneutics Kit** - Framework for interpreting AI-generated texts
+### Theoretical Framework System
+Two comprehensive theoretical frameworks organized as separate collections:
+- **Romantic Collection** (`_romantic/`) - Method and concepts for reading Romanticism with 9 components
+- **AI Hermeneutics Collection** (`_ai_hermeneutics/`) - Framework for interpreting AI-generated texts with 18 components
 
-Both include hub pages that link to detailed individual concept pages.
+Each collection includes a hub page that links to detailed individual concept pages.
 
 ## Technical Details
 
@@ -83,20 +85,22 @@ Both include hub pages that link to detailed individual concept pages.
 - Located in `style.css` at project root
 
 ### Navigation
-Homepage provides four main tiles leading to each collection. Kit hub pages have extensive cross-linking between related concepts.
+Homepage provides four main tiles leading to each collection. Root-level hub pages (`romantic.md` and `ai-hermeneutics.md`) provide entry points to each theoretical framework, while collection-level hub pages within each collection have extensive cross-linking between related concepts.
 
 ## Content Guidelines
 
 ### Voice and Style
 - **Posts**: First person, reflective, work-in-progress
-- **Kits**: Instructional, systematic, practical application focus
+- **Romantic**: Instructional, systematic, practical application focus for Romantic theory
+- **AI Hermeneutics**: Instructional, systematic, practical application focus for AI interpretation
 - **Notebooks**: Archival voice, analytical, preserving ambiguity
 - **Debate**: Meta-critical, methodological discussions
 
 ### File Naming Conventions
 - Posts: `post-[number].md`
-- Kits: `[kit-name]-kit-[topic].md`
+- Romantic: `romantic-kit-[topic].md` or `romantic-quick-kit.md` for hub
+- AI Hermeneutics: `ai-kit-[topic].md` or `ai-hermeneutics-kit.md` for hub
 - Notebooks: `archivist-[letter][number].md`
 - Use lowercase, hyphens for spaces
 
-The site functions as an integrated system where blog posts develop ideas that become formalized in kits, which provide frameworks for analyzing materials preserved in the notebooks.
+The site functions as an integrated system where blog posts develop ideas that become formalized in theoretical frameworks (romantic and AI hermeneutics collections), which provide methods for analyzing materials preserved in the notebooks.

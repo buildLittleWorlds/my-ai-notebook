@@ -30,3 +30,8 @@ ai-prompting-for-style/
 all-blog-in-one-file/
 backups/
 planning-posts/
+
+# Site aggregation files
+*-aggregate-*.md
+aggregate-*.sh
+aggregate-all-files.md
