@@ -14,24 +14,33 @@ This guide provides step-by-step instructions for converting your prose document
 
 Before creating your file, identify these elements from your prose document:
 
-### A. Phase Classification
-- **Phase I** (Years 1-12): Regional filing system establishment
-- **Phase II** (Years 13-20): Geographic system failures
+### A. Phase Classification (determines when and what temperamental balance)
+- **Phase I** (Years 1-12): Regional filing system establishment  
+  *Temperamental balance:* Clerkly dominance, with occasional philosophical seeds. Romance barely appears.
+- **Phase II** (Years 13-20): Geographic system failures  
+  *Temperamental balance:* All three temperaments emerge clearly for the first time.
 - **Phase III** (Year 22): Orders proposal and debate  
-- **Phase IV** (Year 23+): Implementation and objections
+  *Temperamental balance:* Philosophical dominance with clerkly resistance. Romance largely absent.
+- **Phase IV** (Year 23+): Implementation and objections  
+  *Temperamental balance:* All three temperaments collide, generating institutional self-consciousness.
 
-### B. Document Type
-- `Memo` - Policy documents, proposals
-- `Minute` - Meeting transcripts, proceedings
-- `Field Report` - Evidence from regions, measurements vs. testimony
-- `Colloquy Note` - Academic discussions, theory debates
-- `Counter-Memo` - Opposition documents, warnings
-- `Directive` - Official policy adoptions
-- `Hearing` - Testimony records, witness statements
-- `Ruling` - Edge case decisions, clarifications
-- `Brief` - Technical standards, procedures
+### B. Document Type (with temperamental tendencies)
+- `Memo` - Policy documents, proposals (*often philosophical*)
+- `Minute` - Meeting transcripts, proceedings (*typically clerkly*)
+- `Field Report` - Evidence from regions, measurements vs. testimony (*usually clerkly, sometimes philosophical*)
+- `Colloquy Note` - Academic discussions, theory debates (*often romantic*)
+- `Counter-Memo` - Opposition documents, warnings (*any temperament in opposition mode*)
+- `Directive` - Official policy adoptions (*typically philosophical*)
+- `Hearing` - Testimony records, witness statements (*romantic-philosophical*)
+- `Ruling` - Edge case decisions, clarifications (*clerkly*)
+- `Brief` - Technical standards, procedures (*philosophical*)
 
-### C. Order Focus (1-3 primary)
+### C. Temperament (REQUIRED - choose one)
+- **Clerkly**: Procedural, anxious, exact. "Filed under Dens. Contradiction noted." Focus on custody, protocols, stamps.
+- **Romantic**: Narrative, testimonial, dramatic. "She swore the ditch had grown; the town agreed." Focus on individual voices, stories.
+- **Philosophical**: Abstract, systematic, legislative. "Evidence demonstrates Boundary Order through unstable geographical determination." Focus on categories, patterns.
+
+### D. Order Focus (1-3 primary)
 - `Boundary` - Unstable edges, moving lines
 - `Doubling` - Replication, copies without origin
 - `Craving` - Desire as generative force
@@ -64,6 +73,7 @@ layout: debate
 title: "Your Document Title"
 phase: "I"
 doc_type: "Memo"
+temperament: "Clerkly"
 order_focus: ["Boundary", "Mediation & Aperture"]
 regions: ["Dens", "Capital"]
 date: "Year 22, Q1"
@@ -78,7 +88,8 @@ permalink: /debate/your-filename/
 - `title:` (descriptive title in quotes)
 - `phase:` (I, II, III, or IV)
 - `doc_type:` (from list in Step 1B)
-- `order_focus:` (array of 1-3 Orders from Step 1C)
+- `temperament:` (Clerkly/Romantic/Philosophical - REQUIRED)
+- `order_focus:` (array of 1-3 Orders from Step 1D)
 - `regions:` (relevant geographic areas)
 - `date:` (fictional archive date)
 - `clerk:` (your initials or fictional clerk)
@@ -118,10 +129,14 @@ Links to archive slips and quoted clips using Protocol 7.3 format.
 ```
 
 ### B. Voice and Style Requirements
-- **Administrative tone** - exact, procedural, institutional
-- **Present contradictions** - don't resolve conflicts in evidence
+- **Temperamental consistency** - must match your chosen temperament throughout
+  - **Clerkly**: Terse, procedural, exact. "Filed under Dens. Contradiction noted."
+  - **Romantic**: Narrative, testimonial, dramatic. "She swore the ditch had grown; the town agreed." 
+  - **Philosophical**: Abstract, systematic, legislative. "Evidence demonstrates Boundary Order through unstable geographical determination."
+- **Present contradictions** - don't resolve conflicts in evidence (but temperaments handle differently)
 - **Quote verbatim** - use `|| quoted material ||` for clips
 - **Cross-index everything** - minimum 2 slip references, 1 cross-phase document
+- **Commentary must match temperament** - clerks preserve mechanically, romantics dramatize, philosophers systematize
 
 ---
 
@@ -199,10 +214,11 @@ Add [Phase] [doc_type] on [topic]
 ## Step 7: Quality Assurance
 
 ### A. Content Review
-- Voice consistency with existing debate documents
+- **Temperamental voice consistency** - document must embody one temperament clearly
 - Proper use of fictional archive terminology
 - Cross-references to existing materials
-- Administrative tone maintained throughout
+- **Temperamental authenticity** - must feel written by a specific type of archivist, not generic admin
+- Commentary on clips matches temperamental approach to evidence
 
 ### B. Technical Review  
 - File builds without Jekyll errors
@@ -238,12 +254,37 @@ bundle exec jekyll doctor
 
 If you have a prose document about window inspection procedures:
 
-1. **Classification:** Phase IV (implementation), Field Report, Mediation & Aperture
+1. **Classification:** Phase IV (implementation), Field Report, **Clerkly temperament**, Mediation & Aperture
 2. **Filename:** `phase4-field-window-static-incidents.md`
 3. **Location:** `_debate/phase4-field-window-static-incidents.md`
-4. **Frontmatter:** Use template with your specific values
+4. **Frontmatter:** Use template with your specific values (include `temperament: "Clerkly"`)
 5. **Content:** Restructure into Abstract → Clips → Analysis → Disposition → Cross-refs
-6. **Test:** Local Jekyll serve to verify rendering
-7. **Commit:** Following git workflow above
+6. **Temperamental voice:** Maintain clerkly precision throughout - "Two static incidents logged. Grit-induced distortion noted. Status: PASS."
+7. **Test:** Local Jekyll serve to verify rendering
+8. **Commit:** Following git workflow above
 
-This process ensures your prose document integrates seamlessly with the existing Jekyll architecture while maintaining the rigorous fictional archive voice.
+This process ensures your prose document integrates seamlessly with the existing Jekyll architecture while maintaining the rigorous fictional archive voice **and expressing one of the three distinct archivist temperaments.**
+
+---
+
+## Appendix: The Three Temperaments Quick Reference
+
+### Clerkly Archivists (The Custodians)
+**Fear:** Chaos, loss, falsification  
+**Conviction:** "The Archive preserves; it does not interpret."  
+**Voice:** Short, precise sentences. Focus on procedures, stamps, filing codes.  
+**Evidence approach:** Mechanical preservation. Every contradiction filed, not resolved.
+
+### Romantic Archivists (The Witnesses)
+**Fear:** Fragmentation, silence, meaninglessness  
+**Conviction:** "Every slip carries a witness; every witness carries a world."  
+**Voice:** Narrative momentum, dramatic attention to individuals, opening questions.  
+**Evidence approach:** Testimonial weaving. Contradictions are dramatic tension.
+
+### Philosophical Archivists (The Systematizers)
+**Fear:** Incoherence, arbitrariness, chaos  
+**Conviction:** "The Archive reveals the world's orders."  
+**Voice:** Abstract language, systematic ambition, confident legislation.  
+**Evidence approach:** Systematic organization. Contradictions are dialectical pressure.
+
+**Remember:** Each document must embody ONE temperament clearly, but all three voices must appear across the debate collection to maintain the institutional tension that keeps the Archive alive.

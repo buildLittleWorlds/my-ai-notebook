@@ -2,13 +2,14 @@
 title: "Memo 1.2 — Establishment of Borough Drawers"
 phase: "Phase I — Regional Drawers (Years 1–12)"
 doc_type: "Memo"
+temperament: "Philosophical"
 order_focus: "n/a"
 archive_date: "Year 3, Q2"
 date: 2024-01-01
 clerk_initials: "JV"
 status: "Adopted"
 excerpt: "Policy draft proposing conceptual drawers that cut across geographic regions, introducing the first challenge to pure geographic filing"
-permalink: /debate/memo1-2/
+permalink: /debate/phase1-memo-1-2/
 ---
 
 ### Circulation: Internal (Archivist Senate)

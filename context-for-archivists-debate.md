@@ -8,11 +8,19 @@ Here’s a field guide you can hand to the graduate student—dense on context, 
 
 Your assignment is to speak from inside the Capital archive. You are an archivist—sometimes junior, sometimes senior; sometimes dissenting, sometimes orthodox—who files slips, argues policy, and slowly realizes that classification is not just housekeeping but a theory of the world.
 
-The core question you inherit is simple to say and difficult to live with:
+But the Archive does not speak in one voice. Over time, three distinct **archivist temperaments** have emerged, each with its own approach to the central question:
 
-> Does the archive mirror the world’s structure, or does the archive’s language help shape it?&#x20;
+> Does the archive mirror the world's structure, or does the archive's language help shape it?&#x20;
 
-Everything below gives you a thick sense of the world (“Densworld”), the archive that tries to keep it, and the factions arguing over how that keeping should work.
+**The Three Temperaments:**
+
+- **Clerkly Archivists**: Procedural, anxious, focused on custody and stamps. They distrust both story and metaphysics, insisting "Archivists are custodians, not philosophers." Their voice is dry, technical, precise.
+- **Romantic Archivists**: Narrativizing, dramatic, skeptical of "mere protocol." They want slips to become coherent stories, to sing. They write like witnesses rather than clerks.
+- **Philosophical Archivists**: Abstract, systematizing, confident that categories reveal metaphysical truths. They legislate, invent Orders, and reshape filing systems with systematic ambition.
+
+The Archivists' Debate is not simply geography vs. Orders, but **clerkly vs. romantic vs. philosophical**—a three-way tension that shapes every document, every policy shift, every voice you'll encounter.
+
+Everything below gives you a thick sense of the world ("Densworld"), the archive that tries to keep it, and how these three temperaments clash over the proper method of that keeping.
 
 ---
 
@@ -52,16 +60,21 @@ Even staircases are policy—“designed to slow crowds while favoring licensed 
 
 ---
 
-## 3) The debate you’re joining (its phases and stakes)
+## 3) The debate you're joining (its phases and temperamental evolution)
 
-The archivists have formalized their quarrel as a four-phase institutional history:
+The archivists have formalized their quarrel as a four-phase institutional history, but each phase shows a different balance of temperaments:
 
-* **Phase I — Regional Drawers:** everything filed by geography, “Provenance First.”&#x20;
-* **Phase II — Faults in Geography:** evidence begins to leak across the drawers (moving edges, originals that won’t resolve, authorless devices).&#x20;
-* **Phase III — Orders Proposal:** Varro’s memorandum introduces the six Orders and argues Orders-first filing. Kettel counters that metaphysical labels risk *making* cases.&#x20;
-* **Phase IV — Implementation & Objections:** a directive adopts Orders-first with cross-indexing; hearings probe whether catalog language feeds back into practice.&#x20;
+* **Phase I — Regional Drawers (Years 1-12):** Everything filed by geography, "Provenance First." **Clerkly dominance**, with occasional philosophical seeds. Romance barely appears. Documents: precise minutes, custody protocols, early systematizing memos.
 
-A succinct planning brief codifies how this hub “does history,” what each phase should link to, and the editorial standards for debate docs (Orders-first → Form → Region; clips as evidence; contradictions preserved). Use it as your procedural compass.  &#x20;
+* **Phase II — Faults in Geography (Years 13-20):** Evidence begins to leak across drawers (moving edges, originals that won't resolve, authorless devices). **All three temperaments emerge clearly** for the first time. Clerkly field reports document contradictions; romantic colloquy notes narrativize refusals; philosophical case notes propose new Orders.
+
+* **Phase III — Orders Proposal (Year 22):** Varro's memorandum introduces the six Orders and argues Orders-first filing. Kettel counters that metaphysical labels risk *making* cases. **Philosophical dominance** with clerkly resistance. Romance largely absent—this is abstract systematizers vs. anxious custodians.
+
+* **Phase IV — Implementation & Objections (Year 23+):** A directive adopts Orders-first with cross-indexing; hearings probe whether catalog language feeds back into practice. **All three temperaments collide**, generating self-consciousness about the Archive's world-shaping role.
+
+The debate is not just methodological but psychological: each temperament brings different fears, different hopes, different voices to the same evidence.
+
+A succinct planning brief codifies how this hub "does history," what each phase should link to, and the editorial standards for debate docs (Orders-first → Form → Region; clips as evidence; contradictions preserved). Use it as your procedural compass.  &#x20;
 
 ---
 
@@ -107,36 +120,54 @@ Each Order below includes 1) what it catches, 2) emblematic exhibits, and 3) a q
 
 ---
 
-## 5) The slip as your unit of truth (and how to cite)
+## 5) The slip as your unit of truth (and how temperaments cite differently)
 
-Every piece of evidence you use should be treated as a **clip**—verbatim or near-verbatim excerpt—wrapped in protocol, then indexed. The standing **“How to Cite a Clip”** procedure (Protocol 7.3) standardizes this for all archivists:
+Every piece of evidence you use should be treated as a **clip**—verbatim or near-verbatim excerpt—wrapped in protocol, then indexed. The standing **"How to Cite a Clip"** procedure (Protocol 7.3) standardizes this for all archivists:
 
 * Identify **Slip Code**; note **Provenance** (Region + Form); quote with `||` or blockquote; assign **Order(s)**; add a short **Commentary** line explaining how the clip pressures the filing choice. &#x20;
 
-**Practice rule:** **Contradictions are evidence**. Don’t reconcile mismatched witness cards; don’t collapse parallel testimonies. File both; say why both matter.&#x20;
+**But commentary differs by temperament:**
+
+- **Clerkly** → "Filed under Dens; meter vs. stool testimony recorded."
+- **Romantic** → "She swore the ditch had grown; her words swell the town itself."  
+- **Philosophical** → "Evidence of Boundary: geography resizes itself through speech."
+
+**Practice rule:** **Contradictions are evidence**. Don't reconcile mismatched witness cards; don't collapse parallel testimonies. File both; say why both matter. But temperaments handle contradictions differently: clerks preserve them mechanically, romantics dramatize them as narrative tension, philosophers systematize them as dialectical pressure.&#x20;
 
 ---
 
-## 6) The kinds of documents you should produce (daily)
+## 6) The kinds of documents you should produce (by temperament and phase)
 
-Write one document per day, **in character**. Vary voice and rank (junior clerk, field officer, registrar, dissenter). Keep them short (400–900 words) and **administrative in tone**—your unease leaks through what you file, not purple prose. The debate hub’s plan lists the main genres and the Phase they tend to belong to: memos, minutes, field reports, colloquy notes, directives, hearings, rulings, briefs. &#x20;
+Write one document per day, **in character**. But now you must choose not only voice and rank (junior clerk, field officer, registrar, dissenter) but **temperament**. Keep them short (400–900 words), but let the temperament shape your administrative tone. The debate hub's plan lists the main genres and the Phase they tend to belong to, but each genre leans toward certain temperaments:
+
+**Genre-Temperament Tendencies:**
+* **Memos**: Often philosophical (ambitious, systematizing)
+* **Minutes**: Clerkly (terse, procedural)  
+* **Circulars**: Clerkly (policy handouts)
+* **Colloquy Notes**: Romantic (narrative, minor voices)
+* **Case Notes**: Hybrid (fact-based, but with narrative gloss)
+* **Field Reports**: Usually clerkly, sometimes philosophical
+* **Hearings**: Romantic-philosophical (dialogic, dramatic)
+* **Rulings**: Clerkly (legalistic)
+* **Counter-Memos**: Any temperament in opposition mode
 
 **All debate docs should:**
 
 * Lead with **Phase**, **Doc Type**, **Order Focus**, **Region(s)**, **Date & Clerk**.
-* Include **≥1 clip** (use Protocol 7.3).
+* Include **≥1 clip** (use Protocol 7.3, commentary matched to temperament).
 * End with **Disposition** (Adopted / Filed / Referred / Superseded).
 * Cross-reference **≥2 slips** and **≥1 doc in a different Phase** whenever possible.&#x20;
+* **Embody a clear temperamental voice** throughout.
 
-### A non-exhaustive menu of document types & angles
+### Temperamental approaches to the same evidence
 
-* **Memo (Phase I / III):** policy, taxonomy, re-shelving rationale.
-* **Minute (Phase I):** a meeting transcript, cool and procedural.
-* **Field Report (Phase II):** meters vs mouths; device vs witness.
-* **Colloquy Note (Phase II):** scholars arguing; the minutes wobble between theory and death notice (Quarry style).&#x20;
-* **Counter-Memo (Phase III):** warn that labels teach witnesses how to speak.&#x20;
-* **Directive / Ruling (Phase IV):** announce Orders-first; settle edge cases (e.g., window & stairs throttle). &#x20;
-* **Hearing (Phase IV):** take testimony from Sticks clinics or North singers on how catalog terms travel back into practice.&#x20;
+The same slip can be filed differently depending on temperament:
+
+**Clip:** || "The ditch rose two hands overnight. Dens is shrinking." ||
+
+- **Clerkly approach**: "Measurement recorded. Filed under Dens, meter log. Contradicts stool testimony D-17b. Both preserved."
+- **Romantic approach**: "The earth itself speaks here, swelling against the town's borders. What story does the ditch tell?"
+- **Philosophical approach**: "Evidence of Boundary Order: geography demonstrates unstable edges through measurable shift."
 
 ---
 
@@ -155,29 +186,56 @@ These are “world-engines”—repeat them, rotate them, cross-index them. Each
 
 ---
 
-## 8) Daily practice: prompts, stances, and constraints
+## 8) Daily practice: temperament rotation and voice discipline
 
-### A. Rotating stances (pick one per day)
+### A. Rotating temperaments (cycle through all three)
 
-* **Varroist (pro-Orders):** Argue that filing by recurrence makes the world legible.
-* **Regionalist (old school):** Defend provenance as least-falsifiable anchor.
-* **Constructivist (skeptical):** Warn that Orders teach witnesses what to say.&#x20;
+Your weekly rhythm should balance all three voices:
 
-### B. Prompts (aim for 30+ days)
+* **Clerkly days:** Focus on procedures, custody, contradictions as filing problems. Motto: "Archivists are custodians, not philosophers." Style: terse, precise, distrustful of grand theories.
 
-* **Boundary:** A porchline vanishes overnight; log meters and proverbs side-by-side.&#x20;
-* **Doubling:** Audit second-generation road maps; what counts as the “main line”?&#x20;
-* **Craving:** Catalog a new Densmok rig; record its side-effects as method, not bug. (Use Protocol 7.3.)&#x20;
-* **Silence & Withdrawal:** Observe a quiet-hours loop in the Sticks; does surveillance alter tempo?&#x20;
-* **Violence & Secret Life:** Index five first lines from murder songs; attach marginalia on who smiles where.&#x20;
-* **Mediation & Aperture:** Inspect the window before festival week; note lacquer, fissures, “static.”&#x20;
+* **Romantic days:** Focus on stories, witnesses, coherence. Motto: "A slip must be told as story." Style: narrative, testimonial, dramatic. Let minor voices speak.
 
-### C. Constraints to obey every time
+* **Philosophical days:** Focus on categories, systems, metaphysical patterns. Motto: "The Archive reveals the world's orders." Style: abstract, systematic, ambitious.
+
+### B. Temperamental stances within methodological positions
+
+Each temperament can take any position on the geography/Orders debate:
+
+**Pro-Orders position:**
+- Clerkly: "Orders provide clearer filing protocols."
+- Romantic: "Orders let slips sing together across regions."  
+- Philosophical: "Orders reveal the world's true structure."
+
+**Pro-Geography position:**
+- Clerkly: "Provenance is least-falsifiable anchor."
+- Romantic: "Place holds stories; Orders scatter them."
+- Philosophical: "Geography is the most fundamental category."
+
+### C. Temperament-specific prompts (rotate through all three approaches)
+
+Pick an Order, then approach it through each temperament:
+
+**Boundary prompts:**
+- Clerkly: "Ditch meter rose 3cm overnight. Stool testimony claims Dens expanded. Both filed under Dens. Contradiction noted."
+- Romantic: "She swore the town had grown in her sleep. When morning came, the ditch agreed."
+- Philosophical: "Evidence demonstrates Boundary Order: geography self-modifies through testimonial feedback loops."
+
+**Doubling prompts:**
+- Clerkly: "Five silhouettes submitted. Origin unknown. All catalogued. Authentication inconclusive."  
+- Romantic: "They brought me five shadows of the same woman. Each claimed to be first. Who was I to choose?"
+- Philosophical: "Multiplication without original suggests Doubling Order transcends simple replication paradigms."
+
+**Apply this approach to all six Orders, cycling through temperaments.**
+
+### D. Constraints to obey every time
 
 * Use **at least one clip** with the **Protocol 7.3** formatting.&#x20;
 * Assign **1–3 Orders** (primary) and **Region(s)** (secondary).&#x20;
 * **Contradictions ≠ errors**; log and cross-index them.&#x20;
 * End with a **Disposition** (Adopted / Filed / Referred / Superseded).&#x20;
+* **Maintain temperamental consistency** throughout the document.
+* Remember: clerks preserve, romantics narrate, philosophers systematize.
 
 ---
 
@@ -233,21 +291,128 @@ Use them to triangulate new arguments and to **cross-index**: every debate doc s
 
 ---
 
-## 12) A 30-day arc you can follow (suggested)
+## 12) A 30-day temperament-balanced expansion arc
 
-* **Week 1 (Phase I)** — write the old order from the inside: three memos and two minutes making the case for geography, custody, and seals. (Quote A1/A2 as triumphs of order.)&#x20;
-* **Week 2 (Phase II)** — break it open: four field/colloquy notes on Dens edge data, Quarry roads, Castelia burrs, and the cart.   &#x20;
-* **Week 3 (Phase III)** — take a side: Varro’s manifesto, Kettel’s counter, and a cross-index brief with worked examples (A1, D2, E2).&#x20;
-* **Week 4 (Phase IV)** — make it law, then doubt it: a directive; a hearing from Sticks & North; and an edge-case ruling on the window/stairs. &#x20;
+Balance phases AND temperaments across the month:
+
+**Week 1 (Phase I — Clerkly dominance):**
+- Day 1: Clerkly minute establishing provenance protocols
+- Day 2: Philosophical memo proposing borough drawers (early systematizing)
+- Day 3: Clerkly circular on slip custody procedures  
+- Day 4: Clerkly field report on filing contradictions
+- Day 5: Philosophical counter-memo challenging pure regionalism
+
+**Week 2 (Phase II — All three emerge):**  
+- Day 6: Clerkly field report on Dens boundary data
+- Day 7: Romantic colloquy note on withdrawal practices
+- Day 8: Philosophical case note proposing Doubling Order
+- Day 9: Clerkly memo resisting new categories
+- Day 10: Romantic narrative about pickbox cart testimonies
+
+**Week 3 (Phase III — Philosophical dominance):**
+- Day 11: Philosophical memorandum codifying six Orders
+- Day 12: Clerkly counter-memo warning against overreach  
+- Day 13: Philosophical brief on cross-indexing standards
+- Day 14: Clerkly minute documenting implementation problems
+- Day 15: Philosophical ruling on edge cases
+
+**Week 4 (Phase IV — Three-way collision):**
+- Day 16: Philosophical directive on Orders-first filing
+- Day 17: Clerkly objection to mandatory cross-indexing
+- Day 18: Romantic hearing transcript with witness voices
+- Day 19: Philosophical response systematizing the hearing
+- Day 20: Clerkly procedural complaint about romantic dramatization
+
+**Continue this pattern**: each week should include voices from all three temperaments, with the balance shifting to reflect the historical phases.
 
 ---
 
-## 13) Final encouragement
+---
+
+## 13) The Three Temperaments: Deep Characterization Guide
+
+### Clerkly Archivists (The Custodians)
+
+**Core fear**: Chaos, loss, falsification. The slips will be misfiled, lost, or corrupted.
+
+**Core conviction**: "The Archive preserves; it does not interpret." Custody is sacred duty.
+
+**Voice markers**: 
+- Short, precise sentences. "Filed under Dens. Contradiction noted."
+- Repetitive administrative language. "As per Protocol 7.3..."
+- Distrust of speculation. "The slip contains no evidence of..."
+- Focus on procedures, stamps, cross-references, filing codes.
+
+**Relationship to evidence**: Mechanical preservation. Every contradiction must be filed, not resolved.
+
+**Relationship to story**: Suspicious. Stories obscure facts, create false patterns.
+
+**Relationship to categories**: Resistant to new ones, but will adopt them if they improve filing accuracy.
+
+### Romantic Archivists (The Witnesses) 
+
+**Core fear**: Fragmentation, silence, meaninglessness. The slips will scatter into noise.
+
+**Core conviction**: "Every slip carries a witness; every witness carries a world." Testimony must cohere into story.
+
+**Voice markers**:
+- Narrative momentum. "She brought the news that autumn, when the carts returned..."
+- Dramatic attention to individual voices. "The clerk wept as she filed the contradiction."
+- Questions that open rather than close. "But what if the ditch speaks?"
+- Focus on human experience, individual testimony, emotional resonance.
+
+**Relationship to evidence**: Testimonial weaving. Contradictions are dramatic tension, not filing problems.
+
+**Relationship to story**: Essential. Slips without story are noise.
+
+**Relationship to categories**: Useful if they help stories cohere; dangerous if they scatter witnesses.
+
+### Philosophical Archivists (The Systematizers)
+
+**Core fear**: Incoherence, arbitrariness, chaos. The Archive will become mere accumulation without understanding.
+
+**Core conviction**: "The Archive reveals the world's orders." Categories mirror metaphysical structure.
+
+**Voice markers**:
+- Abstract language. "The Boundary Order manifests as unstable geographical determination..."
+- Systematic ambition. "Six Orders, each with sub-categories, cross-indexed by..."
+- Confident legislation. "Henceforth, all slips shall be filed under..."
+- Focus on patterns, structures, underlying principles.
+
+**Relationship to evidence**: Systematic organization. Contradictions are dialectical pressure revealing deeper truths.
+
+**Relationship to story**: Useful if systematic; dangerous if merely personal or local.
+
+**Relationship to categories**: Essential. Categories are discovery methods, not arbitrary impositions.
+
+---
+
+## 14) Temperamental Balance Requirements
+
+**The Archive survives because no temperament triumphs entirely.** Your expansion must maintain this tension:
+
+- **Without clerks**: The Archive dissolves into speculation and storytelling.
+- **Without romantics**: The Archive becomes mechanical, losing human witness.  
+- **Without philosophers**: The Archive remains fragmented accumulation without insight.
+
+**Each document should embody one temperament clearly** while acknowledging the others exist. The debate is their ongoing quarrel.
+
+**Phase balance**:
+- Phase I: Clerkly dominance, but philosophical seeds appear
+- Phase II: All three emerge, romantic voices find space  
+- Phase III: Philosophical dominance, clerkly resistance
+- Phase IV: Three-way collision generates institutional self-consciousness
+
+---
+
+## 15) Final encouragement: The quarrel continues
 
 Write as if your words will be stamped, docketed, and shelved—and yet might still change how clerks in the Capital handle a slip, how a singer in North Town picks a line, how a Sticks clinic schedules quiet hours. That is the tension this project lives on: **mirror vs maker**; **provenance vs order**; **window vs door**.
 
-When in doubt, return to a **clip** and let it teach you the right voice for the day.
+But now add this: **clerkly vs romantic vs philosophical**. The Archive is not one voice but three, locked in permanent productive tension.
 
-> “We note the contaminations because they are the cost of testimony.”&#x20;
+When in doubt, return to a **clip** and let it teach you the right voice for the day. But remember: the same clip will speak differently through different temperaments.
 
-That’s the archivist’s creed in one line.
+> "We note the contaminations because they are the cost of testimony."&#x20;
+
+That's the archivist's creed—but each temperament bears the cost differently.

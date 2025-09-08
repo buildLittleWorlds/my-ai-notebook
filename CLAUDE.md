@@ -104,3 +104,60 @@ Homepage provides four main tiles leading to each collection. Root-level hub pag
 - Use lowercase, hyphens for spaces
 
 The site functions as an integrated system where blog posts develop ideas that become formalized in theoretical frameworks (romantic and AI hermeneutics collections), which provide methods for analyzing materials preserved in the notebooks.
+
+## Debate Documents Workflow
+
+### Adding New Debate Documents
+When given markdown files in the `_debate/` collection with missing or incomplete frontmatter, follow this standardized workflow:
+
+#### 1. Analyze Document Content
+- **Phase Classification** (determines where it links from hub):
+  - **Phase I** (Years 1-12): Regional filing system establishment
+  - **Phase II** (Years 13-20): Geographic system failures  
+  - **Phase III** (Year 22): Orders proposal and debate
+  - **Phase IV** (Year 23+): Implementation and objections
+
+- **Document Type**: Memo, Minute, Field Report, Colloquy Note, Counter-Memo, Directive, Hearing, Ruling, Brief, Case Note
+
+- **Order Focus**: Which of the six Orders the document addresses:
+  - Boundary, Doubling, Craving, Silence & Withdrawal, Violence & Secret Life, Mediation & Aperture
+  - Use "n/a" for Phase I docs or docs arguing against Orders
+
+#### 2. Add Required Jekyll Frontmatter
+```yaml
+---
+title: "Document Title (match content exactly)"
+phase: "Phase [Roman] — [Description]"
+doc_type: "[Document Type]"
+order_focus: ["Order1", "Order2"] # array, or "n/a"
+regions: ["Region1", "Region2"] # relevant geographic areas
+archive_date: "Year [N], Q[N]"
+date: 2024-01-01 # leave as standard
+clerk_initials: "[Initials]" # from document author
+status: "[Adopted/Filed/Canonical/etc]" # from document
+excerpt: "Brief description of document's significance"
+permalink: /debate/[filename-slug]/
+---
+```
+
+#### 3. Update Navigation Hub
+Add or update links in `/debate/archivists-debate.md` in the appropriate Phase section:
+
+```markdown
+- **[Document Title]({{ '/debate/filename-slug/' | relative_url }})**  
+  *brief description of content and significance*
+```
+
+**Critical**: Always use `{{ '/debate/path/' | relative_url }}` filter for all links to ensure GitHub Pages compatibility.
+
+#### 4. File Naming
+- Use existing filename or follow pattern: `phase[N]-[type]-[descriptive-slug].md`
+- Ensure permalink matches filename exactly
+
+### Hub Page Structure
+The main debate hub (`/_debate/archivists-debate.md`) organizes documents by four chronological phases. Each phase should have 2-6 key documents that demonstrate the evolution of archival policy and the ongoing tension between regional vs. Orders-based filing.
+
+### Integration Points
+- Cross-reference debate documents with notebook entries that use the Orders
+- Ensure theoretical consistency between debate rationales and notebook classifications
+- Maintain the fictional "institutional voice" throughout all debate documents
