@@ -20,7 +20,7 @@ archive's language help shape it?*
 
 ## Phase I — Regional Drawers (Years 1–12) {#phase-1}
 
-- **Memo 1.2 — Establishment of Borough Drawers**  
+- **[Memo 1.2 — Establishment of Borough Drawers](/debate/memo1-2/)**  
   *policy draft; filing by Dens, Quarry, North, Capital, Tower, Sticks, Dead River*
 
 - **Minute 3.7 — Rationale: Provenance First**  
