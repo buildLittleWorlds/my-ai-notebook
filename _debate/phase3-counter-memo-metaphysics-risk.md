@@ -1,9 +1,11 @@
 ---
+layout: debate
 title: "Counter-Memo 22.4 — On the Stubbornness of 'Provenance First'"
-phase: "Phase III — Orders Proposal (Year 22)"
+phase: "III"
 doc_type: "Counter-Memo"
 temperament: "Philosophical"
 order_focus: ["Boundary", "Doubling", "Silence & Withdrawal"]
+regions: ["Dens", "Quarry", "Dead River"]
 archive_date: "Year 22, Q3"
 date: 2024-01-01
 clerk_initials: "TV"

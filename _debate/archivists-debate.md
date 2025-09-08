@@ -46,6 +46,9 @@ The debate unfolds as a four-phase institutional drama, with the balance of temp
 - **[Colloquy Note 18.9 — On the Fivefold Silhouette Copies]({{ '/debate/phase2-colloquy-withdrawal/' | relative_url }})** **(Philosophical)**  
   *Corvell's systematic reframing of authenticity as Doubling problem; provenance fails, recurrence is crisp*
 
+- **[Colloquy Note 16.2 — "Edges to Edges": Catechism as Method]({{ '/debate/phase2-colloquy-edges-to-edges/' | relative_url }})** **(Romantic)**  
+  *Dell's testimonial exploration of Tower catechism and Sticks breath practices as withdrawal methods*
+
 - **[Colloquy Note 14.6 — On Withdrawal as a Filing Principle]({{ '/debate/phase2-colloquy-fivefold/' | relative_url }})** **(Romantic)**  
   *Dell's testimonial recognition that silence and withdrawal constitute active methods, not mere absence*
 

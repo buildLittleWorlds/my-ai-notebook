@@ -1,6 +1,7 @@
 ---
+layout: debate
 title: "Minute 3.7 — Rationale: Provenance First"
-phase: "Phase I — Regional Drawers (Years 1–12)"
+phase: "I"
 doc_type: "Minute"
 temperament: "Clerkly"
 order_focus: "n/a"

@@ -1,6 +1,7 @@
 ---
+layout: debate
 title: "Counter-Memo 23.4 — Against Overreach in the Filing of Densmok"
-phase: "Phase IV — Implementation & Objections (Year 23– )"
+phase: "IV"
 doc_type: "Counter-Memo"
 temperament: "Clerkly"
 order_focus: "n/a"
@@ -28,16 +29,16 @@ This counter-memo responds to Memorandum 23.1 (*On the Necessity of Cross-Indexi
 
 ---
 
-## Grounds for Objection
+## Objections
 
-1. **Not every slip doubles itself.**
-   Gravent asserts that “all Densmok slips are inherently doubled.” This is not borne out by record. Many are mundane: tool-shop invoices, children’s chants, weather notes. To force “Doubling” or “Craving” upon them is to write metaphysics where only rain fell.
+1. **Not every slip doubles.**
+   Gravent: "all Densmok slips inherently doubled." Record contradicts. Many mundane: invoices, chants, weather logs. Forcing metaphysics on rain logs = filing error.
 
-2. **Craving is not universal.**
-   Yes, the singers-coders show appetite turned into rig. But a transcript of a Densmok quarrel about bread prices is not evidence of “Craving.” If we stretch the Order until everything fits, it no longer signifies.
+2. **Craving not universal.**
+   Singer-coders: documented. Bread price quarrels: not Craving. Stretching Orders = meaningless categories.
 
-3. **Silence is not always Withdrawal.**
-   The mystic who refuses rigs may be Withdrawal. But a clerk too tired to transcribe is not. Gravent collapses fatigue, poverty, and mysticism under one drawer. This is distortion.
+3. **Silence ≠ Withdrawal universally.**
+   Mystic refusing rigs: Withdrawal. Tired clerk not transcribing: fatigue. Different phenomena. Gravent conflates. Filing accuracy compromised.
 
 ---
 
@@ -53,9 +54,9 @@ This counter-memo responds to Memorandum 23.1 (*On the Necessity of Cross-Indexi
 
 ---
 
-## Irritation at Giants
+## Response to Authority
 
-Gravent calls Minute 3.7 (*Provenance First*) “embarrassing.” I call Gravent’s pronouncement dangerous. It tempts juniors to obey the *name* of a Giant instead of the evidence of a slip. It is not humility to file by Region; it is discipline. Giants may afford metaphysics, but clerks must sort paper.
+Gravent: Minute 3.7 "embarrassing." Counter-assessment: Gravent directive dangerous. Juniors obey Giant names, ignore slip evidence. Regional filing = discipline, not humility. Giants: metaphysics permitted. Clerks: paper sorting required.
 
 ---
 

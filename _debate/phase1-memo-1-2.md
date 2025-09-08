@@ -1,6 +1,7 @@
 ---
+layout: debate
 title: "Memo 1.2 — Establishment of Borough Drawers"
-phase: "Phase I — Regional Drawers (Years 1–12)"
+phase: "I"
 doc_type: "Memo"
 temperament: "Philosophical"
 order_focus: "n/a"

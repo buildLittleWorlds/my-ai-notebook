@@ -1,6 +1,7 @@
 ---
+layout: debate
 title: "Field Report 17.2 — On the Dens Boundary vs. Testimony"
-phase: "Phase II — Faults in Geography (Years 13–20)"
+phase: "II"
 doc_type: "Field Report"
 temperament: "Clerkly"
 order_focus: ["Boundary"]
@@ -24,7 +25,7 @@ permalink: /debate/phase2-field-edges-report/
 
 ## Abstract
 
-This report documents the instability of the Dens boundary as observed between Year 16 and Year 17. Ditch meters and stool testimonies no longer coincide. The contradiction demonstrates the insufficiency of **Region-first** filing and suggests the need for a new category — **Boundary** — to track edges that move.
+Field measurements logged. Dens boundary unstable. Ditch meters contradict stool testimony. Both recorded per Protocol. Regional filing insufficient. Boundary category proposed.
 
 ---
 
@@ -62,9 +63,9 @@ Filed: *Dens · Clerk’s Margin Note*
 
 ## Commentary
 
-The earlier doctrine (*Minute 3.7 — Provenance First*) insisted geography “endures.” This case proves otherwise. The geography itself is split: one world measured, another world spoken.
+Minute 3.7 states geography "endures." Data contradicts. Two measurements recorded: ditch gauge, stool record. Both stamped, both contradictory. Filed per custody protocol.
 
-The margin note of Clerk Y. Sull captures the truth: *“Each resizes the edge.”* What we file is not the town, but the resizing.
+Margin note by Clerk Y. Sull: *"Each resizes the edge."* Content logged: edge-shift, not location.
 
 ---
 

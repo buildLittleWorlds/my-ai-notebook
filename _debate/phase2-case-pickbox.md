@@ -1,6 +1,7 @@
 ---
+layout: debate
 title: "Case Note 19.4 — On the Pickbox Cart and Authorless Burden"
-phase: "Phase II — Faults in Geography (Years 13–20)"
+phase: "II"
 doc_type: "Case Note"
 temperament: "Romantic"
 order_focus: ["Mediation & Aperture"]

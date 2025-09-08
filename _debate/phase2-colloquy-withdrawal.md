@@ -1,6 +1,7 @@
 ---
+layout: debate
 title: "Colloquy Note 18.9 — On the Fivefold Silhouette Copies"
-phase: "Phase II — Faults in Geography (Years 13–20)"
+phase: "II"
 doc_type: "Colloquy Note"
 temperament: "Philosophical"
 order_focus: ["Doubling"]
@@ -47,16 +48,16 @@ Filed: *Capital · Annotation Margin (unsigned)*
 
 ---
 
-## Findings
+## Analysis
 
-1. **No Primary Reference.**
-   Regional filing presumes an “original” tied to a place. These silhouettes have no such anchor.
+1. **Systematic Pattern: No Primary Reference.**
+   Regional filing assumes origin-point. These impressions demonstrate origin-failure. Classification requires new framework.
 
-2. **Recurrence as Evidence.**
-   The fact of multiplication — fivefold in Dead River, fivefold in Castelia — is the content. Provenance is secondary.
+2. **Recurrence as Structural Evidence.**
+   Multiplication pattern: fivefold recurrence across regions. Content = pattern. Provenance subordinate to structural analysis.
 
-3. **Doubling ≠ Counterfeit.**
-   It is not a matter of fake vs. authentic. All five claim authenticity, and no test discriminates. The proper category is not “Forgery” but “Doubling.”
+3. **Categorical Distinction: Doubling ≠ Counterfeit.**
+   Not authenticity problem but ontological classification. Five-fold authenticity claims require "Doubling" Order, not "Forgery" sub-class.
 
 ---
 

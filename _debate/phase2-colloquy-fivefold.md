@@ -1,6 +1,7 @@
 ---
+layout: debate
 title: "Colloquy Note 14.6 — On Withdrawal as a Filing Principle"
-phase: "Phase II — Faults in Geography (Years 13–20)"
+phase: "II"
 doc_type: "Colloquy Note"
 temperament: "Romantic"
 order_focus: ["Silence & Withdrawal"]

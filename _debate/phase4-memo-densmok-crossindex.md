@@ -1,6 +1,7 @@
 ---
+layout: debate
 title: "Memorandum 23.1 — On the Necessity of Cross-Indexing Densmok"
-phase: "Phase IV — Implementation & Objections (Year 23– )"
+phase: "IV"
 doc_type: "Memorandum"
 temperament: "Philosophical"
 order_focus: ["Boundary", "Craving", "Silence & Withdrawal", "Mediation & Aperture", "Doubling"]
