@@ -390,6 +390,41 @@ header h1 a:hover {
   }
 }
 
+/* ===== Home page section groups ===== */
+.section-group {
+  margin-bottom: 2.5rem;
+}
+
+.section-header {
+  margin-bottom: 1rem;
+}
+
+.section-header h2 {
+  font-size: 1.3rem;
+  font-weight: 400;
+  margin: 0;
+  color: #1a1a1a;
+  letter-spacing: -0.01em;
+  border-bottom: 1px solid #e0e0e0;
+  padding-bottom: 0.5rem;
+}
+
+.single-tile {
+  display: flex;
+  justify-content: center;
+}
+
+.single-tile .tile-card {
+  max-width: 400px;
+  width: 100%;
+}
+
+.paired-tiles {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+}
+
 /* ===== Master index tiles ===== */
 .master-grid {
   display: grid;
@@ -409,7 +444,7 @@ header h1 a:hover {
   transition: transform 0.15s ease, box-shadow 0.2s ease, border-color 0.15s ease, background 0.15s ease;
 }
 
-.tile-card h2 {
+.tile-card h2, .tile-card h3 {
   font-size: 1.15rem;
   font-weight: 400;
   margin: 0 0 0.35rem 0;
@@ -431,6 +466,8 @@ header h1 a:hover {
 
 @media (max-width: 768px) {
   .master-grid { grid-template-columns: 1fr; }
+  .paired-tiles { grid-template-columns: 1fr; }
+  .section-group { margin-bottom: 2rem; }
 }
 
 /* Cite Sidebar */

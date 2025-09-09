@@ -3,30 +3,52 @@ layout: default
 ---
 
 <article style="border-top:none; padding-top:0;">
-  <div class="master-grid" role="navigation" aria-label="Master index">
-    <a class="tile-card" href="{{ '/posts' | relative_url }}" aria-label="Go to Blog Posts">
-      <h2>Blog Posts</h2>
-      <p>Essays, arguments, and notes in progress.</p>
-    </a>
+  <!-- Blog Posts Section -->
+  <div class="section-group">
+    <div class="section-header">
+      <h2>Writing</h2>
+    </div>
+    <div class="single-tile">
+      <a class="tile-card" href="{{ '/posts' | relative_url }}" aria-label="Go to Blog Posts">
+        <h3>Blog Posts</h3>
+        <p>Essays, arguments, and notes in progress.</p>
+      </a>
+    </div>
+  </div>
 
-    <a class="tile-card" href="{{ '/romantic/' | relative_url }}" aria-label="Go to Romantic Quick Kit">
-      <h2>Romantic Quick Kit</h2>
-      <p>Method and concepts for reading Romanticism.</p>
-    </a>
+  <!-- Theoretical Frameworks Section -->
+  <div class="section-group">
+    <div class="section-header">
+      <h2>Theoretical Frameworks</h2>
+    </div>
+    <div class="paired-tiles">
+      <a class="tile-card" href="{{ '/romantic/' | relative_url }}" aria-label="Go to Romantic Quick Kit">
+        <h3>Romantic Quick Kit</h3>
+        <p>Method and concepts for reading Romanticism.</p>
+      </a>
 
-    <a class="tile-card" href="{{ '/ai-hermeneutics/' | relative_url }}" aria-label="Go to AI Hermeneutics Kit">
-      <h2>AI Hermeneutics Kit</h2>
-      <p>Framework for interpreting AI-generated texts.</p>
-    </a>
+      <a class="tile-card" href="{{ '/ai-hermeneutics/' | relative_url }}" aria-label="Go to AI Hermeneutics Kit">
+        <h3>AI Hermeneutics Kit</h3>
+        <p>Framework for interpreting AI-generated texts.</p>
+      </a>
+    </div>
+  </div>
 
-    <a class="tile-card" href="{{ '/archive' | relative_url }}" aria-label="Go to The Archive">
-      <h2>The Archive</h2>
-      <p>Densworld fragments filed by Orders: boundary, doubling, craving, silence, violence, mediation.</p>
-    </a>
+  <!-- Archive System Section -->
+  <div class="section-group">
+    <div class="section-header">
+      <h2>Archive System</h2>
+    </div>
+    <div class="paired-tiles">
+      <a class="tile-card" href="{{ '/archive' | relative_url }}" aria-label="Go to The Archive">
+        <h3>The Archive</h3>
+        <p>Densworld fragments filed by Orders: boundary, doubling, craving, silence, violence, mediation.</p>
+      </a>
 
-    <a class="tile-card" href="{{ '/debate' | relative_url }}" aria-label="Go to The Debate of the Archivists">
-      <h2>The Debate of the Archivists</h2>
-      <p>Meta-archival methodology: how should reality be cataloged?</p>
-    </a>
+      <a class="tile-card" href="{{ '/debate' | relative_url }}" aria-label="Go to The Debate of the Archivists">
+        <h3>The Debate of the Archivists</h3>
+        <p>Meta-archival methodology: how should reality be cataloged?</p>
+      </a>
+    </div>
   </div>
 </article>
