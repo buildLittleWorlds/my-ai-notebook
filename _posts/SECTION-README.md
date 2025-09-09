@@ -28,7 +28,7 @@
 - Personal scholarly journey documentation
 
 ### What Does NOT Belong Here:
-- Fictional archive materials (those go in `_notebooks/`)
+- Fictional archive materials (those go in `_archive/`)
 - Systematic theory frameworks (those go in `_romantic/` or `_ai_hermeneutics/`)
 - Meta-discussions about archival practices (those go in `_debate/`)
 
@@ -65,7 +65,7 @@ Ideas developed in blog posts often get formalized into systematic frameworks in
 ### From Blog Posts → Fictional Collections:
 Blog post insights may inspire fictional archive scenarios, but the collections remain separate:
 - Theoretical insights about classification → fictional `_debate/` documents
-- Ideas about interpretation → fictional `_notebooks/` entries
+- Ideas about interpretation → fictional `_archive/` entries
 
 ## Current Status
 

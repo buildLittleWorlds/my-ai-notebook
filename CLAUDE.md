@@ -26,17 +26,17 @@ This site is configured for GitHub Pages deployment with baseurl `/my-ai-noteboo
 
 ## Site Architecture
 
-### Four Main Collections
+### Five Main Collections
 1. **Posts** (`_posts/`) - Traditional academic blog posts (110 files)
 2. **Romantic** (`_romantic/`) - Romantic theory framework with 9 components
 3. **AI Hermeneutics** (`_ai_hermeneutics/`) - AI interpretation framework with 18 components
-4. **Notebooks** (`_notebooks/`) - Fictional archive entries organized by six interpretive "Orders" (18 files)
+4. **Archive** (`_archive/`) - Fictional archive entries organized by six interpretive "Orders" (18 files)
 5. **Debate** (`_debate/`) - Meta-archival methodology discussions
 
 ### Collection Configuration
 - **Romantic**: `/romantic/:name/` - Romantic theory components with hub page at `/romantic/romantic-quick-kit/`
 - **AI Hermeneutics**: `/ai-hermeneutics/:name/` - AI hermeneutics components with hub page at `/ai-hermeneutics/ai-hermeneutics-kit/`
-- **Notebooks**: `/notebooks/:name/` - Archive entries accessible via `/notebooks/` hub
+- **Archive**: `/archive/:name/` - Archive entries accessible via `/archive/` hub
 - **Debate**: `/debate/:name/` - Archival methodology documents
 - **Posts**: `/:title/` - Blog posts accessible via `/posts/`
 
@@ -47,14 +47,14 @@ This site is configured for GitHub Pages deployment with baseurl `/my-ai-noteboo
 - `posts-list.html` - Blog index
 - `kit-hub.html` - Main kit landing pages
 - `kit.html` - Individual kit pages  
-- `notebooks-hub.html` - Archive index with auto-generated listings
-- `notebook.html` - Individual archive entries
+- `archive-hub.html` - Archive index with auto-generated listings
+- `archive.html` - Individual archive entries
 - `debate.html` - Debate documents
 
 ## Content Structure
 
-### Archive System (Notebooks Collection)
-The notebooks implement a rigorous fictional archive organized by six interpretive "Orders":
+### Archive System (Archive Collection)
+The archive implements a rigorous fictional archive organized by six interpretive "Orders":
 1. **Boundary** - Where edges blur between forms
 2. **Doubling** - Replication, copies, journeys within journeys  
 3. **Craving** - Desire as generative force
@@ -93,17 +93,17 @@ Homepage provides four main tiles leading to each collection. Root-level hub pag
 - **Posts**: First person, reflective, work-in-progress
 - **Romantic**: Instructional, systematic, practical application focus for Romantic theory
 - **AI Hermeneutics**: Instructional, systematic, practical application focus for AI interpretation
-- **Notebooks**: Archival voice, analytical, preserving ambiguity
+- **Archive**: Archival voice, analytical, preserving ambiguity
 - **Debate**: Meta-critical, methodological discussions
 
 ### File Naming Conventions
 - Posts: `post-[number].md`
 - Romantic: `romantic-kit-[topic].md` or `romantic-quick-kit.md` for hub
 - AI Hermeneutics: `ai-kit-[topic].md` or `ai-hermeneutics-kit.md` for hub
-- Notebooks: `archivist-[letter][number].md`
+- Archive: `[order]-[region]-[descriptive-slug]-[code].md`
 - Use lowercase, hyphens for spaces
 
-The site functions as an integrated system where blog posts develop ideas that become formalized in theoretical frameworks (romantic and AI hermeneutics collections), which provide methods for analyzing materials preserved in the notebooks.
+The site functions as an integrated system where blog posts develop ideas that become formalized in theoretical frameworks (romantic and AI hermeneutics collections), which provide methods for analyzing materials preserved in the archive.
 
 ## Debate Documents Workflow
 
@@ -158,6 +158,6 @@ Add or update links in `/debate/archivists-debate.md` in the appropriate Phase s
 The main debate hub (`/_debate/archivists-debate.md`) organizes documents by four chronological phases. Each phase should have 2-6 key documents that demonstrate the evolution of archival policy and the ongoing tension between regional vs. Orders-based filing.
 
 ### Integration Points
-- Cross-reference debate documents with notebook entries that use the Orders
-- Ensure theoretical consistency between debate rationales and notebook classifications
+- Cross-reference debate documents with archive entries that use the Orders
+- Ensure theoretical consistency between debate rationales and archive classifications
 - Maintain the fictional "institutional voice" throughout all debate documents

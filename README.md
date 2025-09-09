@@ -2,9 +2,9 @@
 
 ## Overview
 
-This is a Jekyll-powered academic blog focused on literary theory, hermeneutics, and critical analysis. The site combines traditional blog posts with specialized theoretical frameworks ("kits") and an innovative fictional archive system ("notebooks"). It serves as both a scholarly resource and a creative exploration of archival practices and interpretive methods.
+This is a Jekyll-powered academic blog focused on literary theory, hermeneutics, and critical analysis. The site combines traditional blog posts with specialized theoretical frameworks ("kits") and an innovative fictional archive system. It serves as both a scholarly resource and a creative exploration of archival practices and interpretive methods.
 
-## Site Structure & Four Main Sections
+## Site Structure & Five Main Sections
 
 ### 1. **Blog Posts** (`_posts/` collection)
 - **Purpose**: Traditional academic blog posts containing essays, arguments, and notes in progress
@@ -53,7 +53,7 @@ Two separate collections providing interpretive frameworks:
 - **Cross-linking**: Extensive internal linking between related concepts
 - **Style**: Academic but accessible, with practical reading applications
 
-### 3. **Quarry Notebooks** (`_notebooks/` collection) - The Archive System
+### 3. **Archive** (`_archive/` collection) - The Archive System
 A fictional but rigorous archival system presenting fragments and testimonies organized by interpretive "Orders" rather than geography.
 
 #### **Archival Concept**:
@@ -127,9 +127,9 @@ collections:
   ai_hermeneutics:
     output: true
     permalink: /ai-hermeneutics/:name/
-  notebooks:
+  archive:
     output: true  
-    permalink: /notebooks/:name/
+    permalink: /archive/:name/
   debate:
     output: true
     permalink: /debate/:name/
@@ -141,8 +141,8 @@ collections:
 - **`post.html`** - Individual blog posts
 - **`posts-list.html`** - Blog post index
 - **`kit.html`** - All kit pages (both romantic and AI hermeneutics)
-- **`notebooks-hub.html`** - Notebooks index (auto-generates from collection)
-- **`notebook.html`** - Individual notebook entries
+- **`archive-hub.html`** - Archive index (auto-generates from collection)
+- **`archive.html`** - Individual archive entries
 - **`debate.html`** - Debate documents
 
 ### Navigation Structure
@@ -150,7 +150,7 @@ Homepage (`/`) provides four main entry points:
 1. Blog Posts → `/posts/` → individual posts
 2. Romantic Quick Kit → `/romantic/` → individual romantic kit pages  
 3. AI Hermeneutics Kit → `/ai-hermeneutics/` → individual AI kit pages
-4. Quarry Notebooks → `/notebooks/` → individual notebook entries + `/debate/archivists-debate/`
+4. Archive → `/archive/` → individual archive entries + `/debate/archivists-debate/`
 
 ### Development Workflow
 ```bash
@@ -181,7 +181,7 @@ bundle exec jekyll build
 ### Voice & Tone
 - **Blog Posts**: First person, reflective, work-in-progress
 - **Kit Pages**: Instructional, systematic, practical
-- **Notebook Entries**: Archival voice, analytical, preserving ambiguity
+- **Archive Entries**: Archival voice, analytical, preserving ambiguity
 - **Overall**: Serious scholarly work with creative formal innovation
 
 ## File Organization
@@ -193,11 +193,11 @@ bundle exec jekyll build
 ├── _posts/               # Blog posts (110+ files)
 ├── _romantic/            # Romantic Quick Kit (9 files)
 ├── _ai_hermeneutics/     # AI Hermeneutics Kit (18 files)
-├── _notebooks/           # Archive entries (18+ files)
+├── _archive/             # Archive entries (18+ files)
 ├── _debate/              # Archival methodology debates
 ├── index.md              # Homepage
 ├── posts.md              # Blog index
-├── notebooks.md          # Archive index  
+├── archive.md            # Archive index  
 ├── style.css             # Custom styling
 ├── Gemfile               # Ruby dependencies
 └── backup-files-for-pre-jekyll-blog/ # Legacy HTML files
@@ -210,6 +210,6 @@ When analyzing individual pages, consider:
 1. **Collection Context** - Which of the four main sections does this belong to?
 2. **Internal Logic** - How does this fit the established voice and methodology?
 3. **Cross-References** - What connections exist to other parts of the site?
-4. **Functional Role** - Is this instructional (kits), reflective (posts), analytical (notebooks), or meta-critical (debate)?
+4. **Functional Role** - Is this instructional (kits), reflective (posts), analytical (archive), or meta-critical (debate)?
 
-The site works as an integrated system where blog posts develop ideas that become formalized in kits, which provide frameworks for analyzing the kind of fragmented materials preserved in the notebooks, while the debate documents reflect on the whole enterprise.
+The site works as an integrated system where blog posts develop ideas that become formalized in kits, which provide frameworks for analyzing the kind of fragmented materials preserved in the archive, while the debate documents reflect on the whole enterprise.

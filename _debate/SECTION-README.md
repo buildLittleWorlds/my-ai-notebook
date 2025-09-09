@@ -12,7 +12,7 @@
 5. **The Debate** ← *You are here* (fictional Densworld meta-discussion, in-character)
 
 ### Functional Separation Within Densworld:
-- **The Archive** (`_notebooks/`) = Primary documents being filed and studied
+- **The Archive** (`_archive/`) = Primary documents being filed and studied
 - **The Debate** (`_debate/`) = Institutional discussions about how to organize those documents
 
 This separation creates a richer fictional world where readers can experience both the raw materials and the "behind-the-scenes" curatorial process.
@@ -78,7 +78,7 @@ This separation creates a richer fictional world where readers can experience bo
 - Bureaucratic personality and office politics
 
 ### What Does NOT Belong Here:
-- Primary source documents (those go in `_notebooks/`)
+- Primary source documents (those go in `_archive/`)
 - Real-world theory (those go in theory collections)
 - Out-of-character reflection (those go in `_posts/`)
 
