@@ -1,46 +1,66 @@
-# Graduate Student Workflow: Building a New **Archive** Entry (Orders-first)
+# Graduate Student Workflow — Writing **Archive** Slips (Orders-first)
 
-**You are adding to the archive itself.** The **Archive** is the collection of primary documents; the **Archivists' Debate** is just backstory/context you may cite. The catalog files slips by **Order** (primary) with **Region** as secondary provenance【】, and the hub already exposes both an **Orders index** and a legacy **Finder by Region**【】【】.
-
----
-
-## 0) Prereqs & Where your file goes
-
-* Run the site locally with Jekyll: `bundle install` → `bundle exec jekyll serve` (URL in README)【】.
-* Your new entry lives in the **`_archive/`** collection and renders with the `notebook` layout【】.
-* Use the Order-Primary filename pattern: `[order]-[region]-[descriptive-slug]-[code].md` (e.g., `mediation-capital-window-aperture-a1.md`, `doubling-quarry-hunt-silhouettes-d1.md`)【】【】.
+> You’re contributing **in-character** documents to the Capital Archive. Read the Archive **GRAD-STUDENT-CONTEXT** first for the historian’s overview and the Archive’s method; then use this step-by-step to produce your slip. Archive files by **Order (primary)**, with **Region (secondary)** as provenance  .
 
 ---
 
-## 1) Choose your **source** (“ore”)
+## 0) What belongs here (and tone)
 
-Pick one thread from the Densworld “ore” files (e.g., **Yeller Quarry**, **Densmok**, **North/Northo**, **Tower/Sticks**, **Dead River**, **Capital**, **Capeast**). These supply your **verbatim clips**. Example ore lines you might mine:
-
-* Yeller Quarry witness account (class drift between respectability/appetite)【】.
-* Densmok coder/night-work scene (devices, counting, screen-to-body drift)【】【】.
-
-> Rule of thumb: **your unit of truth is a *clip*** (verbatim or near-verbatim), wrapped in protocol and indexed【】.
+* **This section is for slips**: primary documents compiled by Capital archivists, written **in character**, fragment-preserving, interpretive, and deliberately unresolved .
+* Keep the Archive/Debate boundary straight: you may **cite** Debate for context, but you’re filing **Archive** evidence, not writing Debate minutes .
+* Voice & house style: precise, clerkly-professional; preserve contradictions rather than reconciling them .
 
 ---
 
-## 2) Classify by **Order** (primary) → then mark **Region** (secondary)
+## 1) Choose your **source thread** (“ore”)
 
-Use the Orders as working lenses to decide **what the slip *does***:
+Pick one thread that the context file highlights (examples below). You’ll mine it for **verbatim clips**:
 
-* **Boundary**: edges that won’t hold (Dens meters vs testimony)【】
-* **Doubling**: proliferations; copies without origin (Quarry roads; Castelia fivefold)【】
-* **Craving**: desire that makes artifacts (Densmok rigs; Capeast aftermath)【】
-* **Silence & Withdrawal**: hands before words; drills that become method (Tower catechism; Sticks quiet-hours)【】
-* **Violence & Secret Life**: parallel harm ledgers; North murder songs【】
-* **Mediation & Aperture**: devices, windows, carts constrain access【】
+* **Capital/Apertures** (window tolerances; stairs as throttles) → Mediation & Aperture .
+* **Dens / Densmok** (edge that won’t hold; plot device) → Boundary / Mediation & Aperture (often cross-tags) .
+* **Yeller Quarry** (roads that bud; Hunt woodcuts) → Doubling .
+* **North / Northo** (murder songs; pickbox cart) → Violence & Secret Life (cross Mediation & Aperture) .
+* **Tower / Sticks** (catechism; quiet-hours) → Silence & Withdrawal .
+* **Dead River** (map installs a town; carried flame) → Mediation & Aperture + Doubling .
 
-Then tag **Region** using the standard geography list (Capital, Dens/Densmok, Quarry, North/Northo, Tower/Sticks, Dead River, Capeast)【】.
+> Rule of thumb: your **unit of truth is a clip** (verbatim or near-verbatim) that you bracket and comment, not a paraphrase. Protocol follows in Step 4.
 
 ---
 
-## 3) Pull 2–5 **Clips** using Protocol 7.3
+## 2) Classify **Order first → Region second**
 
-Follow the **“How to Cite a Clip”** template already in the notebooks aggregate:
+Use the Orders as working lenses to decide **what the slip *does***; Regions record **where** it came from:
+
+* **Orders (primary):** Boundary; Doubling; Craving; Silence & Withdrawal; Violence & Secret Life; Mediation & Aperture .
+* **Regions (secondary):** Capital; Dens/Densmok; Quarry; North/Northo; Tower/Sticks; Dead River; Capeast .
+
+Why this order? Densworld shows **device before place**—maps make towns, windows make policy, carts make rooms—so we shelve by what a document **performs** (the Order) and only then mark provenance (the Region) .
+
+---
+
+## 3) Sketch your slip (3 sections, always in this order)
+
+1. **Provenance** (Region · record form)
+2. **Extract** (2–5 clips)
+3. **Archivist’s Commentary** (1–3 sentences per clip set)
+
+Keep conflicts intact; disagreement is **evidence** (it can even determine the Order, e.g., Boundary/Doubling) . Your commentary argues the **Order-first** reasoning, not just geography .
+
+---
+
+## 4) Cite clips by **Protocol 7.3** (required)
+
+Use the Archive’s in-house protocol when you quote:
+
+**How to cite a clip (Protocol 7.3)**
+
+* **Slip Code** — local identifier (e.g., A1)
+* **Provenance** — Region + record form (e.g., Capital · Licensing Notes)
+* **Quotation Mark** — bracket excerpts with `|| … ||`
+* **Cross-Order Tag** — primary Order (+ optional cross-tag)
+* **Commentary Line** — 1–3 sentences on how the clip pressures the Orders .
+
+**Template + mini example**
 
 ```
 Slip: [CODE] — [TITLE]
@@ -50,77 +70,54 @@ Order(s): [ORDER-1][; ORDER-2]
 Commentary: [ARCHIVIST NOTE, 1–3 sentences]
 ```
 
-Keep contradictions; they are evidence【】【】.
 
-**Example clip pulls (ready to paste):**
-
-* `|| I’d known rich folk … sneak away to Yeller Quarry … eat off greasy tables and get off on greasy thighs … then drive back home to shower off and straighten out. ||` → Provenance: Quarry · Witness Account → **Orders:** Violence & Secret Life; Craving【】
-* `|| Two people with their eyes closed … A plot is the intersection of their stares. ||` → Provenance: Densmok · Device Scene/Software Note → **Orders:** Mediation & Aperture (form constrains truth)【】
 
 ---
 
-## 4) Create the **frontmatter** & file
+## 5) File naming & front matter
 
-Use the site’s standard **Notebook Entry Format**:
+**Filename pattern** (Order-primary):
+`[order]-[region]-[descriptive-slug]-[code].md` (e.g., `mediation-capital-window-aperture-a1.md`) .
+
+**Front matter** (use the Archive entry format + `layout: archive`):
 
 ```yaml
 ---
-title: "Archive Post [CODE] — [REGION]: [TITLE] ([DOCUMENT TYPE])"
-order: "[ONE OF SIX ORDERS]"
-region: "[GEOGRAPHIC REGION]"
-catalog_code: "[ALPHANUMERIC CODE]"
-excerpt: "[KEY QUOTE FROM COMMENTARY]"
+title: "Archive Post A1 — Capital: Window Aperture, South Arcade (caliper check log)"
+order: "Mediation & Aperture"
+region: "Capital"
+catalog_code: "A1"
+excerpt: "This window is not a door. The rule is design: knowledge may pass; bodies may not."
+layout: archive
 ---
 ```
 
-This is exactly what the collection expects【】.
-**File path:** `_archive/[order]-[region]-[descriptive-slug]-[code].md` (e.g., `_archive/mediation-densmok-plot-aperture-b3.md`)【】.
+(adapted from A1/A2 examples) .
 
 ---
 
-## 5) Write the three sections
+## 6) Cross-index smartly
 
-* **Provenance** — *where the material came from and in what form* (e.g., “Quarry · Witness account; alley bills; repair ledger”)【】.
-* **Extract** — your **clips** in blockquotes / `|| … ||` with minimal framing【】.
-* **Archivist’s Commentary** — 2–6 paragraphs that argue why this fits the chosen **Order** (not just the Region). Keep mismatches in view; do not reconcile them【】【】.
-
-> Touchstone examples to imitate:
->
-> * **A1 — Capital: Window Aperture** (Mediation & Aperture)【】【】
-> * **D1/D2 — Yeller Quarry: Doubles** (provenance vs. copies)【】【】
-> * **I1 — Sticks: Withdrawal Logs** (silence as method)【】【】
+* Add a **cross-Order** tag when your clips clearly operate in two realities (e.g., Mediation & Aperture **cross** Doubling for the pickbox cart) .
+* **Optional:** mention one **Debate** doc in a footnote if it frames your filing (e.g., “On the Necessity of Cross-Indexing Densmok”), but keep the slip itself strictly Archive  .
 
 ---
 
-## 6) Cross-index (optional but encouraged)
+## 7) Tone, temperaments, and what *not* to do
 
-Your notebook entry can point to **one** Debate doc that frames your choice (history/context), e.g.:
-
-* Phase II **“Edges to Edges”** (why Withdrawal is a method) → `/debate/phase2-colloquy-edges-to-edges/`【】
-* Phase II **Counting/Cart** cases (doubling; device-first filing)【】
-
-Remember: the Debate is meta-history; the **Notebook** is the shelf. Use the Debate sparingly to **justify** the Order-first filing the hub already announces【】.
+* Write as a **Capital archivist**; your job is to **measure pressures** and keep contradictions, not to solve them  .
+* Expect (and avoid impersonating) institutional **temperaments** in the margins: **clerkly**, **romantic**, **philosophical**—they shape policy, not your prose .
+* Don’t smuggle in **fictional narration**; your “story” is the arrangement of clips + commentary.
 
 ---
 
-## 7) Build & test
+## 8) Build & test locally (quick dev loop)
 
-* `bundle exec jekyll serve` → Navigate to `.../archive/[order]-[region]-[descriptive-slug]-[code]/` and check frontmatter renders, links work【】.
-* Your entry will appear under the correct **Order** in the Archive hub (and in the Region finder) automatically【】【】.
-
----
-
-## 8) Submission checklist (Notebooks)
-
-* [ ] File in `_archive/` named `[order]-[region]-[descriptive-slug]-[code].md`【】
-* [ ] Frontmatter matches **Entry Format**【】
-* [ ] **Order** chosen from the six; **Region** marked as provenance【】【】
-* [ ] ≥2 Clips, Protocol 7.3 formatting; contradictions intact【】【】
-* [ ] **Commentary** argues the Order-first reasoning (not just geography)【】
+* Serve the site (`bundle exec jekyll serve`), then load `…/archive/[order]-[region]-[slug]-[code]/` to verify front matter renders and links work. Your entry will appear under its **Order** in the Archive hub (and in the Region finder) automatically .
 
 ---
 
-## 9) Worked mini-example (you can copy-edit into a real post)
+## 9) Worked micro-example (you can model your first slip on this)
 
 **Filename:** `_archive/mediation-densmok-plot-aperture-b3.md`
 
@@ -131,33 +128,35 @@ order: "Mediation & Aperture"
 region: "Densmok"
 catalog_code: "B3"
 excerpt: "Two closed eyes make a plot; the device makes the truth pass, not the bodies."
+layout: archive
 ---
 ```
 
-**Provenance**
-Densmok · Night-work at **Softwares** (storefront); coder scene; screen output note.
-
+**Provenance** — Densmok · Night-work at Softwares (storefront); coder scene; screen output note.
 **Extract**
 
-> || Two people with their eyes closed. No touching. No speaking. No moving to make noise. Each stares ahead. **A plot is the intersection of their stares.** ||【】
-
-**Archivist’s Commentary**
-The **form** makes the truth: a rule that **constrains bodies** so that only a plotted **intersection** may pass. This fits **Mediation & Aperture**—like the Capital’s window (“no door; slips only”), the Densmok apparatus filters access by design【】. Cross-index to **A1 Window Aperture** for the shared principle that **knowledge may pass; bodies may not**【】. Region remains Densmok (provenance), but the shelf is the **Order**.
-
-(*Optional “Further reading” link for the student editor: Phase II **Edges to Edges** on method-as-withdrawal, for kinship of technique becoming bodily habit【】.*)
+> || Two people with their eyes closed… **A plot is the intersection of their stares.** ||
+> **Archivist’s Commentary** — The **form** makes the truth: a rule that **constrains bodies** so only a plotted **intersection** may pass. File **Mediation & Aperture**; cross-index A1 **Window Aperture** (Capital) for the same principle: **knowledge may pass; bodies may not**  .
 
 ---
 
-## 10) Quick “what next” prompts (pick one and go)
+## 10) Submission checklist (copy/paste and tick)
 
-* **Quarry → Violence & Secret Life (cross Craving):** Take the Yeller double-life stanza/witness stream and build a slip on **parallel ledgers** (respectability vs appetite)【】.
-* **Dead River → Doubling:** Build a **Counting-Five** dossier (tap, cart, shrine misses) using the case register style from existing entries【】【】.
-* **Tower/Sticks → Silence & Withdrawal:** Pair a Tower drill clip with a Sticks quiet-hours ledger to show **silence as method**【】【】.
+* ✅ **Order first; Region second** (cross-index if the device crosses towns) .
+* ✅ **Clips follow Protocol 7.3** (Slip/Provenance/Clip/Orders/Commentary) .
+* ✅ **Three sections** present (Provenance → Extract → Archivist’s Commentary) and the commentary argues **Order-first** .
+* ✅ **Contradictions preserved** (mark, don’t fix) .
+* ✅ **Filename & front matter** match Archive specs (Order-primary pattern; entry fields)  .
 
 ---
 
-### Why this workflow matches the site’s logic
+## Appendix — Quick classifiers (use while deciding your Order)
 
-* The Archive hub explicitly **adopts Orders-first** and points readers to the Debate only as history【】.
-* The README anchors **Orders** and **Regions** and defines the **entry format** your file must follow【】【】.
-* The aggregate shows how to **cite clips** and to **preserve contradictions** inside the slip itself【】【】.
+* **Boundary** — unstable edges; lines that move (e.g., Dens’s town/wilderness) .
+* **Doubling** — replication without origin (e.g., Quarry roads that bud; Hunt “fivefold” images) .
+* **Craving** — appetite as engine (e.g., Dead River handouts/TV/comic franchise) .
+* **Silence & Withdrawal** — method installed then voiced recedes (Tower catechism; Sticks quiet-hours) .
+* **Violence & Secret Life** — public ledger vs private harm (North murder songs) .
+* **Mediation & Aperture** — devices/apertures making access (Capital window; pickbox cart; map that makes a town)  .
+
+> When you’re unsure, re-read **“Why the Archive Files by Orders First.”** It’s the pole star for every filing decision you make .

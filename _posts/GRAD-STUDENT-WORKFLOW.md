@@ -2,26 +2,41 @@
 
 ## Quick Overview
 
-**Blog Posts** are the **real academic voice** of the site (out-of-character). You're writing as Professor Plate sharing genuine thoughts, arguments, and work-in-progress reflections on literary theory, AI, and hermeneutics.
+**Blog Posts** are the site's *out-of-character* academic writing: real essays, arguments, and work-in-progress reflections by Professor Plate. They serve as a public research notebook for literary theory, hermeneutics, and AI interpretation — exploratory, first-person, and scholarly-but-readable.
 
 ### Key Principle:
-This is **authentic academic blogging** — first person, reflective, conversational but scholarly. Think of it as sharing your thinking process with colleagues and students.
+This is **authentic academic blogging** — first person, reflective, conversational but scholarly. Posts function as the **engine of the site's ecosystem**, with ideas tested here becoming frameworks (kits) and fictional prompts (Archive/Debate).
 
 ---
 
-## Step 1: Identify Your Post Type
+## Step 1: Identify Your Subject Area
 
-### What Belongs in Blog Posts:
-- **Theoretical explorations**: "I've been thinking about..."
-- **Methodological questions**: "How should we approach..."
-- **AI & interpretation reflections**: "This puzzles me about..."
-- **Literary criticism insights**: "Reading X made me realize..."
-- **Work-in-progress thoughts**: "I'm not sure where this leads, but..."
+Focus your post within one of these **five recurring bands**:
+
+### 1. Hermeneutics & Method-in-Use
+- How we read; why methods help or mislead; where interpretation breaks down
+- Questions assumptions, stages problems, leaves threads for later systematizing
+
+### 2. AI & Interpretation  
+- What AI-generated texts do to authorship, intention, and reading
+- Tests the idea that AI's "newness" intensifies classic hermeneutic issues rather than creating rupture
+
+### 3. Romanticism as a Live Method Bank
+- Romantic concepts as tools: authenticity/sincerity, organic vs. mechanical form, technology & the machine
+- Tries ideas on contemporary problems before kit-pages formalize them
+
+### 4. Meta-critique, Pedagogy, and Scholarly Practice
+- Freedom to experiment; skepticism toward compelled disclosure of method
+- Defends process freedom, argues that privacy can protect creativity
+
+### 5. Bridgework Across Collections
+- Sketches ideas that later become kit pages or inspire fictional seeds for Archive/Debate
+- The staging area for the site's integrated system
 
 ### What Does NOT Belong Here:
-- Systematic theory frameworks (those go in `_romantic/` or `_ai_hermeneutics/`)
-- Fictional archive materials (those go in `_archive/`)
-- Meta-archival discussions (those go in `_debate/`)
+- Systematic frameworks → move to Romantic or AI Hermeneutics kits
+- Fictional documents → move to `_archive/`
+- Meta-archival debates → move to `_debate/`
 
 ---
 
@@ -133,27 +148,29 @@ in the [AI Hermeneutics framework]({{ '/ai-hermeneutics/ai-hermeneutics-kit/' | 
 
 ---
 
-## Step 7: Common Post Types & Prompts
+## Step 7: Canonical Threads & Representative Prompts
 
-### Theoretical Exploration Posts:
-- "I've been rethinking [concept]. Here's what troubles me..."
-- "Reading [author] made me question [assumption]..."
-- "How should we handle [methodological problem]?"
+Use these to generate or categorize drafts:
 
-### AI & Hermeneutics Posts:
-- "Something weird happened when I was reading AI text..."
+### Authorship without an Author?
+- "If training data and prompt-patterns stand in for an 'author,' what does intention even mean here?"
+- "The author-function gets complicated when..."
+
+### Organic vs. Mechanical Form (today)
+- "Where does 'organic form' survive (or fail) in a world of generative constraints and templates?"
+- "Romantic authenticity meets algorithmic generation..."
+
+### Performativity & Parody in Models
+- "When a model seems to 'perform' a genre, what counts as iteration vs. transformation?"
+- "This AI text feels like parody, but parody of what?"
+
+### Distanciation & Dialogue
+- "What does 'dialogue' mean when outputs are decoupled from consciousness yet responsive to us?"
 - "Traditional hermeneutics breaks down when..."
-- "The author-function gets complicated with..."
 
-### Literary Criticism Posts:
-- "Romantic authenticity isn't what I thought..."
-- "This passage from [work] reveals..."
-- "The relationship between [concept A] and [concept B]..."
-
-### Methodological Posts:
-- "I'm trying a new approach to [problem]..."
-- "The two-rail method works except when..."
-- "Close reading vs. distant reading in the age of AI..."
+### Pedagogical Risk, Privacy, and Innovation
+- "Which practices should remain private so that risky thinking can happen without sanctions?"
+- "I'm trying a new approach to [problem], but I'm not ready to defend it yet..."
 
 ---
 
@@ -197,7 +214,24 @@ in the [AI Hermeneutics framework]({{ '/ai-hermeneutics/ai-hermeneutics-kit/' | 
 
 ---
 
-## Step 10: Example Post Structure
+## Step 10: The Densworld Addendum (REQUIRED)
+
+Every post must end with an out-of-character **Densworld Addendum** (2–6 sentences) that speculates about a Densworld analogue for the post's idea. This is a **seed** for future Archive/Debate work and remains **out-of-character** (a hand-off, not fiction).
+
+### Include:
+- A concrete Densworld image, device, practice, or scene your post suggests
+- A **proposed Order** (Boundary; Doubling; Craving; Silence & Withdrawal; Violence & Secret Life; Mediation & Aperture)
+- A **likely Region** (Capital; Dens/Densmok; Quarry; North/Northo; Tower/Sticks; Dead River; Capeast)
+- Optional: a likely **Debate** document type (memo, minute, hearing, counter-memo)
+
+### Example Addendum:
+```markdown
+**Densworld Addendum (seed):** The "authenticity vs. performance" tension could surface in **North Town** as a murder-song requiring a masked **echoer** to confirm each line (→ **Doubling**). A clerk in **Capital** proposes banning masked echoers in depositions (→ potential **Counter-Memo** in Debate).
+```
+
+---
+
+## Step 11: Complete Example Post Structure
 
 ```markdown
 ---
@@ -223,6 +257,8 @@ we're using "sincerity" when we really mean something more like
 "systematic coherence"...
 
 [Concluding thoughts, questions for further exploration]
+
+**Densworld Addendum (seed):** The "authenticity vs. performance" tension could surface in **North Town** as a murder-song requiring a masked **echoer** to confirm each line (→ **Doubling**). A clerk in **Capital** proposes banning masked echoers in depositions (→ potential **Counter-Memo** in Debate).
 ```
 
-This workflow helps maintain the **authentic academic voice** that distinguishes blog posts from both the systematic theory collections and the fictional archive materials.
+This workflow maintains the **authentic academic voice** while systematically connecting each post to the broader site ecosystem through the Densworld seeding system.

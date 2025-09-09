@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is a Jekyll-powered academic blog called "Professor Plate's Notebook" focused on literary theory, hermeneutics, and critical analysis. The site combines traditional blog posts with specialized theoretical frameworks ("kits") and an innovative fictional archive system ("notebooks").
+This is a Jekyll-powered academic blog called "Professor Plate's Notebook" focused on literary theory, hermeneutics, and critical analysis. The site combines traditional blog posts with specialized theoretical frameworks ("kits") and an innovative fictional archive system organized by interpretive "Orders."
 
 ## Development Commands
 
@@ -21,42 +21,74 @@ bundle exec jekyll serve
 bundle exec jekyll build
 ```
 
+### Content Aggregation
+The site includes scripts to aggregate content from each collection into single files for analysis:
+
+```bash
+# Run all aggregation scripts at once
+./run-all-aggregators.sh
+
+# Run individual aggregation scripts
+./aggregate-structural-files.sh
+./_posts/aggregate-blog-posts.sh
+./_romantic/aggregate-romantic-kit.sh
+./_ai_hermeneutics/aggregate-ai-hermeneutics.sh
+./_archive/aggregate-archive.sh
+./_debate/aggregate-archivists-debate.sh
+```
+
+All aggregated files are output to `aggregated-md-files/` directory.
+
 ### GitHub Pages Deployment
 This site is configured for GitHub Pages deployment with baseurl `/my-ai-notebook`. The site builds automatically on push to the main branch.
 
 ## Site Architecture
 
 ### Five Main Collections
-1. **Posts** (`_posts/`) - Traditional academic blog posts (110 files)
-2. **Romantic** (`_romantic/`) - Romantic theory framework with 9 components
-3. **AI Hermeneutics** (`_ai_hermeneutics/`) - AI interpretation framework with 18 components
-4. **Archive** (`_archive/`) - Fictional archive entries organized by six interpretive "Orders" (18 files)
-5. **Debate** (`_debate/`) - Meta-archival methodology discussions
+
+1. **Posts** (`_posts/`) - Traditional academic blog posts (112 files)
+2. **Romantic** (`_romantic/`) - Romantic theory framework (11 components)
+3. **AI Hermeneutics** (`_ai_hermeneutics/`) - AI interpretation framework (20 components)
+4. **Archive** (`_archive/`) - Fictional archive entries organized by six interpretive "Orders" (20 files)
+5. **Debate** (`_debate/`) - Meta-archival methodology discussions (22 files)
 
 ### Collection Configuration
 - **Romantic**: `/romantic/:name/` - Romantic theory components with hub page at `/romantic/romantic-quick-kit/`
 - **AI Hermeneutics**: `/ai-hermeneutics/:name/` - AI hermeneutics components with hub page at `/ai-hermeneutics/ai-hermeneutics-kit/`
 - **Archive**: `/archive/:name/` - Archive entries accessible via `/archive/` hub
-- **Debate**: `/debate/:name/` - Archival methodology documents
+- **Debate**: `/debate/:name/` - Archival methodology documents accessible via `/debate/archivists-debate/`
 - **Posts**: `/:title/` - Blog posts accessible via `/posts/`
 
 ### Layout System
 - `default.html` - Base layout with site header/footer and conditional navigation
-- `home.html` - Homepage with four main section tiles
+- `home.html` - Homepage with three grouped section tiles
 - `post.html` - Blog post layout
 - `posts-list.html` - Blog index
-- `kit-hub.html` - Main kit landing pages
-- `kit.html` - Individual kit pages  
-- `archive-hub.html` - Archive index with auto-generated listings
+- `kit.html` - Individual kit pages (both romantic and AI hermeneutics)
+- `archive-hub.html` - Archive index with auto-generated Order listings
 - `archive.html` - Individual archive entries
 - `debate.html` - Debate documents
 
 ## Content Structure
 
+### Homepage Structure (Three Grouped Sections)
+
+**Writing Section:**
+- Single tile: Blog Posts → `/posts/` (112 posts)
+
+**Theoretical Frameworks Section (Paired Tiles):**
+- Romantic Quick Kit → `/romantic/` → detailed hub at `/romantic/romantic-quick-kit/`
+- AI Hermeneutics Kit → `/ai-hermeneutics/` → detailed hub at `/ai-hermeneutics/ai-hermeneutics-kit/`
+
+**Archive System Section (Paired Tiles):**
+- The Archive → `/archive/` → entries organized by six interpretive Orders
+- The Debate of the Archivists → `/debate/` → methodology documents in chronological phases
+
 ### Archive System (Archive Collection)
-The archive implements a rigorous fictional archive organized by six interpretive "Orders":
+The archive implements a fictional archive organized by six interpretive "Orders":
+
 1. **Boundary** - Where edges blur between forms
-2. **Doubling** - Replication, copies, journeys within journeys  
+2. **Doubling** - Replication, copies, journeys within journeys
 3. **Craving** - Desire as generative force
 4. **Silence & Withdrawal** - Where speech collapses
 5. **Violence & Secret Life** - Parallel ledgers of harm
@@ -66,15 +98,15 @@ Each entry follows strict formatting with catalog codes, provenance, extracts, a
 
 ### Theoretical Framework System
 Two comprehensive theoretical frameworks organized as separate collections:
-- **Romantic Collection** (`_romantic/`) - Method and concepts for reading Romanticism with 9 components
-- **AI Hermeneutics Collection** (`_ai_hermeneutics/`) - Framework for interpreting AI-generated texts with 18 components
+- **Romantic Collection** (`_romantic/`) - Method and concepts for reading Romanticism (11 components)
+- **AI Hermeneutics Collection** (`_ai_hermeneutics/`) - Framework for interpreting AI-generated texts (20 components)
 
 Each collection includes a hub page that links to detailed individual concept pages.
 
 ## Technical Details
 
 ### Jekyll Configuration
-- Jekyll 3.9.5 (GitHub Pages compatible)
+- Uses GitHub Pages gem with Jekyll 3.9.x compatibility
 - Uses kramdown with GFM input
 - Custom permalink structure
 - Plugins: jekyll-feed, jekyll-seo-tag, jekyll-sitemap
@@ -84,8 +116,11 @@ Each collection includes a hub page that links to detailed individual concept pa
 - Responsive design with clean academic aesthetics
 - Located in `style.css` at project root
 
-### Navigation
-Homepage provides four main tiles leading to each collection. Root-level hub pages (`romantic.md` and `ai-hermeneutics.md`) provide entry points to each theoretical framework, while collection-level hub pages within each collection have extensive cross-linking between related concepts.
+### Navigation Flow
+- Homepage presents three grouped sections (Writing, Theoretical Frameworks, Archive System)
+- Landing pages for each collection provide simple overviews
+- Detailed hub pages within collections have extensive cross-linking
+- Individual pages include back-to-hub navigation
 
 ## Content Guidelines
 
@@ -101,9 +136,8 @@ Homepage provides four main tiles leading to each collection. Root-level hub pag
 - Romantic: `romantic-kit-[topic].md` or `romantic-quick-kit.md` for hub
 - AI Hermeneutics: `ai-kit-[topic].md` or `ai-hermeneutics-kit.md` for hub
 - Archive: `[order]-[region]-[descriptive-slug]-[code].md`
+- Debate: `phase[N]-[type]-[descriptive-slug].md`
 - Use lowercase, hyphens for spaces
-
-The site functions as an integrated system where blog posts develop ideas that become formalized in theoretical frameworks (romantic and AI hermeneutics collections), which provide methods for analyzing materials preserved in the archive.
 
 ## Debate Documents Workflow
 
@@ -113,7 +147,7 @@ When given markdown files in the `_debate/` collection with missing or incomplet
 #### 1. Analyze Document Content
 - **Phase Classification** (determines where it links from hub):
   - **Phase I** (Years 1-12): Regional filing system establishment
-  - **Phase II** (Years 13-20): Geographic system failures  
+  - **Phase II** (Years 13-20): Geographic system failures
   - **Phase III** (Year 22): Orders proposal and debate
   - **Phase IV** (Year 23+): Implementation and objections
 
@@ -155,9 +189,19 @@ Add or update links in `/debate/archivists-debate.md` in the appropriate Phase s
 - Ensure permalink matches filename exactly
 
 ### Hub Page Structure
-The main debate hub (`/_debate/archivists-debate.md`) organizes documents by four chronological phases. Each phase should have 2-6 key documents that demonstrate the evolution of archival policy and the ongoing tension between regional vs. Orders-based filing.
+The main debate hub (`/_debate/archivists-debate.md`) organizes documents by four chronological phases. Each phase should have key documents that demonstrate the evolution of archival policy and the ongoing tension between regional vs. Orders-based filing.
 
 ### Integration Points
 - Cross-reference debate documents with archive entries that use the Orders
 - Ensure theoretical consistency between debate rationales and archive classifications
 - Maintain the fictional "institutional voice" throughout all debate documents
+
+## System Integration
+
+The site functions as an integrated system where:
+- Blog posts develop ideas that become formalized in theoretical frameworks
+- Theoretical frameworks (romantic and AI hermeneutics collections) provide methods for analyzing materials
+- Archive preserves materials using the interpretive Orders system
+- Debate documents explain the methodology behind the archive's organization
+
+This creates a self-referential academic ecosystem that demonstrates both the theory and practice of literary-critical methodology.

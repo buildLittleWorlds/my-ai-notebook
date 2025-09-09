@@ -229,51 +229,344 @@ As for the sightings, we keep the trinkets with the testimonies. Both are silhou
 around a body the ledgers cannot catch.
 ---
 
+## File: ./GRAD-STUDENT-CONTEXT.md
+
+# GRAD-STUDENT-CONTEXT — The Archive and the World of Dens
+
+> This is your **one-stop primer** to Densworld and to the Capital Archive that files it. You are not expected to read the ore files or every slip. Read this, skim the cross-links you need, then start drafting your first **in-character** archive slip. At you top, you fill find broad overviews of the regions of Densworld; following will be more focused context about the Archive within Densworld.
+
+---
+
+## Historian’s Overview of Densworld — A World of Orders, Regions, and Traveling Devices
+
+Densworld is not only a geography; it’s a set of repeatable pressures that organize lives. The Archive models those pressures as **Orders**—Boundary; Doubling; Craving; Silence & Withdrawal; Violence & Secret Life; Mediation & Aperture—and it treats **Regions** as secondary (provenance rather than destiny). Read this as a historian’s long view: how the regions fit together, what devices bind them, and why the same motifs—maps, windows, carts, fives—keep surfacing wherever you look.
+
+---
+
+### The Capital (and Capeast): Architecture as Method, Bureaucracy as Aperture
+
+The Capital is the center that throttles access. Its emblem is a **round window**—no door, just a circular aperture for slips, receipts, ledgers—calipered to tolerances and re-lacquered on schedule. Even the Senate stairs are built to slow bodies while privileging licensed knees. Capital’s doctrine is plain: **knowledge may pass; bodies may not**—architecture performs the Order of **Mediation & Aperture**.
+
+Capeast is the Capital’s “after”—after work, after festival—where arrivals become paperwork. When the **mapmaker’s women** enter a harvest-night square, complaints begin with **cloth** (shoulders, bare rings on backs) before agency; the city files spectacle as ordinance. The women sometimes arrive **before** the mapmaker; their step is coordinated, their fittings intentionally varied—evidence that story lags practice. Capeast thus magnifies Capital’s logic: governing by **aperture** and **notice**, catching moving seams with stationary rules.
+
+---
+
+### Dens / Densmok: An Edge That Won’t Hold, and a Workshop in the Shadow
+
+Dens is a town that is also a wilderness. Witnesses and ditch meters contradict each other: some say the grit is swallowing the town; others that the town has swollen, pushing the wild back. The Archive’s field logs learned to keep both and name the phenomenon **Boundary**—the **edge itself** is the content. In Dens, geography is an **act** (edge-shift), not a map coordinate.
+
+Densmok, the industrial spill of Dens, turns constraint into invention. **Singers** here treat **code as breath and beat**, building rigs that splice chant to hardware; two upward “pipelines” develop—a node pipeline and a **pairing** pipeline—and they interfere with each other like crossed radio. The world’s famous “plot machine” also clicks on a Densmok night shift: “Two people with eyes closed… **A plot is the intersection of their stares**,” a device-rule that lets truth pass while bodies stay put—exactly Capital’s window logic, now rendered in software. Dens/Densmok together teach the Archive that an **edge** can be measured, and that a **form** can constrain truth: Boundary and Mediation, side by side.
+
+---
+
+### Yeller Quarry: Roads That Bud, Copies Without Origin, and the Respectable Commute
+
+The Quarry’s proverb says: “Every true journey begins in the Quarry… **midway a second road buds off inside the first**… **Each path throws another**.” Maps cannot agree which line is original; what looks like the main road is already a seam. The Archive calls this **Doubling**—**proliferation without origin**.
+
+The same pattern holds in the **Hunt** woodcuts attributed to Castelia. Five silhouettes share and refuse each other—burrs repeat while **wrists** and **jaws** won’t align—and the postcard/tin copies invent details the “originals” don’t have. Markets crave a first cut; the slips refuse it.
+
+Socially, the Quarry is the **respectable commute into appetite**: “rich folk” sneak from Capital/Mirado to **eat off greasy tables and get off on greasy thighs**, then launder themselves on the return. Public ledger and private ledger do not meet; the Archive files the split under **Violence & Secret Life** with a cross-pull to **Craving**. Quarry routes, images, and appetites all rhyme as **recurrence that won’t resolve to a first**.
+
+---
+
+### North Town / Northo: Murder Songs and the Authorless Burden
+
+North Town sings with **two ledgers at once**: a melody for the square and a confession for the alley. A recurring margin hand whispers, “**missionary is the killer**” while indexes log knives, creeks, borrowed names. The Archive knows North by the Order **Violence & Secret Life**: public performance paired with concealed harm.
+
+Northo is where we see the **mapmaker’s pickbox cart** with clarity: a small cart “not quite larger than a wheelbarrow” that **opens into rooms upon rooms**, trailed by **five women** walking “as if roped though they were not.” He refuses food; they refuse his. The burden moves under its own rule, answerable to no single author. The cart will later travel across ledgers (Northo → North → Dead River), behaving less like a possession than a **method** the Archive classifies with **Mediation & Aperture** (a traveling aperture) and, at times, **Doubling** (rooms within rooms).
+
+---
+
+### Tower of Mirado / Mirado Sticks: When Speech Withdraws into the Hand
+
+The Tower keeps **recursive speech**—words that teach technique. A catechism, **“edges to edges,”** repeated at each misfit, eventually **moves the child’s hand without being spoken**. The Tower’s own documents recognize this as a hinge: speech lays a track, then **withdraws**, leaving practice in the body. This is the Order **Silence & Withdrawal**: not absence, but a method whose **voice is scaffold**—meant to disappear once the structure stands.
+
+Across the river, **Mirado Sticks** is the place of **quiet-hours**, where routers spike on surveillance threads and aides say, “Come back during quiet hours.” They **re-mark silence at dawn** and start loops again: hands before words, bodies before feeds. The Sticks’ clinic keeps **withdrawal logs**—“many returns begin with a broken screen and end in hand-work”—and catalogs cases (Cassie, E., Ria) where silence recovers a local grammar. Tower and Sticks are opposites that fit: catechism installs method; quiet-hours **maintain** it.
+
+---
+
+### Dead River: A Town Installed by Map, a Journey Enabled by Fire
+
+Dead River has “no river… no church… no words because no speech,” yet it **is** a town because a **map named it**; **from that map, another map, and from that one, ten**. The Archive reads this as **Mediation & Aperture** (a **map-device** confers townhood) crossed with **Doubling** (maps-of-maps). Passage here is also **device-first**: **only Yeller** could make the crossing by sharing a **canistered flame**—a **carried fire** that mediates survival and movement.
+
+Culturally, **Dead River Whores**—book, game, comic, imprint—**broke the Capital’s imaginative monopoly** and its harvest of attention. It is the through-plot of the boroughs, re-centering appetite and authorship far from the window’s rim. In Dead River, the Archive learned to say plainly: devices (map, flame) make places **possible**.
+
+---
+
+### Traveling Figures and Codes: Yeller, the Five, the Pickbox, Castelia
+
+**Yeller** is both figure and **five**. Alley trinkets show a **fivefold silhouette**; sightings multiply across Dead River and the Quarry; debates fixate on **maintenance across generations** (are they immortal?). The Archive reads Yeller’s **fivefold** as code that threads song, image, and route: **“A yeller bird is a little flock of five… a yeller girl is a missing child…”**—public melody and private confession in one stanza.
+
+The **pickbox cart** is a **region unto itself**—Gunnr-wood, bone, leather, corners beyond corners. Its operator listens for a **count**—specifically **five**—in a girl’s tapping; counting recruits; the burden **encloses** its own geography. In North Town, a murder song reports the cart **rolling without him**, a method with no confessor—**picking** as the only author that remains.
+
+**Castelia’s** **Hunt** copies reinforce the same ontology: burrs repeat, **wrists** drift, **jaws** fail to align; postcard and tin **invent** what the “originals” lack. The market wants a first; the slips offer a **chain**.
+
+Across these figures, the **structural pattern is recurrence without origin**; the Archive calls that **Doubling** and keeps **Region** only as a witness tag.
+
+---
+
+### How the Regions Relate (Narrative Lines You Can Follow)
+
+* **Edge ⇄ Device.** Dens’s moving edge meets Capital’s fixed apertures: both limit or permit passage, one by **grit**, the other by **window**. Densmok’s plot device mirrors the window’s rule—**form admits truth, not bodies**.
+
+* **Roads ⇄ Rooms.** Quarry roads **bud** new roads; the pickbox cart **opens inward** to rooms upon rooms. The first proliferates **outside**, the second **inside**—two faces of the same doubling engine.
+
+* **Song ⇄ Image ⇄ Number.** North’s murder songs keep a **second ledger**; Quarry’s woodcuts refuse an **original**; Dead River and Yeller tie both to the **number five**. The same code travels as rhyme, silhouette, recruitment meter.
+
+* **Festival ⇄ Filing.** Capeast’s festival aftermath records **complaint before agency**; the Capital’s window logs show the same impulse—**govern passage**, stamp tolerances. One is a parish note; the other, an inspection schedule.
+
+* **Catechism ⇄ Quiet-Hours.** Tower’s **“edges to edges”** installs technique; Sticks **re-mark** silence each dawn to keep it. Two halves of **Silence & Withdrawal**: a voice that teaches, then leaves; a practice that persists.
+
+---
+
+### Why the Archive Files by Orders First
+
+This world repeatedly shows **device before place**. A **map** makes a town; a **canistered flame** makes a journey; a **window** makes a policy; a **cart** makes its own rooms. Meanwhile, regions **proliferate** (Quarry roads), contradict (Dens boundary), or travel (Yeller’s fivefold). The Archive therefore shelves by what the document **does**—aperture, doubling, craving, boundary, withdrawal, secret life—and only then notes where it was found.
+
+If you keep one historian’s sentence in mind while writing slips, keep this: **in Densworld, mechanisms generate geographies, and patterns outlast places.** The Archive’s task is to file the mechanisms and patterns, then let regions testify.
+
+
+---
+
+## 1) What the Archive is (and isn’t)
+
+**The Archive** is a fictional, rigorous catalog of primary documents from Densworld. Slips are filed first by **Order** (the reality a document performs) and second by **Region** (where it comes from)  . The six **Orders**:
+
+1. **Boundary** — edges that won’t hold
+2. **Doubling** — copies without origin
+3. **Craving** — appetite as engine
+4. **Silence & Withdrawal** — truth through quiet practice
+5. **Violence & Secret Life** — parallel harm ledgers
+6. **Mediation & Aperture** — devices/windows that govern access .
+
+**Regions** are secondary tags the Archive still tracks: **Capital, Dens/Densmok, Quarry, North Town/Northo, Tower/Sticks, Dead River, Capeast** .
+
+**Voice.** Archive slips are **in-character** records authored by Capital archivists: professional, fragment-preserving, interpretive, and deliberately unresolved .
+
+**Debate vs Archive.** The `_debate/` collection narrates the institution’s reorganization (four phases, clerkly ↔ romantic ↔ philosophical tensions). Use it sparingly for context; your slip belongs to the Archive, not the Debate .
+
+---
+
+## 2) How the Capital Archive works (what your job feels like)
+
+**Orders-first filing.** After years of arguing, the Archive files by **Order** first and **Region** second, with mandatory cross-indexing across both when relevant . The Debate phases document how we got here (Regional drawers → faults in geography → Orders proposal → implementation & objections) .
+
+**Protocol 7.3 — how to cite a clip.** Each slip is built from **clips** (verbatim or close), labeled with a local **Slip Code**, **Provenance** (Region + record form), the **clip** itself, **Order tag(s)**, and a **1–3 sentence commentary** .
+
+**Architecture as method.** In the Capital, **apertures** literally throttle knowledge: round **windows** allow slips but not bodies, and **stairs** meter crowds—filed under **Mediation & Aperture**  .
+
+**Temperaments you’ll overhear.**
+
+* **Clerkly** archivists love stamps and tolerances; distrust metaphysics.
+* **Romantic** archivists narrativize, caring for witness voices.
+* **Philosophical** archivists legislate categories and systems .
+  Expect these voices in margin notes and cross-refs.
+
+**Keep contradictions.** Do **not** reconcile conflicting testimony; disagreement is evidence and may itself determine the Order tag (e.g., **Boundary** or **Doubling**) .
+
+---
+
+## 3) Field atlas — the Regions at a glance (what they *do*, with flagship materials)
+
+### Capital — Bureaucratic center; licensing and control
+
+* **Apertures govern truth flow.** Windows limit passage to slips; stairs slow bodies—“knowledge may pass; bodies may not” (Order: **Mediation & Aperture**)  .
+* **How to cite a clip** lives in Capital protocols; use the Slip/Provenance/Clip/Orders/Commentary template in every slip .
+
+### Dens / Densmok — Edges, speech, and devices under constraint
+
+* **Boundary town(s).** Dens is both town and wilderness; the line **moves with the hour** (Order: **Boundary**)  .
+* **Densmok devices & “plot.”** Night-work scenes tie code to breath; devices define what counts as a plot (“two with closed eyes… **a plot is the intersection of their stares**”) (Orders: **Mediation & Aperture**, cross **Doubling/Craving**)   .
+
+### Quarry / Yeller Quarry — Sources, journeys, fivefold images
+
+* **Doubles with no origin.** Castelia’s **Hunt** woodcuts produce “fivefold silhouettes” whose **burrs** and **wrists** don’t line up; the market wants a single first cut, the slips refuse it (Order: **Doubling**)  .
+* **Roads that bud**. Quarry journeys **proliferate** paths; each road **throws another** (Order: **Doubling**) .
+
+### North Town / Northo — Murder songs & secret lives
+
+* **Murder songs index.** Public melodies double as **private confessions**; “missionary is the killer” appears in margins (Order: **Violence & Secret Life**)  .
+* **Pickbox cart (Northo file).** A cart “not larger than a wheelbarrow” opens into rooms; **five women** rope behind; who bears the burden is unresolved (cross-Region, cross-Order case)  .
+
+### Tower of Mirado / Sticks — Catechism drills and withdrawal
+
+* **Edges-to-edges (Tower).** Repetition makes **technique**; a rule enters the hand as speech recedes (Order: **Silence & Withdrawal**) .
+* **Sticks quiet-hours.** Clinic boards, router sheets, and moderators’ notes reveal **silence as method** under surveillance pressure (Order: **Silence & Withdrawal**)  .
+
+### Dead River — Counting systems, towns made by maps
+
+* **A town named by a map.** With “no river… no speech,” the **map** installs the town; “from that map, another… and from that one, ten” (Orders: **Mediation & Aperture** + **Doubling**) .
+* **Transit by device.** A **canistered flame** enables passage: **devices** make routes, not geography (Order: **Mediation & Aperture**) .
+* **Craving taught on the street.** Handouts and a TV/comic franchise train appetites and launder harm (Orders: **Craving**, **Violence & Secret Life**, **Mediation & Aperture**)  .
+
+### Capeast — Festival sites and women’s arrival stories
+
+* **Pattern log (G2).** The mapmaker’s women arrive “ahead of the mapmaker,” clothing variants provoke **protests**; the paperwork tries to catch a moving seam (Orders: **Silence & Withdrawal**/**Boundary**)  .
+
+---
+
+## 4) Recurring devices & plots (your story-making toolbox)
+
+* **The Pickbox Cart.** A traveling aperture “opening inside into rooms upon rooms,” shadowed by five women—perennially misfiled by Region, correctly seen as device-first (Orders: **Mediation & Aperture**; cross **Violence & Secret Life / Doubling**)  .
+* **The Map that Makes a Town.** Dead River exists **because a map names it**; maps beget maps (Orders: **Mediation & Aperture**, **Doubling**) .
+* **Yeller’s Fivefold.** Castelia’s silhouette and North’s “yeller stanza” are a **code** tying number to harm and desire (Orders: **Violence & Secret Life**, cross **Doubling**)  .
+* **Edges to Edges.** The Tower drill and Sticks quiet-hours show how **language becomes habit**, then falls silent (Order: **Silence & Withdrawal**)  .
+* **Capital Apertures.** Windows/stairs as **filters**: the city’s truth is throttled by openings and tolerances (Order: **Mediation & Aperture**) .
+
+---
+
+## 5) Characters and figures (as the Archive understands them)
+
+* **The Mapmaker** — pulls the pickbox cart; sleeps while **five women** watch; routes touch Northo, North, Dead River, Capeast. The cart is **authorless burden** (debated); the women sometimes **precede the story** the records try to write  .
+* **The Five Women** — walk “as one though they were five”; clothing patterns vary and trigger official **protests**; agency misread as offense (Orders: **Boundary**, **Silence & Withdrawal**, cross **Violence & Secret Life**)  .
+* **Castelia** — artist of the **Hunt** woodcuts; provenance splinters into burrs, inks, copies (Order: **Doubling**) .
+* **The Minor Archivist** — Capital clerk whose notes teach **aperture logic** (“I speak through the window”) (Order: **Mediation & Aperture**) .
+* **Cassie, E., Ria** — Mirado Sticks “withdrawal” cases; each exhibits silence as method with differing complications (Order: **Silence & Withdrawal**) .
+* **Queenmater (handouts)** — a street device teaching **Craving** in Dead River; also a forum flashpoint in Sticks logs  .
+* **Varro & Kettel** — Debate voices: Varro formalizes Orders-first; Kettel warns metaphysics shapes speech. Their quarrel explains your slip’s **Orders-first** duty with **Region** as provenance  .
+
+---
+
+## 6) Orders → Examples (how to think like a filer)
+
+* **Boundary** — Dens/Densmok stories where **town ↔ wilderness** keep trading places; Tower drills that draw a line then make it move  .
+* **Doubling** — Quarry **roads** that bud; **fivefold** images and stanzas; **maps-of-maps** that install a site without origin   .
+* **Craving** — Devices and markets that **teach appetite** (Dead River handouts/TV; Quarry commutes)  .
+* **Silence & Withdrawal** — **Quiet-hours** and **catechisms** where hands keep the rule after speech stops  .
+* **Violence & Secret Life** — North murder songs, **public melody / private confession**; Yeller’s **respectable commute** → **secret appetite**  .
+* **Mediation & Aperture** — **Windows**, **carts**, **canistered fire**, **plot machines**: forms that **let truth pass** while holding bodies back   .
+
+---
+
+## 7) How to write your first slip (in character, step by step)
+
+1. **Pick a thread** (ore → clip candidates). Example:
+
+   * Densmok **plot** device lines (Stell/Frank scene) .
+   * Quarry **fivefold** woodcut findings (burr lines; pose variance) .
+   * Tower **“edges to edges”** catechism notes (child self-prompt) .
+
+2. **Decide the Order (primary)** → then mark **Region (secondary)** using the canonical lists above .
+
+3. **Pull 2–5 clips** and format with Protocol 7.3 (Slip Code; Provenance; `|| clip ||`; Orders; Commentary). **Keep contradictions** in view; they’re evidence  .
+
+4. **Write the three sections** in order—**Provenance → Extract → Archivist’s Commentary**—arguing **why the Order fits** (not just the Region). Good models:
+   **A1/A2** (Capital windows/stairs), **D1/D2** (Quarry doubles), **I1** (Sticks withdrawal) .
+
+5. **Optional cross-index** one Debate doc that frames your choice (e.g., “Edges to Edges”; “Map Without River”)—but remember, the Archive is the shelf; Debate is history .
+
+6. **Filename & front matter.**
+   `[order]-[region]-[descriptive-slug]-[code].md` with the standard Archive **entry format** and layout `archive`  .
+
+---
+
+## 8) Ten quick seed prompts (copy, then find 2–3 clips)
+
+* **Boundary · Densmok** — “Two kinds of story about Dens” vs ditch-readers’ ledgers → the edge moves; keep both accounts .
+* **Doubling · Quarry** — “Roads that bud”: pull one colloquy minute + one junior registrar note; show **proliferation** .
+* **Craving · Dead River** — Queenmater handouts + TV/comic **franchise**; docket “dose” as practice  .
+* **Silence & Withdrawal · Sticks** — Router sheet spike + quiet-hours note; “speech after hands”  .
+* **Violence & Secret Life · North** — Murder song index + “missionary” margin: melody ledger vs confession ledger .
+* **Mediation & Aperture · Capital** — The Senate **stairs** + inspection tolerances; crowd-throttling as filing tool .
+* **Mediation & Aperture · Northo/Dead River** — Pickbox **cart** + canistered **fire**; the device makes the journey possible  .
+* **Doubling · Yeller Quarry/North** — “Yeller” stanza + **Hunt** woodcut: fivefold code across song and image  .
+* **Boundary · Tower** — “Edges to edges” lesson plan + transfer to cutlery; a line that changes what it bounds .
+* **Silence & Withdrawal · Capeast** — Clothing **pattern log** + protests; ordinance tries to catch agency .
+
+---
+
+## 9) Mini-glossary (the Archive’s sense of the terms)
+
+* **Aperture** — Any device or opening that **permits slips** but denies bodies; more broadly, any mechanism that **makes a site legible** (Capital windows; pickbox cart; Dead River map)  .
+* **Fivefold** — A number that travels through songs, silhouettes, and routes; usually **recurrence without origin** (hence **Doubling**)  .
+* **Quiet-hours** — Sticks practice of putting **hands before words**; surveillance changes tempo, so silence is **re-marked** at dawn .
+* **Provenance vs Order.** Provenance is where a record comes from; **Order** is what it **does**. Orders are primary; Regions are secondary—by policy and by hard-won argument in the Debate  .
+
+---
+
+## 10) Submission sanity-check
+
+* ✅ **Order first; Region second** (with cross-index if the device crosses towns) .
+* ✅ **Clips follow Protocol 7.3** (Slip/Provenance/Clip/Orders/Commentary) .
+* ✅ **Contradictions preserved** (mark, don’t fix) .
+* ✅ **Voice stays archivist-in-character** (analytical, fragment-preserving) .
+
+---
+
+### Appendix — Canonical lists (quick copy)
+
+* **Orders:** Boundary; Doubling; Craving; Silence & Withdrawal; Violence & Secret Life; Mediation & Aperture .
+* **Regions:** Capital; Dens/Densmok; Quarry; North Town/Northo; Tower/Sticks; Dead River; Capeast .
+
+> You’re ready. Pick a device, pick a ledger, pick a seam—then file what it **does**.
+
+---
+
 ## File: ./GRAD-STUDENT-WORKFLOW.md
 
-# Graduate Student Workflow: Building a New **Notebook** Entry (Orders-first)
+# Graduate Student Workflow — Writing **Archive** Slips (Orders-first)
 
-**You are adding to the archive itself.** The **Notebooks** are the shelves; the **Archivists’ Debate** is just backstory/context you may cite. The catalog files slips by **Order** (primary) with **Region** as secondary provenance【】, and the hub already exposes both an **Orders index** and a legacy **Finder by Region**【】【】.
-
----
-
-## 0) Prereqs & Where your file goes
-
-* Run the site locally with Jekyll: `bundle install` → `bundle exec jekyll serve` (URL in README)【】.
-* Your new entry lives in the **`_notebooks/`** collection and renders with the `notebook` layout【】.
-* Use the Order-Primary filename pattern: `[order]-[region]-[descriptive-slug]-[code].md` (e.g., `mediation-capital-window-aperture-a1.md`, `doubling-quarry-hunt-silhouettes-d1.md`)【】【】.
+> You’re contributing **in-character** documents to the Capital Archive. Read the Archive **GRAD-STUDENT-CONTEXT** first for the historian’s overview and the Archive’s method; then use this step-by-step to produce your slip. Archive files by **Order (primary)**, with **Region (secondary)** as provenance  .
 
 ---
 
-## 1) Choose your **source** (“ore”)
+## 0) What belongs here (and tone)
 
-Pick one thread from the Densworld “ore” files (e.g., **Yeller Quarry**, **Densmok**, **North/Northo**, **Tower/Sticks**, **Dead River**, **Capital**, **Capeast**). These supply your **verbatim clips**. Example ore lines you might mine:
-
-* Yeller Quarry witness account (class drift between respectability/appetite)【】.
-* Densmok coder/night-work scene (devices, counting, screen-to-body drift)【】【】.
-
-> Rule of thumb: **your unit of truth is a *clip*** (verbatim or near-verbatim), wrapped in protocol and indexed【】.
+* **This section is for slips**: primary documents compiled by Capital archivists, written **in character**, fragment-preserving, interpretive, and deliberately unresolved .
+* Keep the Archive/Debate boundary straight: you may **cite** Debate for context, but you’re filing **Archive** evidence, not writing Debate minutes .
+* Voice & house style: precise, clerkly-professional; preserve contradictions rather than reconciling them .
 
 ---
 
-## 2) Classify by **Order** (primary) → then mark **Region** (secondary)
+## 1) Choose your **source thread** (“ore”)
 
-Use the Orders as working lenses to decide **what the slip *does***:
+Pick one thread that the context file highlights (examples below). You’ll mine it for **verbatim clips**:
 
-* **Boundary**: edges that won’t hold (Dens meters vs testimony)【】
-* **Doubling**: proliferations; copies without origin (Quarry roads; Castelia fivefold)【】
-* **Craving**: desire that makes artifacts (Densmok rigs; Capeast aftermath)【】
-* **Silence & Withdrawal**: hands before words; drills that become method (Tower catechism; Sticks quiet-hours)【】
-* **Violence & Secret Life**: parallel harm ledgers; North murder songs【】
-* **Mediation & Aperture**: devices, windows, carts constrain access【】
+* **Capital/Apertures** (window tolerances; stairs as throttles) → Mediation & Aperture .
+* **Dens / Densmok** (edge that won’t hold; plot device) → Boundary / Mediation & Aperture (often cross-tags) .
+* **Yeller Quarry** (roads that bud; Hunt woodcuts) → Doubling .
+* **North / Northo** (murder songs; pickbox cart) → Violence & Secret Life (cross Mediation & Aperture) .
+* **Tower / Sticks** (catechism; quiet-hours) → Silence & Withdrawal .
+* **Dead River** (map installs a town; carried flame) → Mediation & Aperture + Doubling .
 
-Then tag **Region** using the standard geography list (Capital, Dens/Densmok, Quarry, North/Northo, Tower/Sticks, Dead River, Capeast)【】.
+> Rule of thumb: your **unit of truth is a clip** (verbatim or near-verbatim) that you bracket and comment, not a paraphrase. Protocol follows in Step 4.
 
 ---
 
-## 3) Pull 2–5 **Clips** using Protocol 7.3
+## 2) Classify **Order first → Region second**
 
-Follow the **“How to Cite a Clip”** template already in the notebooks aggregate:
+Use the Orders as working lenses to decide **what the slip *does***; Regions record **where** it came from:
+
+* **Orders (primary):** Boundary; Doubling; Craving; Silence & Withdrawal; Violence & Secret Life; Mediation & Aperture .
+* **Regions (secondary):** Capital; Dens/Densmok; Quarry; North/Northo; Tower/Sticks; Dead River; Capeast .
+
+Why this order? Densworld shows **device before place**—maps make towns, windows make policy, carts make rooms—so we shelve by what a document **performs** (the Order) and only then mark provenance (the Region) .
+
+---
+
+## 3) Sketch your slip (3 sections, always in this order)
+
+1. **Provenance** (Region · record form)
+2. **Extract** (2–5 clips)
+3. **Archivist’s Commentary** (1–3 sentences per clip set)
+
+Keep conflicts intact; disagreement is **evidence** (it can even determine the Order, e.g., Boundary/Doubling) . Your commentary argues the **Order-first** reasoning, not just geography .
+
+---
+
+## 4) Cite clips by **Protocol 7.3** (required)
+
+Use the Archive’s in-house protocol when you quote:
+
+**How to cite a clip (Protocol 7.3)**
+
+* **Slip Code** — local identifier (e.g., A1)
+* **Provenance** — Region + record form (e.g., Capital · Licensing Notes)
+* **Quotation Mark** — bracket excerpts with `|| … ||`
+* **Cross-Order Tag** — primary Order (+ optional cross-tag)
+* **Commentary Line** — 1–3 sentences on how the clip pressures the Orders .
+
+**Template + mini example**
 
 ```
 Slip: [CODE] — [TITLE]
@@ -283,79 +576,56 @@ Order(s): [ORDER-1][; ORDER-2]
 Commentary: [ARCHIVIST NOTE, 1–3 sentences]
 ```
 
-Keep contradictions; they are evidence【】【】.
 
-**Example clip pulls (ready to paste):**
-
-* `|| I’d known rich folk … sneak away to Yeller Quarry … eat off greasy tables and get off on greasy thighs … then drive back home to shower off and straighten out. ||` → Provenance: Quarry · Witness Account → **Orders:** Violence & Secret Life; Craving【】
-* `|| Two people with their eyes closed … A plot is the intersection of their stares. ||` → Provenance: Densmok · Device Scene/Software Note → **Orders:** Mediation & Aperture (form constrains truth)【】
 
 ---
 
-## 4) Create the **frontmatter** & file
+## 5) File naming & front matter
 
-Use the site’s standard **Notebook Entry Format**:
+**Filename pattern** (Order-primary):
+`[order]-[region]-[descriptive-slug]-[code].md` (e.g., `mediation-capital-window-aperture-a1.md`) .
+
+**Front matter** (use the Archive entry format + `layout: archive`):
 
 ```yaml
 ---
-title: "Archive Post [CODE] — [REGION]: [TITLE] ([DOCUMENT TYPE])"
-order: "[ONE OF SIX ORDERS]"
-region: "[GEOGRAPHIC REGION]"
-catalog_code: "[ALPHANUMERIC CODE]"
-excerpt: "[KEY QUOTE FROM COMMENTARY]"
+title: "Archive Post A1 — Capital: Window Aperture, South Arcade (caliper check log)"
+order: "Mediation & Aperture"
+region: "Capital"
+catalog_code: "A1"
+excerpt: "This window is not a door. The rule is design: knowledge may pass; bodies may not."
+layout: archive
 ---
 ```
 
-This is exactly what the collection expects【】.
-**File path:** `_notebooks/[order]-[region]-[descriptive-slug]-[code].md` (e.g., `_notebooks/mediation-densmok-plot-aperture-b3.md`)【】.
+(adapted from A1/A2 examples) .
 
 ---
 
-## 5) Write the three sections
+## 6) Cross-index smartly
 
-* **Provenance** — *where the material came from and in what form* (e.g., “Quarry · Witness account; alley bills; repair ledger”)【】.
-* **Extract** — your **clips** in blockquotes / `|| … ||` with minimal framing【】.
-* **Archivist’s Commentary** — 2–6 paragraphs that argue why this fits the chosen **Order** (not just the Region). Keep mismatches in view; do not reconcile them【】【】.
-
-> Touchstone examples to imitate:
->
-> * **A1 — Capital: Window Aperture** (Mediation & Aperture)【】【】
-> * **D1/D2 — Yeller Quarry: Doubles** (provenance vs. copies)【】【】
-> * **I1 — Sticks: Withdrawal Logs** (silence as method)【】【】
+* Add a **cross-Order** tag when your clips clearly operate in two realities (e.g., Mediation & Aperture **cross** Doubling for the pickbox cart) .
+* **Optional:** mention one **Debate** doc in a footnote if it frames your filing (e.g., “On the Necessity of Cross-Indexing Densmok”), but keep the slip itself strictly Archive  .
 
 ---
 
-## 6) Cross-index (optional but encouraged)
+## 7) Tone, temperaments, and what *not* to do
 
-Your notebook entry can point to **one** Debate doc that frames your choice (history/context), e.g.:
-
-* Phase II **“Edges to Edges”** (why Withdrawal is a method) → `/debate/phase2-colloquy-edges-to-edges/`【】
-* Phase II **Counting/Cart** cases (doubling; device-first filing)【】
-
-Remember: the Debate is meta-history; the **Notebook** is the shelf. Use the Debate sparingly to **justify** the Order-first filing the hub already announces【】.
+* Write as a **Capital archivist**; your job is to **measure pressures** and keep contradictions, not to solve them  .
+* Expect (and avoid impersonating) institutional **temperaments** in the margins: **clerkly**, **romantic**, **philosophical**—they shape policy, not your prose .
+* Don’t smuggle in **fictional narration**; your “story” is the arrangement of clips + commentary.
 
 ---
 
-## 7) Build & test
+## 8) Build & test locally (quick dev loop)
 
-* `bundle exec jekyll serve` → Navigate to `.../notebooks/[order]-[region]-[descriptive-slug]-[code]/` and check frontmatter renders, links work【】.
-* Your entry will appear under the correct **Order** in the Notebooks hub (and in the Region finder) automatically【】【】.
-
----
-
-## 8) Submission checklist (Notebooks)
-
-* [ ] File in `_notebooks/` named `[order]-[region]-[descriptive-slug]-[code].md`【】
-* [ ] Frontmatter matches **Entry Format**【】
-* [ ] **Order** chosen from the six; **Region** marked as provenance【】【】
-* [ ] ≥2 Clips, Protocol 7.3 formatting; contradictions intact【】【】
-* [ ] **Commentary** argues the Order-first reasoning (not just geography)【】
+* Serve the site (`bundle exec jekyll serve`), then load `…/archive/[order]-[region]-[slug]-[code]/` to verify front matter renders and links work. Your entry will appear under its **Order** in the Archive hub (and in the Region finder) automatically .
 
 ---
 
-## 9) Worked mini-example (you can copy-edit into a real post)
+## 9) Worked micro-example (you can model your first slip on this)
 
-**Filename:** `_notebooks/mediation-densmok-plot-aperture-b3.md`
+**Filename:** `_archive/mediation-densmok-plot-aperture-b3.md`
 
 ```yaml
 ---
@@ -364,36 +634,38 @@ order: "Mediation & Aperture"
 region: "Densmok"
 catalog_code: "B3"
 excerpt: "Two closed eyes make a plot; the device makes the truth pass, not the bodies."
+layout: archive
 ---
 ```
 
-**Provenance**
-Densmok · Night-work at **Softwares** (storefront); coder scene; screen output note.
-
+**Provenance** — Densmok · Night-work at Softwares (storefront); coder scene; screen output note.
 **Extract**
 
-> || Two people with their eyes closed. No touching. No speaking. No moving to make noise. Each stares ahead. **A plot is the intersection of their stares.** ||【】
-
-**Archivist’s Commentary**
-The **form** makes the truth: a rule that **constrains bodies** so that only a plotted **intersection** may pass. This fits **Mediation & Aperture**—like the Capital’s window (“no door; slips only”), the Densmok apparatus filters access by design【】. Cross-index to **A1 Window Aperture** for the shared principle that **knowledge may pass; bodies may not**【】. Region remains Densmok (provenance), but the shelf is the **Order**.
-
-(*Optional “Further reading” link for the student editor: Phase II **Edges to Edges** on method-as-withdrawal, for kinship of technique becoming bodily habit【】.*)
+> || Two people with their eyes closed… **A plot is the intersection of their stares.** ||
+> **Archivist’s Commentary** — The **form** makes the truth: a rule that **constrains bodies** so only a plotted **intersection** may pass. File **Mediation & Aperture**; cross-index A1 **Window Aperture** (Capital) for the same principle: **knowledge may pass; bodies may not**  .
 
 ---
 
-## 10) Quick “what next” prompts (pick one and go)
+## 10) Submission checklist (copy/paste and tick)
 
-* **Quarry → Violence & Secret Life (cross Craving):** Take the Yeller double-life stanza/witness stream and build a slip on **parallel ledgers** (respectability vs appetite)【】.
-* **Dead River → Doubling:** Build a **Counting-Five** dossier (tap, cart, shrine misses) using the case register style from existing entries【】【】.
-* **Tower/Sticks → Silence & Withdrawal:** Pair a Tower drill clip with a Sticks quiet-hours ledger to show **silence as method**【】【】.
+* ✅ **Order first; Region second** (cross-index if the device crosses towns) .
+* ✅ **Clips follow Protocol 7.3** (Slip/Provenance/Clip/Orders/Commentary) .
+* ✅ **Three sections** present (Provenance → Extract → Archivist’s Commentary) and the commentary argues **Order-first** .
+* ✅ **Contradictions preserved** (mark, don’t fix) .
+* ✅ **Filename & front matter** match Archive specs (Order-primary pattern; entry fields)  .
 
 ---
 
-### Why this workflow matches the site’s logic
+## Appendix — Quick classifiers (use while deciding your Order)
 
-* The Notebooks hub explicitly **adopts Orders-first** and points readers to the Debate only as history【】.
-* The README anchors **Orders** and **Regions** and defines the **entry format** your file must follow【】【】.
-* The aggregate shows how to **cite clips** and to **preserve contradictions** inside the slip itself【】【】.
+* **Boundary** — unstable edges; lines that move (e.g., Dens’s town/wilderness) .
+* **Doubling** — replication without origin (e.g., Quarry roads that bud; Hunt “fivefold” images) .
+* **Craving** — appetite as engine (e.g., Dead River handouts/TV/comic franchise) .
+* **Silence & Withdrawal** — method installed then voiced recedes (Tower catechism; Sticks quiet-hours) .
+* **Violence & Secret Life** — public ledger vs private harm (North murder songs) .
+* **Mediation & Aperture** — devices/apertures making access (Capital window; pickbox cart; map that makes a town)  .
+
+> When you’re unsure, re-read **“Why the Archive Files by Orders First.”** It’s the pole star for every filing decision you make .
 
 ---
 
@@ -575,146 +847,6 @@ question of "continuity" inside out—are we tracking persons, or patterns? For 
 as a rehearsal space where an artist's method (Levins) tests the market's silhouettes (Yeller) and the cart's
 interior world (pickbox) without resolving who lasts. The dossier keeps the seam visible so later datings
 don't harden into firsts.
----
-
-## File: ./SECTION-README.md
-
-# Archive Collection — Section Guide
-
-## Purpose & Role in Site Structure
-
-**The Archive** contains **fictional primary documents** from Densworld (in-character). These are the actual slips, testimonies, and fragments that Densworld archivists collect, file, and study. This is pure creative fiction presented as archival scholarship.
-
-### Position in Site Ecosystem:
-1. **Blog Posts** (real-world essays, out-of-character)
-2. **Romantic Quick Kit** (real theory, out-of-character)  
-3. **AI Hermeneutics Kit** (real theory, out-of-character)
-4. **The Archive** ← *You are here* (fictional Densworld documents, in-character)
-5. **The Debate** (fictional Densworld meta-discussion, in-character)
-
-### Relationship to Debate Collection:
-- **The Archive** = Primary documents being filed and studied
-- **The Debate** = Institutional discussions about how to organize these documents
-- Both are part of the same fictional world, but serve different narrative functions
-
-## Archival System Structure
-
-### The Six Orders (Primary Classification):
-Documents are filed by **what reality they perform**, not geographic origin:
-
-1. **Boundary** — Where edges blur between categories (town/wilderness, forms)
-2. **Doubling** — Replication, copies, journeys within journeys, originals without origin  
-3. **Craving** — Desire as generative force, drives, appetites, proliferations
-4. **Silence & Withdrawal** — Where speech collapses, truth through quiet practice
-5. **Violence & Secret Life** — Parallel ledgers of harm and hidden motives
-6. **Mediation & Aperture** — Windows, devices, how world is constrained by perception
-
-### Geographic Regions (Secondary Classification):
-- **Capital** — Bureaucratic center, licensing, formal procedures
-- **Dens/Densmok** — Edge settlements, wilderness boundaries  
-- **Quarry** — Source of materials, journeys, multiplicities
-- **North Town/Northo** — Murder songs, secret lives, doubled identities
-- **Tower/Sticks** — Withdrawal practices, catechisms, clinic work
-- **Dead River** — Counting systems, numerical mysteries
-- **Capeast** — Festival sites, women's arrival stories
-
-## Writing Voice & Style
-
-- **Archival voice**: Professional, analytical, preserving ambiguity
-- **In-character**: Written by fictional Densworld archivists
-- **Fragmentary**: Documents are incomplete, mysterious, evocative
-- **Interpretive**: Archivist commentary explains filing decisions
-
-## Content Guidelines & Entry Format
-
-### Required Structure:
-```yaml
----
-title: "Archive Post [CODE] — [REGION]: [TITLE] ([DOCUMENT TYPE])"
-order: "[ONE OF SIX ORDERS]"
-region: "[GEOGRAPHIC REGION]"
-catalog_code: "[ALPHANUMERIC CODE]"
-excerpt: "[KEY QUOTE FROM COMMENTARY]"
----
-
-**Catalog Code:** [CODE]
-
-## Provenance
-[Source information, how document was acquired]
-
-## Extract
-[Quoted material from original documents, often in blockquotes]
-
-## Archivist's Commentary
-[Interpretive analysis of why this fits the assigned Order]
-```
-
-### File Naming Convention:
-```
-[order]-[region]-[descriptive-slug]-[code].md
-```
-Example: `boundary-dens-sludge-meter-readings-c1.md`
-
-### What Belongs Here:
-- Fictional primary source documents from Densworld
-- Fragmented testimonies, field reports, measurements, observations
-- Mysterious documents requiring interpretive analysis
-- Materials that demonstrate the six Orders through content
-- Archival commentary explaining filing decisions
-
-### What Does NOT Belong Here:
-- Real-world theory or analysis (those go in theory collections)
-- Meta-discussions about archival practice (those go in `_debate/`)
-- Out-of-character reflection (those go in `_posts/`)
-
-## Technical Specifications
-
-### Required Front Matter:
-```yaml
----
-title: "Archive Post [CODE] — [REGION]: [TITLE] ([TYPE])"
-order: "[Order Name]"
-region: "[Region Name]"
-catalog_code: "[Code]"
-excerpt: "[Quote]"
-layout: archive
----
-```
-
-### Navigation:
-- Accessible from homepage tile "Quarry Notebooks"
-- Listed on `/notebooks/` hub page (auto-generated by Order)
-- Individual URLs: `/notebooks/:name/`
-- Hub includes link to related `/debate/archivists-debate/`
-
-### Cross-Reference Linking:
-Use Jekyll's relative_url filter for internal links:
-```markdown
-[link text]({{ '/notebooks/filename/' | relative_url }})
-```
-
-## Fictional World Consistency
-
-### Core Premise:
-Densworld archivists have developed a revolutionary filing system based on **interpretive categories** (Orders) rather than **geographic categories** (regions). This creates ongoing institutional tension documented in the Debate collection.
-
-### Narrative Coherence:
-- Each entry must authentically represent its assigned Order through content
-- Regional details should be consistent across entries
-- Archivist commentary should reflect institutional voice and methodology
-- Documents should feel genuinely fragmentary and mysterious
-
-### Integration with Debate Collection:
-The Archive provides the **primary materials** that the Debate documents discuss organizing. Debate references should align with actual Archive contents.
-
-## Current Status
-
-- **18+ entries** representing all six Orders across multiple regions
-- **Consistent archival methodology** with systematic filing rationale
-- **Rich fictional world** with geographic and institutional coherence
-- **Evocative fragments** that reward careful reading and interpretation
-
-This collection serves as the creative heart of the site's fictional world—a rigorous but mysterious archive that demonstrates interpretive principles through narrative rather than exposition.
 ---
 
 ## File: ./silence-capeast-festival-aftermath-g1.md
