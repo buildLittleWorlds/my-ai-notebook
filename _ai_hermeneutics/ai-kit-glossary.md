@@ -110,30 +110,30 @@ itself, which the reader can inhabit through interpretation.
 
 ### Key Thinkers and Relevance
 
-Roland Barthes (1915–1980)  
+Roland Barthes
 His "Death of the Author" is the theoretical starting point for reading
 authorless texts.
 
-Gilles Deleuze (1925–1995)  
+Gilles Deleuze
 Provides a radical critique of the unified subject and a philosophy of
 impersonal forces, tools for analyzing AI beyond Romantic categories.
 
-Hans-Georg Gadamer (1900–2002)  
+Hans-Georg Gadamer
 His dialogical model of reading explains how texts can "read us" back.
 
-Gérard Genette (1930–2018)  
+Gérard Genette
 Provides the essential tools of narratology and paratextual analysis for
 a formal reading of AI texts.
 
-Wolfgang Iser (1926–2007)  
+Wolfgang Iser
 His concepts of the "implied reader" and "gaps" are central to analyzing
 user interaction with AI.
 
-Hans Robert Jauss (1921–1997)  
+Hans Robert Jauss
 Reception theory allows us to study the meaning of AI texts as a social
 and historical phenomenon.
 
-Paul Ricoeur (1913–2005)  
+Paul Ricoeur
 His theories of distanciation and the "world of the text" provide a
 positive ethical program for reading AI.
 
