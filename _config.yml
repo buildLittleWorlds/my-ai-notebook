@@ -20,9 +20,9 @@ collections:
   ai_hermeneutics:
     output: true
     permalink: /ai-hermeneutics/:name/
-  notebooks:
+  archive:
     output: true
-    permalink: /notebooks/:name/
+    permalink: /archive/:name/
   debate:
     output: true
     permalink: /debate/:name/
@@ -47,9 +47,9 @@ defaults:
       layout: "kit"
   - scope:
       path: ""
-      type: "notebooks"
+      type: "archive"
     values:
-      layout: "notebook"
+      layout: "archive"
   - scope:
       path: ""
       type: "debate"

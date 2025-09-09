@@ -53,7 +53,7 @@ Before creating your file, identify these elements from your prose document:
 ## Step 2: Create the Jekyll File
 
 ### A. File Naming Convention
-**Pattern:** `phase{N}-{type}-{descriptive-slug}.md`
+**Pattern:** `phaseN-{type}-{descriptive-slug}.md`
 
 **Examples:**
 - `phase1-memo-borough-drawers.md`
@@ -132,7 +132,7 @@ Include 1-2 quoted clips with proper formatting and temperament-appropriate comm
 
 ## Cross-References
 Use proper Jekyll linking syntax:
-- **Phase [N] — [Document Title]({{ '/debate/phase{N}-{type}-{slug}/' | relative_url }})**
+- **Phase [N] — [Document Title]({{ '/debate/phaseN-type-slug/' | relative_url }})**
 ```
 
 ### B. Voice and Style Requirements
@@ -151,7 +151,7 @@ Use proper Jekyll linking syntax:
 
 ### A. File Validation Checklist
 - [ ] File is in `_debate/` directory
-- [ ] Filename follows `phase{N}-{type}-{slug}.md` pattern
+- [ ] Filename follows `phaseN-type-slug.md` pattern
 - [ ] YAML frontmatter is properly formatted (no tabs, proper quotes)
 - [ ] Permalink matches filename
 - [ ] At least one clip formatted with Protocol 7.3

@@ -36,7 +36,7 @@ Think of it as a great circle or spiral. The pages below explore the key feature
 - England  
 - America
 
-This framework supports the analysis found in [Blog Posts]({{ '/posts/' | relative_url }}) and provides interpretive tools for materials in the [Quarry Notebooks]({{ '/notebooks/' | relative_url }}).
+This framework supports the analysis found in [Blog Posts]({{ '/posts/' | relative_url }}) and provides interpretive tools for materials in [The Archive]({{ '/archive/' | relative_url }}).
 
 <div class="bottom-links">
 <a href="{{ '/' | relative_url }}" class="quickkit-pill">← Back to Blog Home</a>

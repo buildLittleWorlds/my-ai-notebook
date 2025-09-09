@@ -24,12 +24,12 @@ date: 2024-01-01
 clerk_initials: "XX" (NOT "clerk:")
 status: "Adopted"
 excerpt: "Brief description"
-permalink: /debate/phase{N}-{type}-{slug}/
+permalink: /debate/phase-N-type-slug/
 ---
 
-Filename pattern: phase{N}-{type}-{descriptive-slug}.md
+Filename pattern: phaseN-{type}-{descriptive-slug}.md
 NO H1 headings in content - Jekyll displays title automatically
-Jekyll linking: {{ '/debate/phase{N}-{type}-{slug}/' | relative_url }}
+Jekyll linking: {{ '/debate/phase-N-type-slug/' | relative_url }}
 -->
 
 This hub collects internal memoranda, colloquy minutes, and circulars regarding the re-organization of

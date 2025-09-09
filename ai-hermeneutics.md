@@ -37,7 +37,7 @@ The framework moves from theory to a practical method of reading, building a coh
 - Glossary & Key Concepts
 - Historical Genealogy
 
-This theoretical framework supports the analysis found in [Blog Posts]({{ '/posts/' | relative_url }}) and provides interpretive tools for materials in the [Quarry Notebooks]({{ '/notebooks/' | relative_url }}).
+This theoretical framework supports the analysis found in [Blog Posts]({{ '/posts/' | relative_url }}) and provides interpretive tools for materials in [The Archive]({{ '/archive/' | relative_url }}).
 
 <div class="bottom-links">
 <a href="{{ '/' | relative_url }}" class="quickkit-pill">← Back to Blog Home</a>

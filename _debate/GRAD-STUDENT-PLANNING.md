@@ -36,11 +36,11 @@
 
 ## 2) Link Map (What each hub item should point to)
 
-For each bullet below, create a short Markdown page (400–900 words) in `_debate/`. Use the standardized filename pattern: `phase{N}-{type}-{descriptive-slug}.md`
+For each bullet below, create a short Markdown page (400–900 words) in `_debate/`. Use the standardized filename pattern: `phaseN-{type}-{descriptive-slug}.md`
 
 **CRITICAL FILENAME STANDARDS:**
 * All files must be `.md` not `.md`
-* Pattern: `phase{N}-{type}-{descriptive-slug}.md`
+* Pattern: `phaseN-{type}-{descriptive-slug}.md`
 * Examples: `phase1-memo-1-2.md`, `phase2-case-pickbox.md`, `phase3-counter-memo-metaphysics-risk.md`
 * NO spaces in filenames, use hyphens
 * Lowercase only
@@ -123,7 +123,7 @@ date: 2024-01-01
 clerk_initials: "JV"
 status: "Adopted"
 excerpt: "Brief description of document's significance"
-permalink: /debate/phase{N}-{type}-{descriptive-slug}/
+permalink: /debate/phaseN-{type}-{descriptive-slug}/
 ---
 ```
 
@@ -150,7 +150,7 @@ permalink: /debate/phase{N}-{type}-{descriptive-slug}/
 3. **## Main Content/Argument** — 2–6 short paragraphs in **temperamental voice**
 4. **## Disposition** — Adopted / Filed Without Action / Sent to Colloquy.
 5. **## Cross-References** — Links to other debate docs using proper Jekyll syntax:
-   `{{ '/debate/phase{N}-{type}-{slug}/' | relative_url }}`
+   `{{ '/debate/phaseN-type-slug/' | relative_url }}`
 
 **Clip protocol:** reuse the `<aside class="cite-sidebar">` ("How to Cite a Clip") or a compact variant. Every debate doc should include at least **one** fully formatted Clip with commentary that demonstrates the temperamental approach to the same evidence.
 
@@ -187,7 +187,7 @@ Primary metaphysical **Orders** (top-level classes):
 ## 6) File Naming & Slugs
 
 * Hub: `archivists-debate.md`
-* Debate docs: `/debate/phase{N}-{type}-{slug}.md`
+* Debate docs: `/debate/phaseN-type-slug.md`
 
   * Examples:
 
@@ -203,7 +203,7 @@ Primary metaphysical **Orders** (top-level classes):
 
 ## 7) Cross-Link Policy (From Slips → Debate)
 
-Each slip (e.g., `archivist-b1.md`) should add a tiny **footer line**:
+Each slip (e.g., `craving-densmok-theorists-shadow-b1.md`) should add a tiny **footer line**:
 
 > “Filed under **\[Order]**. See **Debate: Phase II — \[doc title]** for the filing rationale.”
 

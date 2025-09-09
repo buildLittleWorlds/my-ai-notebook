@@ -5,25 +5,21 @@ layout: default
 <article>
   <h1>{{ page.title }}</h1>
   
-  {% if page.lede %}
-  <p class="lede">{{ page.lede }}</p>
+  {% if page.catalog_code %}
+  <p><strong>Catalog Code:</strong> {{ page.catalog_code }}</p>
   {% endif %}
   
-  {% if page.show_debate_notice %}
-  <div class="notice" style="margin:1rem 0;padding:0.9rem 1rem;border:1px solid #222">
-    <strong>Archivists' Debate:</strong>
-    <span>{{ page.debate_notice_text }}</span>
-    <a class="quickkit-pill" href="{{ page.debate_link | relative_url }}" style="margin-left:0.5rem;">{{ page.debate_link_text }}</a>
-  </div>
+  {% if page.region %}
+  <p><strong>Region:</strong> {{ page.region }}</p>
   {% endif %}
   
-  {% if page.show_order_nav %}
-  <nav aria-label="Orders index" style="margin:1rem 0;">
-    {% for order in page.orders %}
-    <a class="quickkit-pill" href="#order-{{ order.slug }}">{{ order.name }}</a>
-    {% endfor %}
-  </nav>
+  {% if page.order %}
+  <p><strong>Order:</strong> {{ page.order }}</p>
   {% endif %}
   
   {{ content }}
+  
+  <div class="bottom-links" style="margin-top:1.25rem;">
+    <a class="quickkit-pill" href="{{ '/archive' | relative_url }}">← Back to Archive</a>
+  </div>
 </article>

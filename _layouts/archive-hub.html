@@ -1,0 +1,76 @@
+---
+layout: default
+---
+
+<article>
+  <h1>{{ page.title }}</h1>
+  
+  {% if page.lede %}
+  <p class="lede">{{ page.lede }}</p>
+  {% endif %}
+  
+  {% if page.show_debate_notice %}
+  <div class="notice" style="margin:1rem 0;padding:0.9rem 1rem;border:1px solid #222">
+    <strong>Archivists' Debate:</strong>
+    <span>{{ page.debate_notice_text }}</span>
+    <a class="quickkit-pill" href="{{ page.debate_link | relative_url }}" style="margin-left:0.5rem;">{{ page.debate_link_text }}</a>
+  </div>
+  {% endif %}
+  
+  <!-- Auto-generate order navigation from archive collection -->
+  {% assign orders = site.archive | map: "order" | uniq | sort %}
+  {% if orders.size > 0 %}
+  <nav aria-label="Orders index" style="margin:1rem 0;">
+    {% for order in orders %}
+    <a class="quickkit-pill" href="#order-{{ order | slugify }}">{{ order }}</a>
+    {% endfor %}
+  </nav>
+  {% endif %}
+  
+  {{ content }}
+  
+  <!-- Auto-generate sections by order -->
+  {% assign order_descriptions = "Boundary:Where edges won't hold; lines blur between forms (town/wilderness, road/ditch).|Doubling:Where the world replicates, spawns journeys within journeys, originals without origin.|Craving:Desire as a generative force: drives, appetites, proliferations.|Silence & Withdrawal:Where speech collapses or is renounced; truth proceeds by quiet practice.|Violence & Secret Life:Parallel ledgers of harm and hidden motive; songs, signs, numerologies.|Mediation & Aperture:Windows, feeds, devices, carts—the world constrained by how it's seen or carried." | split: "|" %}
+  {% for order in orders %}
+  <section id="order-{{ order | slugify }}" style="margin-top:2rem;">
+    <h2>Order: {{ order }}</h2>
+    {% for desc_pair in order_descriptions %}
+      {% assign parts = desc_pair | split: ":" %}
+      {% if parts[0] == order %}
+        <p class="section-blurb">{{ parts[1] }}</p>
+        {% break %}
+      {% endif %}
+    {% endfor %}
+    {% assign archive_entries_in_order = site.archive | where: "order", order | sort: "title" %}
+    <ul class="link-list">
+      {% for entry in archive_entries_in_order %}
+      <li>
+        <a href="{{ entry.url | relative_url }}">{{ entry.title }}</a>
+        {% if entry.region %}<span class="meta"> • Region: {{ entry.region }}</span>{% endif %}
+        {% if entry.excerpt %}<p>{{ entry.excerpt | strip_html | truncatewords: 20 }}</p>{% endif %}
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endfor %}
+  
+  <!-- Optional: finder by region -->
+  {% assign regions = site.archive | map: "region" | uniq | compact | sort %}
+  {% if regions.size > 0 %}
+  <section style="margin-top:3rem;">
+    <h2>Finder by Region</h2>
+    {% for region in regions %}
+    <h3>{{ region }}</h3>
+    {% assign archive_entries_in_region = site.archive | where: "region", region | sort: "title" %}
+    <ul>
+      {% for entry in archive_entries_in_region %}
+      <li>
+        <a href="{{ entry.url | relative_url }}">{{ entry.title }}</a>
+        {% if entry.order %}<span class="order">({{ entry.order }})</span>{% endif %}
+      </li>
+      {% endfor %}
+    </ul>
+    {% endfor %}
+  </section>
+  {% endif %}
+</article>

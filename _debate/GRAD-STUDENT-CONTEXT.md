@@ -141,7 +141,7 @@ Every piece of evidence you use should be treated as a **clip**—verbatim or ne
 Write one document per day, **in character**. But now you must choose not only voice and rank (junior clerk, field officer, registrar, dissenter) but **temperament**. Keep them short (400–900 words), but let the temperament shape your administrative tone. 
 
 **CRITICAL TECHNICAL REQUIREMENTS:**
-* Filename pattern: `phase{N}-{type}-{descriptive-slug}.md`
+* Filename pattern: `phaseN-{type}-{descriptive-slug}.md`
 * Frontmatter field `clerk_initials:` NOT `clerk:`
 * Phase field: "I", "II", "III", "IV" (not full descriptions)
 * All regions and orders as arrays: `["Region1"]` not just `"Region1"`
