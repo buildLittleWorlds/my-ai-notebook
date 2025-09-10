@@ -26,6 +26,12 @@ collections:
   debate:
     output: true
     permalink: /debate/:name/
+  densworld:
+    output: true
+    permalink: /densworld/:name/
+  private:
+    output: true
+    permalink: /private/:name/
 
 # Defaults
 defaults:
@@ -55,6 +61,16 @@ defaults:
       type: "debate"
     values:
       layout: "debate"
+  - scope:
+      path: ""
+      type: "densworld"
+    values:
+      layout: "densworld"
+  - scope:
+      path: ""
+      type: "private"
+    values:
+      layout: "densworld"
 
 # Plugins (optional; all are whitelisted by GitHub Pages)
 plugins:

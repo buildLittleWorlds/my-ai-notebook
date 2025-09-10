@@ -31,6 +31,9 @@ all-blog-in-one-file/
 backups/
 planning-posts/
 
+# Private stories (local development only)
+_private/
+
 # Site aggregation files
 *-aggregate-*.md
 aggregate-*.sh
