@@ -216,17 +216,31 @@ Use these to generate or categorize drafts:
 
 ## Step 10: The Densworld Addendum (REQUIRED)
 
-Every post must end with an out-of-character **Densworld Addendum** (2–6 sentences) that speculates about a Densworld analogue for the post's idea. This is a **seed** for future Archive/Debate work and remains **out-of-character** (a hand-off, not fiction).
+Every post must end with an out-of-character **Densworld Addendum** (2–6 sentences) that speculates about a Densworld analogue for the post's idea. This is a **seed** for future development and remains **out-of-character** (a hand-off, not fiction).
 
-### Include:
+### Choose Your Connection Path:
+Your addendum should connect to **EITHER** the Archive collection **OR** the Debate collection, whichever seems more relevant to your post's concept:
+
+#### Option A: Archive Connection
+When your idea suggests a **concrete Densworld scene, document, or artifact**:
 - A concrete Densworld image, device, practice, or scene your post suggests
 - A **proposed Order** (Boundary; Doubling; Craving; Silence & Withdrawal; Violence & Secret Life; Mediation & Aperture)
 - A **likely Region** (Capital; Dens/Densmok; Quarry; North/Northo; Tower/Sticks; Dead River; Capeast)
-- Optional: a likely **Debate** document type (memo, minute, hearing, counter-memo)
 
-### Example Addendum:
+#### Option B: Debate Connection  
+When your idea suggests an **institutional methodology question or archival policy**:
+- A concrete archival policy problem or methodological question your post suggests
+- A likely **Phase** (Phase I-IV of the archival system development)
+- A likely **Document Type** (memo, minute, field report, hearing, counter-memo, directive, ruling, brief, case note, colloquy note)
+- Which **Archivist Temperament** would likely author it (Clerkly, Romantic, Philosophical)
+
+### Example Addenda:
 ```markdown
-**Densworld Addendum (seed):** The "authenticity vs. performance" tension could surface in **North Town** as a murder-song requiring a masked **echoer** to confirm each line (→ **Doubling**). A clerk in **Capital** proposes banning masked echoers in depositions (→ potential **Counter-Memo** in Debate).
+**Archive-focused:**
+**Densworld Addendum (seed):** The "authenticity vs. performance" tension could surface in **North Town** as a murder-song requiring a masked **echoer** to confirm each line (→ **Doubling**). Archive entry might document testimonies about echoer-songs in the **North** region.
+
+**Debate-focused:**  
+**Densworld Addendum (seed):** The "authenticity vs. performance" question could prompt a **Phase III Hearing** where **Philosophical** archivists argue whether "performed authenticity" documents belong in **Doubling** or require a new sub-order. **Clerkly** temperament resists category multiplication.
 ```
 
 ---

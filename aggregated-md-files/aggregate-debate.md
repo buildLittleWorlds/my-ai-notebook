@@ -99,6 +99,9 @@ The debate unfolds as a four-phase institutional drama, with the balance of temp
 - **[Case Note 20.9 — Counting as Device (The Recruiter & the Pickbox Cart)]({{ '/debate/phase2-case-counting-device-pickbox/' | relative_url }})** **(Romantic)**  
   *Dell's testimonial analysis of five-count recruitment method and pickbox cart as doubling devices operating through numerical recurrence*
 
+- **[Field Report 21.2 — The Night After: Women Ahead of the Story]({{ '/debate/phase2-field-capeast-women-ahead-window/' | relative_url }})** **(Romantic)**  
+  *testimonial documentation of aperture logic without infrastructure; Capeast harvest square incident and window law enforcement*
+
 ## Phase III — Orders Proposal (Year 22) {#phase-3}
 
 **Temperamental balance:** Philosophical dominance with clerkly resistance. Romance largely absent—systematizers vs. custodians.
@@ -118,6 +121,9 @@ Mediation & Aperture.
 - **[Brief 22.9 — Verbal Maps as Aperture (Lord Fullman Grist)]({{ '/debate/phase3-brief-verbal-maps-grist/' | relative_url }})** **(Philosophical)**  
   *Dell's systematic analysis of spoken mapmaking as aperture operation, extending device logic to verbal practices*
 
+- **[Memorandum 22.11 — The Nickname Ledger: Naming as Aperture in Hilly Dale]({{ '/debate/phase3-memo-nickname-ledger-vivian/' | relative_url }})** **(Philosophical)**  
+  *proposes that Vivian-linked nicknames and session economy function as devices that install legibility and appetite; recommends Orders-first filing*
+
 - **Counter-Memo — "On the Danger of Metaphysics in Filing" (S. Kettel)** **(Clerkly)**  
   *anxious pushback warning the archive risks shaping reality through labels*
 
@@ -133,6 +139,12 @@ Mediation & Aperture.
 
 - **[Counter-Memo 23.4 — Against Overreach in the Filing of Densmok]({{ '/debate/phase4-counter-memo-overreach/' | relative_url }})** **(Clerkly)**  
   *Keffel's anxious response to Gravent; warns against mandatory cross-indexing replacing evidence with taxonomy*
+
+- **[Hearing 24.3 — On Renaming a Borough: The Capeast Mayor and the Archive's Authority]({{ '/debate/phase4-hearing-capeast-mayor-renaming/' | relative_url }})** **(Clerkly)**  
+  *archival hearing on municipal renaming protocols when industrial substrate collapses and new apertures emerge; Alton → Capeast transformation*
+
+- **[Directive 24.7 — Caliper for the Archivist Window (Head-Third Standard)]({{ '/debate/phase4-directive-capital-window-caliper/' | relative_url }})** **(Clerkly)**  
+  *formalizes measurable aperture standards for Capital archivist shop windows; converts narrative custom into regulated device specifications*
 
 ## Appendix — Selected Sources {#appendix}
 
@@ -1155,6 +1167,71 @@ If the Archive cannot admit multiplication without origin, then the Archive lies
 
 ---
 
+## File: ./phase2-field-capeast-women-ahead-window.md
+
+---
+layout: debate
+title: "Field Report — The Night After: Women Ahead of the Story"
+phase: "II"
+doc_type: "Field Report"
+temperament: "Romantic"
+order_focus: ["Mediation & Aperture", "Silence & Withdrawal"]
+regions: ["Capeast", "Capital"]
+archive_date: "Year 21, Q2"
+date: 2024-01-01
+clerk_initials: "EP"
+status: "Filed Without Action"
+excerpt: "Capeast’s harvest-after square: five women arrive before the mapmaker; window-law reaches for cloth first; a blackout lets a seam walk away."
+permalink: /debate/phase2-field-capeast-women-ahead-window/
+---
+```
+
+## Abstract
+
+Capeast keeps the Cap’s habits but without the furniture to hide them. The morning after harvest, five women arrived without their supposed master, and the square tried to measure them before it met them. First came the window logic, then the wardrobe logic: slips may pass; bodies must negotiate tolerances. When the lights went out, the women crossed a line that paper had drawn—the city learned that an aperture without light is only wood.
+
+## Exhibits
+
+**Clip (C-E1) — Arrival before the owner**
+`|| It was a festival night… the night after the festival of harvest… The mapmaker’s women arrived ahead of the mapmaker. ||`&#x20;
+*Provenance:* Capeast · planning notes (harvest square)
+*Commentary (Romantic):* The square was already sweeping itself straight when the seam turned up by itself: story not yet in town, practice already walking.
+
+**Clip (C-E2) — Pattern, complaint, and choice**
+`|| The mapmaker’s women were clothed in a pattern that shifted each time they were seen… covering up one breast on one of the women… a core circle… bare on their backs. ||`&#x20;
+*Provenance:* Capeast · pattern log stub
+*Commentary (Romantic):* The city speaks ordinance in fabric. When the women choose their own fittings, the paper hears offense and annotates desire as violation.
+
+## Main Content/Argument
+
+The night after a public joy always carries a broom. We logged the brooms first: benches righted; kegs walked back to corners that never wanted them; a warden rehearsing a paragraph to the steps as if the steps had applied for a permit. Then the women arrived without the cart. They stood, and the square stood around them, and the first document to form was not a welcome but a notice—cloth before consent.
+
+Capeast does the Capital’s work by echo. The Capital installs a circle and says, “I speak through the window,” and the clerkly world agrees to be counted by apertures; Capeast installs the same circle in the square’s eyes. My note reads: *window inspector present without window; wooden ring carried like a threat.* When the inspector lifted the ring to frame a charge, we saw the grammar of mediation without the grace of it—aperture logic wandering the streets, searching for a wall to belong to. (See also the Debate standard that later fixed the ring to a ratio and called the drift by its name.)&#x20;
+
+A local (sports-favored, Capeast to the bone) tripped the field lights at the bleachers and took the square briefly back to its old sense: bodies moving when the eye of record shut. In the dark the women crossed where the window would have been. Our file learns an old lesson twice: mediation is a device, not a mood; it needs power and a place. Without a wall, the circle is wood; without light, the rule is rumor.
+
+By morning the mapmaker hauled in the after, as if ownership could arrive late and make a claim. It didn’t matter. The women had already written the docket with their steps. We recommend the Orders-first filing: primary **Mediation & Aperture**, with **Silence & Withdrawal** as cross-pressure (they did not speak, and their refusal to be routed through speech was the action); Regions secondary as provenance (Capeast square; Back Capital clerk). The Disposition follows from this: keep the contradiction visible—*cloth first / agency first*—and don’t choose. That is the testimony.
+
+## Disposition
+
+Filed Without Action.
+
+## Cross-References
+
+* **Directive** — {{ '/debate/phase4-directive-capital-window-caliper/' | relative_url }} (standards that later fix the ring to a ratio; tolerance card practice)
+* **Case Note** — {{ '/debate/phase2-case-dead-river-map-of-maps/' | relative_url }} (device installs site; map as aperture)
+* **Case Note** — {{ '/debate/phase2-case-pickbox/' | relative_url }} (cart as aperture; burden authorless)
+
+---
+
+**Notes for the file:**
+
+* Keep the women’s arrival “ahead of the mapmaker” as the anchor contradiction (practice precedes author). Cross-index to Archive slip G1/G2 for corroborating extracts and apparel-complaint ledgers. &#x20;
+* Treat Capital’s window regimen as the city’s doctrine of access (knowledge passes; bodies do not). Use it to frame Capeast’s copycat enforcement without fixtures.&#x20;
+* Voice check: Romantic testimony is permitted in Debate (doc remains in-character; evidence-forward; contradictions preserved).&#x20;
+
+---
+
 ## File: ./phase2-field-edges-report.md
 
 ---
@@ -1418,6 +1495,70 @@ Map → Library → Church: a linked series where each device **creates** the ne
 
 ---
 
+## File: ./phase3-memo-nickname-ledger-vivian.md
+
+---
+layout: debate
+title: "Memorandum 22.11 — The Nickname Ledger: Naming as Aperture in Hilly Dale"
+phase: "III"
+doc_type: "Memorandum"
+temperament: "Philosophical"
+order_focus: ["Mediation & Aperture", "Craving", "Silence & Withdrawal"]
+regions: ["Tower of Mirado", "Mirado Sticks"]
+archive_date: "Year 22, Q4"
+date: 2024-01-01
+clerk_initials: "ED"
+status: "Adopted"
+excerpt: "Proposes that Hilly Dale’s Vivian-linked nicknames and session economy function as devices (apertures) that install legibility and appetite; recommends Orders-first filing."
+permalink: /debate/phase3-memo-nickname-ledger-vivian/
+---
+
+## Abstract
+Names act as apertures: forms that install social legibility by constraining what may pass as a person. In Hilly Dale, children’s nicknames originate in voiced relations to **Vivian**; they stick, routinize, and govern circulation. The same thread shows a scarcity-driven session economy (“dates” with Vivian; puzzles vs. written instructions) that trains appetite and cadence. We recommend **Mediation & Aperture** as the primary Order, with cross-tags to **Craving** and **Silence & Withdrawal** where scarcity and non-speech drills shape practice.
+
+## Exhibits
+
+### Clip (V1) — Origin of Names (Relation → Device)
+`|| Subdivision nicknames had their origins in comments that showed that kid’s relationship with Vivian. ||`
+
+**Commentary (Philosophical):** The nickname is a fitted opening: a social mechanism that fixes a passage between speaker and subject. Once uttered with sufficient force, it becomes a public aperture through which the person is subsequently recognized and processed.
+
+---
+
+### Clip (V2) — Sessions, Acceptance, and Status Economy
+`|| Cassie was the last kid in the subdivision to get a date with Vivian. The status attached to getting a session with Vivian outweighed the disgrace of not being accepted, especially given that nobody got accepted […] and parents could joke about acceptance rates being easier at Harvard than at Hilly Dale. ||`
+
+**Commentary (Philosophical):** The session becomes a rationed portal; acceptance is nearly mythical. The apparatus teaches desire as countable scarcity (**Craving**) while sustaining the aperture’s authority regardless of its “success” rate.
+
+---
+
+### Clip (V3) — Puzzle vs. Instructions (Hands Before Words)
+`|| Nobody else got a puzzle. Everyone got instructions left on the door or the table just inside the door… As far as Cassie knew, she was the first to get the puzzle treatment… ||`
+
+**Commentary (Philosophical):** Two modalities of access—object-drill (puzzle) and remote directives (slips left on tables)—train cadence and compliance. The non-spoken regimen aligns with the Mirado tradition where speech withdraws and the hand carries the rule (**Silence & Withdrawal** cross-tag).
+
+## Main Content/Argument
+1) **Aperture Function of Names.** In Hilly Dale, a child’s nickname does not merely *reflect* character; it **installs** a handling protocol. Once uttered with the force of relation to Vivian, the name is adopted even by parents—evidence that the aperture becomes institutional, not private. Orders-first filing keeps the mechanism (naming-aperture) central rather than scattering it by household or street.
+
+2) **Feedback Between Scarcity and Recognition.** The “date with Vivian” operates as a gate. Acceptance is rare; nevertheless, the *attempt* confers status. This teaches ledgered appetite (who was seen; who was refused) and proves that the device’s power is upstream of its outcomes—precisely a **Mediation & Aperture** signature, with **Craving** as a governed rhythm (desire paced by ration).
+
+3) **Non-speech Instruction as Method.** The distribution of *puzzles* vs *door-left instructions* maps the Sticks/Tower cadence across town lines: hands first, words last. Where puzzles appear, the body is trained to know fit before saying fit; where slips appear, a written protocol does the same. The nickname ledger, session ledger, and instruction ledger are three faces of one aperture system.
+
+4) **Policy Implication.** File all “Vivian-name/session” materials primarily under **Mediation & Aperture** (device: *Nickname Ledger*), with cross-Order tags to **Craving** (status economy) and **Silence & Withdrawal** (non-speech drill). Region remains secondary (Tower of Mirado / Mirado Sticks), preventing a reversion to geography-first shelving.
+
+## Disposition
+**Adopted.** Devices-first filing standard for Hilly Dale Nickname/Session materials:
+- Primary Order: **Mediation & Aperture**
+- Cross-Orders: **Craving**, **Silence & Withdrawal**
+- Regions: **Tower of Mirado**, **Mirado Sticks** (provenance tags only)
+
+## Cross-References
+- **Phase III — [Memorandum 22.7 — Devices that Install Institutions: The Crawford Library & the Church]({{ '/debate/phase3-memo-devices-install-institutions/' | relative_url }})** — parallel argument for institutional apertures (library/church).
+- **Phase II — [Colloquy Note 16.2 — “Edges to Edges”: Catechism as Method]({{ '/debate/phase2-colloquy-edges-to-edges/' | relative_url }})** — repetition and transfer drills (hands before words).
+- **Phase IV — [Hearing 23.6 — Cheats, Shows, and the Feedback Ledger (Dead River)]({{ '/debate/phase4-hearing-dead-river-feedback-ledger/' | relative_url }})** — how categories and devices feed practices (dose/ledger logic).
+
+---
+
 ## File: ./phase4-counter-memo-overreach.md
 
 ---
@@ -1495,6 +1636,109 @@ The hinge may turn the door, as Gravent writes. But not every scrap of wood is a
 
 **— Archivist M. Keffel**
 *North Wing, Year 23*
+
+---
+
+## File: ./phase4-directive-capital-window-caliper.md
+
+---
+layout: debate
+title: "Directive 24.7 — Caliper for the Archivist Window (Head-Third Standard)"
+phase: "IV"
+doc_type: "Directive"
+temperament: "Clerkly"
+order_focus: ["Mediation & Aperture"]
+regions: ["Capital"]
+archive_date: "Year 24, Q4"
+date: 2024-02-01
+clerk_initials: "AB"
+status: "Adopted"
+excerpt: "Set a measurable aperture size (one-third head diameter) for Capital archivist shop windows so slips pass and bodies do not."
+permalink: /debate/phase4-directive-capital-window-caliper/
+---
+
+## Abstract
+The Capital’s doctrine is device-first: **knowledge may pass; bodies may not**. This directive formalizes the **Head-Third Standard** for licensed archivist shop windows to convert a narrative custom into a measurable **aperture**. Inspections and tolerances are specified so the window continues to govern passage without drift.
+
+## Exhibits
+**Exhibit A — The window, as practiced**  
+|| A minor archivist waited at his window… Each archivist shop in the Capital… had a single window out front. No walk-in entrance. The shop window was a round hole a third the size of the archivist’s head. ||
+
+**Exhibit B — City access is credentialed, not open**  
+|| There was never actually a way to drive into the Cap. You could ride—if you had a driver. But you couldn’t, yourself, just drive into the Cap, the real city-center Cap. ||
+
+## Main Content / Argument
+1) **Principle (Orders-first).** The Capital regulates **apertures** instead of crowds. Windows and licensed drivers are parallel devices: both **let records move while keeping bodies outside**. Formalizing the window’s ratio preserves that function in measurable terms.
+
+2) **Problem.** Customary “one-third head” has drifted in practice: some shops enlarge to hasten queues; others shrink to deter disputants. Without specification, the **Order** degrades into a superstition rather than a device.
+
+3) **Rationale.** A calibrated window creates a consistent **mediation** across neighborhoods; the driver-license regime proves the city already governs access by **device**, not preference.
+
+## Directive (Standards)
+- **D1. Gauge.** The circular window opening shall equal **0.33 × the licensed archivist’s head breadth** (ear-to-ear), measured by city caliper at annual renewal; allowable tolerance **±0.02**. (If the licensed archivist changes, recalibrate within 10 days.)  
+- **D2. Passage class.** Only **slips, receipts, ledgers, and sealed cylinders ≤ window diameter** may pass. No rolled garments, food, or tools.  
+- **D3. Counter-drift audit.** Inspections quarterly; failure triggers **temporary seal** and re-measurement.  
+- **D4. Queue management.** Shops must post **tolerance card** at the window; disputes are logged as **aperture incidents** for city review.  
+- **D5. Cross-device harmony.** Where driver intake counters exist, synchronize inspection weeks so **window and driver** regimes reinforce mediation rather than shift the crowd elsewhere.
+
+## Disposition
+**Adopted.** Standards circulate to Licensing & Tolerances; first inspection sweep scheduled next quarter.
+
+## Cross-References
+- **[Phase III — Memorandum 22.7: Devices that Install Institutions]({{ '/debate/phase3-memo-devices-install-institutions/' | relative_url }})** — establishes device-first logic for institutional apertures (library, church, windows)
+- **Archive:** [A1 — Capital: Window Aperture, South Arcade]({{ '/archive/mediation-capital-window-aperture-a1/' | relative_url }}) — window caliper check log and aperture documentation
+
+---
+
+## File: ./phase4-hearing-capeast-mayor-renaming.md
+
+---
+layout: debate
+title: "Hearing 24.3 — On Renaming a Borough: The Capeast Mayor and the Archive’s Authority"
+phase: "IV"
+doc_type: "Hearing"
+temperament: "Clerkly"
+order_focus: ["Mediation & Aperture", "Boundary"]
+regions: ["Capeast"]
+archive_date: "Year 24, Q3"
+date: 2024-01-01
+clerk_initials: "AB"
+status: "Referred"
+excerpt: "Should Alton be archived as Capeast when its industrial basis collapses and a dream-ledger begins to govern the files?"
+permalink: /debate/phase4-hearing-capeast-mayor-renaming/
+---
+
+## Abstract
+Question before the clerk: whether to **rename Alton as Capeast** in the Archive. Steel is gone; the town’s self-description and **device-logic** have changed. We apply Orders-first standards: if an **aperture** becomes the principal classifier of civic life, Region must follow it. Recommend **referral** to standards with aliasing instructions.
+
+## Exhibits
+
+**Exhibit A — Policy impetus (Capeast file)**
+|| Rewrite Alton to be Capeast -- Alton shifts southeast to be east of the Cap; build up Capeast as two things: the worn-out tech borough (old tech is the equivalent of steel) and the beginning creation of Densworld as a resistance to the Cap ||
+*Commentary (Clerkly):* This is the rename request in plain terms. It reframes provenance (Alton) by function (**worn-out tech** as the new ground) and by institutional posture (resistance to the Cap). Primary Order flags: **Mediation & Aperture** (device-led identity), with **Boundary** (movement of the civic edge).
+
+**Exhibit B — The Mayor’s aperture (Capeast file)**
+|| Capeast is a town that was a steel town along the Mississippi… Now, with the steel gone, Lewis Bramford paced the Town Hall steps into early mornings… and dreamed… of a river that brought from its spring in Minnesota recycled seconds… ||
+*Commentary (Clerkly):* The **dream-ledger** functions as an **aperture**. It regularizes a new flow (time-commodities), which then governs practice and record. Device first; place second.
+
+**Exhibit C — Municipal cipher (Alton file; supporting)**
+|| Semple St. … so overhung… the chief officer of public works has notation in his personal town map showing the street to be a **cipher**. There was a woman named S N who lived on Semple St. ||
+*Commentary (Clerkly):* Even at the street scale, the town works through **codes** and sight-lines. This supports device-led classification when evaluating name change.
+
+## Main Content / Argument
+1) **Standard applied.** Under Orders-first, **Mediation & Aperture** is primary when a device (window, cart, street-cipher, dream-ledger) determines what can be known or filed. **Boundary** is co-equal where the edge itself moves.
+
+2) **Trigger for rename.** Rename a Region when: (a) the prior industrial or civic substrate **collapses**; (b) a new **aperture** emerges that sets the ledger for practice and record; (c) municipal speech and habit adopt the device as norm (mayor’s nightly pacing + dream-ledger). All three are present.
+
+3) **Risk & remedy.** Risk: continuity loss for historic “Alton” slips. Remedy: institute an **alias ledger**: mark “Alton (alias)” on prior regional labels; primary Region becomes **Capeast** going forward. Cross-index by both **Order** and **alias Region** for all backfiled items.
+
+4) **Operational notes.** Backfile tasks: (i) tag legacy “Alton” slips with **Capeast** as Region (secondary) while preserving the printed Alton label; (ii) add an Editorial Note to the hub explaining the rename and the aperture rationale; (iii) add a standing link from “Alton” finder results to **Capeast**.
+
+## Disposition
+**Referred** — to Standards Subcommittee on Renaming (Orders-first). Clerk requests a draft directive enumerating the (a)–(c) trigger and **alias ledger** procedure.
+
+## Cross-References
+See {{ '/debate/archivists-debate/' | relative_url }} and {{ '/debate/phase3-memo-devices-install-institutions/' | relative_url }}.
 
 ---
 

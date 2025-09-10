@@ -93,6 +93,9 @@ The debate unfolds as a four-phase institutional drama, with the balance of temp
 - **[Case Note 20.9 — Counting as Device (The Recruiter & the Pickbox Cart)]({{ '/debate/phase2-case-counting-device-pickbox/' | relative_url }})** **(Romantic)**  
   *Dell's testimonial analysis of five-count recruitment method and pickbox cart as doubling devices operating through numerical recurrence*
 
+- **[Field Report 21.2 — The Night After: Women Ahead of the Story]({{ '/debate/phase2-field-capeast-women-ahead-window/' | relative_url }})** **(Romantic)**  
+  *testimonial documentation of aperture logic without infrastructure; Capeast harvest square incident and window law enforcement*
+
 ## Phase III — Orders Proposal (Year 22) {#phase-3}
 
 **Temperamental balance:** Philosophical dominance with clerkly resistance. Romance largely absent—systematizers vs. custodians.
@@ -112,6 +115,9 @@ Mediation & Aperture.
 - **[Brief 22.9 — Verbal Maps as Aperture (Lord Fullman Grist)]({{ '/debate/phase3-brief-verbal-maps-grist/' | relative_url }})** **(Philosophical)**  
   *Dell's systematic analysis of spoken mapmaking as aperture operation, extending device logic to verbal practices*
 
+- **[Memorandum 22.11 — The Nickname Ledger: Naming as Aperture in Hilly Dale]({{ '/debate/phase3-memo-nickname-ledger-vivian/' | relative_url }})** **(Philosophical)**  
+  *proposes that Vivian-linked nicknames and session economy function as devices that install legibility and appetite; recommends Orders-first filing*
+
 - **Counter-Memo — "On the Danger of Metaphysics in Filing" (S. Kettel)** **(Clerkly)**  
   *anxious pushback warning the archive risks shaping reality through labels*
 
@@ -127,6 +133,12 @@ Mediation & Aperture.
 
 - **[Counter-Memo 23.4 — Against Overreach in the Filing of Densmok]({{ '/debate/phase4-counter-memo-overreach/' | relative_url }})** **(Clerkly)**  
   *Keffel's anxious response to Gravent; warns against mandatory cross-indexing replacing evidence with taxonomy*
+
+- **[Hearing 24.3 — On Renaming a Borough: The Capeast Mayor and the Archive's Authority]({{ '/debate/phase4-hearing-capeast-mayor-renaming/' | relative_url }})** **(Clerkly)**  
+  *archival hearing on municipal renaming protocols when industrial substrate collapses and new apertures emerge; Alton → Capeast transformation*
+
+- **[Directive 24.7 — Caliper for the Archivist Window (Head-Third Standard)]({{ '/debate/phase4-directive-capital-window-caliper/' | relative_url }})** **(Clerkly)**  
+  *formalizes measurable aperture standards for Capital archivist shop windows; converts narrative custom into regulated device specifications*
 
 ## Appendix — Selected Sources {#appendix}
 

@@ -3,9 +3,9 @@
 | Grad | Handle → Role                              | Section             | What it means (1-liner)                                                                                                             |
 | ---- | ------------------------------------------ | ------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | A    | **Conductor** → Structure & Integrations   | whole site          | Owns build, layouts, link health, front-matter linting, nav, and cross-collection wiring (no daily file required)                   |
-| B    | **Engine** → Blog                          | `_posts/`           | Daily out-of-character post; ends with a Densworld Addendum seed (Order + Region) to feed Archive/Debate                            |
-| C    | **Romantic Kitmaker** → Romantic Quick Kit | `_romantic/`        | Systematic theory page (two-rail method), with a tiny Addendum seed (Orders + Region)                                               |
-| D    | **AI Hermeneut** → AI Hermeneutics Kit     | `_ai_hermeneutics/` | Systematic AI-reading method page, cross-linked to the hub (out-of-character)                                                       |
+| B    | **Engine** → Blog                          | `_posts/`           | Daily out-of-character post; ends with a Densworld Addendum seed connecting to Archive (Order + Region) OR Debate (Phase + Doc Type + Temperament) |
+| C    | **Romantic Kitmaker** → Romantic Quick Kit | `_romantic/`        | Systematic theory page (two-rail method), with a tiny Addendum seed connecting to Archive (Order + Region) OR Debate (Phase + Doc Type + Temperament) |
+| D    | **AI Hermeneut** → AI Hermeneutics Kit     | `_ai_hermeneutics/` | Systematic AI-reading method page, cross-linked to the hub (out-of-character), with Addendum seed connecting to Archive OR Debate |
 | E    | **Slipwright** → Archive                   | `_archive/`         | In-character Capital archivist slip, **Orders-first** (Order primary, Region secondary), using Protocol 7.3 clips                   |
 | F    | **Debate Clerk** → Debate                  | `_debate/`          | In-character institutional doc (pick Phase + Temperament + Doc Type) with proper front matter and Clips; cross-link back to slips   |
 
@@ -14,7 +14,7 @@
 ## Engine (Blog)
 
 * Draft a 500–900-word post in one of five bands (Hermeneutics, AI & Interpretation, Romantic method, Pedagogy/Practice, Bridgework)&#x20;
-* **End with a Densworld Addendum seed**: pick **Order** + **Region**, 1–3 sentences for what the Archive/Debate could realize next &#x20;
+* **End with a Densworld Addendum seed**: connect to Archive (Order + Region) OR Debate (Phase + Doc Type + Temperament), 1–3 sentences for what could be realized next
 * File pattern/layout: `_posts/YYYY-MM-DD-post-[number].md` using `layout: post` (increment post\_number)&#x20;
 
 **Definition of done**: seed present; at least one cross-link to a Kit hub or prior post; builds locally.
@@ -22,7 +22,7 @@
 ## Romantic Kitmaker (Romantic Quick Kit)
 
 * Pick a focused concept (e.g., Authenticity, Organic Form, Gefühl, Technology & the Machine) and write a short **systematic** page using the six-part template (Definition → How-to → History → Cross-refs → Applications → **Addendum**)&#x20;
-* **Keep it non-fictional**; Addendum is out-of-character and tiny (2–4 sentences), with **Orders + Region** (and optional Debate doc type) &#x20;
+* **Keep it non-fictional**; Addendum is out-of-character and tiny (2–4 sentences), connecting to Archive (Order + Region) OR Debate (Phase + Doc Type + Temperament)
 * Front matter:
 
   ````yaml
@@ -38,7 +38,7 @@
 
 ## AI Hermeneut (AI Kit)
 
-* Add a concise method page: Theoretical foundation → AI application → Interpretive method → Contemporary relevance → Cross-Refs → Addendum (out-of-character)&#x20;
+* Add a concise method page: Theoretical foundation → AI application → Interpretive method → Contemporary relevance → Cross-Refs → Addendum (out-of-character, connecting to Archive OR Debate)
 * Anchor to hub and related pages (e.g., **Death of the Author**, author-function)&#x20;
 
 **Definition of done**: actionable method; at least one cross-ref; builds locally.

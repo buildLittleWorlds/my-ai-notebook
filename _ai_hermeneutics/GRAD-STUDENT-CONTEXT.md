@@ -78,29 +78,43 @@ Foundations: **Author-function**, **Interpretive dialogue**, **Hermeneutics of r
 # Densworld Addendum for AI Hermeneutics pages (short, required)
 
 **Why add this to a theory page?**
-We keep the kit non-fictional, but each page should end with a tiny **out-of-character seed** that hands theory toward the Archive/Debate system—just like your blog-post practice—by proposing **Orders + Region** tags for a hypothetical future artifact   .
+We keep the kit non-fictional, but each page should end with a tiny **out-of-character seed** that connects your theory to either the Archive or Debate system—just like your blog-post practice. Choose the path that best fits your framework.
 
-**Include (2–4 sentences total):**
+**Choose Your Connection Path:**
 
-* A **concrete image/device/practice** your theory suggests (one beat, not a scene).
-* A **proposed Order** (Boundary; Doubling; Craving; Silence & Withdrawal; Violence & Secret Life; Mediation & Aperture) and a **likely Region** (Capital; Dens/Densmok; Quarry; North/Northo; Tower/Sticks; Dead River; Capeast) for where archivists might file a future document  .
-* Optional: a likely **Debate doc type** to expect (memo/minute/hearing/counter-memo, etc.) .
+### Archive Connection (for concrete scenarios)
+When your theory suggests **concrete Densworld scenarios, devices, or practices**:
+* A **concrete image/device/practice** your theory suggests (one beat, not a scene)
+* A **proposed Order** and **likely Region** for where archivists might file a future document
 
-**Template snippet** (append under your “Cross-References”):
+### Debate Connection (for methodological questions)  
+When your theory suggests **interpretive methodology questions or archival policy issues**:
+* A concrete archival methodology problem your theory raises
+* A likely **Phase** (Phase I-IV of archival development)
+* A likely **Document Type** and **Archivist Temperament**
+
+**Template snippets** (append under your "Cross-References"):
 
 ```markdown
-### Densworld Addendum (seed)
-- Proposed Order: [Boundary | Doubling | Craving | Silence & Withdrawal | Violence & Secret Life | Mediation & Aperture]
-- Likely Region: [Capital | Dens/Densmok | Quarry | North/Northo | Tower/Sticks | Dead River | Capeast]
-- Fictional prompt (2–4 sentences, out-of-character): …
-- (Optional) Debate doc type to expect: [memo | minute | hearing | counter-memo | directive | field report | ruling | brief | case note | colloquy note]
+### Densworld Addendum (seed) — Archive Focus
+**Order:** [Boundary | Doubling | Craving | Silence & Withdrawal | Violence & Secret Life | Mediation & Aperture]  
+**Region:** [Capital | Dens/Densmok | Quarry | North/Northo | Tower/Sticks | Dead River | Capeast]
+
+[2-4 sentences describing the concrete scenario/device your theory suggests]
+
+### Densworld Addendum (seed) — Debate Focus  
+**Phase:** [Phase I | Phase II | Phase III | Phase IV]  
+**Document Type:** [memo | minute | field report | hearing | counter-memo | directive | ruling | brief | case note | colloquy note]  
+**Likely Temperament:** [Clerkly | Romantic | Philosophical]
+
+[2-4 sentences describing the methodological question or policy debate your theory suggests]
 ```
 
-**Three micro-examples (AI-specific, size/tone model):**
+**Three micro-examples (Archive vs. Debate paths):**
 
-* **Author-Function.** A Capital bureau drafts a policy treating **model cards** as “authors,” requiring every public statement to cite a **hash** of the deployed weights. → **Order: Mediation & Aperture; Region: Capital** .
-* **Interpretive Dialogue.** A Tower clinic experiments with “fused horizon” reading groups where a text’s **safety banner** is discussed alongside the output, altering uptake. → **Order: Boundary; Region: Tower/Sticks**  .
-* **Paratexts.** Densmok postmasters adopt a **prompt-ledger** stamp on every town notice; disputes arise over whether the notice or the stamp guides meaning. → **Order: Doubling; Region: Dens/Densmok** .
+* **Author-Function (Archive path).** A Capital bureau treats **model cards** as "authors," requiring every public statement to cite a **hash** of the deployed weights. → **Order: Mediation & Aperture; Region: Capital** (archive entry documents hash-citation practices).
+* **Author-Function (Debate path).** Should "algorithmic authorship" documents require new filing categories beyond traditional author-function classifications? → **Phase III Hearing; Philosophical temperament** proposes sub-orders; **Clerkly** argues existing categories suffice.
+* **Interpretive Dialogue (Archive path).** A Tower clinic experiments with "fused horizon" reading groups where a text's **safety banner** is discussed alongside the output, altering uptake. → **Order: Boundary; Region: Tower/Sticks**.
 
 ---
 
@@ -117,7 +131,7 @@ We keep the kit non-fictional, but each page should end with a tiny **out-of-cha
 * **Thesis alignment** (AI as intensification) is explicit and accurate .
 * **Usable method** (your “Interpretive Method” is actionable).
 * **Cross-references** connect the hub and at least two related pages .
-* **Addendum seed** includes **Order + Region** (and optional Debate doc type) for Archive/Debate hand-off   .
+* **Addendum seed** follows either Archive format (Order + Region) or Debate format (Phase + Doc Type + Temperament) for future fictional development.
 
 ## Submission checklist (copy/paste and tick)
 
@@ -125,4 +139,4 @@ We keep the kit non-fictional, but each page should end with a tiny **out-of-cha
 * ✅ **Filename & front matter** follow kit specs  .
 * ✅ **Back-to-hub pill** in place .
 * ✅ **Six-part structure** (Foundation → AI Application → Method → Relevance → Cross-Refs → **Addendum** ) .
-* ✅ **Addendum seed** has **Order + Region** (optional Debate doc type)   .
+* ✅ **Addendum seed** follows either Archive format (Order + Region) or Debate format (Phase + Doc Type + Temperament).

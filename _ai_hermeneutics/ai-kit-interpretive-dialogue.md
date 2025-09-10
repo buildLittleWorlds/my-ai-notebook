@@ -87,6 +87,13 @@ the written word.
 
 </div>
 
+### Densworld Addendum (seed) — Debate Focus  
+**Phase:** Phase II  
+**Document Type:** Case Note  
+**Likely Temperament:** Clerkly  
+
+The VBS **twenty-sheet** curriculum explicitly forbids kids from saying what they learned **until** week’s end—dialogue by design is **deferred**. Propose a Debate note on **managed dialogue** as an archival signal: where pedagogy enforces secrecy (“doing” vs “hearing”), later **quiet-hours** in the Sticks may be **maintenance** rather than negation. See **[Phase III — Memorandum: The Nickname Ledger (Vivian & the Sticks)]({{ '/debate/phase3-memo-nickname-ledger-vivian/' | relative_url }})**.
+
 <div class="bottom-links">
 
 <a href="{{ '/ai-hermeneutics/ai-hermeneutics-kit/' | relative_url }}" class="quickkit-pill">← Back to AI

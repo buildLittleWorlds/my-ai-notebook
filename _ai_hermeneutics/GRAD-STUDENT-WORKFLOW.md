@@ -87,22 +87,36 @@ kit_type: ai_hermeneutics
 
 ## Step 6 — The **Densworld Addendum (seed)** (short, required)
 
-Every page ends with a **tiny non-fictional seed** that hands theory toward the Archive/Debate system—mirroring the posts practice—by naming **Orders + Region** (optional **Debate doc type**) for a hypothetical future document. This preserves the kit’s OOC boundary while enabling worldbuilding hand-offs   .
+Every page ends with a **tiny non-fictional seed** that connects your theory to either the Archive or Debate system. Choose the path that best fits your framework—concrete scenarios suggest Archive entries; methodological questions suggest Debate documents.
 
-**Include (2–4 sentences total):**
+**Choose Your Connection Path:**
 
-* A **concrete image/device/practice** your theory suggests.
-* A **proposed Order** and **likely Region** (canonical lists below).
-* Optional: a likely **Debate** doc type (memo/minute/hearing/counter-memo/etc.).
+### Option A: Archive Connection
+When your theory suggests **concrete Densworld scenarios, devices, or practices**:
+* A **concrete image/device/practice** your theory suggests
+* A **proposed Order** and **likely Region** (canonical lists below)
 
-**Template snippet**:
+### Option B: Debate Connection  
+When your theory suggests **interpretive methodology questions or archival policy issues**:
+* A concrete archival methodology problem your theory raises
+* A likely **Phase** (Phase I-IV of archival development)  
+* A likely **Document Type** and **Archivist Temperament** (canonical lists below)
+
+**Template snippets**:
 
 ```markdown
-### Densworld Addendum (seed)
-- Proposed Order: [Boundary | Doubling | Craving | Silence & Withdrawal | Violence & Secret Life | Mediation & Aperture]
-- Likely Region: [Capital | Dens/Densmok | Quarry | North/Northo | Tower/Sticks | Dead River | Capeast]
-- Fictional prompt (2–4 sentences, out-of-character): …
-- (Optional) Debate doc type to expect: [memo | minute | hearing | counter-memo | directive | field report | ruling | brief | case note | colloquy note]
+### Densworld Addendum (seed) — Archive Focus
+**Order:** [Boundary | Doubling | Craving | Silence & Withdrawal | Violence & Secret Life | Mediation & Aperture]  
+**Region:** [Capital | Dens/Densmok | Quarry | North/Northo | Tower/Sticks | Dead River | Capeast]
+
+[2-4 sentences describing the concrete scenario/device your theory suggests]
+
+### Densworld Addendum (seed) — Debate Focus  
+**Phase:** [Phase I | Phase II | Phase III | Phase IV]  
+**Document Type:** [memo | minute | field report | hearing | counter-memo | directive | ruling | brief | case note | colloquy note]  
+**Likely Temperament:** [Clerkly | Romantic | Philosophical]
+
+[2-4 sentences describing the methodological question or policy debate your theory suggests]
 ```
 
 ---
@@ -114,12 +128,17 @@ Every page ends with a **tiny non-fictional seed** that hands theory toward the 
 * ✅ **Back-to-hub pill** present&#x20;
 * ✅ **Six-part structure** (Foundation → AI → Method → Relevance → Cross-Refs → **Addendum**)&#x20;
 * ✅ **Cross-links** to the hub and at least 2 related kit pages&#x20;
-* ✅ **Addendum seed** includes **Order + Region** (+ optional Debate type) &#x20;
+* ✅ **Addendum seed** follows either Archive format (Order + Region) or Debate format (Phase + Doc Type + Temperament)
 
 ---
 
 ### Appendix — Canonical tags (for your Addendum)
 
-* **Orders**: Boundary; Doubling; Craving; Silence & Withdrawal; Violence & Secret Life; Mediation & Aperture .
-* **Regions**: Capital; Dens/Densmok; Quarry; North Town/Northo; Tower/Sticks; Dead River; Capeast .
-* **Debate doc types**: memo, minute, field report, colloquy note, counter-memo, directive, hearing, ruling, brief, case note .
+### For Archive Connections:
+* **Orders**: Boundary; Doubling; Craving; Silence & Withdrawal; Violence & Secret Life; Mediation & Aperture
+* **Regions**: Capital; Dens/Densmok; Quarry; North Town/Northo; Tower/Sticks; Dead River; Capeast
+
+### For Debate Connections:
+* **Phases**: Phase I (Years 1-12, Regional drawers); Phase II (Years 13-20, Geographic faults); Phase III (Year 22, Orders proposal); Phase IV (Year 23+, Implementation)
+* **Document Types**: memo, minute, field report, colloquy note, counter-memo, directive, hearing, ruling, brief, case note
+* **Temperaments**: Clerkly (procedural, protocol-focused); Romantic (narrative, witness-focused); Philosophical (systematic, category-focused)

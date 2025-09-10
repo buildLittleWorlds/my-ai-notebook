@@ -49,9 +49,9 @@ For practical reading strategies, connect this page to two lenses:
 
 1.  **Reception & Form Diagnostics:** a hands-on method using [reception
     (Jauss), reader-response (Iser), and narratology/paratexts
-    (Genette)]({{ '/kits/ai-kit-forensics/' | relative_url }}).
+    (Genette)]({{ '/ai-hermeneutics/ai-kit-forensics/' | relative_url }}).
 2.  **Genealogy (Reception & Narratology):** see how [Jauss, Iser,
-    Genette]({{ '/kits/ai-kit-genealogy/' | relative_url }}) sit alongside Gadamer, Ricoeur,
+    Genette]({{ '/ai-hermeneutics/ai-kit-genealogy/' | relative_url }}) sit alongside Gadamer, Ricoeur,
     Heidegger, Derrida.
 
 ### Go Deeper

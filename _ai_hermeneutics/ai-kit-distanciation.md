@@ -42,9 +42,9 @@ first place.
 
 ### Connections
 
-- See [Reception & Form Diagnostics]({{ '/kits/ai-kit-forensics/' | relative_url }}) for a
+- See [Reception & Form Diagnostics]({{ '/ai-hermeneutics/ai-kit-forensics/' | relative_url }}) for a
   practical checklist.
-- See the [Genealogy]({{ '/kits/ai-kit-genealogy/' | relative_url }}) for where Ricoeur sits
+- See the [Genealogy]({{ '/ai-hermeneutics/ai-kit-genealogy/' | relative_url }}) for where Ricoeur sits
   among other approaches.
 
 ### Go Deeper

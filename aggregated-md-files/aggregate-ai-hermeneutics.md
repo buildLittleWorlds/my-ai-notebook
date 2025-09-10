@@ -439,7 +439,7 @@ Hermeneutics Kit</a>
 Why do we demand that a text have a single, coherent author behind it?
 The Romantic answer is that this author is the source of the text's
 authentic meaning. Foucault, with his concept of the
-[author-function]({{ '/kits/ai-kit-author-function/' | relative_url }}), suggests it's a way to
+[author-function]({{ '/ai-hermeneutics/ai-kit-author-function/' | relative_url }}), suggests it's a way to
 classify and control discourse. Judith Butler lays out a third,
 complementary view: the coherent subject is a "regulatory fiction," a
 social norm we are compelled to perform to be seen as intelligible.
@@ -709,9 +709,9 @@ Hermeneutics Kit</a>
 
 
 Previous pages have established the AI text as an impersonal,
-[productive machine]({{ '/kits/ai-kit-deleuze-goodwill/' | relative_url }}) whose output can be
-either [reactive or active]({{ '/kits/ai-kit-deleuze-forces/' | relative_url }}), emerging from a
-system of [monotonous repetition]({{ '/kits/ai-kit-deleuze-monotony/' | relative_url }}). The
+[productive machine]({{ '/ai-hermeneutics/ai-kit-deleuze-goodwill/' | relative_url }}) whose output can be
+either [reactive or active]({{ '/ai-hermeneutics/ai-kit-deleuze-forces/' | relative_url }}), emerging from a
+system of [monotonous repetition]({{ '/ai-hermeneutics/ai-kit-deleuze-monotony/' | relative_url }}). The
 final step is to stop seeing the human and the AI as separate entities.
 The Deleuzian move is to analyze the functional unit they create
 together: the *Human-AI Assemblage*.
@@ -1071,9 +1071,9 @@ first place.
 
 ### Connections
 
-- See [Reception & Form Diagnostics]({{ '/kits/ai-kit-forensics/' | relative_url }}) for a
+- See [Reception & Form Diagnostics]({{ '/ai-hermeneutics/ai-kit-forensics/' | relative_url }}) for a
   practical checklist.
-- See the [Genealogy]({{ '/kits/ai-kit-genealogy/' | relative_url }}) for where Ricoeur sits
+- See the [Genealogy]({{ '/ai-hermeneutics/ai-kit-genealogy/' | relative_url }}) for where Ricoeur sits
   among other approaches.
 
 ### Go Deeper
@@ -1306,11 +1306,11 @@ Body without Organs (Deleuze)
 An impersonal field of forces, flows, and intensities that exists prior
 to the organization of a unified subject or "organism."
 
-[Death of the Author]({{ '/kits/ai-kit-death-author/' | relative_url }}) (Barthes)  
+[Death of the Author]({{ '/ai-hermeneutics/ai-kit-death-author/' | relative_url }}) (Barthes)  
 Barthes’ thesis that meaning is generated in the act of reading a
 "tissue of quotations," not recovered from an author's mind.
 
-[Distanciation]({{ '/kits/ai-kit-distanciation/' | relative_url }}) (Ricoeur)  
+[Distanciation]({{ '/ai-hermeneutics/ai-kit-distanciation/' | relative_url }}) (Ricoeur)  
 Ricoeur’s account of how writing separates discourse from its speaker
 and context, enabling semantic autonomy.
 
@@ -1380,30 +1380,30 @@ itself, which the reader can inhabit through interpretation.
 
 ### Key Thinkers and Relevance
 
-Roland Barthes (1915–1980)  
+Roland Barthes
 His "Death of the Author" is the theoretical starting point for reading
 authorless texts.
 
-Gilles Deleuze (1925–1995)  
+Gilles Deleuze
 Provides a radical critique of the unified subject and a philosophy of
 impersonal forces, tools for analyzing AI beyond Romantic categories.
 
-Hans-Georg Gadamer (1900–2002)  
+Hans-Georg Gadamer
 His dialogical model of reading explains how texts can "read us" back.
 
-Gérard Genette (1930–2018)  
+Gérard Genette
 Provides the essential tools of narratology and paratextual analysis for
 a formal reading of AI texts.
 
-Wolfgang Iser (1926–2007)  
+Wolfgang Iser
 His concepts of the "implied reader" and "gaps" are central to analyzing
 user interaction with AI.
 
-Hans Robert Jauss (1921–1997)  
+Hans Robert Jauss
 Reception theory allows us to study the meaning of AI texts as a social
 and historical phenomenon.
 
-Paul Ricoeur (1913–2005)  
+Paul Ricoeur
 His theories of distanciation and the "world of the text" provide a
 positive ethical program for reading AI.
 
@@ -1647,6 +1647,13 @@ the written word.
 
 </div>
 
+### Densworld Addendum (seed) — Debate Focus  
+**Phase:** Phase II  
+**Document Type:** Case Note  
+**Likely Temperament:** Clerkly  
+
+The VBS **twenty-sheet** curriculum explicitly forbids kids from saying what they learned **until** week’s end—dialogue by design is **deferred**. Propose a Debate note on **managed dialogue** as an archival signal: where pedagogy enforces secrecy (“doing” vs “hearing”), later **quiet-hours** in the Sticks may be **maintenance** rather than negation. See **[Phase III — Memorandum: The Nickname Ledger (Vivian & the Sticks)]({{ '/debate/phase3-memo-nickname-ledger-vivian/' | relative_url }})**.
+
 <div class="bottom-links">
 
 <a href="{{ '/ai-hermeneutics/ai-hermeneutics-kit/' | relative_url }}" class="quickkit-pill">← Back to AI
@@ -1709,9 +1716,9 @@ For practical reading strategies, connect this page to two lenses:
 
 1.  **Reception & Form Diagnostics:** a hands-on method using [reception
     (Jauss), reader-response (Iser), and narratology/paratexts
-    (Genette)]({{ '/kits/ai-kit-forensics/' | relative_url }}).
+    (Genette)]({{ '/ai-hermeneutics/ai-kit-forensics/' | relative_url }}).
 2.  **Genealogy (Reception & Narratology):** see how [Jauss, Iser,
-    Genette]({{ '/kits/ai-kit-genealogy/' | relative_url }}) sit alongside Gadamer, Ricoeur,
+    Genette]({{ '/ai-hermeneutics/ai-kit-genealogy/' | relative_url }}) sit alongside Gadamer, Ricoeur,
     Heidegger, Derrida.
 
 ### Go Deeper
@@ -1814,29 +1821,43 @@ Foundations: **Author-function**, **Interpretive dialogue**, **Hermeneutics of r
 # Densworld Addendum for AI Hermeneutics pages (short, required)
 
 **Why add this to a theory page?**
-We keep the kit non-fictional, but each page should end with a tiny **out-of-character seed** that hands theory toward the Archive/Debate system—just like your blog-post practice—by proposing **Orders + Region** tags for a hypothetical future artifact   .
+We keep the kit non-fictional, but each page should end with a tiny **out-of-character seed** that connects your theory to either the Archive or Debate system—just like your blog-post practice. Choose the path that best fits your framework.
 
-**Include (2–4 sentences total):**
+**Choose Your Connection Path:**
 
-* A **concrete image/device/practice** your theory suggests (one beat, not a scene).
-* A **proposed Order** (Boundary; Doubling; Craving; Silence & Withdrawal; Violence & Secret Life; Mediation & Aperture) and a **likely Region** (Capital; Dens/Densmok; Quarry; North/Northo; Tower/Sticks; Dead River; Capeast) for where archivists might file a future document  .
-* Optional: a likely **Debate doc type** to expect (memo/minute/hearing/counter-memo, etc.) .
+### Archive Connection (for concrete scenarios)
+When your theory suggests **concrete Densworld scenarios, devices, or practices**:
+* A **concrete image/device/practice** your theory suggests (one beat, not a scene)
+* A **proposed Order** and **likely Region** for where archivists might file a future document
 
-**Template snippet** (append under your “Cross-References”):
+### Debate Connection (for methodological questions)  
+When your theory suggests **interpretive methodology questions or archival policy issues**:
+* A concrete archival methodology problem your theory raises
+* A likely **Phase** (Phase I-IV of archival development)
+* A likely **Document Type** and **Archivist Temperament**
+
+**Template snippets** (append under your "Cross-References"):
 
 ```markdown
-### Densworld Addendum (seed)
-- Proposed Order: [Boundary | Doubling | Craving | Silence & Withdrawal | Violence & Secret Life | Mediation & Aperture]
-- Likely Region: [Capital | Dens/Densmok | Quarry | North/Northo | Tower/Sticks | Dead River | Capeast]
-- Fictional prompt (2–4 sentences, out-of-character): …
-- (Optional) Debate doc type to expect: [memo | minute | hearing | counter-memo | directive | field report | ruling | brief | case note | colloquy note]
+### Densworld Addendum (seed) — Archive Focus
+**Order:** [Boundary | Doubling | Craving | Silence & Withdrawal | Violence & Secret Life | Mediation & Aperture]  
+**Region:** [Capital | Dens/Densmok | Quarry | North/Northo | Tower/Sticks | Dead River | Capeast]
+
+[2-4 sentences describing the concrete scenario/device your theory suggests]
+
+### Densworld Addendum (seed) — Debate Focus  
+**Phase:** [Phase I | Phase II | Phase III | Phase IV]  
+**Document Type:** [memo | minute | field report | hearing | counter-memo | directive | ruling | brief | case note | colloquy note]  
+**Likely Temperament:** [Clerkly | Romantic | Philosophical]
+
+[2-4 sentences describing the methodological question or policy debate your theory suggests]
 ```
 
-**Three micro-examples (AI-specific, size/tone model):**
+**Three micro-examples (Archive vs. Debate paths):**
 
-* **Author-Function.** A Capital bureau drafts a policy treating **model cards** as “authors,” requiring every public statement to cite a **hash** of the deployed weights. → **Order: Mediation & Aperture; Region: Capital** .
-* **Interpretive Dialogue.** A Tower clinic experiments with “fused horizon” reading groups where a text’s **safety banner** is discussed alongside the output, altering uptake. → **Order: Boundary; Region: Tower/Sticks**  .
-* **Paratexts.** Densmok postmasters adopt a **prompt-ledger** stamp on every town notice; disputes arise over whether the notice or the stamp guides meaning. → **Order: Doubling; Region: Dens/Densmok** .
+* **Author-Function (Archive path).** A Capital bureau treats **model cards** as "authors," requiring every public statement to cite a **hash** of the deployed weights. → **Order: Mediation & Aperture; Region: Capital** (archive entry documents hash-citation practices).
+* **Author-Function (Debate path).** Should "algorithmic authorship" documents require new filing categories beyond traditional author-function classifications? → **Phase III Hearing; Philosophical temperament** proposes sub-orders; **Clerkly** argues existing categories suffice.
+* **Interpretive Dialogue (Archive path).** A Tower clinic experiments with "fused horizon" reading groups where a text's **safety banner** is discussed alongside the output, altering uptake. → **Order: Boundary; Region: Tower/Sticks**.
 
 ---
 
@@ -1853,7 +1874,7 @@ We keep the kit non-fictional, but each page should end with a tiny **out-of-cha
 * **Thesis alignment** (AI as intensification) is explicit and accurate .
 * **Usable method** (your “Interpretive Method” is actionable).
 * **Cross-references** connect the hub and at least two related pages .
-* **Addendum seed** includes **Order + Region** (and optional Debate doc type) for Archive/Debate hand-off   .
+* **Addendum seed** follows either Archive format (Order + Region) or Debate format (Phase + Doc Type + Temperament) for future fictional development.
 
 ## Submission checklist (copy/paste and tick)
 
@@ -1861,7 +1882,7 @@ We keep the kit non-fictional, but each page should end with a tiny **out-of-cha
 * ✅ **Filename & front matter** follow kit specs  .
 * ✅ **Back-to-hub pill** in place .
 * ✅ **Six-part structure** (Foundation → AI Application → Method → Relevance → Cross-Refs → **Addendum** ) .
-* ✅ **Addendum seed** has **Order + Region** (optional Debate doc type)   .
+* ✅ **Addendum seed** follows either Archive format (Order + Region) or Debate format (Phase + Doc Type + Temperament).
 
 ---
 
@@ -1956,22 +1977,36 @@ kit_type: ai_hermeneutics
 
 ## Step 6 — The **Densworld Addendum (seed)** (short, required)
 
-Every page ends with a **tiny non-fictional seed** that hands theory toward the Archive/Debate system—mirroring the posts practice—by naming **Orders + Region** (optional **Debate doc type**) for a hypothetical future document. This preserves the kit’s OOC boundary while enabling worldbuilding hand-offs   .
+Every page ends with a **tiny non-fictional seed** that connects your theory to either the Archive or Debate system. Choose the path that best fits your framework—concrete scenarios suggest Archive entries; methodological questions suggest Debate documents.
 
-**Include (2–4 sentences total):**
+**Choose Your Connection Path:**
 
-* A **concrete image/device/practice** your theory suggests.
-* A **proposed Order** and **likely Region** (canonical lists below).
-* Optional: a likely **Debate** doc type (memo/minute/hearing/counter-memo/etc.).
+### Option A: Archive Connection
+When your theory suggests **concrete Densworld scenarios, devices, or practices**:
+* A **concrete image/device/practice** your theory suggests
+* A **proposed Order** and **likely Region** (canonical lists below)
 
-**Template snippet**:
+### Option B: Debate Connection  
+When your theory suggests **interpretive methodology questions or archival policy issues**:
+* A concrete archival methodology problem your theory raises
+* A likely **Phase** (Phase I-IV of archival development)  
+* A likely **Document Type** and **Archivist Temperament** (canonical lists below)
+
+**Template snippets**:
 
 ```markdown
-### Densworld Addendum (seed)
-- Proposed Order: [Boundary | Doubling | Craving | Silence & Withdrawal | Violence & Secret Life | Mediation & Aperture]
-- Likely Region: [Capital | Dens/Densmok | Quarry | North/Northo | Tower/Sticks | Dead River | Capeast]
-- Fictional prompt (2–4 sentences, out-of-character): …
-- (Optional) Debate doc type to expect: [memo | minute | hearing | counter-memo | directive | field report | ruling | brief | case note | colloquy note]
+### Densworld Addendum (seed) — Archive Focus
+**Order:** [Boundary | Doubling | Craving | Silence & Withdrawal | Violence & Secret Life | Mediation & Aperture]  
+**Region:** [Capital | Dens/Densmok | Quarry | North/Northo | Tower/Sticks | Dead River | Capeast]
+
+[2-4 sentences describing the concrete scenario/device your theory suggests]
+
+### Densworld Addendum (seed) — Debate Focus  
+**Phase:** [Phase I | Phase II | Phase III | Phase IV]  
+**Document Type:** [memo | minute | field report | hearing | counter-memo | directive | ruling | brief | case note | colloquy note]  
+**Likely Temperament:** [Clerkly | Romantic | Philosophical]
+
+[2-4 sentences describing the methodological question or policy debate your theory suggests]
 ```
 
 ---
@@ -1983,15 +2018,20 @@ Every page ends with a **tiny non-fictional seed** that hands theory toward the 
 * ✅ **Back-to-hub pill** present&#x20;
 * ✅ **Six-part structure** (Foundation → AI → Method → Relevance → Cross-Refs → **Addendum**)&#x20;
 * ✅ **Cross-links** to the hub and at least 2 related kit pages&#x20;
-* ✅ **Addendum seed** includes **Order + Region** (+ optional Debate type) &#x20;
+* ✅ **Addendum seed** follows either Archive format (Order + Region) or Debate format (Phase + Doc Type + Temperament)
 
 ---
 
 ### Appendix — Canonical tags (for your Addendum)
 
-* **Orders**: Boundary; Doubling; Craving; Silence & Withdrawal; Violence & Secret Life; Mediation & Aperture .
-* **Regions**: Capital; Dens/Densmok; Quarry; North Town/Northo; Tower/Sticks; Dead River; Capeast .
-* **Debate doc types**: memo, minute, field report, colloquy note, counter-memo, directive, hearing, ruling, brief, case note .
+### For Archive Connections:
+* **Orders**: Boundary; Doubling; Craving; Silence & Withdrawal; Violence & Secret Life; Mediation & Aperture
+* **Regions**: Capital; Dens/Densmok; Quarry; North Town/Northo; Tower/Sticks; Dead River; Capeast
+
+### For Debate Connections:
+* **Phases**: Phase I (Years 1-12, Regional drawers); Phase II (Years 13-20, Geographic faults); Phase III (Year 22, Orders proposal); Phase IV (Year 23+, Implementation)
+* **Document Types**: memo, minute, field report, colloquy note, counter-memo, directive, hearing, ruling, brief, case note
+* **Temperaments**: Clerkly (procedural, protocol-focused); Romantic (narrative, witness-focused); Philosophical (systematic, category-focused)
 
 ---
 

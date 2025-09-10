@@ -64,32 +64,46 @@ The hub (`romantic-quick-kit.md`) plus component pages: **Hermeneutics** (method
 
 ---
 
-# New: Densworld Addendum for Romantic Kit pages (short, required)
+# Densworld Addendum for Romantic Kit pages (short, required)
 
 **Why add this to a theory page?**
-Blog posts already end with a required **Densworld Addendum (seed)** that proposes a concrete fiction-facing idea and tags it for the Archive system (Orders + Region) . We’ll do the **same, in miniature**, on each Romantic Kit page so theory cleanly “hands off” to fiction builders—still **out-of-character** to respect the kit’s non-fiction boundary .
+Blog posts already end with a required **Densworld Addendum (seed)** that can connect to either Archive or Debate. We'll do the **same, in miniature**, on each Romantic Kit page so theory cleanly "hands off" to fiction builders—still **out-of-character** to respect the kit's non-fiction boundary.
 
-**What to include (keep it to 2–4 sentences):**
+**Choose Your Connection Path:**
 
-* A **concrete image, device, practice, or scene-seed** your concept suggests (one beat, not a whole vignette) .
-* A **proposed Order** (Boundary; Doubling; Craving; Silence & Withdrawal; Violence & Secret Life; Mediation & Aperture) and a **likely Region** (Capital; Dens/Densmok; Quarry; North/Northo; Tower/Sticks; Dead River; Capeast) for where an Archivist would file the future fictional document  .
-* Optional: a likely **Debate** document type (memo, minute, hearing, counter-memo) to hint how the archivists might discuss it later (same option shown for posts) .
+### Archive Connection (for concrete scenarios)
+When your concept suggests **concrete Densworld scenes, artifacts, or practices**:
+* A **concrete image, device, practice, or scene-seed** your concept suggests (one beat, not a whole vignette)
+* A **proposed Order** and a **likely Region** for where an Archivist would file the future fictional document
 
-**Template snippet** (append beneath your “Application Examples”):
+### Debate Connection (for methodological questions)  
+When your concept suggests **methodological questions or archival policy issues**:
+* A concrete archival policy problem or interpretive question your concept raises
+* A likely **Phase** (Phase I-IV of archival development)
+* A likely **Document Type** and **Archivist Temperament**
+
+**Template snippets** (append beneath your "Application Examples"):
 
 ```markdown
-### Densworld Addendum (seed)
-- Proposed Order: [Boundary | Doubling | Craving | Silence & Withdrawal | Violence & Secret Life | Mediation & Aperture]
-- Likely Region: [Capital | Dens/Densmok | Quarry | North/Northo | Tower/Sticks | Dead River | Capeast]
-- Fictional prompt (2–4 sentences, out-of-character): …
-- (Optional) Debate doc type to expect: [memo | minute | hearing | counter-memo]
+### Densworld Addendum (seed) — Archive Focus
+**Order:** [Boundary | Doubling | Craving | Silence & Withdrawal | Violence & Secret Life | Mediation & Aperture]  
+**Region:** [Capital | Dens/Densmok | Quarry | North/Northo | Tower/Sticks | Dead River | Capeast]
+
+[2-4 sentences describing the concrete scene/artifact your concept suggests]
+
+### Densworld Addendum (seed) — Debate Focus  
+**Phase:** [Phase I | Phase II | Phase III | Phase IV]  
+**Document Type:** [memo | minute | field report | hearing | counter-memo | directive | ruling | brief | case note | colloquy note]  
+**Likely Temperament:** [Clerkly | Romantic | Philosophical]
+
+[2-4 sentences describing the methodological question or policy debate your concept suggests]
 ```
 
-**Three micro-examples (model the size/tone):**
+**Three micro-examples (Archive vs. Debate paths):**
 
-* **Authenticity.** In **North Town**, trial singers perform a murder-song that only “authenticates” when a masked **echoer** repeats each line perfectly; a clerk in **Capital** proposes banning echoers in depositions. → **Order: Doubling; Regions: North Town → Capital** (seed passes from culture to policy)  .
-* **Organic vs. Mechanical Form.** A quarry wheel “self-assembles” from mismatched parts if turned in a precise rhythm; apprentices argue whether the form lives or is merely fitted. → **Order: Boundary; Region: Quarry** .
-* **Technology & the Machine.** Bureau clerks in **Capital** trial a “grit-screen” that clarifies remote feeds from Densmok, arguing clarity enables exploitation. → **Order: Mediation & Aperture; Regions: Capital ↔ Dens/Densmok** .
+* **Authenticity (Archive path).** In **North Town**, trial singers perform a murder-song that only "authenticates" when a masked **echoer** repeats each line perfectly. → **Order: Doubling; Region: North Town** (archive entry documents echoer-song testimonies).
+* **Authenticity (Debate path).** Do "performed authenticity" documents belong in **Doubling** or require a new sub-order? → **Phase III Hearing; Philosophical temperament** argues for category expansion; **Clerkly** resists.
+* **Organic vs. Mechanical Form (Archive path).** A quarry wheel "self-assembles" from mismatched parts if turned in a precise rhythm; apprentices debate whether the form lives or is merely fitted. → **Order: Boundary; Region: Quarry**.
 
 > Note: the **Orders + Regions** pairing mirrors how the Archive files fictional documents; Debate records the institutional fight over those classifications and even formalizes **dual-tagging** standards .
 
@@ -108,7 +122,7 @@ Blog posts already end with a required **Densworld Addendum (seed)** that propos
 * **Two-rail clarity** leads to an evidence-based authenticity claim .
 * **Usable method** (your “How to Read” is actionable) and the **five core sections** are present .
 * **Cross-references** to related kit pages and back to the hub .
-* **Addendum seed** included (Orders + Region) to hand off toward Archive/Debate  .
+* **Addendum seed** included (Archive format with Order + Region, or Debate format with Phase + Doc Type + Temperament) to hand off toward future fictional development.
 
 ## Submission checklist (copy/paste and tick)
 
@@ -116,7 +130,7 @@ Blog posts already end with a required **Densworld Addendum (seed)** that propos
 * ✅ **Filename & front matter** follow kit specs&#x20;
 * ✅ **Top nav pill** links back to the Quick Kit hub&#x20;
 * ✅ **Five core sections** appear in order (Definition → How to Read → History → Cross-Refs → Applications)&#x20;
-* ✅ **Densworld Addendum (seed)** present (Orders + Region; 2–4 sentences; out-of-character) &#x20;
+* ✅ **Densworld Addendum (seed)** present (Archive format: Order + Region, or Debate format: Phase + Doc Type + Temperament; 2–4 sentences; out-of-character)
 
 
 ---
@@ -226,24 +240,36 @@ kit_type: romantic
 
 ## Step 6 — The **Densworld Addendum (seed)** (short, required)
 
-Every Romantic Kit page ends with a **tiny, non-fictional hand-off** to the Archive/Debate system. This mirrors the posts practice (image/device/scene + Order + Region, optional Debate doc type) and lets theory feed fiction without breaking the kit’s OOC boundary  .
+Every Romantic Kit page ends with a **tiny, non-fictional hand-off** to either the Archive or Debate system. Choose the connection path that best fits your concept—concrete artifacts/scenes suggest Archive entries; methodological questions suggest Debate documents.
 
-**Include (2–4 sentences total):**
+**Choose Your Connection Path:**
 
-* A **concrete image, device, practice, or scene-seed** your concept suggests (one beat) .
-* A **proposed Order** and **likely Region** (see canonical lists below)  .
-* Optional: a likely **Debate** doc type (memo/minute/hearing/counter-memo) .
+### Option A: Archive Connection
+When your concept suggests **concrete Densworld scenes, artifacts, or practices**:
+* A **concrete image, device, practice, or scene-seed** your concept suggests
+* A **proposed Order** and **likely Region** (see canonical lists below)
 
-**Why tags?** The Debate formalizes **dual-tagging** (Order(s) + Region(s)) as standard archival practice—your seed should anticipate that .
+### Option B: Debate Connection  
+When your concept suggests **methodological questions or archival policy issues**:
+* A concrete archival policy problem or interpretive question your concept raises
+* A likely **Phase** (Phase I-IV of archival development)  
+* A likely **Document Type** and **Archivist Temperament** (see lists below)
 
-**Template snippet** (append under “Application Examples”):
+**Template snippets** (append under "Application Examples"):
 
 ```markdown
-### Densworld Addendum (seed)
-- Proposed Order: [Boundary | Doubling | Craving | Silence & Withdrawal | Violence & Secret Life | Mediation & Aperture]
-- Likely Region: [Capital | Dens/Densmok | Quarry | North/Northo | Tower/Sticks | Dead River | Capeast]
-- Fictional prompt (2–4 sentences, out-of-character): …
-- (Optional) Debate doc type to expect: [memo | minute | hearing | counter-memo]
+### Densworld Addendum (seed) — Archive Focus
+**Order:** [Boundary | Doubling | Craving | Silence & Withdrawal | Violence & Secret Life | Mediation & Aperture]  
+**Region:** [Capital | Dens/Densmok | Quarry | North/Northo | Tower/Sticks | Dead River | Capeast]
+
+[2-4 sentences describing the concrete scene/artifact your concept suggests]
+
+### Densworld Addendum (seed) — Debate Focus  
+**Phase:** [Phase I | Phase II | Phase III | Phase IV]  
+**Document Type:** [memo | minute | field report | hearing | counter-memo | directive | ruling | brief | case note | colloquy note]  
+**Likely Temperament:** [Clerkly | Romantic | Philosophical]
+
+[2-4 sentences describing the methodological question or policy debate your concept suggests]
 ```
 
 ---
@@ -258,14 +284,20 @@ Before you PR, confirm:
 * ✅ **Six-part structure** (Definition → How → History → Cross-Refs → Applications → **Addendum**)&#x20;
 * ✅ **Two-rail method** is explicit in your analysis&#x20;
 * ✅ **Cross-links** to the hub and at least 2 related kit pages&#x20;
-* ✅ **Addendum seed** includes **Order + Region** (and optional Debate doc type)  &#x20;
+* ✅ **Addendum seed** follows either Archive format (Order + Region) or Debate format (Phase + Doc Type + Temperament)
 
 ---
 
 ## Appendix — Canonical tags (for your Addendum)
 
-* **Orders**: Boundary; Doubling; Craving; Silence & Withdrawal; Violence & Secret Life; Mediation & Aperture .
-* **Regions**: Capital; Dens/Densmok; Quarry; North Town/Northo; Tower/Sticks; Dead River; Capeast .
+### For Archive Connections:
+* **Orders**: Boundary; Doubling; Craving; Silence & Withdrawal; Violence & Secret Life; Mediation & Aperture
+* **Regions**: Capital; Dens/Densmok; Quarry; North Town/Northo; Tower/Sticks; Dead River; Capeast
+
+### For Debate Connections:
+* **Phases**: Phase I (Years 1-12, Regional drawers); Phase II (Years 13-20, Geographic faults); Phase III (Year 22, Orders proposal); Phase IV (Year 23+, Implementation)
+* **Document Types**: memo, minute, field report, hearing, counter-memo, directive, ruling, brief, case note, colloquy note  
+* **Temperaments**: Clerkly (procedural, protocol-focused); Romantic (narrative, witness-focused); Philosophical (systematic, category-focused)
 
 ---
 
@@ -380,6 +412,13 @@ creates a more profound, more resilient, and more complete individual.
 - **Scholarship:**
   - <span id="ref1">Lawrence Buell, "Transcendentalist Catalogue
     Rhetoric: Vision Versus Form," *American Literature* (1968).</span>
+
+### Densworld Addendum (seed) — Debate Focus  
+**Phase:** Phase II  
+**Document Type:** Case Note  
+**Likely Temperament:** Clerkly  
+
+If a **nickname** becomes the aperture through which a child is recognized (status tied to a “date with Vivian”), is “authenticity” a property or a **handling protocol**? Propose that Hilly Dale’s nickname economy be treated as a **device** that installs legibility—then ask Debate to standardize device-first cross-filing with Sticks withdrawals. Link: **[Phase III — Memorandum: The Nickname Ledger (Vivian & the Sticks)]({{ '/debate/phase3-memo-nickname-ledger-vivian/' | relative_url }})**.
 
 <div class="bottom-links">
 
@@ -1332,6 +1371,13 @@ the "miraculous in the common" and thereby re-enchant the world.
     [*Walden*](https://www.gutenberg.org/files/205/205-h/205-h.htm)
     (especially the chapter "Sounds") — Contains his famous meditations
     on the railroad.
+
+### Densworld Addendum (seed) — Debate Focus  
+**Phase:** Phase II  
+**Document Type:** Case Note  
+**Likely Temperament:** Clerkly  
+
+Gatekept instruction behaves like a **machine of access** in Hilly Dale: most kids get written **instructions** left on tables while one kid gets the **puzzle**—a split between remote directive and hands-on drill. Pair this with the **nickname device** (names fixed by relation to Vivian) to ask whether these are *apertures* installing cadence before the Sticks’ quiet-hours. Cross-link to **[Phase III — Memorandum: The Nickname Ledger (Vivian → Tower/Sticks chain)]({{ '/debate/phase3-memo-nickname-ledger-vivian/' | relative_url }})** and propose device-first filing for pre-Sticks pedagogy.
 
 <div class="bottom-links">
 

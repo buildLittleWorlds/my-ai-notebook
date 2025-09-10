@@ -85,15 +85,27 @@ Use these to generate or categorize drafts:
 
 ## The Densworld Addendum (required)
 
-Every post ends with an out-of-character **Densworld Addendum** (2–6 sentences) that speculates about a Densworld analogue or figurative reworking of the post’s idea. It is a **seed** for future Archive/Debate work and remains **out-of-character** (a hand-off, not fiction)【turn6file2†aggregate-structural-files.md†L30-L36】.
+Every post ends with an out-of-character **Densworld Addendum** (2–6 sentences) that connects to **either** the Archive **or** Debate collection, whichever seems more relevant to your post's concept. This is a **seed** for future development and remains **out-of-character** (a hand-off, not fiction).
 
-**Include**
+**Choose Your Connection Path:**
+
+### Archive Connection (for concrete scenarios)
+When your idea suggests a **concrete Densworld scene, document, or artifact**:
 - A concrete Densworld image, device, practice, or scene your post suggests
-- A **proposed Order** (Boundary; Doubling; Craving; Silence & Withdrawal; Violence & Secret Life; Mediation & Aperture) and a **likely Region** (Capital; Dens/Densmok; Quarry; North/Northo; Tower/Sticks; Dead River; Capeast)【turn6file15†README.md†L1-L7】【turn6file15†README.md†L9-L17】
-- Optional: a likely **Debate** document type (memo, minute, hearing, counter-memo)
+- A **proposed Order** (Boundary; Doubling; Craving; Silence & Withdrawal; Violence & Secret Life; Mediation & Aperture) and a **likely Region** (Capital; Dens/Densmok; Quarry; North/Northo; Tower/Sticks; Dead River; Capeast)
 
-**Example**
-> **Densworld Addendum (seed):** The “authenticity vs. performance” tension could surface in **North Town** as a murder-song requiring a masked **echoer** to confirm each line (→ **Doubling**). A clerk in **Capital** proposes banning masked echoers in depositions (→ potential **Counter-Memo** in Debate).
+### Debate Connection (for methodological questions)  
+When your idea suggests an **institutional methodology question or archival policy**:
+- A concrete archival policy problem or methodological question your post suggests
+- A likely **Phase** (Phase I-IV of the archival system development)
+- A likely **Document Type** (memo, minute, field report, hearing, counter-memo, directive, ruling, brief, case note, colloquy note) and **Archivist Temperament** (Clerkly, Romantic, Philosophical)
+
+**Examples**
+> **Archive-focused:**
+> **Densworld Addendum (seed):** The "authenticity vs. performance" tension could surface in **North Town** as a murder-song requiring a masked **echoer** to confirm each line (→ **Doubling**). Archive entry might document echoer-song testimonies in the **North** region.
+
+> **Debate-focused:**  
+> **Densworld Addendum (seed):** The "authenticity vs. performance" question could prompt a **Phase III Hearing** where **Philosophical** archivists argue whether "performed authenticity" documents belong in **Doubling** or require a new sub-order. **Clerkly** temperament resists category multiplication.
 
 ---
 

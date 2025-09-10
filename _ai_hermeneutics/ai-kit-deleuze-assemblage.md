@@ -12,9 +12,9 @@ Hermeneutics Kit</a>
 
 
 Previous pages have established the AI text as an impersonal,
-[productive machine]({{ '/kits/ai-kit-deleuze-goodwill/' | relative_url }}) whose output can be
-either [reactive or active]({{ '/kits/ai-kit-deleuze-forces/' | relative_url }}), emerging from a
-system of [monotonous repetition]({{ '/kits/ai-kit-deleuze-monotony/' | relative_url }}). The
+[productive machine]({{ '/ai-hermeneutics/ai-kit-deleuze-goodwill/' | relative_url }}) whose output can be
+either [reactive or active]({{ '/ai-hermeneutics/ai-kit-deleuze-forces/' | relative_url }}), emerging from a
+system of [monotonous repetition]({{ '/ai-hermeneutics/ai-kit-deleuze-monotony/' | relative_url }}). The
 final step is to stop seeing the human and the AI as separate entities.
 The Deleuzian move is to analyze the functional unit they create
 together: the *Human-AI Assemblage*.

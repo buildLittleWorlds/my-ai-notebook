@@ -14,7 +14,7 @@ Hermeneutics Kit</a>
 Why do we demand that a text have a single, coherent author behind it?
 The Romantic answer is that this author is the source of the text's
 authentic meaning. Foucault, with his concept of the
-[author-function]({{ '/kits/ai-kit-author-function/' | relative_url }}), suggests it's a way to
+[author-function]({{ '/ai-hermeneutics/ai-kit-author-function/' | relative_url }}), suggests it's a way to
 classify and control discourse. Judith Butler lays out a third,
 complementary view: the coherent subject is a "regulatory fiction," a
 social norm we are compelled to perform to be seen as intelligible.

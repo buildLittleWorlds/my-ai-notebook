@@ -36,11 +36,11 @@ Body without Organs (Deleuze)
 An impersonal field of forces, flows, and intensities that exists prior
 to the organization of a unified subject or "organism."
 
-[Death of the Author]({{ '/kits/ai-kit-death-author/' | relative_url }}) (Barthes)  
+[Death of the Author]({{ '/ai-hermeneutics/ai-kit-death-author/' | relative_url }}) (Barthes)  
 Barthes’ thesis that meaning is generated in the act of reading a
 "tissue of quotations," not recovered from an author's mind.
 
-[Distanciation]({{ '/kits/ai-kit-distanciation/' | relative_url }}) (Ricoeur)  
+[Distanciation]({{ '/ai-hermeneutics/ai-kit-distanciation/' | relative_url }}) (Ricoeur)  
 Ricoeur’s account of how writing separates discourse from its speaker
 and context, enabling semantic autonomy.
 

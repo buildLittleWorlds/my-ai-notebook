@@ -201,7 +201,19 @@ The main debate hub (`/_debate/archivists-debate.md`) organizes documents by fou
 The site functions as an integrated system where:
 - Blog posts develop ideas that become formalized in theoretical frameworks
 - Theoretical frameworks (romantic and AI hermeneutics collections) provide methods for analyzing materials
+- **Densworld Addenda** in blog posts and theory kit pages connect to either Archive (concrete scenarios) or Debate (methodological questions) collections
 - Archive preserves materials using the interpretive Orders system
 - Debate documents explain the methodology behind the archive's organization
 
-This creates a self-referential academic ecosystem that demonstrates both the theory and practice of literary-critical methodology.
+### Densworld Connection System
+Every blog post and theory kit page ends with a **Densworld Addendum** that connects to either:
+
+**Archive Connection** (for concrete scenarios):
+- Proposes specific Order (Boundary, Doubling, Craving, Silence & Withdrawal, Violence & Secret Life, Mediation & Aperture) 
+- Suggests likely Region (Capital, Dens/Densmok, Quarry, North/Northo, Tower/Sticks, Dead River, Capeast)
+
+**Debate Connection** (for methodological questions):
+- Proposes likely Phase (Phase I-IV of archival system development)
+- Suggests Document Type and Archivist Temperament (Clerkly, Romantic, Philosophical)
+
+This creates a self-referential academic ecosystem that demonstrates both the theory and practice of literary-critical methodology through flexible integration between real scholarship and fictional world-building.

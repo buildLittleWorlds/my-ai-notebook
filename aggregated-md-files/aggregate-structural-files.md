@@ -131,7 +131,7 @@ The homepage presents three grouped sections:
 **Voice:** First-person, reflective, conversational but scholarly; provisional thinking that questions assumptions
 **Hub Page:** `posts.md` → `/posts/` (posts-list.html layout)
 **Individual Posts:** Use post.html layout
-**Count:** 112 files
+**Count:** 113 files
 **Integration:** Every post must end with Densworld Addendum seed (Order + Region + optional Debate doc type)
 **Navigation:** Simple chronological list with post numbers
 
@@ -192,14 +192,14 @@ The homepage presents three grouped sections:
 **Voice:** Capital archivists analyzing fragments; professional, fragment-preserving, interpretive, deliberately unresolved
 **Method:** Each slip follows Protocol 7.3 (Slip Code → Provenance → Clip → Order(s) → Commentary)
 **Hub Page:** `archive.md` → `/archive/` (archive-hub.html layout)
-**Individual Entries:** 20 files using archive.html layout
+**Individual Entries:** 23 files using archive.html layout
 **Organization:** Auto-generated sections by six Orders, plus regional finder
 **Six Orders Classification System:**
 - Boundary (3 entries)
-- Craving (1 entries)
+- Craving (2 entries)
 - Doubling (2 entries)
-- Mediation & Aperture (5 entries)
-- Silence & Withdrawal (5 entries)
+- Mediation & Aperture (6 entries)
+- Silence & Withdrawal (6 entries)
 - Violence & Secret Life (3 entries)
 
 ### Debate Collection (`_debate/`) — The Archive's Self-Argument
@@ -209,7 +209,7 @@ The homepage presents three grouped sections:
 **Document Types:** Memo, Minute, Field Report, Colloquy Note, Counter-Memo, Directive, Hearing, Ruling, Brief, Case Note
 **Landing Page:** `debate.md` → `/debate/` (simple overview)
 **Main Hub:** `_debate/archivists-debate.md` → `/debate/archivists-debate/` (chronological phases)
-**Individual Documents:** 20 files using debate.html layout
+**Individual Documents:** 24 files using debate.html layout
 **Organization:** Four chronological phases documenting transformation from Regional filing to Orders-first filing
 **Four Historical Phases:**
 * **Phase I — Regional Drawers (Years 1–12).** Provenance-first doctrine; clerkly dominance; early systematizing seeds.

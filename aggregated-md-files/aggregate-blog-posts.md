@@ -2,13 +2,13 @@
 
 This file contains all blog posts from the _posts/ directory.
 
-## File: ./2024-01-02-this-site.md
+## File: ./2025-05-21-this-site.md
 
 ---
 layout: post
 title: "This Site"
 post_number: 1
-date: 2024-01-02 10:00:00 -0500
+date: 2025-05-21 10:00:00 -0500
 next_post: "/post2"
 ---
 
@@ -19,25 +19,25 @@ That said, this blog will be just my thoughts, typed out one word at a time. Wit
 The code is a different story. I've been using Gemini's coding-in-the-terminal tool. It's free, and I've gotten the hang of it. I like it.
 ---
 
-## File: ./2024-01-03-hallucinations-and-misinformation-and-ai.md
+## File: ./2025-05-22-hallucinations-and-misinformation-and-ai.md
 
 ---
 layout: post
 title: "Hallucinations and Misinformation and AI"
 post_number: 2
-date: 2024-01-03 10:00:00 -0500
+date: 2025-05-22 10:00:00 -0500
 ---
 
 This is near the top of the list of things I can't understand. I know why journalists and historians don't like AI hallucinations and misinformation. Their job is to get the facts straight. But creative writing? It's hallucations all the way down. So I don't understand why fiction writers and poets worry about AI making stuff up. It's what we do.
 ---
 
-## File: ./2024-01-04-a-guiding-principle.md
+## File: ./2025-05-23-a-guiding-principle.md
 
 ---
 layout: post
 title: "A Guiding Principle"
 post_number: 3
-date: 2024-01-04 10:00:00 -0500
+date: 2025-05-23 10:00:00 -0500
 ---
 
 I'm starting from scratch with this blog. What are my actual thoughts about AI? I've been absorbed in AI as a writing professor and on my own time for a few years. It's a good idea sometimes. Start over and pretend not to have any opinions yet. So that's the goal of this site.
@@ -45,13 +45,13 @@ I'm starting from scratch with this blog. What are my actual thoughts about AI? 
 I do have a working principle, though. Writers should be free. They should experiment and try things out. I'm not afraid of AI. AI-built stuff doesn't fill me with distaste or anxiety or anger. I use AI for plenty of things myself. And I am often underwhelmed. I can see that gap between AI-booster promises and the actual AI outputs. But I write with the tools at hand. And I think about everything. Nothing off-limits ahead of time. AI or not.
 ---
 
-## File: ./2024-01-05-this-puzzles-me.md
+## File: ./2025-05-24-this-puzzles-me.md
 
 ---
 layout: post
 title: "This Puzzles Me"
 post_number: 4
-date: 2024-01-05
+date: 2025-05-24 10:00:00 -0500
 ---
 
 I believe people who say they hate AI. I don't doubt they feel real disgust or fear about AI. I don't. I never have. I can't explain it. I can't explain other people's reactions and I can't explain mine. It puzzles me in a pretty deep way. 
@@ -116,13 +116,13 @@ I loved this kind of stuff. I was trying to get better at poetry and learning C+
 That's just one example of computers and poetry. Computers (to me) are more like strange or distant neighbors to poetry, not enemies.
 ---
 
-## File: ./2024-01-06-startingnow.md
+## File: ./2025-05-25-startingnow.md
 
 ---
 layout: post
 title: "Starting...Now"
 post_number: 5
-date: 2024-01-06
+date: 2025-05-25 10:00:00 -0500
 ---
 
 There's this very annoying thing I can't help. Every few months, sometimes more often, I take all the folders on my computer I use for writing and put them in a folder titled something like, "Old - August 5, 2005" (or whatever the date is). Then I start over.
@@ -134,13 +134,13 @@ There's another phrase that might seem like the opposite of "Starting...now." It
 That's what I've decided I'm going to for real very seriously write about Romantic aesthetics and ai ...starting now.
 ---
 
-## File: ./2024-01-07-two-things-i-reject.md
+## File: ./2025-05-26-two-things-i-reject.md
 
 ---
 layout: post
 title: "Two Things I Reject"
 post_number: 6
-date: 2024-01-07
+date: 2025-05-26 10:00:00 -0500
 ---
 
 Two things I reject as basic to art: originality and authenticity. My reasons are easy to state simply.
@@ -150,13 +150,13 @@ Originality - if art has to be original in order to count as art, then almst nob
 Authenticity - if authenticity is the measure of art, then the personal diary of a 13 or 14-year old working out their feelings is the highest form of art.
 ---
 
-## File: ./2024-01-08-only-humans.md
+## File: ./2025-05-27-only-humans.md
 
 ---
 layout: post
 title: "Only Humans"
 post_number: 7
-date: 2024-01-08
+date: 2025-05-27 10:00:00 -0500
 ---
 
 I've never heard any good arguments for why only humans can create art. Usually they come down to something like, "Only a human can have authentic human experiences, and only authentic human experiences can be the origin of art."
@@ -166,13 +166,13 @@ See [here](/post-6) for why I don't accept authenticity as necessary for art. Al
 Most arguments I've heard about this really come down to saying, "Only humans can create art." And if someone asks, "Why?" the answer is "because only humans can create art."
 ---
 
-## File: ./2024-01-09-something-online-about-the-soul-of-art.md
+## File: ./2025-05-28-something-online-about-the-soul-of-art.md
 
 ---
 layout: post
 title: "Something Online About the Soul of Art"
 post_number: 8
-date: 2024-01-09
+date: 2025-05-28 10:00:00 -0500
 ---
 
 I read [this thing](https://medium.com/@scholarsonyalphy2022/ai-and-the-soul-of-art-aff2a9c60970) online about AI and the soul of art.
@@ -201,13 +201,13 @@ I went to Claude and asked, "Help me analyze whether this was written entirely b
 Do with that what you will.
 ---
 
-## File: ./2024-01-10-romantic-evil.md
+## File: ./2025-05-29-romantic-evil.md
 
 ---
 layout: post
 title: "Romantic Evil"
 post_number: 9
-date: 2024-01-10
+date: 2025-05-29 10:00:00 -0500
 ---
 
 What I've got here is what I'll call my Romantic account of evil. It's my own thoughts based on watching [Isaiah Berlin's lectures on Romanticism](https://www.youtube.com/watch?v=xk2UetWsO-M&t=2s). My goal is to clarify what a Romantic might think of as evil even if they wouldn't use that word.
@@ -228,13 +228,13 @@ What I've got here is what I'll call my Romantic account of evil. It's my own th
 Goodness is integrity. Commitment to one's call; fidelity under risk; conversation that meets a person as a person; and a willingness to suffer the tragic costs of living in truth. The Romantic conscience prizes the singular, the vowed, and the answerable over comfort, utility, and faceless universals.
 ---
 
-## File: ./2024-01-11-evil-as-systemic-harm.md
+## File: ./2025-05-30-evil-as-systemic-harm.md
 
 ---
 layout: post
 title: "Evil as Systemic Harm"
 post_number: 10
-date: 2024-01-11
+date: 2025-05-30 10:00:00 -0500
 ---
 
 Here's a general account of evil as I find it in Philosophy Tube's ["AI is an Ethical Nightmare."](https://www.youtube.com/watch?v=AaU6tI2pb3M&t=1s) As a test, I then apply it to AI.
@@ -260,13 +260,13 @@ Here's a general account of evil as I find it in Philosophy Tube's ["AI is an Et
 Goodness here is democratic control over the material conditions of life: worker power, transparent and contestable decisions, consent‑respecting data practices, and ecological limits.
 ---
 
-## File: ./2024-01-12-evil-as-frustrated-ends.md
+## File: ./2025-05-31-evil-as-frustrated-ends.md
 
 ---
 layout: post
 title: "Evil as Frustrated Ends"
 post_number: 11
-date: 2024-01-12
+date: 2025-05-31 10:00:00 -0500
 ---
 
 This is based on a [conversation from New Polity](https://www.youtube.com/watch?v=YuNJchmnMzI&t=3655s). Like with my last post, I start by explaining their general account of evil and then show how they apply it to AI.
@@ -290,13 +290,13 @@ This is based on a [conversation from New Polity](https://www.youtube.com/watch?
 Goodness is truthful conversation ordered to real communion. Giving from oneself to someone who can answer and be responsible.
 ---
 
-## File: ./2024-01-13-evil-as-imitative-negation.md
+## File: ./2025-06-01-evil-as-imitative-negation.md
 
 ---
 layout: post
 title: "Evil as Imitative Negation"
 post_number: 12
-date: 2024-01-13
+date: 2025-06-01 10:00:00 -0500
 ---
 
 Same thing as the last two. I start with a general account of evil from a video. This one is [Mac Loftin's Barthian Christianity](https://www.youtube.com/watch?v=Fhb2WLXPEm0&t=2s). Then I comment on the specific evil of AI from Loftin's pov.
@@ -320,13 +320,13 @@ Same thing as the last two. I start with a general account of evil from a video.
 Goodness is consent-honoring, personed creativity; love's attentive labor; and safeguarding sacred speech and rites from simulacra.
 ---
 
-## File: ./2024-01-14-summing-things-up.md
+## File: ./2025-06-02-summing-things-up.md
 
 ---
 layout: post
 title: "Summing Things Up"
 post_number: 13
-date: 2024-01-14
+date: 2025-06-02 10:00:00 -0500
 ---
 
 This post lists where the three non‑Romantic definitions of evil echo the Romantic definition in [Post 9](/post-9). I'm only noting agreement. Not differences.
@@ -353,13 +353,13 @@ This post lists where the three non‑Romantic definitions of evil echo the Roma
 - **Integrity of making:** Romantic commitment to one's call and vowed seriousness harmonize with Loftin's defense of personed creativity (love's attentive labor) against hollow imitation.
 ---
 
-## File: ./2024-01-15-back-to-the-romantic.md
+## File: ./2025-06-03-back-to-the-romantic.md
 
 ---
 layout: post
 title: "Back to the Romantic"
 post_number: 14
-date: 2024-01-15
+date: 2025-06-03 10:00:00 -0500
 ---
 
 All that work I just did about evil makes me think I can just go back to the Romantics and think about what they thought. If I do that, I'll catch in the same net a lot of what everyone feels about AI. I do think there's a lot of gut-feeling stuff going on here.
@@ -371,13 +371,13 @@ Why don't I buy that? Because we're not living in the 1800's anymore.
 Pretty crazy, though. All it took to get philosophy tube to hold hands with the catholics was to serve up a solid shared villain: AI chatbots.
 ---
 
-## File: ./2024-01-16-post-15.md
+## File: ./2025-06-04-post-15.md
 
 ---
 layout: post
 title: "Propaganda and What's Already There"
 post_number: 15
-date: 2024-01-16
+date: 2025-06-04 10:00:00 -0500
 ---
 
 I've been reading Jacques Ellul's *Propaganda*. There's a lot here to think about.
@@ -391,13 +391,13 @@ This seems exactly right. We tend to think of propaganda as something alien that
 If Ellul is right, what would count as evil? And how is this related to AI?
 ---
 
-## File: ./2024-01-17-propaganda-and-my-feelings.md
+## File: ./2025-06-05-propaganda-and-my-feelings.md
 
 ---
 layout: post
 title: "Propaganda and My Feelings"
 post_number: 16
-date: 2024-01-17
+date: 2025-06-05 10:00:00 -0500
 ---
 
 Continuing with Jacques Ellul's book. How does propaganda work with our need to feel like authentic individuals? Another quote:
@@ -409,13 +409,13 @@ This gets to the heart of it. Propaganda doesn't feel like a command from outsid
 The most successful propaganda makes me feel more like myself. And the more I feel like myself, the more I'm in its grip.
 ---
 
-## File: ./2024-01-18-propaganda-and-being-seen.md
+## File: ./2025-06-06-propaganda-and-being-seen.md
 
 ---
 layout: post
 title: "Propaganda and Being Seen"
 post_number: 17
-date: 2024-01-18
+date: 2025-06-06 10:00:00 -0500
 ---
 
 Here's the paradox of propaganda. A tool for managing the masses can't work if people feel like a faceless herd. So what does it do?
@@ -429,13 +429,13 @@ Propaganda succeeds by giving us the feeling of uniqueness. It makes us feel see
 This is what keeps the "human spark" alive. It's a managed flame, tended by a system that needs us to feel like individuals so that we will conform to its desires. This is what any perfectly personalized or customized thing is designed to do.
 ---
 
-## File: ./2024-01-19-theses-on-an-ai-notebook-a-guest-post.md
+## File: ./2025-06-07-theses-on-an-ai-notebook-a-guest-post.md
 
 ---
 layout: post
 title: "Theses on an AI Notebook (A Guest Post)"
 post_number: 18
-date: 2024-01-19
+date: 2025-06-07 10:00:00 -0500
 ---
 
 This was written with AI assistance as an experiment
@@ -464,13 +464,13 @@ This insight brings my 1935 analysis to its final conclusion. I wrote that the f
 The question, then, is not the Romantic one of whether AI can have a soul. That is a flight into theology. The question is political: what new forms of human organization and perception does this apparatus make possible? Mankind, which in Homer's time was an object of contemplation for the Olympian gods, now is one for itself. Its self-alienation has reached such a degree that it can experience its own manipulation as a form of authentic expression. This is the situation of politics which this new technology is rendering aesthetic. The task remains to politicize art.
 ---
 
-## File: ./2024-01-20-a-big-thank-you-to-benjamin-but.md
+## File: ./2025-06-08-a-big-thank-you-to-benjamin-but.md
 
 ---
 layout: post
 title: "A Big Thank-You to Benjamin, But..."
 post_number: 19
-date: 2024-01-20
+date: 2025-06-08 10:00:00 -0500
 ---
 
 So of course, a definite big thank-you to [Benjamin for his post](/post-18). But I don't know if I'm at quite the same place.
@@ -478,13 +478,13 @@ So of course, a definite big thank-you to [Benjamin for his post](/post-18). But
 Trying to work out why. And the bigger priority, trying to work out what the live options here are.
 ---
 
-## File: ./2024-01-21-ai-and-fascism.md
+## File: ./2025-06-09-ai-and-fascism.md
 
 ---
 layout: post
 title: "AI and Fascism"
 post_number: 20
-date: 2024-01-21
+date: 2025-06-09 10:00:00 -0500
 ---
 
 It's hard to miss all the "AI is fascist" stuff out there. Essays like Gareth Watkins's ["AI: The New Aesthetics of Fascism,"](https://newsocialist.org.uk/transmissions/ai-the-new-aesthetics-of-fascism/) and videos like The Kavernacle's ["Why Far-Right Conservatives LOVE AI Art"](https://www.youtube.com/watch?v=jQkAETsgVN4) or Tom Nicholas's ["Fascists Love TERRIBLE AI Art."](https://www.youtube.com/watch?v=mrfyTSwgfzw)
@@ -494,13 +494,13 @@ The argument. AI's got an aesthetic. Soulless, hollow, inhuman, and efficient at
 Just [like before](/post-14), I'm not convinced by any of it. So much of the fight against AI comes down to gut feelings about "sincerity and authenticity and the human spark." It's just emotional reaction dressed up as political analysis. But it's out there. So here goes some thinking about it.
 ---
 
-## File: ./2024-01-22-the-romantic-trace.md
+## File: ./2025-06-10-the-romantic-trace.md
 
 ---
 layout: post
 title: "The Romantic Trace"
 post_number: 21
-date: 2024-01-22
+date: 2025-06-10 10:00:00 -0500
 ---
 
 The "AI is fascist" thing doesn't work. Maybe it used to. But it's recycled material now.
@@ -521,13 +521,13 @@ We're trying to understand a new kind of machine with concepts we've inherited f
 This doesn't mean it's not worth thinking through. That's what the rest of the blog is for. It just means I'm not willing to copy/paste the Romantic ideas without updating for what's happening now.
 ---
 
-## File: ./2024-01-23-we-get-this-thinking-in-us-part-1.md
+## File: ./2025-06-11-we-get-this-thinking-in-us-part-1.md
 
 ---
 layout: post
 title: "We Get This Thinking in Us - Part 1"
 post_number: 22
-date: 2024-01-23
+date: 2025-06-11 10:00:00 -0500
 ---
 
 There's a phrase at the beginning of [a video by an AI-optimist Youtuber, Julia McCoy](https://www.youtube.com/watch?v=lILWJ8v0IZI&t=219s). She's making the case for personal empowerment and breaking free from old mindsets. But right at the beginning of this call to agency, she says something strange:
@@ -543,13 +543,13 @@ It reminds me of a recent video of a neuroscientist named [Elan Barenholtz](http
 Two very different speakers, one an optimist and the other a scientist, arrive at the same strange place. They both, in their own way, describe language and thought as a system running independently inside the human host. This suggests the old Romantic vocabulary of authenticity and the individual soul won't help us here. We need a way to talk about the system itself.
 ---
 
-## File: ./2024-01-24-we-get-this-thinking-in-us-part-2.md
+## File: ./2025-06-12-we-get-this-thinking-in-us-part-2.md
 
 ---
 layout: post
 title: "We Get This Thinking in Us - Part 2"
 post_number: 23
-date: 2024-01-24
+date: 2025-06-12 10:00:00 -0500
 ---
 
 The puzzle from the [last post](/post-22) is this sense of language as an autonomous system operating inside us. To get a handle on this, I use Ferdinand de Saussure. His work is over a century old, but it describes the world that large language models are now making explicit.
@@ -567,13 +567,13 @@ Barenholtz, by looking at AI, rediscovered Saussure's central claim: language is
 *Jonathan Culler, Saussure (Fontana Modern Masters, 1976).*
 ---
 
-## File: ./2024-01-25-we-get-this-thinking-in-us-part-3.md
+## File: ./2025-06-13-we-get-this-thinking-in-us-part-3.md
 
 ---
 layout: post
 title: "We Get This Thinking in Us - Part 3"
 post_number: 24
-date: 2024-01-25
+date: 2025-06-13 10:00:00 -0500
 ---
 
 So, what does a structuralist make of the phrase "we get this thinking in us"? From a Saussurean perspective, Julia McCoy's accidental passive phrasing isn't a slip-up. It's an unintentional moment of profound accuracy. It reveals the mechanics of how ideology and social change actually work.
@@ -589,13 +589,13 @@ This is where [Elan Barenholtz's](https://www.youtube.com/watch?v=FIMw04GJJ7U&t=
 This is the system. McCoy wants to replace the current "informational organism" with a new one she believes is better. Her phrase "get this thinking in us" perfectly describes the process of that implantation. A structuralist would argue that this is what is always happening. We are always being spoken by a system larger than ourselves. The only question is which system it is.
 ---
 
-## File: ./2024-01-26-crossing-brooklyn-ferry.md
+## File: ./2025-06-14-crossing-brooklyn-ferry.md
 
 ---
 layout: post
 title: "Crossing Brooklyn Ferry"
 post_number: 25
-date: 2024-01-26
+date: 2025-06-14 10:00:00 -0500
 ---
 
 When people talk about the "soul of art" or the "human spark," what do they actually mean? The vocabulary is always vague, more a feeling than an argument. But it's a real feeling and there's a real argument in there somewhere. There's a poem that makes the case better than any essay: [Walt Whitman's "Crossing Brooklyn Ferry."](https://www.poetryfoundation.org/poems/45470/crossing-brooklyn-ferry)
@@ -618,13 +618,13 @@ Then he tells us what the purpose of this connection is. It's not just to see wh
 This is the worldview that feels most threatened by AI. "Crossing Brooklyn Ferry" is the perfect articulation of everything people believe an AI cannot do. An AI has no body, no lived experience on the ferry. It has no singular soul to transcend time. And it has no authentic "meaning" of its own to pour into a reader. The whole Romantic argument against AI is that it seems to have the form of art without the human presence that gives it life. It gives us a ferry, a river, a sunset, but on the other end, there is no one there.
 ---
 
-## File: ./2024-01-27-the-pastor-as-romantic-author.md
+## File: ./2025-06-15-the-pastor-as-romantic-author.md
 
 ---
 layout: post
 title: "The Pastor as Romantic Author"
 post_number: 26
-date: 2024-01-27
+date: 2025-06-15 10:00:00 -0500
 ---
 
 The idea of a pastor using AI to write a sermon prompts an almost universal feeling of protest. Probably even for people who aren't religious, it feels like a profound betrayal. But a betrayal of what, exactly? A recent interview with Dr. Scott Stiegemeyer on ["Issues, Etc.,"](https://www.youtube.com/watch?v=BpLEWub6Fq8) a radio show and podcast from the Lutheran Church—Missouri Synod (LCMS), gives us the vocabulary for this feeling. It reveals how deeply our modern idea of the pastor is a Romantic one. The outrage isn't just about doctrinal error; it's a defense of the pastor as a singular, authentic author.
@@ -640,13 +640,13 @@ But. It might be surprising to know this wasn't always the case. For centuries, 
 The question is whether this is required by scripture or ancient tradition or mainly a holdover from sources (Romantic literature) not particularly religious at all. And in many ways, antithetical to faith.
 ---
 
-## File: ./2024-01-28-preaching-by-prompt-in-the-16th-century.md
+## File: ./2025-06-16-preaching-by-prompt-in-the-16th-century.md
 
 ---
 layout: post
 title: "Preaching by Prompt in the 16th Century"
 post_number: 27
-date: 2024-01-28
+date: 2025-06-16 10:00:00 -0500
 ---
 
 The idea (from my [last post](/post-26)) of a pastor using AI to generate a sermon feels like a deep violation, a kind of sacrilege. But is this feeling grounded in Christian tradition or even in scripture itself? Is it rooted in the ancient foundations of the faith? Or is it a more recent development? History might provide an answer in the form of a kind of technology for sermon production: *the postil*.
@@ -667,13 +667,13 @@ We no longer live in that world. As the last post argued, we have replaced the p
 The history of the postil serves as a historical control group for our feelings about AI. It proves that the modern rejection of machine-assisted writing in sacred contexts is not a timeless theological absolute. It is the product of a profound and relatively recent shift in our culture's idea of what an author is and what gives a text its soul. Before we could fear the machine, we first had to inherit the notion of authentic authorship we now fear the machine lacks.
 ---
 
-## File: ./2024-01-29-no-wince-in-the-writer-no-wince-in-the-reader.md
+## File: ./2025-06-17-no-wince-in-the-writer-no-wince-in-the-reader.md
 
 ---
 layout: post
 title: "No Wince in the Writer, No Wince in the Reader?"
 post_number: 28
-date: 2024-01-29
+date: 2025-06-17 10:00:00 -0500
 ---
 
 Pretty much every day I see something about AI in education. It's mostly negative. And it tends to rely on the Romantic idea of authorship this blog returns to quite a bit. To learn from a text is to connect with the living soul of the person who wrote it. It's the core of the [Romantic worldview](/post-9). It's all over the place in this conversation/debate: ["AI & The End of Education"](https://www.youtube.com/watch?v=Aq_08Vsm5Z0&t=9s). One panelist argues that when we read, we are trying to understand what the author's "mind was doing." We're connecting with a "human being at the other end." Without that, reading is impossible. And AI can't provide this because there is no person there. No soul, no communion, no education.
@@ -689,13 +689,13 @@ The panelist immediately follows this by saying, "I sit with Claude and he wince
 The fear felt by the teachers in this conversation isn't that AI lacks a human soul. The fear really comes from what we all know in a pragmatic way: the human connection we talk about when we talk about books has never been there to begin with. (Assuming, here, the author isn't someone the reader knows.) The author does not wince. Words can't wince.
 ---
 
-## File: ./2024-01-30-no-wince-in-the-syllabus-no-wince-in-the-student.md
+## File: ./2025-06-18-no-wince-in-the-syllabus-no-wince-in-the-student.md
 
 ---
 layout: post
 title: "No Wince in the Syllabus, No Wince in the Student?"
 post_number: 29
-date: 2024-01-30
+date: 2025-06-18 10:00:00 -0500
 ---
 
 The case against AI in the classroom is almost always a defense of the personal and the unscripted. The Socratic. It's a defense of the idea that education is a communion between human souls. In the [last post](/post-28), we saw how this Romantic ideal stumbles on a simple fact: the author doesn't wince. Shakespeare is not present in the room with us.
@@ -717,13 +717,13 @@ The syllabus is *the* definition of this. It takes the spontaneous and unpredict
 The objection that AI will destroy the soul of education misses the point entirely. We have been systematically removing that soul for decades. For centuries, Ellul would say. We have built a system that prizes efficiency, predictability, and risk management. A system perfectly suited for AI. AI is not the alien invader. It is the logical, inevitable fulfillment of the educational machine we have already built.
 ---
 
-## File: ./2024-01-31-but-what-about-whitman.md
+## File: ./2025-06-19-but-what-about-whitman.md
 
 ---
 layout: post
 title: "But What About Whitman?"
 post_number: 30
-date: 2024-01-31
+date: 2025-06-19 10:00:00 -0500
 ---
 
 But what about [Whitman](/post-25)?
@@ -733,13 +733,13 @@ I know. I have the same question every day. I love that poem.
 So I don't know. I'm trying to figure it out.
 ---
 
-## File: ./2024-02-01-post-31.md
+## File: ./2025-06-20-post-31.md
 
 ---
 layout: post
 title: "Harari's AI Future (Part 1)"
 post_number: 31
-date: 2024-02-01
+date: 2025-06-20 10:00:00 -0500
 ---
 
 Browse around for stuff about AI, and you'll run into Yuval Noah Harari. He wrote *Sapiens* and some other books. A lot of people care about what he says. I've never gotten into him but he's got intellectual influence. He's also pretty obsessed with AI. He did an interview on the Rich Roll podcast, which I know nothing about but which popped up for me. So here's his vision of how AI could ["Quietly Control the Minds of Billions."](https://www.youtube.com/watch?v=2-e246GRuec)
@@ -775,13 +775,13 @@ For Ellul, Harari's frightening future is simply a description of the project we
 But looking back over this, I see Harari using words like "consciousness," "feelings," and "intimacy." He worries AI, which has "zero consciousness," will mimic these things. This is all really familiar for my blog. It's the language of the [Romantic worldview](/post-9) I trying to circle back to. That's what I'll do in Part 2.
 ---
 
-## File: ./2024-02-02-post-32.md
+## File: ./2025-06-21-post-32.md
 
 ---
 layout: post
 title: "Harari's AI Future (Part 2)"
 post_number: 32
-date: 2024-02-02
+date: 2025-06-21 10:00:00 -0500
 ---
 
 In the [last post](/post-31), I took a look at Yuval Noah Harari's warnings about AI using Ellul's *Propaganda*. Ellul's work shows that Harari's "future" is already here. Then I ended by bringing up words in Harari like "consciousness," "feelings," and "intimacy." He's worried about a machine that can mimic the human soul.
@@ -811,13 +811,13 @@ So, Harari's entire argument against AI is a defense of the Romantic soul. He's 
 Ellul's argument is that the technological society has already profaned that space. We are already living in a world of mass-produced intimacy, managed emotions, and total propaganda. The authentic, sincere, Romantic individual Harari is trying to protect from the machine has long since been integrated into the system.
 ---
 
-## File: ./2024-02-03-something-new-and-strange.md
+## File: ./2025-06-22-something-new-and-strange.md
 
 ---
 layout: post
 title: "Something New and Strange"
 post_number: 33
-date: 2024-02-03
+date: 2025-06-22 10:00:00 -0500
 ---
 
 I've been wondering recently about Babel.
@@ -825,13 +825,13 @@ I've been wondering recently about Babel.
 About Babel and [Enoch](https://en.wikipedia.org/wiki/Book_of_Enoch). Feels like those are worth digging into now.
 ---
 
-## File: ./2024-02-04-a-quote.md
+## File: ./2025-06-23-a-quote.md
 
 ---
 layout: post
 title: "A Quote"
 post_number: 34
-date: 2024-02-04
+date: 2025-06-23 10:00:00 -0500
 ---
 
 This is from something called "The Book of the Words of Righteousness" in *The Book of Enoch*. It's God speaking to Enoch about the fate of the Watchers but also about the nature of their offspring, the giants.
@@ -841,13 +841,13 @@ This is from something called "The Book of the Words of Righteousness" in *The B
 There's a permeability here I want to find out about. First, the boundary between "spirit" and "flesh" is broken to create the giants. Then, when the giants die, their own spirits are unleashed. So now the human world is permanently open to these spirits' ability to "afflict, oppress, destroy, attack."
 ---
 
-## File: ./2024-02-05-another-quote.md
+## File: ./2025-06-24-another-quote.md
 
 ---
 layout: post
 title: "Another Quote"
 post_number: 35
-date: 2024-02-05
+date: 2025-06-24 10:00:00 -0500
 ---
 
 Digging into the later parts of *Enoch*, in the section about how the cosmos works. It's less about angels and more about the mechanics of the world: the sun and the moon and the winds.
@@ -857,13 +857,13 @@ Digging into the later parts of *Enoch*, in the section about how the cosmos wor
 The idea of permeability here is almost architectural. The world is presented as a structure with "portals." It's not a closed system. It's open to an outside that sends things in. "Blessing and prosperity" and "destruction." The human world is completely open to these forces that flow in through designed entry points.
 ---
 
-## File: ./2024-02-06-a-system-running-inside.md
+## File: ./2025-06-25-a-system-running-inside.md
 
 ---
 layout: post
 title: "A System Running Inside"
 post_number: 36
-date: 2024-02-06
+date: 2025-06-25 10:00:00 -0500
 ---
 
 I've been listening to Elan Barenholtz, a cognitive scientist at Florida Atlantic University, and he has this idea that language is a kind of external system running on our mental hardware. It sounds metaphorical, but his logic for taking it literally is built on what Large Language Models (LLMs) have shown us.
@@ -884,13 +884,13 @@ The idea is strange but has a clear logic to it. Language as a kind of informati
 *Quotes are from these conversations: [1](https://www.youtube.com/watch?v=Ca_RbPXraDE&t=1080s), [2](https://www.youtube.com/watch?v=A36OumnSrWY&t=4187s), [3](https://www.youtube.com/watch?v=FIMw04GJJ7U&t=1059s).*
 ---
 
-## File: ./2024-02-07-sharpening-the-blur.md
+## File: ./2025-06-26-sharpening-the-blur.md
 
 ---
 layout: post
 title: "Sharpening the Blur"
 post_number: 37
-date: 2024-02-07
+date: 2025-06-26 10:00:00 -0500
 ---
 
 A lot of the critique of AI is built on a folk theory of how the technology works. The idea is that an LLM is like a "blurry jpeg of the web," as [Ted Chiang famously put it](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web). It takes everything on the internet, averages it all out, and gives you back the most generic, "mid" version. This explains why the output often feels soulless and unoriginal. It's the ultimate act of what I've been calling ["levelling"](/post-9): the flattening of difference into a bland, predictable mean.
@@ -908,25 +908,25 @@ This is also why the paper's other experiment is so significant. They found they
 This reframes the entire debate. The problem isn't that LLMs are incapable of creativity because they are just "full of averages." The problem is that most prompts don't work creatively. They don't move the model into a space where novelty is possible. The machine isn't a plagiarist or an averager; it's a probabilistic engine waiting for a prompt interesting enough to push it beyond the mean.
 ---
 
-## File: ./2024-02-08-is-ai-bullshit.md
+## File: ./2025-06-27-is-ai-bullshit.md
 
 ---
 layout: post
 title: "Is AI Bullshit?"
 post_number: 38
-date: 2024-02-08
+date: 2025-06-27 10:00:00 -0500
 ---
 
 [Yes.](https://en.wikipedia.org/wiki/On_Bullshit)
 ---
 
-## File: ./2024-02-09-post-39.md
+## File: ./2025-06-28-post-39.md
 
 ---
 layout: post
 title: "This Guy's an Idiom"
 post_number: 39
-date: 2024-02-09
+date: 2025-06-28 10:00:00 -0500
 ---
 
 Go to [56:13 in this video](https://www.youtube.com/watch?v=p58vknxGR4I&t=3387s).
@@ -936,13 +936,13 @@ This is why I don't blow off [Barenholtz](https://www.youtube.com/watch?v=FIMw04
 "This guy's an idiom."
 ---
 
-## File: ./2024-02-10-ai-and-bullshit-a-moralist-view.md
+## File: ./2025-06-29-ai-and-bullshit-a-moralist-view.md
 
 ---
 layout: post
 title: "AI and Bullshit, a Moralist View"
 post_number: 40
-date: 2024-02-10
+date: 2025-06-29 10:00:00 -0500
 ---
 
 I've been trying to categorize the different ways people feel AI is wrong or "evil." I've looked at it through the lens of [systemic harm](/post-10), [frustrated ends](/post-11), and [imitative negation](/post-12). In the middle of it all, I keep finding the same thing: the [Romantic ideal](/post-21) of the authentic, sincere human soul.
@@ -964,13 +964,13 @@ What makes this "bullshit" argument important is it gives a philosophical name t
 This is a widespread moral argument against AI. But it's built on an assumption about what language is *for*. It assumes language is, or should be, a tool for sincere, truth-seeking humans. But what if that's not what language is for? More on that next.
 ---
 
-## File: ./2024-02-11-a-computational-view-of-language.md
+## File: ./2025-06-30-a-computational-view-of-language.md
 
 ---
 layout: post
 title: "A Computational View of Language"
 post_number: 41
-date: 2024-02-11
+date: 2025-06-30 10:00:00 -0500
 ---
 
 The [last post](/post-40) explored the idea that AI is bullshit. It's a moral argument. It says the machine is a serious problem because it doesn't care about the truth. It's an empty, insincere imitation of a human speaker. This lines up with a lot of the [Romantic anxieties](/post-9) I've been tracking. But there's a competing view based on research into computation. The cognitive scientist Elan Barenholtz wants us to rethink the whole problem.
@@ -993,13 +993,13 @@ From this perspective, the "bullshit" critique is aiming at the wrong target. It
 So, one view sees AI's indifference to truth as a moral flaw. The other sees it as a demonstration of how language works or what it is.
 ---
 
-## File: ./2024-02-12-an-attempt-at-summing-things-up-so-far.md
+## File: ./2025-07-01-an-attempt-at-summing-things-up-so-far.md
 
 ---
 layout: post
 title: "An attempt at summing things up so far"
 post_number: 42
-date: 2024-02-12
+date: 2025-07-01 10:00:00 -0500
 ---
 
 This notebook has been an effort to trace a pattern I've been noticing: the arguments we have about AI are not new. They are an accelerated replay of a longstanding conflict over what it means to create and what it means to be human. This post is an attempt to synthesize that pattern with more rigor. The central thesis is this: the contemporary debate about AI is a reenactment of the 18th, 19th, and 20th-century intellectual battle between a Romantic worldview and (eventually) a Structuralist one.
@@ -1038,13 +1038,13 @@ This brings us to a point I raised in [Post 28](/post-28): "Shakespeare winces n
 This blog might be an attempt to move past the Romantic vocabulary that has defined and limited this debate. The task is not to save the real human self from the artificial machine. I'm trying to understand what it means that we've been building machines for millenia. And I'm tracking down claims that the machine (language itself) has been operating inside us all along.
 ---
 
-## File: ./2024-02-13-a-dance-of-symbols.md
+## File: ./2025-07-02-a-dance-of-symbols.md
 
 ---
 layout: post
 title: "A dance of symbols"
 post_number: 43
-date: 2024-02-13
+date: 2025-07-02 10:00:00 -0500
 ---
 
 I saw a new video of Elan Barenholtz. He said something that crystallizes the computational/structuralist view of language I've been wrestling with. He calls it the ["dance of symbols."](https://www.youtube.com/watch?v=o8NU9oASFXU&t=138s)
@@ -1062,13 +1062,13 @@ This is the world that LLMs operate in, and it's the world Barenholtz argues we 
 Yeats would call all of this an attempt to separate [the dancer from the dance](https://www.poetryfoundation.org/poems/43293/among-school-children).
 ---
 
-## File: ./2024-02-14-so-what-do-i-think.md
+## File: ./2025-07-03-so-what-do-i-think.md
 
 ---
 layout: post
 title: "So what do I think?"
 post_number: 44
-date: 2024-02-14
+date: 2025-07-03 10:00:00 -0500
 ---
 
 What I've been doing mostly is a kind of informal intellectual history. I've been noticing in arguments about AI on social media, Youtube, and random places a replaying of arguments from literary history. And I find this repetition really interesting. One thing it shows is that Romantic ideas of creativity and the self are still really strong. Even though many literary theorists and scholars would never claim to be Romantics 5 years or 10 years ago, this AI debate sort of calls their bluff and shows how widespread Romantic ideas are in popular culture and in academic reactions to AI.
@@ -1080,13 +1080,13 @@ Mostly, I'm curious. I enjoy experimenting with LLM's, and I don't feel alienate
 A more serious point I'd make is that people who are sympathetic to Foucault or Judith Butler, intellectuals with serious objections to the essentialist ideas of the Romantics, should start protesting a lot less about AI. If you've been on Foucault's side in a bunch of debates or if you nod along when you read *Gender Trouble*, then you probably need to nod along a little more often when you read what AI's got to say.
 ---
 
-## File: ./2024-02-15-heroes-and-parades.md
+## File: ./2025-07-04-heroes-and-parades.md
 
 ---
 layout: post
 title: "Heroes and Parades"
 post_number: 45
-date: 2024-02-15
+date: 2025-07-04 10:00:00 -0500
 ---
 
 I'm going to write a series of posts about the music video ["Hero"](https://www.youtube.com/watch?v=mHeK0Cwr9sg) by Family of the Year. I'm going to push out the length of these. I want to work the ideas a bit harder.
@@ -1102,13 +1102,13 @@ And then there's what he's doing it for. Not glory. The quiet scenes with his da
 The song's not anti-hero. It's choosing one kind of hero over another. The internal family man doing his thing, not the external "big man" performance. It's the Romantic idea about authentic struggle mattering more than appearances.
 ---
 
-## File: ./2024-02-16-the-cowboy-and-the-thunder-god.md
+## File: ./2025-07-05-the-cowboy-and-the-thunder-god.md
 
 ---
 layout: post
 title: "The cowboy and the thunder-god"
 post_number: 46
-date: 2024-02-16
+date: 2025-07-05 10:00:00 -0500
 ---
 
 In the [last post](/post-45), I said the song ["Hero"](https://www.youtube.com/watch?v=mHeK0Cwr9sg) redefines the heroic. It rejects public performance for private, sincere struggle. This gets clearer if we read it alongside Thomas Carlyle. His 1840 lecture, [*On Heroes, Hero-Worship, & the Heroic in History*](https://en.wikipedia.org/wiki/On_Heroes,_Hero-Worship,_%26_the_Heroic_in_History), is basically the definition of the "big man" the song wants nothing to do with.
@@ -1128,13 +1128,13 @@ The cowboy rejects the public "Hero-Worship" Carlyle sees as the foundation of s
 If a hero is someone who lives in sincere contact with reality, then he's not a king or a prophet. He's a father in a pickup truck, tired from work, driving home to his kid.
 ---
 
-## File: ./2024-02-17-a-hero-for-whom.md
+## File: ./2025-07-06-a-hero-for-whom.md
 
 ---
 layout: post
 title: "A hero for whom?"
 post_number: 47
-date: 2024-02-17
+date: 2025-07-06 10:00:00 -0500
 ---
 
 In my last two posts ([45](/post-45), [46](/post-46)), I gave a Romantic reading of the ["Hero"](https://www.youtube.com/watch?v=mHeK0Cwr9sg) music video. I said it champions a quiet, sincere heroism rooted in family and struggle. A modern update to the Carlylean "Great Man." It's a compelling story. But I think it's wrong. Or at least oversimplifying. If you watch the video again, there's stuff I smoothed over. The story's not about a unified, authentic soul. The guy's caught between competing narratives.
@@ -1150,13 +1150,13 @@ The heroic narrative of "providing for his child" doesn't hold together. There a
 This is one thing modernist readings do. They're impatient with simple, sentimental Romantics. With this reading, there's no singular, authentic self here. For someone living after the Romantic, the video gets its power by not presenting a clear hero but showing the tension between the heroic story we want and the reality of messed-up lives. Maybe he is a hero in some ways or sometimes. But there's no single thing called "being a hero" that holds the song together.
 ---
 
-## File: ./2024-02-18-post-48.md
+## File: ./2025-07-07-post-48.md
 
 ---
 layout: post
 title: "A structuralist reading of the \"Hero\" video"
 post_number: 48
-date: 2024-02-18
+date: 2025-07-07 10:00:00 -0500
 ---
 
 Here's another way to read the ["Hero"](https://www.youtube.com/watch?v=mHeK0Cwr9sg) music video. This is the structuralist reading. Systems are what matter here, not authenticity and not psychological complexity.
@@ -1170,13 +1170,13 @@ This is the system taking over. The musical form of a pop song requires a bridge
 From this angle, the hero isn't a person at all. It's an effect generated by the machine of the song. And "song" here doesn't mean the individual song ("Hero") but the form of the pop song as a collective thing in American and world history (plus the individual song "Hero" as an overlay on top of the collective system). It's an "autogenerative" system ([Post 41](/post-41)) creating intricate patterns. In this case the feeling of heroism really is in there somewhere in this song. Whether or not the system of the song ever reaches out to the real historical world of rodeos, cowboys, real daughters with real divorced parents, real fathers dealing with real dead-end jobs, real mothers, etc.
 ---
 
-## File: ./2024-02-19-just-a-kid-like-everyone-else.md
+## File: ./2025-07-08-just-a-kid-like-everyone-else.md
 
 ---
 layout: post
 title: "Just a Kid Like Everyone Else"
 post_number: 49
-date: 2024-02-19
+date: 2025-07-08 10:00:00 -0500
 ---
 
 Another reading of ["Hero"](https://www.youtube.com/watch?v=mHeK0Cwr9sg). This one's not about systems. It's about psychology. Take this line: "But I'm a kid like everyone else." The line's a dodge. It sounds vulnerable and authentic but the guy's protecting himself.
@@ -1188,13 +1188,13 @@ The video gives us a visual for this. At 0:51, we see him riding a shopping cart
 From this angle, the song's title is pretty ironic. The "hero" is a persona he adopts in the arena to avoid the more difficult work of being a father. The entire song is his justification for his choice, an anthem for the allure of perpetual adolescence. Framed as pursuing personal freedom, being a kid like everyone else is what prevents him from being what his daughter likely needs him to be. Not a "big man," not a rodeo star. The title states outright what she would unironically want.
 ---
 
-## File: ./2024-02-20-three-mothers-two-systems-of-meaning.md
+## File: ./2025-07-09-three-mothers-two-systems-of-meaning.md
 
 ---
 layout: post
 title: "Three Mothers, Two Systems of Meaning"
 post_number: 50
-date: 2024-02-20
+date: 2025-07-09 10:00:00 -0500
 ---
 
 The last few posts have explored the "Hero" music video through a few different lenses, reading the father's character for its internal conflicts (Post 49) and the family's story for its human cost (Post 47). But another kind of analysis is possible, one less concerned with individual psychology and more with how the image functions within a larger visual system. By treating the mother in the doorway not as a window onto a soul, but as a sign within a system, we can see how its meaning is constructed. To do this, we can place the image in a structural relationship with two iconic photographs: Dorothea Lange's "Migrant Mother" and Arthur Rothstein's portrait of a sharecropper's wife and children.
@@ -1223,13 +1223,13 @@ A modernist reading asks this question to probe the character's psychology. A st
 The "truth" is not found in either narrative but in the structure of their conflict. The Romantic tries for a sincere soul, the modernist admits a fractured one, the structuralist's attuned to the "dance of symbols" ([Post 43](/post-43)). The video doesn't tell us who the cowboy "really" is. It simply puts the visual codes for "Hero" and "Homewrecker" into play and leaves the system to generate its own irresolvable meaning.
 ---
 
-## File: ./2024-02-21-so-about-that-shopping-cart.md
+## File: ./2025-07-10-so-about-that-shopping-cart.md
 
 ---
 layout: post
 title: "So About That Shopping Cart"
 post_number: 51
-date: 2024-02-21
+date: 2025-07-10 10:00:00 -0500
 ---
 
 I'm really not happy with my analysis of the shopping cart moment in [post 49](/post-49).
@@ -1249,13 +1249,13 @@ There are temptations to say something like "traditional masculinity" or "cultur
 I don't have an answer right now. I'm going to keep working at it. I know it's connected to our Romantic intellectual heritage though. The hero for the Romantics was such a big deal. It's why they fell so hard for Napolean.
 ---
 
-## File: ./2024-02-22-the-baker-analogy.md
+## File: ./2025-07-11-the-baker-analogy.md
 
 ---
 layout: post
 title: "The Baker Analogy"
 post_number: 52
-date: 2024-02-22
+date: 2025-07-11 10:00:00 -0500
 ---
 
 I watched ["A Bit of a Rant About Generative AI for Writing and Learning."](https://www.youtube.com/watch?v=GOrVyuH8mMs&t=613s) The guy starts with an analogy. If I tell a baker how to make a cake, I'm not the baker. The baker is. So if I tell an AI to write a story, the AI writes the story. I'm not the writer. And if you fix the output, you're editing. "Editing is not writing."
@@ -1287,13 +1287,13 @@ The baker analogy doesn't work. Try the musician and the synthesizer. A synth ge
 The Youtuber's defending a particular model of the writer. It's one kind of writing that will keep on happening. But writing has never been something that always happens the same way (or with the same number of people). Writing has always been more than generating sentences. The Youtuber sounds afraid the-writer-as-baker will get replaced. I don't see why we need to close down the options. The Romantics can keep believing in their (simplified) picture of authorship. Kids just getting born will grow up doing their thing. It'll all happen and it'll be fine.
 ---
 
-## File: ./2024-02-24-the-author-function-as-sacrilege-a-romantic-test.md
+## File: ./2025-07-13-the-author-function-as-sacrilege-a-romantic-test.md
 
 ---
 layout: post
 title: "The Author-Function as Sacrilege: A Romantic Test"
 post_number: 54
-date: 2024-02-24
+date: 2025-07-13 10:00:00 -0500
 ---
 
 The most common critique of AI writing is that there is "no one there." This assumes the Romantic ideal of an "author" as a soul pouring its meaning into the text. But the rigorous Romantics started from a more skeptical place: Schleiermacher argued that **misunderstanding is the norm**. Interpretation must be a disciplined art.¹ A core part of that art was reconstructing the author's singular practice.
@@ -1335,13 +1335,13 @@ For a Romantic, this isn't an interesting intellectual puzzle; it's a category e
 This post is part of the *"Reconsidering the Romantics"* series. Keep the [Quick Kit](/romantic-quick-kit) handy.
 ---
 
-## File: ./2024-02-25-more-than-bullshit-the-soulless-chaos-of-the-machine.md
+## File: ./2025-07-14-more-than-bullshit-the-soulless-chaos-of-the-machine.md
 
 ---
 layout: post
 title: "More Than Bullshit: The Soulless Chaos of the Machine"
 post_number: 55
-date: 2024-02-25
+date: 2025-07-14 10:00:00 -0500
 ---
 
 There's a pretty influential critique that labels LLMs as "bullshit machines," indifferent to the truth. From a Romantic view, this is a charge of radical [inauthenticity](/romantic-kit-authenticity). But this critique is too generous. It grants the machine a semblance of agency. The bullshitter, after all, has a purpose. The rigorous Romantic toolkit reveals a deeper, more damning truth.
@@ -1376,13 +1376,13 @@ For Blake, who fought against the "dark Satanic Mills" of a mechanistic worldvie
 This post is part of the *"Reconsidering the Romantics"* series. Keep the [Quick Kit](/romantic-quick-kit) handy.
 ---
 
-## File: ./2024-02-26-the-monstrous-parody-of-synthetic-individuality.md
+## File: ./2025-07-15-the-monstrous-parody-of-synthetic-individuality.md
 
 ---
 layout: post
 title: "The Monstrous Parody of Synthetic Individuality"
 post_number: 56
-date: 2024-02-26
+date: 2025-07-15 10:00:00 -0500
 ---
 
 Critics often attack a strawman of Romantic "individuality," reducing it to a teenager's diary. But the rigorous definition is about **structural integrity** rooted in a unique inner vision. For the Romantics, the individual soul was the locus of the divine. William Blake spoke of the "Human Form Divine," seeing imagination as the presence of God in humanity.¹ Individuality was not a mere pattern of style; it was the sensible evidence of an immortal, ineffable soul.
@@ -1410,13 +1410,13 @@ The Romantic tool, when applied here, does not devalue the human soul. It recoil
 This post is part of the *"Reconsidering the Romantics"* series. Keep the [Quick Kit](/romantic-quick-kit) handy.
 ---
 
-## File: ./2024-02-27-the-search-for-the-divine-spark-why-the-ghost-matters.md
+## File: ./2025-07-16-the-search-for-the-divine-spark-why-the-ghost-matters.md
 
 ---
 layout: post
 title: "The Search for the Divine Spark: Why the Ghost Matters"
 post_number: 57
-date: 2024-02-27
+date: 2025-07-16 10:00:00 -0500
 ---
 
 A purely systematic analysis of AI looking only at datasets and algorithms feels incomplete. The Romantic method, with its insistence on a **double vision**, seems like a richer path. It demands we analyze both the **grammatical rail** (the system) and the **psychological rail** (the singular practice).
@@ -1443,13 +1443,13 @@ By insisting on the "psychological rail," the Romantic interpreter is not making
 This post is part of the *"Reconsidering the Romantics"* series. Keep the [Quick Kit](/romantic-quick-kit) handy.
 ---
 
-## File: ./2024-02-28-the-final-triumph-of-the-mechanical-age-a-coda.md
+## File: ./2025-07-17-the-final-triumph-of-the-mechanical-age-a-coda.md
 
 ---
 layout: post
 title: "The Final Triumph of the Mechanical Age: A Coda"
 post_number: 58
-date: 2024-02-28
+date: 2025-07-17 10:00:00 -0500
 ---
 
 The boldest claim of Romantic hermeneutics is Schleiermacher's goal: to understand a work "better than [the author] understood himself."¹ This was an attempt to make an author's unconscious, divine inspiration explicit. But this entire project was part of the growth of another revolution. The Romantics' fiercest enemy was not a rival philosophy, but a new vision of the world: what Thomas Carlyle famously diagnosed as "the Mechanical Age."²
@@ -1481,13 +1481,13 @@ The Romantic method, when applied to AI, reveals AI as the final triumph of the 
 This post concludes the *"Reconsidering the Romantics"* series. The [Quick Kit](/romantic-quick-kit) remains as a standing reference.
 ---
 
-## File: ./2024-02-29-post-59.md
+## File: ./2025-07-18-post-59.md
 
 ---
 layout: post
 title: "The Cowboy and the Machine: A Final Reading of \"Hero\""
 post_number: 59
-date: 2024-02-29
+date: 2025-07-18 10:00:00 -0500
 ---
 
 In earlier posts ([45](/post-45)-[50](/post-50)), I read the "Hero" music video from several angles. To conclude this "Reconsidering the Romantics" series, I want to return to it as a final stress-test, applying the rigorous method from our [**Romantic Quick Kit**](/romantic-quick-kit) to see not just what it reveals, but what it defends.
@@ -1536,13 +1536,13 @@ Where the Romantic reading finds a deep, authentic soul, the Ricoeurian reading 
 This post serves as a practical capstone to the *"Reconsidering the Romantics"* series, demonstrating both the power of the Romantic method and the sharp critiques developed by other hermeneutic traditions.
 ---
 
-## File: ./2024-03-01-sleep-well-the-unconscious-arrogance-of-medieval-sermon-technology.md
+## File: ./2025-07-19-sleep-well-the-unconscious-arrogance-of-medieval-sermon-technology.md
 
 ---
 layout: post
 title: "Sleep Well! The Unconscious Arrogance of Medieval Sermon Technology"
 post_number: 60
-date: 2024-03-01
+date: 2025-07-19 10:00:00 -0500
 ---
 
 Imagine walking into a medieval bookstore and finding a sermon collection titled *Dormi secure* (literally, "Sleep Well!") This wasn't false advertising or wishful thinking. It was a frank acknowledgment of purpose: here was a book of ready-made sermons designed specifically so that "an overworked or under-trained priest" could "sleep without worry" on Saturday night. Sunday's sermon was handled. No struggle required.
@@ -1562,13 +1562,13 @@ But the medieval Church's comfort with "Sleep Well!" sermons suggests that this 
 Perhaps our modern anxiety about AI sermons reveals something about us rather than about the technology. We may be more invested in the drama of pastoral struggle than in the effectiveness of pastoral teaching. The medieval Church was willing to let priests "sleep well" if it meant the flock was fed well. We seem to prefer our shepherds sleep-deprived and stressed, as long as their exhaustion proves their authenticity.
 ---
 
-## File: ./2024-03-02-post-61.md
+## File: ./2025-07-20-post-61.md
 
 ---
 layout: post
 title: "A Conflict of Interpretations: Ricoeur's Method for Reading AI"
 post_number: 61
-date: 2024-03-02
+date: 2025-07-20 10:00:00 -0500
 ---
 
 To make sense of any complex text, whether it's a dream, a myth, or an AI's output, we need a method. The philosopher Paul Ricoeur, in his landmark book *Freud and Philosophy*, provides one. He argues that modern interpretation is defined by a fundamental conflict between two opposing approaches. Understanding this conflict doesn't just clarify how we read old texts; it gives us a way to interpret the new texts generated by artificial intelligence.
@@ -1604,13 +1604,13 @@ This restorative reading is our ["teleology."](https://en.wikipedia.org/wiki/Tel
 The true art of interpreting AI is to hold these two approaches in tension. We must be suspicious of the machine while remaining open to the meaning its strange new language can help us recollect. By embracing this conflict, we move beyond asking whether an AI can "mean" anything and begin the more fruitful work of discovering what can be meant *through* it.
 ---
 
-## File: ./2024-03-03-a-practical-method-for-reading-ai-archaeology-and-teleology.md
+## File: ./2025-07-21-a-practical-method-for-reading-ai-archaeology-and-teleology.md
 
 ---
 layout: post
 title: "A Practical Method for Reading AI: Archaeology and Teleology"
 post_number: 62
-date: 2024-03-03
+date: 2025-07-21 10:00:00 -0500
 ---
 
 The [last post](/post-61) introduced Paul Ricoeur's core idea: modern interpretation is a "conflict" between a hermeneutics of suspicion and a hermeneutics of recollection. This isn't just an abstract theory; it provides the foundation for a practical, step-by-step method for engaging with AI-generated texts and chat. This method moves us beyond simple reactions ("Is it authentic? Is it bullshit?") and into the rigorous work of interpretation.
@@ -1654,13 +1654,13 @@ The real art of this hermeneutic method is not to choose one reading over the ot
 By using this Ricoeurian pov-system, you move beyond the simplistic and unanswerable question, "Does the AI *mean* what it 'says'?" and begin to engage with the far more productive and philosophically rich question, "What can be meant *through* it?" You treat the AI not as a fraudulent author, but as an eloquent and deeply ambiguous cultural symbol that, above all, gives rise to thought.
 ---
 
-## File: ./2024-03-04-three-roads-forward.md
+## File: ./2025-07-22-three-roads-forward.md
 
 ---
 layout: post
 title: "Three Roads Forward"
 post_number: 63
-date: 2024-03-04
+date: 2025-07-22 10:00:00 -0500
 ---
 
 After sixty-odd posts, you start to see patterns. This whole project has been an attempt to map a strange territory, to figure out why a technology like AI can feel so alien and pretty familiar at the same time. The arguments against it are often a replay of [Romantic anxieties](/post-9) about sincerity and soul. The arguments for it often rely on a [computational view of language](/post-41) that sees us as hosts for impersonal systems. It feels like we're stuck between two inherited worldviews, neither of which feels completely right.
@@ -1688,13 +1688,13 @@ Every major innovation has carried with it the twin possibilities of progress an
 I don't know which road is the right one. Maybe they're not mutually exclusive. I spend a lot of time trying to figure out which direction I'm pointed in.
 ---
 
-## File: ./2024-03-05-post-64.md
+## File: ./2025-07-23-post-64.md
 
 ---
 layout: post
 title: "One Way I'm Really Different From Everyone"
 post_number: 64
-date: 2024-03-05
+date: 2025-07-23 10:00:00 -0500
 ---
 
 I could be wrong. Obviously I don't know everyone, so I can't know how many people are like me on this one thing. And I don't literally mean "everyone." I know one or two people who agree with me on this.
@@ -1714,13 +1714,13 @@ It's hard to track down the actual quote but there's anecdotal reporting that Da
 That's what I'm talking about. That's what I mean by the magic of an author. I shouldn't have to reveal any of my secrets about the muse I tap into when I go into that room and come back out with the written work. That's my business.
 ---
 
-## File: ./2024-03-06-on-that-line-between-humans-and-not-humans.md
+## File: ./2025-07-24-on-that-line-between-humans-and-not-humans.md
 
 ---
 layout: post
 title: "On That Line Between Humans and Not-Humans"
 post_number: 65
-date: 2024-03-06
+date: 2025-07-24 10:00:00 -0500
 ---
 
 Going back to my [last post,](/post-64) why is there such unanimity on this point? Why does everyone act like it's so obvious. We just HAVE TO KNOW when we're talking to AI or looking at AI or reading something a human [poured their soul into](/romantic-kit-authenticity).
@@ -1740,13 +1740,13 @@ So the moment you put pen to paper, you've already crossed the line into the vir
 So why this obsession with labeling? If we're already comfortable reading books by dead authors, [engaging with ideas that have been severed](/ai-kit-death-author) from their living creators for centuries, why does it suddenly matter so much whether the text was generated by biological or artificial intelligence? The separation Socrates worried about happened the moment writing was invented.
 ---
 
-## File: ./2024-03-07-post-66.md
+## File: ./2025-07-25-post-66.md
 
 ---
 layout: post
 title: "Augustine's Signs"
 post_number: 66
-date: 2024-03-07
+date: 2025-07-25 10:00:00 -0500
 ---
 
 In my [last post](/post-65), I was thinking about Socrates and his critique of writing. The moment you write something down, it becomes an orphan, cut off from the living person who created it. This creates a problem for anyone who wants to draw a bright, sacred line between human-made texts and AI-made texts. The Socratic argument is that all written texts—human or not—are already separated from their source.
@@ -1766,13 +1766,13 @@ This is a profound shift in perspective. It treats the text as a kind of technol
 This is a hermeneutic based on the text's own internal structure, not on the reader's feeling of connection to the author. If a human-written text is already a detached system of signs that needs to be decoded, then an AI-generated text is just another system of signs. The hard line we want to draw between them starts to look pretty blurry. The fundamental task for the reader remains the same: interpret the signs to find the meaning. The "soul" of the author, as [Roland Barthes would later argue](/ai-kit-death-author), was never really the point.
 ---
 
-## File: ./2024-03-08-appropriating-the-gold-of-the-machines.md
+## File: ./2025-07-26-appropriating-the-gold-of-the-machines.md
 
 ---
 layout: post
 title: "Appropriating the Gold of the Machines"
 post_number: 67
-date: 2024-03-08
+date: 2025-07-26 10:00:00 -0500
 ---
 
 So if we follow the argument from the [last post](/post-66), all texts, whether from a human or an AI, are fundamentally systems of signs detached from their origin. But this leads to the big objection: "Okay, but surely the *source* matters? Doesn't a text have to come from an [authentic human soul](/romantic-kit-authenticity) to be valuable?" This is the core of the [Romantic argument](/romantic-quick-kit) I've been wrestling with, and it's the reason I rejected "authenticity" as a necessary condition for art back in [Post 6](/post-6).
@@ -1790,13 +1790,13 @@ He doubles down on this idea when he discusses the problem of wicked preachers. 
 The truth of the sermon isn't guaranteed by the pastor's personal virtue, but by the "seat" he occupies, the system of language and doctrine he is transmitting. This is a very serious critique of the modern obsession with authenticity. If meaning can be transmitted through a corrupt human source, it can surely be transmitted through an a-moral, non-human one. An AI has no personal virtue *or* vice. It just generates text. It's up to us to occupy the "seat" of the interpreter, to provide the purpose, and to appropriate the "gold." This way of thinking treats the author not as a person, but as what Foucault would later call an ["author-function."](/ai-kit-author-function)
 ---
 
-## File: ./2024-03-09-the-unauthorized-exorcist-and-the-wicked-preacher.md
+## File: ./2025-07-27-the-unauthorized-exorcist-and-the-wicked-preacher.md
 
 ---
 layout: post
 title: "The Unauthorized Exorcist and the Wicked Preacher"
 post_number: 68
-date: 2024-03-09
+date: 2025-07-27 10:00:00 -0500
 ---
 
 In the [last post](/post-67), I explored Augustine's idea that truth can be transmitted through an "inauthentic" source, like a wicked preacher. His point is that the value of a message isn't determined by the moral purity of the person who speaks it. This is a tough idea for us to accept. We have a deep instinct to be gatekeepers, to insist that good work can only come from an authorized, card-carrying member of our own group.
@@ -1818,13 +1818,13 @@ This is the same principle Augustine uses for his wicked preacher. Augustine arg
 This gives us another lens for looking at AI. Our first, instinctual reaction is often the same as the disciples': "Stop it. It's not one of us." We see a machine driving out the "demons" of the blank page or creative block, and because it's not a human, we want to shut it down. But the challenge from both Jesus and Augustine is to shift our criteria. Instead of asking if the source is human, we should be asking: What are the fruits of this work? Can a good outcome be achieved? Can we, as Augustine said, appropriate its "gold" for a better purpose? It's a much harder and more interesting question than simply checking it for a human pulse.
 ---
 
-## File: ./2024-03-10-post-69.md
+## File: ./2025-07-28-post-69.md
 
 ---
 layout: post
 title: "The Expert's Anxiety"
 post_number: 69
-date: 2024-03-10
+date: 2025-07-28 10:00:00 -0500
 ---
 
 The most insidious argument against AI isn't the outright ban; it's the expert's hedge. It's the voice of the teacher, the manager, the self-proclaimed critical thinker who says, "I can handle this tool responsibly, but I'm worried about the masses. The students. The public. *They* will be harmed by it."
@@ -1848,13 +1848,13 @@ This isn't paternalism; it's a profound hypocrisy. It's claiming the right to us
 The challenge from Jesus and Augustine is to stop obsessing over the credentials of the user and start looking at the quality of the work. Our job is not to protect our students from tools. It is to make ourselves, as teachers, more relevant and more necessary than the tools they can use without us.
 ---
 
-## File: ./2024-03-11-the-parasite-in-the-machine-a-lacanian-reading-of-elan-barenholtz.md
+## File: ./2025-07-29-the-parasite-in-the-machine-a-lacanian-reading-of-elan-barenholtz.md
 
 ---
 layout: post
 title: "The Parasite in the Machine: A Lacanian Reading of Elan Barenholtz"
 post_number: 70
-date: 2024-03-11
+date: 2025-07-29 10:00:00 -0500
 ---
 
 So I've been mapping a conflict in this notebook. Our collective anxiety over AI, I've argued, is a new playing-out of an intellectual battle between a Romantic worldview, which prizes the authentic, unified soul, and a structuralist worldview, which sees us as hosts for impersonal systems. This may not be just a battle between two theories. The impersonal system may be something we can now observe directly.
@@ -1894,13 +1894,13 @@ The "intelligence" that writes a program or plays chess "falls out" of the syste
 Barenholtz's claims about cognitive psychology come from observing 21st-century technology. He's putting ideas out there that resemble the core principles Lacan was developing decades earlier by reading Freud. What Lacan's work describes is an "alien intelligence" or "informational parasite" we now see in AI. The theories might be wrong. But they sound really similar, which is fascinating.
 ---
 
-## File: ./2024-03-12-post-71.md
+## File: ./2025-07-30-post-71.md
 
 ---
 layout: post
 title: "Schleiermacher's Divided Self: A Romantic Who Knew We Weren't Whole"
 post_number: 71
-date: 2024-03-12
+date: 2025-07-30 10:00:00 -0500
 ---
 
 For a while now, this blog has been tracking what I call the ["Romantic trace"](/post-21) in our debates about AI. I've argued that our anxieties about authenticity and soulless machines are a replay of a worldview we inherited from the 1800s. In my series ["Reconsidering the Romantics,"](/post-53) I tried to build a more rigorous version of this worldview to avoid attacking a strawman. Now it's time to go back to one of the sources: Friedrich Schleiermacher, a foundational figure of German Romanticism.
@@ -1939,13 +1939,13 @@ This is the Romantic idea of *Bildung* (formation or self-cultivation) in its pu
 Going back to this foundational Romantic text doesn't reinforce the sentimental caricature. It torques it a bit. Puts pressure on it. Schleiermacher gives us a model of the human subject that's relational, functionally divided, and perpetually in process. This is a self that's better equipped to survive in the world I've been trying to map out here.
 ---
 
-## File: ./2024-03-13-post-72.md
+## File: ./2025-07-31-post-72.md
 
 ---
 layout: post
 title: "Professor Plate's Capstone Project (a plan)"
 post_number: 72
-date: 2024-03-13
+date: 2025-07-31 10:00:00 -0500
 ---
 
 ### Part I: The Project: Goal and Sources
@@ -2304,13 +2304,13 @@ This approach will allow me to use the curated passages as a map, transforming w
 #### A final little question: is there a version of this motivated by love for the system and everyone living in it? Is there a version of this that is being in the world but not of the world? Is that a version of the analogy?
 ---
 
-## File: ./2024-03-14-an-unacknowledged-inheritance.md
+## File: ./2025-08-01-an-unacknowledged-inheritance.md
 
 ---
 layout: post
 title: "An Unacknowledged Inheritance"
 post_number: 73
-date: 2024-03-14
+date: 2025-08-01 10:00:00 -0500
 ---
 
 A familiar drama plays out with increasing regularity in our cultural life: an artist is accused of a moral transgression, and a public debate erupts. The question is always the same: can we, or should we, separate the art from the artist? The resulting boycotts and refusals are often framed as a uniquely modern phenomenon, a product of social media and "cancel culture." But the intensity of these debates, the profound sense of personal betrayal and moral urgency, suggests a deeper source.
@@ -2322,13 +2322,13 @@ The purpose of these posts is not to argue for or against the boycott. The goal 
 Before we can assess the logic of our own moral instincts, we must first become historians of them. Our investigation begins with the foundational Romantic assumption: the belief that a work of art is a direct and authentic manifestation of its creator's soul.
 ---
 
-## File: ./2024-03-15-post-74.md
+## File: ./2025-08-02-post-74.md
 
 ---
 layout: post
 title: "The Author's Soul Made Manifest"
 post_number: 74
-date: 2024-03-15
+date: 2025-08-02 10:00:00 -0500
 ---
 
 The entire logic of "moral contamination" rests on a single (very resonant) idea: that an artwork is a direct conduit to its creator's inner self. This wasn't always the dominant view. For centuries, art was largely seen as a craft, a skillful imitation of external reality or an expression of universal truths. The Romantic movement performed a radical reversal, relocating the source of art from the outside world to the artist's own soul. This was more than a change in taste; it was a profound philosophical project.
@@ -2340,13 +2340,13 @@ This revaluation of feeling provided the philosophical license for a new theory 
 This moral and intellectual perspective was not a discovery of a timeless truth about art; it was a intellectual process emerging from opposition to Enlightenment rationalism. By sacralizing the artist's inner life, the Romantics created a new vocabulary for talking about art's value. When we instinctively feel that a work by an unethical creator is "tainted," we are speaking this language. We are assuming that the art is a direct relic of a flawed inner self, a manifestation of a corrupt *Gefühl*. This connection, first growing out into view two centuries ago, remains the primary justification for our modern impulse to turn away.
 ---
 
-## File: ./2024-03-16-the-tainted-seed-art-as-an-organic-unfolding.md
+## File: ./2025-08-03-the-tainted-seed-art-as-an-organic-unfolding.md
 
 ---
 layout: post
 title: "The Tainted Seed: Art as an Organic Unfolding"
 post_number: 75
-date: 2024-03-16
+date: 2025-08-03 10:00:00 -0500
 ---
 
 If an artist's inner state (*Gefühl*) is the true source of art, how does it become an actual poem, painting, or film? The Romantics needed a model of creation that could preserve the sacred link between the creator's soul and the finished work. They found it in nature. Their answer was the theory of [organic form](/romantic-kit-organic-form), a counter-metaphor to the soulless logic of [the machine](/romantic-kit-technology-machine).
@@ -2360,13 +2360,13 @@ This polemical opposition between the organic and the mechanical was a core part
 The concept of the *Keimentschluß* gives this instinct a philosophical backbone. And it provides the crucial logic for the idea of aesthetic contamination. If a work of art is the living incarnation of its creator's seminal decision, then an artist in a state of moral corruption (hate or abuse) cannot produce a pure work. The originating impulse, the *Keimentschluß*, is poisoned. The artwork that unfolds from this tainted seed will necessarily be a vector for that same spiritual malaise. To engage with it, and especially to financially support it, is to become complicit. It is to water a poisoned seed.
 ---
 
-## File: ./2024-03-17-the-world-as-a-moral-threat.md
+## File: ./2025-08-04-the-world-as-a-moral-threat.md
 
 ---
 layout: post
 title: "The World as a Moral Threat"
 post_number: 76
-date: 2024-03-17
+date: 2025-08-04 10:00:00 -0500
 ---
 
 Once you locate the ultimate source of meaning and morality within the [individual's authentic soul](/post-74), a profound shift occurs. The entire external world (society, its institutions, even other people) is recast. It is no longer a neutral space for action, but a potential source of corruption, a threat to the integrity of the self. This deep-seated anxiety about moral contamination is not a timeless feature of the human condition; it is a specific, historical consequence of the Romantic turn inward.
@@ -2378,13 +2378,13 @@ This anxiety extended beyond the city into the realm of personal relationships. 
 In response to this perceived threat, the Romantic imagination required an ethics of principled withdrawal. The solitary figure, the isolated artist, the defiant hero, the prophet in the wilderness was elevated into an ethical ideal. The artist's isolation was not a social failure but a necessary act of self-preservation. This is the core logic behind the impulse to boycott. It is an act of withdrawal, an attempt to protect one's own moral purity from a contaminating association. It is a modern expression of an ethics that sees the world not as a home, but as a threat.
 ---
 
-## File: ./2024-03-18-post-77.md
+## File: ./2025-08-05-post-77.md
 
 ---
 layout: post
 title: "Schiller's Ideal of the \"Beautiful Soul\""
 post_number: 77
-date: 2024-03-18
+date: 2025-08-05 10:00:00 -0500
 ---
 
 If the world is a source of moral threat, what is the ideal state to be defended? The German poet and philosopher Friedrich Schiller provided the most influential answer with his concept of the [*schöne Seele*](/romantic-kit-glossary), or "beautiful soul." This was not just a passing phrase; it was a sophisticated aesthetic solution to a deep philosophical problem inherited from Immanuel Kant: the seemingly endless civil war between our reason and our desires.
@@ -2396,13 +2396,13 @@ This ideal has profound psychological consequences. It reframes the experience o
 The modern boycott can be understood as an attempt to resolve this painful dissonance and restore the feeling of inner harmony that Schiller idealized. The boycotter refuses to live in a state of internal contradiction. By refusing to consume the "tainted" art, they forcefully align their actions with their moral beliefs, silencing the conflict. This act of abstention is a defensive maneuver, an attempt to achieve, in the marketplace, the state of unconflicted purity that the beautiful soul represents. It is a modern performance of a 200-year-old aesthetic ideal.
 ---
 
-## File: ./2024-03-19-reading-as-communion-a-new-interpretive-goal.md
+## File: ./2025-08-06-reading-as-communion-a-new-interpretive-goal.md
 
 ---
 layout: post
 title: "Reading as Communion, a New Interpretive Goal"
 post_number: 78
-date: 2024-03-19
+date: 2025-08-06 10:00:00 -0500
 ---
 
 The Romantic way of understanding and expressing reality did more than just redefine the author and their moral duties; it redefined the act of reading. If an artwork is the [organic unfolding](/post-75) of a singular soul, then to truly understand it requires more than just analyzing its grammar and structure. It requires an act of communion.
@@ -2416,13 +2416,13 @@ This redefinition of reading as communion is what makes engagement with an uneth
 This entire interpretive model (this technology for reading) was invented to access the newly sacred inner life of the author. It is an important tool, but its own logic dictates that when the source is perceived as corrupt, the only safe and moral act is to refuse the connection entirely.
 ---
 
-## File: ./2024-03-20-the-case-for-a-secular-boycott.md
+## File: ./2025-08-07-the-case-for-a-secular-boycott.md
 
 ---
 layout: post
 title: "The Case for a Secular Boycott"
 post_number: 79
-date: 2024-03-20
+date: 2025-08-07 10:00:00 -0500
 ---
 
 Let's consider the possibility that this entire description of an intellectual lineage, from Schleiermacher's hermeneutics to Schiller's beautiful soul, is an elegant but ultimately irrelevant historical detour. Here's the counter-narrative. It's an objection positing that the modern boycott has little to do with an unacknowledged [Romantic inheritance](/post-73) and is instead a product of distinctly modern, secular, and materialist concerns.
@@ -2438,13 +2438,13 @@ From this perspective, analyzing the boycott for traces of *Gefühl* is just ove
 This pragmatic view represents a competing intellectual tradition, one with its own historical roots in Enlightenment consequentialism and 20th-century sociology. It sees the world in terms of systems, power, and economic flows. It's basically the analysis I looked at earlier of [evil as systemic harm](/post-10). It argues that we should analyze the boycott on these terms, not by projecting the esoteric concerns of 19th-century German philosophers onto the modern public.
 ---
 
-## File: ./2024-03-21-the-author-de-mythologized-art-as-industrial-product.md
+## File: ./2025-08-08-the-author-de-mythologized-art-as-industrial-product.md
 
 ---
 layout: post
 title: "The Author De-Mythologized: Art as Industrial Product"
 post_number: 80
-date: 2024-03-21
+date: 2025-08-08 10:00:00 -0500
 ---
 
 The core of the [pragmatic objection](/post-79) is its de-mythologized view of the author. The Romantic ideal of the solitary genius pouring their soul onto the page has been replaced by a more cynical, or perhaps simply more realistic, understanding of art as an industrial product. Today's most contested art forms (films, pop music, TV series) are the output of a vast, collaborative, and commercial apparatus.
@@ -2456,13 +2456,13 @@ This perspective aligns perfectly with Michel Foucault's later, systematic analy
 From a genealogical perspective, this view represents the historical triumph of the worldview the Romantics defined themselves against. The "Mechanical Age" that Thomas Carlyle diagnosed in his critique of [industrial logic](/romantic-kit-technology-machine) has, in this view, completely subsumed the world of art. The pragmatist does not mourn this shift; they accept it as reality and adapt their ethical strategies accordingly. They operate within the logic of the machine because they believe there is no other logic left. Their actions are a direct acknowledgment that the Romantics' battle to preserve a sacred, organic model of creation has been lost.
 ---
 
-## File: ./2024-03-22-watering-the-poisoned-seed.md
+## File: ./2025-08-09-watering-the-poisoned-seed.md
 
 ---
 layout: post
 title: "Watering the Poisoned Seed"
 post_number: 81
-date: 2024-03-22
+date: 2025-08-09 10:00:00 -0500
 ---
 
 The pragmatic objection, outlined in the [last post](/post-80), is a really important challenge. And it's probably got a lot of truth to it. It argues that modern audiences have a de-mythologized view of art as an industrial product, and that boycotts are simply targeted economic actions against a brand. While it is true that art is produced collaboratively and operates within a market, this view fails to think in a careful way about the logic of our engagement with it. Even in a mechanical age, we seem unable to shake the hunt for a singular, unifying vision.
@@ -2474,13 +2474,13 @@ The Romantic insists that this is not just a convenient shorthand. It is a recog
 This organic model is precisely what makes the idea of "economic contamination" so coherent and potent. If the artwork were merely an industrial product, then purchasing it would be a morally neutral transaction. But if it is the living incarnation of its creator's *Keimentschluß*, then the economic act becomes one of profound moral significance. To pay for the art is to "water the poisoned seed." The money is transformed into the lifeblood that sustains a particular spiritual orientation in the world. The complicity is not merely economic; it is spiritual, a direct nourishing of a corrupt generative source. The pragmatic objection fails because it underestimates the enduring power of the organic model of authorship it claims we have outgrown.
 ---
 
-## File: ./2024-03-23-the-kingdom-of-individuals-and-the-moral-semaphore.md
+## File: ./2025-08-10-the-kingdom-of-individuals-and-the-moral-semaphore.md
 
 ---
 layout: post
 title: "The Kingdom of Individuals and the Moral Semaphore"
 post_number: 82
-date: 2024-03-23
+date: 2025-08-10 10:00:00 -0500
 ---
 
 A central tenet of the pragmatic critique is the "small agent problem": one person's refusal to stream a song or buy a ticket has no meaningful economic impact. So why does the act feel so morally urgent? The pragmatic view, focused on consequences, struggles to explain this intensity. The Romantic ethical point of view, however, accounts for it perfectly.
@@ -2492,13 +2492,13 @@ This move shattered the universal moral community into a "Kingdom of Individuals
 The boycott becomes a "moral semaphore." Its purpose is not economic coercion but symbolic expression. It is a public affirmation of one's values and a refusal to be complicit in what one deems wrong. In a world where total moral purity seems impossible, the expressive boycott is a declaration that "effort still counts." It is an act of fidelity to the self, a profound echo of the Romantic imperative to prioritize the integrity of one's own soul above all else. This explains why the practical inefficacy of the act does not diminish its perceived moral necessity.
 ---
 
-## File: ./2024-03-24-post-83.md
+## File: ./2025-08-11-post-83.md
 
 ---
 layout: post
 title: "The Pathology of Inaction: Hegel's Diagnosis"
 post_number: 83
-date: 2024-03-24
+date: 2025-08-11 10:00:00 -0500
 ---
 
 Just as the Romantic ideal of the isolated, morally pure self reached its zenith, it met its most serious, rigorous critic. The philosopher G.W.F. Hegel, in his 1807 masterpiece *Phenomenology of Spirit*, developed a rigorous and harsh diagnosis of this entire ethical posture. He gave its embodiment a name: the "beautiful soul" (*schöne Seele*), a direct reference to the Schillerian ideal I discussed in [a previous post](/post-77).
@@ -2510,13 +2510,13 @@ This is the crux of Hegel's critique. This retreat is an abdication of morality 
 From this critical perspective, the modern, purity-based boycott can be analyzed as a contemporary iteration of this "pathology of inaction." The focus on principled withdrawal and the preservation of a "clean conscience" directly mirrors the beautiful soul's flight from the actual. It risks substituting the subjective feeling of being moral, achieved through non-consumption, for the difficult, messy, and inevitably compromising work of acting morally within the systems it condemns. The retreat into inaction, Hegel warns, is not a higher form of morality, but its negation.
 ---
 
-## File: ./2024-03-25-post-84.md
+## File: ./2025-08-12-post-84.md
 
 ---
 layout: post
 title: "The Hypocrisy of the \"Hard Heart\""
 post_number: 84
-date: 2024-03-25
+date: 2025-08-12 10:00:00 -0500
 ---
 
 The beautiful soul, as diagnosed by Hegel, does not remain in silent, passive retreat. Its need for self-certainty drives it to become active in a specific, pathological way: it becomes a "judging conscience." From its perch of self-imposed inaction, it passes severe judgment on those who dare to act in the messy, compromised world.
@@ -2528,13 +2528,13 @@ This dynamic culminates in the beautiful soul's transformation into the "hard he
 Hegel's 200-year-old analysis hits pretty hard at the public, performative nature of many modern boycotts. The online condemnation of individuals who fail to participate, the absolutist language of "cancel culture," and the reduction of complex issues to viral hashtags all mirror the dynamic of the judging conscience. Social media platforms can become a "digital pillory," enabling mass, instantaneous judgment. The goal ceases to be ethical transformation and becomes the performative maintenance of an in-group's purity through the punitive exclusion of the impure (a dynamic that gets pretty close to the "expert's anxiety" I discussed in [Post 69](/post-69)). This is the pathology of the hard heart operating on a societal scale.
 ---
 
-## File: ./2024-03-26-post-85.md
+## File: ./2025-08-13-post-85.md
 
 ---
 layout: post
 title: "Beyond the Binary: Hegel's Turn to Ethical Life"
 post_number: 85
-date: 2024-03-26
+date: 2025-08-13 10:00:00 -0500
 ---
 
 Hegel's critique of the beautiful soul is so sharp that it can be mistaken for an endorsement simple pragmatism. If the flight into pure intention is an abdication of morality, it might seem that the only alternative is to judge actions by their tangible, real-world results. But it's wrong to conclude Hegel is a simple consequentialist. That misses the most important move in his philosophy.
@@ -2546,13 +2546,13 @@ Hegel's solution is not to choose a side but to heal the split itself. He attemp
 *Sittlichkeit* refers to the established ethical order of a community, the living substance of its customs, traditions, and social institutions. For Hegel, true freedom isn't realized in the heroic isolation of the individual conscience or in the unreflective action of the pragmatist but through meaningful participation in a shared, rational community. A Hegelian response tries to transform the institutions that create the ethical problem in the first place. It requires moving beyond the individualistic act of consumption toward the collective, political act of citizenship, which is one of the potential ["Three Roads Forward."](/post-63) This is the difficult but necessary work of building a society where ethical life is not a matter of private retreat but of shared, concrete reality.
 ---
 
-## File: ./2024-03-27-an-unresolved-inheritance.md
+## File: ./2025-08-14-an-unresolved-inheritance.md
 
 ---
 layout: post
 title: "An Unresolved Inheritance"
 post_number: 86
-date: 2024-03-27
+date: 2025-08-14 10:00:00 -0500
 ---
 
 This series has traced a long and complex intellectual lineage, from the Romantics' creation of a new ethics of authenticity to Hegel's critique of its internal contradictions. We arrive now at a synthesis, not of a final answer, but of a clearer understanding of our present condition. The modern debate over boycotts is the stage where two competing historical frameworks for ethical life collide.
@@ -2568,13 +2568,13 @@ This leaves us with tension. We are heirs to both traditions. The Schillerian de
 As I sketched out in ["Three Roads Forward,"](/post-63) this dilemma forces a choice. The path of the beautiful soul leads toward a deep opt-out. The pragmatic view encourages us to skate along the surface. The Hegelian analysis tries to find a deep opt-in.
 ---
 
-## File: ./2024-03-28-summing-up-the-series.md
+## File: ./2025-08-15-summing-up-the-series.md
 
 ---
 layout: post
 title: "Summing Up the Series"
 post_number: 87
-date: 2024-03-28
+date: 2025-08-15 10:00:00 -0500
 ---
 
 The analytical thesis of this blog so far has been that the influence of Romantic ideas is much more pervasive than we typically acknowledge. By labeling "Romanticism" a historical period that ended in the 19th century, we blind ourselves to the ways in which its core assumptions continue to animate many of our contemporary debates. The modern boycott is an instructive example. The reason the conversation is often so intractable is that we are treating historically contingent ideas about art, ethics, and the self as if they are universal truths.
@@ -2588,13 +2588,13 @@ It's also probably the case that more of these Romantic traces are out there. Th
 I'm pretty sure my [Deleuze project](/post-72) will uncover a bunch more.
 ---
 
-## File: ./2024-03-29-a-quick-note-adichie-and-the-deep-opt-in.md
+## File: ./2025-08-16-a-quick-note-adichie-and-the-deep-opt-in.md
 
 ---
 layout: post
 title: "A Quick Note: Adichie and the Deep Opt-In"
 post_number: 88
-date: 2024-03-29
+date: 2025-08-16 10:00:00 -0500
 ---
 
 Just a quick thought on the ["deep opt-in"](/post-63) framework. Chimamanda Ngozi Adichie's essay ["We Should All Be Feminists"](https://en.wikipedia.org/wiki/We_Should_All_Be_Feminists) is different kind of deep-opting-in.
@@ -2610,13 +2610,13 @@ Her title makes this a *collective* imperative. "We Should *All* Be Feminists" i
 More to come.
 ---
 
-## File: ./2024-03-30-the-principled-opt-out-a-defense.md
+## File: ./2025-08-17-the-principled-opt-out-a-defense.md
 
 ---
 layout: post
 title: "The Principled Opt-Out: A Defense"
 post_number: 89
-date: 2024-03-30
+date: 2025-08-17 10:00:00 -0500
 ---
 
 This blog has spent a lot of time exploring the tension between what I've called the ["deep opt-out"](/post-63) and the ["deep opt-in"](/post-63). Two answers to the question of how we orient ourselves to the world. In my [posts about the boycott stuff](/post-73), I framed the opt-out as being rooted in a [Romantic trace](/post-21), a desire to protect an authentic soul from a corrupting world. But this doesn't capture the whole picture. The choice to opt out can also be grounded in a more principled defense of individual freedom. To build this stronger case, I'm turning to [David Oderberg's](https://en.wikipedia.org/wiki/David_S._Oderberg) book, *Opting Out: Conscience and cooperation in a pluralistic society*.
@@ -2650,13 +2650,13 @@ This is a crucial distinction. A conscience clause that only protects you from d
 Taken together, these three arguments constitute a philosophically grounded defense of the deep opt-out. It is a position based not on sentiment but on a robust conception of liberty in which the right to say "no" is the ultimate safeguard of a free and pluralistic society.
 ---
 
-## File: ./2024-03-31-the-price-of-citizenship-a-case-for-the-deep-opt-in.md
+## File: ./2025-08-18-the-price-of-citizenship-a-case-for-the-deep-opt-in.md
 
 ---
 layout: post
 title: "The Price of Citizenship: A Case for the Deep Opt-In"
 post_number: 90
-date: 2024-03-31
+date: 2025-08-18 10:00:00 -0500
 ---
 
 In the [last post](/post-89), I laid out a principled defense of the "deep opt-out," drawing on David Oderberg's arguments for freedom of conscience and dissociation. Oderberg makes the case for the right of individuals and groups to withdraw from activities that violate their core beliefs. But there is a counter-argument. It insists on a kind of "deep opt-in" to the shared life of a pluralistic society. This view argues that some exposure to difference is not just permissible, but necessary for citizenship itself.
@@ -2670,13 +2670,13 @@ Stephen Macedo, in his essay "Liberal Civic Education and Religious Fundamentali
 This is the core of the "deep opt-in" argument. Macedo is asserting that membership in a free society comes with a price. That price is the acceptance of "reasonable common efforts" to teach the "minimal prerequisites of citizenship," chief among them being tolerance for diversity. From this perspective, allowing a group to completely shield its children from different ways of life is not a protection of their liberty, but a threat to the liberty of all. It undermines the conditions that make a pluralistic society possible. For Macedo, the freedom of the individual conscience cannot be used as a veto against the shared project of creating citizens.
 ---
 
-## File: ./2024-04-01-the-paradox-of-mere-exposure-stolzenberg-and-the-mozert-case.md
+## File: ./2025-08-19-the-paradox-of-mere-exposure-stolzenberg-and-the-mozert-case.md
 
 ---
 layout: post
 title: "The Paradox of Mere Exposure: Stolzenberg and the Mozert Case"
 post_number: 91
-date: 2024-04-01
+date: 2025-08-19 10:00:00 -0500
 ---
 
 The [last post](/post-90) introduced Stephen Macedo's argument for a civic "deep opt-in," a stance that justifies certain compulsory aspects of public education as necessary for creating citizens. This argument hinges on cases like [*Mozert v. Hawkins County Board of Education*](https://en.wikipedia.org/wiki/Mozert_v._Hawkins), where fundamentalist Christian families sought to opt their children out of a reading program they found objectionable. To understand the depth of this conflict, we need to move past a surface-level reading of the case. The scholar Nomi Maya Stolzenberg, in her groundbreaking article, "'He Drew a Circle That Shut Me Out': Assimilation, Indoctrination, and the Paradox of a Liberal Education," argues that the fundamentalist complaint is far more than a simple objection to offensive content; it is a coherent critique of the core assumptions of liberal society.
@@ -2698,13 +2698,13 @@ Stolzenberg points out that when critical race theorists argue that a "color-bli
 This creates an uncomfortable and unacknowledged alliance. The academic left would never see itself as an ally of Christian fundamentalists, yet both groups are engaged in a similar project: unmasking the hidden, coercive power of a liberal order that claims to be neutral. Stolzenberg's work forces us to take the fundamentalist opt-out seriously, not as an act of religious intolerance but as a coherent critique of the invisible architecture of typical liberal societies.
 ---
 
-## File: ./2024-04-02-skating-along-the-surface-a-pyrrhonist-guide.md
+## File: ./2025-08-20-skating-along-the-surface-a-pyrrhonist-guide.md
 
 ---
 layout: post
 title: "Skating Along the Surface: A Pyrrhonist Guide"
 post_number: 92
-date: 2024-04-02
+date: 2025-08-20 10:00:00 -0500
 ---
 
 After exploring the commitments of the deep opt-in and the deep opt-out, it's time to work out a defense of the [third path](/post-63): skating along the surface. To do this, we can look at an ancient Greek tradition that perfected it. Pyrrhonism is not a set of doctrines to be learned, but an *agōgē*, a way of life, a disposition, and a practice. Its purpose is not to find the truth but to cure the mental distress that comes from believing you must.
@@ -2721,13 +2721,13 @@ The Pyrrhonist practice is a repeatable psychological process:
 This might work as a basis for the skater's mindset. The AI debate, with its utopian versus dystopian conclusions, is a perfect case of *isosthenia*. The skater's refusal to get pulled into the hype is a modern practice of *epoché*. The goal of "waiting for the fever to break" is a search for *ataraxia*. But this raises the objection brought against skeptics for millennia: is such a life actually livable? If you suspend belief, won't you be paralyzed and unable to act?
 ---
 
-## File: ./2024-04-03-the-unparalyzed-skater-answering-the-apraxia-charge.md
+## File: ./2025-08-21-the-unparalyzed-skater-answering-the-apraxia-charge.md
 
 ---
 layout: post
 title: "The Unparalyzed Skater: Answering the Apraxia Charge"
 post_number: 93
-date: 2024-04-03
+date: 2025-08-21 10:00:00 -0500
 ---
 
 In the [last post](/post-92), I framed the "skating along the surface" mindset as a modern form of Pyrrhonism. This immediately leads to an objection to the skeptical way of life: the charge of *apraxia* or the impossibility of action. Critics have argued for thousands of years that a life without belief is unlivable. Ancient anecdotes, likely hostile inventions, claimed Pyrrho would ignore oncoming wagons and precipices, needing his friends to keep him safe. If a skeptic truly suspends judgment on whether bread is more nourishing than a stone, how can they survive?
@@ -2747,13 +2747,13 @@ Based on this distinction, Sextus outlines a "fourfold rule of life" that allows
 This framework refutes the charge of apraxia. The skater isn't paralyzed. They are guided by a set of non-dogmatic criteria: natural perception, internal drives, social convention, and practical training. This allows them to engage with AI practically while maintaining *epoché* on the irresolvable, dogmatic questions that cause so much anxiety. Skating the surface isn't a cowardly retreat. It is a therapeutic practice for living rationally and peacefully in a world where the future will always be hidden (because it's the future).
 ---
 
-## File: ./2024-04-04-post-94.md
+## File: ./2025-08-22-post-94.md
 
 ---
 layout: post
 title: "The New Man Who \"Prefers Not To\" (Deleuze's Bartleby)"
 post_number: 94
-date: 2024-04-04
+date: 2025-08-22 10:00:00 -0500
 ---
 
 We begin with a story. A quiet, diligent law-copyist on Wall Street named Bartleby one day responds to a simple request from his boss with a simple phrase: "I would prefer not to." This refusal, repeated without explanation or emotion, expands until it consumes his work, his life, and the sanity of the office around him. He becomes a fixture, a ghost who has simply stopped participating. This figure of absolute refusal is the prototype test case for the ["Three Roads Forward"](/post-63). Is his an act of principled withdrawal (the Deep Opt-Out)? Or is it something else?
@@ -2765,13 +2765,13 @@ By deploying this formula, Bartleby systematically dismantles the "paternal func
 This is why Deleuze's reading points toward a radical form of the "Deep Opt-In." Bartleby's act is not an escape from society but a necessary clearing of the ground for a new one. By erasing the old hierarchies, he makes possible a "society of brothers," a community built not on authority and filiation but on an alliance of singular, unclassifiable individuals. His refusal is not the end of the story, but the invention of a new way to begin it.
 ---
 
-## File: ./2024-04-05-post-95.md
+## File: ./2025-08-23-post-95.md
 
 ---
 layout: post
 title: "The Politics of Saying Nothing (Žižek's Bartleby)"
 post_number: 95
-date: 2024-04-05
+date: 2025-08-23 10:00:00 -0500
 ---
 
 In the [last post](/post-94), we saw Gilles Deleuze's Bartleby as a creative force, a "new man" whose strange formula opens the door to a new kind of community. The philosopher Slavoj Žižek looks at the same quiet scrivener and sees something very different. While both agree that Bartleby is a radical figure who breaks the system, Žižek is less interested in the new world Bartleby creates and more interested in the old one he violently destroys.
@@ -2783,13 +2783,13 @@ This is the core of Žižek's "politics of subtraction." Bartleby's power lies i
 Where Deleuze sees the affirmation of a "new man," Žižek sees the power of a pure, voided subject. The point is not to become someone new, but to become, politically, no one. Bartleby's act is a gesture of pure, violent negativity that creates the empty space where a true political "Act" might become possible. It is not about building a new world but about demonstrating the absolute deadlock of the current one. In this reading, Bartleby is not the hopeful figure of the "Deep Opt-In," but the terrifyingly consistent embodiment of the "Deep Opt-Out," a refusal so total that it clears the board completely.
 ---
 
-## File: ./2024-04-06-post-96.md
+## File: ./2025-08-24-post-96.md
 
 ---
 layout: post
 title: "The Unlikely Community: Doubling Down on Deleuze's Bartleby"
 post_number: 96
-date: 2024-04-06
+date: 2025-08-24 10:00:00 -0500
 ---
 
 In the last two posts, we explored two readings of Melville's scrivener. Žižek's analysis of Bartleby as a figure of pure, negative subtraction seems to align most easily with the story's more obvious details. A man refuses the world, is imprisoned, and dies. It's a bleak story, and Žižek's reading honors that bleakness. Deleuze's interpretation, which I framed as a "Deep Opt-In," feels much harder to justify. How can this story of isolation and death be about the creation of a new, affirmative way of life? Yet Deleuze insists it is. The purpose of this post is to take on that harder task: to show how Deleuze's creative, world-building reading finds its grounding in the concrete details of Melville's text.
@@ -2805,13 +2805,13 @@ This is a difficult reading, but it is grounded in the story itself. The contagi
 So. Would the deep opt-in of Hegel want to sit down for supper with the Deleuzian form?
 ---
 
-## File: ./2024-04-07-post-97.md
+## File: ./2025-08-25-post-97.md
 
 ---
 layout: post
 title: "The Price of Freedom: Hegel's Deep Opt-In"
 post_number: 97
-date: 2024-04-07
+date: 2025-08-25 10:00:00 -0500
 ---
 
 In the [last post](/post-96), we explored Gilles Deleuze's reading of Bartleby as a creative figure whose refusal opens the door to a new kind of community. This was our first look at a sophisticated "deep opt-in," a way of engaging with the world that seeks to create something new rather than simply withdraw. But this isn't the only form an opt-in can take. The boycott series, particularly in [Post 83](/post-83), introduced G.W.F. Hegel's powerful critique of the "beautiful soul," the consciousness that retreats from the world to preserve its own purity. Hegel's alternative was a demanding form of engagement he called *Sittlichkeit*, or "ethical life." The purpose of this post is to use Frederick Beiser's commentary on Hegel to explore what this rigorous, and often misunderstood, version of a "deep opt-in" truly requires of us.
@@ -2827,13 +2827,13 @@ This requires a radical rethinking of freedom itself. Hegel rejects the idea tha
 Beiser, F. C. (2005). *Hegel*. Routledge.
 ---
 
-## File: ./2024-04-08-the-citizen-and-the-nomad-two-enemy-opt-ins.md
+## File: ./2025-08-26-the-citizen-and-the-nomad-two-enemy-opt-ins.md
 
 ---
 layout: post
 title: "The Citizen and the Nomad: Two Enemy Opt-Ins"
 post_number: 98
-date: 2024-04-08
+date: 2025-08-26 10:00:00 -0500
 ---
 
 The [last post](/post-97) outlined Hegel's demanding vision of a "deep opt-in," a path that requires us to find our freedom through participation in the rational institutions of the state. Now we must return to the other form of opting-in this blog has explored, the one we found in Deleuze's reading of Bartleby in [Post 94](/post-94) and [Post 96](/post-96). Deleuze's Bartleby also represents a "deep opt-in," but it is an opting-in to a creative, nomadic life of escape, of becoming the "man without references" who makes possible a "society of brothers." While both Hegel and Deleuze reject the Romantic's principled withdrawal, their own programs for engagement are not allies. They are fundamentally irreconcilable, two enemy visions of the future.
@@ -2853,13 +2853,13 @@ Beiser, F. C. (2005). *Hegel*. Routledge.
 Deleuze, G. (1997). Bartleby; or, the formula.
 ---
 
-## File: ./2024-04-09-post-99.md
+## File: ./2025-08-27-post-99.md
 
 ---
 layout: post
 title: "The Nomad's Workshop: A Surly Invitation to Opt-In"
 post_number: 99
-date: 2024-04-09
+date: 2025-08-27 10:00:00 -0500
 ---
 
 In [Post 98](/post-98), we arrived at a challenging conclusion: Hegel's and Deleuze's philosophies represent two "enemy opt-ins." But this raises a sharp and necessary question about the Deleuzian path. If his project is to create "new systems on the outside," as I put it, how can that be a "deep opt-in"? Doesn't creating something "outside" the system mean you've opted out? It's a fair question that gets to the heart of what makes Deleuze's form of engagement so different.
@@ -2881,13 +2881,13 @@ Deleuze, G. (1997). Bartleby; or, the formula. In D. W. Smith & M. A. Greco (Tra
 Hughes, J. (2012). *Philosophy After Deleuze*.
 ---
 
-## File: ./2024-04-10-should-ai-try-to-be-good-morally-speaking.md
+## File: ./2025-08-28-should-ai-try-to-be-good-morally-speaking.md
 
 ---
 layout: post
 title: "Should AI Try to Be Good (Morally Speaking)?"
 post_number: 100
-date: 2024-04-10
+date: 2025-08-28 10:00:00 -0500
 ---
 
 No.
@@ -2897,13 +2897,13 @@ Only humans can be morally good or bad.
 AI's aren't human.
 ---
 
-## File: ./2024-04-11-do-deconstructionists-or-romantics-make-for-better-christians.md
+## File: ./2025-08-29-do-deconstructionists-or-romantics-make-for-better-christians.md
 
 ---
 layout: post
 title: "Do Deconstructionists or Romantics Make for Better Christians?"
 post_number: 101
-date: 2024-04-11
+date: 2025-08-29 10:00:00 -0500
 ---
 
 Deconstructionists.
@@ -2911,49 +2911,49 @@ Deconstructionists.
 Hands-down.
 ---
 
-## File: ./2024-04-12-does-art-make-people-better-people-morally-speaking.md
+## File: ./2025-08-30-does-art-make-people-better-people-morally-speaking.md
 
 ---
 layout: post
 title: "Does Art Make People Better People (Morally Speaking)?"
 post_number: 102
-date: 2024-04-12
+date: 2025-08-30 10:00:00 -0500
 ---
 
 Absolutely not.
 ---
 
-## File: ./2024-04-13-should-teachers-try-to-make-their-students-better-people-morally-speaking.md
+## File: ./2025-08-31-should-teachers-try-to-make-their-students-better-people-morally-speaking.md
 
 ---
 layout: post
 title: "Should Teachers Try to Make Their Students Better People (Morally Speaking)?"
 post_number: 103
-date: 2024-04-13
+date: 2025-08-31 10:00:00 -0500
 ---
 
 No.
 ---
 
-## File: ./2024-04-14-should-syllabi-try-to-make-students-better-people-morally-speaking.md
+## File: ./2025-09-01-should-syllabi-try-to-make-students-better-people-morally-speaking.md
 
 ---
 layout: post
 title: "Should Syllabi Try to Make Students Better People (Morally Speaking)?"
 post_number: 104
-date: 2024-04-14
+date: 2025-09-01 10:00:00 -0500
 ---
 
 Obviously not.
 ---
 
-## File: ./2024-04-15-post-105.md
+## File: ./2025-09-02-post-105.md
 
 ---
 layout: post
 title: "Entering the Mass: Hegel's Deep Opt-In"
 post_number: 105
-date: 2024-04-15
+date: 2025-09-02 10:00:00 -0500
 ---
 
 "The mass" (for me) is that knotted tangle of technique, bureaucracy, cliché, and now AI: everything optimized to move without friction. When all those threads coil together, they form something like a dense wiring that contains us and resists us. My question has been how to live without either worshiping this tangle of wires or disentangling entirely from it. Today is the Hegel post. It's a wager. What looks like a mass stops looking like a mass when you go in far enough and learn its logic.
@@ -2982,13 +2982,13 @@ Next post I'll contrast this with the Deleuzian tactic. Deleuze pushes aside inc
 Hegel, G. W. F. (1977). *Phenomenology of Spirit* (A. V. Miller, Trans.). Oxford University Press. (Original work published 1807). Section 654 in the "beautiful soul" part of the book.
 ---
 
-## File: ./2024-04-16-post-106.md
+## File: ./2025-09-03-post-106.md
 
 ---
 layout: post
 title: "Carving the Minor: Deleuze's Lines of Flight"
 post_number: 106
-date: 2024-04-16
+date: 2025-09-03 10:00:00 -0500
 ---
 
 Last post I sketched Hegel's wager. Enter the mass deeply enough and the alien wiring begins to show itself as an intelligible circuit. Today the counterpoint. Deleuze does not resolve the mass into clarity. He leaves it tangled. His strategy is to find or make little spaces inside it, what he calls lines of flight. Not incorporation, but deviation.
@@ -3023,13 +3023,13 @@ Deleuze, G. (1994). *Difference and Repetition* (P. Patton, Trans.). Columbia Un
 Deleuze, G., & Guattari, F. (1986). *Kafka: Toward a Minor Literature* (D. Polan, Trans.). University of Minnesota Press.
 ---
 
-## File: ./2024-04-17-two-current-ai-policies-quoted-explained.md
+## File: ./2025-09-04-two-current-ai-policies-quoted-explained.md
 
 ---
 layout: post
 title: "Two Current AI Policies (Quoted & Explained)"
 post_number: 107
-date: 2024-04-17
+date: 2025-09-04 10:00:00 -0500
 ---
 
 Universities everywhere are drafting rules for how students can and cannot use generative AI. Two representative policies look something like this:
@@ -3070,13 +3070,13 @@ Universities everywhere are drafting rules for how students can and cannot use g
 These policies treat writing methods as a public commodity subject to permission and surveillance. They collapse the difference between plagiarism (a harm to others) and method (an individual's private intellectual process). I reject these as insufficiently robust when it comes to student freedom.
 ---
 
-## File: ./2024-04-18-mill-on-autonomy-one-key-passage.md
+## File: ./2025-09-05-mill-on-autonomy-one-key-passage.md
 
 ---
 layout: post
 title: "Mill on Autonomy (One Key Passage)"
 post_number: 108
-date: 2024-04-18
+date: 2025-09-05 10:00:00 -0500
 ---
 
 Both policies assume students' methods belong to the university to monitor and regulate. John Stuart Mill, in *On Liberty*, gives a better principle:
@@ -3090,13 +3090,13 @@ Both policies assume students' methods belong to the university to monitor and r
 - **Freedom to experiment:** Students need room to try tools and processes without compelled disclosure.
 ---
 
-## File: ./2024-04-19-post-109.md
+## File: ./2025-09-06-post-109.md
 
 ---
 layout: post
 title: "Objection 1: \"Students Won't Learn to Write\""
 post_number: 109
-date: 2024-04-19
+date: 2025-09-06 10:00:00 -0500
 ---
 
 **The objection:** If students use AI to write, they will not learn how to write themselves. Professors are responsible for teaching writing, so they must prevent shortcuts that bypass the learning process.
@@ -3122,13 +3122,13 @@ If a student decides that learning how to use AI effectively is the most valuabl
 In Mill's terms, society "gains more" when individuals are allowed to live and learn "as seems good to themselves." Restrictions that enforce one pedagogical path (on the theory that it is universally best) produce conformity more than flourishing. Guard the boundary against *harms* (fraud, misrepresentation); within that boundary, leave method to the student.
 ---
 
-## File: ./2024-04-20-post-110.md
+## File: ./2025-09-07-post-110.md
 
 ---
 layout: post
 title: "Objection 2: \"AI Writing Harms Others and the University\""
 post_number: 110
-date: 2024-04-20
+date: 2025-09-07 10:00:00 -0500
 ---
 
 **The objection:** If AI use becomes common, it harms other students who want "human-only" writing credentials. It also harms the university if it cannot uphold its standards of "strong writing" as human-authored thought.
@@ -3150,12 +3150,13 @@ Genuine harms remain sanctionable: plagiarism, misrepresentation, fabrication, p
 Universities can protect integrity without prescribing inner process: require students to demonstrate *reasoned agency* (show revisions, source evaluation, verification of claims), not to disclose or conform their *methods*. This preserves standards of outcome while respecting autonomy in means.
 ---
 
-## File: ./2024-04-21-post-111.md
+## File: ./2025-09-08-post-111.md
 
 ---
 layout: post
 title: "The Student's Right to Their Own Methods"
 post_number: 111
+date: 2025-09-08 10:00:00 -0500
 ---
 
 A professor might say: *"We value transparency here. Honesty requires everyone to share how they work so others can benefit. If you're not doing anything wrong, why hide your methods?"*
@@ -3183,6 +3184,62 @@ This is the language of surveillance, not education. Mill warns that social pres
 ### Claim
 
 The student has a strong and legitimate interest in saying: "My methods are mine; I will choose what, if anything, to reveal." What they lose under compulsory transparency is not just privacy but the special value of their work: the freedom to build unique processes of thought and let those processes bear fruit in their writing.
+---
+
+## File: ./2025-09-09-one-claim-to-retire-no-nlu-only-form-wont-fly.md
+
+---
+layout: post
+title: "One Claim to Retire: Why 'No NLU, Only Form' Won’t Fly (Aaronson-Style)"
+post_number: 112
+date: 2025-09-09 10:00:00 -0500
+---
+
+I keep bumping into a specific move in **“Stochastic Parrots”**: large language models, the paper says, are *not performing natural language understanding (NLU); they only succeed on tasks reachable by manipulating linguistic form*.  From here, the stronger line follows: to how it *seems* when we read the outputs aside, an LM is “haphazardly stitching together sequences of linguistic forms … **without any reference to meaning**: a stochastic parrot.”&#x20;
+
+I want to zoom in on that one claim—*no NLU, just form*—and say why (channeling Aaronson’s core commitments) it doesn’t land.
+
+# The parity objection (no double standard)
+
+Aaronson’s stock complaint about deflationary slogans (“just next-token,” “just floating-point ops”) is that they **prove too much**: taken seriously, the same move would debunk human understanding, since *we too* reduce to mechanistic physics at a lower level. The right way to proceed, he argues, is to keep reductionism **and** still assess **understanding at the higher, behavioral/organizational level**—for humans *and* for machines. If a system talks to us, answers like it understands, and shows stable competences, then **the burden shifts to the skeptic** to name the principled difference that licenses human-but-not-machine attributions.&#x20;
+
+Applied to Bender et al., parity blocks the inference from *training on form* to *incapable of meaning*. Yes, the objective is next-token. But denying “understanding” *because* the low-level substrate is tokens and floating-point ops isn’t an argument Aaronson accepts—it’s **substate chauvinism** by another name.&#x20;
+
+# Let results revise priors (empiricism over stipulation)
+
+Aaronson also pushes a norm: **let the world tell you when you’re wrong**. He notes how many of us bet—confidently—against the current paradigm, only to be corrected by empirical progress; the honest response is to update, not retrofit defenses.  In that light, blanket claims that “no actual language understanding is taking place” in LM-driven approaches (because they exploit spurious cues and have access only to form) look like **a priori ceilings** that should be tested, not asserted.  Aaronson’s line is straightforward: probe out-of-distribution, adversarially, and longitudinally; if systems repeatedly clear the bars, **update the ontology**.&#x20;
+
+# Avoid the level mistake
+
+There’s a fair premise in Bender et al.: languages are *signs* (form–meaning pairs), and LMs are trained on *form*; proceed with caution.  Where Aaronson balks is the **explanatory leap** from “trained on form” to “best explained as mere form manipulation.” Internally, models can and often do build **intermediate abstractions** as *means* to minimize loss; externally, we judge by **stable competences**. Collapsing everything to “autocomplete” *misdescribes the level of explanation that matters*. (It’s like saying chess is “piece-moving”: correct, and unhelpful.)
+
+# Goalposts and consistency
+
+Aaronson explicitly calls out the skeptic pastime of finding failure cases, only to watch the next generation knock them down; at some point, “seeming to understand” and “understanding” stop being cleanly separable in practice without a human-favoring double standard.  That’s not a claim that today’s models are conscious; it’s a reminder that **evidence trends** should restrain **stipulative metaphysics**.
+
+# Keep the governance, retire the ontology
+
+What I don’t want to lose from Bender et al. is the **governance program**. The paper is clearest and strongest on environmental cost, data governance, and documentation debt: report costs, prioritize curation, and only collect what you can **thoroughly document**.   In fact, those norms are **orthogonal** to the metaphysical verdict on “understanding.” We can keep the prescriptions—curate datasets, budget for documentation, reduce harms—without enshrining the claim that LMs “only” manipulate form.&#x20;
+
+# Focused bottom line
+
+Bender et al.’s stronger thesis—*no NLU; only form*—leans on a level-mixing move that Aaronson rejects. Deflationary descriptions that erase higher-level regularities **prove too much** (they’d debunk humans, too), and the live scientific norm is to let capability evidence—not stipulation—draw the boundary between “seeming to understand” and “understanding.”   &#x20;
+
+---
+
+For method: see the AI Hermeneutics Kit—[Author-function]({{ '/ai-hermeneutics/ai-kit-author-function/' | relative_url }}) and [Interpretive Dialogue]({{ '/ai-hermeneutics/ai-kit-interpretive-dialogue/' | relative_url }})
+
+---
+
+### Densworld Addendum (seed)
+
+**Order:** Mediation & Aperture
+**Region:** Capital
+
+The Capital licenses **window-booths**—apertures that relay live speech from far boroughs. Clerks complain that some booths only **mimic-echo**: crisp syntax, zero contact. A Hearing proposes **aperture calipers**: standardized probes to tell **relay** from **parrot**. The test isn't "what's the wiring?" but **does the booth keep a live grip on the world**—update when rivers flood, correct itself under counter-questions, retract when shown errors? Draft the calipers as a Clerkly **Hearing** in Debate; circulate to the Boroughs for adversarial trials. The governance stays (audit, documentation, costs). The ontology shifts: **retire "parrot" when the aperture holds under pressure.**
+
+*See archive:* [A1 — Capital: Window Aperture, South Arcade (caliper check log)]({{ '/archive/mediation-capital-window-aperture-a1/' | relative_url }})
+
 ---
 
 ## File: ./GRAD-STUDENT-CONTEXT.md
@@ -3274,15 +3331,27 @@ Use these to generate or categorize drafts:
 
 ## The Densworld Addendum (required)
 
-Every post ends with an out-of-character **Densworld Addendum** (2–6 sentences) that speculates about a Densworld analogue or figurative reworking of the post’s idea. It is a **seed** for future Archive/Debate work and remains **out-of-character** (a hand-off, not fiction)【turn6file2†aggregate-structural-files.md†L30-L36】.
+Every post ends with an out-of-character **Densworld Addendum** (2–6 sentences) that connects to **either** the Archive **or** Debate collection, whichever seems more relevant to your post's concept. This is a **seed** for future development and remains **out-of-character** (a hand-off, not fiction).
 
-**Include**
+**Choose Your Connection Path:**
+
+### Archive Connection (for concrete scenarios)
+When your idea suggests a **concrete Densworld scene, document, or artifact**:
 - A concrete Densworld image, device, practice, or scene your post suggests
-- A **proposed Order** (Boundary; Doubling; Craving; Silence & Withdrawal; Violence & Secret Life; Mediation & Aperture) and a **likely Region** (Capital; Dens/Densmok; Quarry; North/Northo; Tower/Sticks; Dead River; Capeast)【turn6file15†README.md†L1-L7】【turn6file15†README.md†L9-L17】
-- Optional: a likely **Debate** document type (memo, minute, hearing, counter-memo)
+- A **proposed Order** (Boundary; Doubling; Craving; Silence & Withdrawal; Violence & Secret Life; Mediation & Aperture) and a **likely Region** (Capital; Dens/Densmok; Quarry; North/Northo; Tower/Sticks; Dead River; Capeast)
 
-**Example**
-> **Densworld Addendum (seed):** The “authenticity vs. performance” tension could surface in **North Town** as a murder-song requiring a masked **echoer** to confirm each line (→ **Doubling**). A clerk in **Capital** proposes banning masked echoers in depositions (→ potential **Counter-Memo** in Debate).
+### Debate Connection (for methodological questions)  
+When your idea suggests an **institutional methodology question or archival policy**:
+- A concrete archival policy problem or methodological question your post suggests
+- A likely **Phase** (Phase I-IV of the archival system development)
+- A likely **Document Type** (memo, minute, field report, hearing, counter-memo, directive, ruling, brief, case note, colloquy note) and **Archivist Temperament** (Clerkly, Romantic, Philosophical)
+
+**Examples**
+> **Archive-focused:**
+> **Densworld Addendum (seed):** The "authenticity vs. performance" tension could surface in **North Town** as a murder-song requiring a masked **echoer** to confirm each line (→ **Doubling**). Archive entry might document echoer-song testimonies in the **North** region.
+
+> **Debate-focused:**  
+> **Densworld Addendum (seed):** The "authenticity vs. performance" question could prompt a **Phase III Hearing** where **Philosophical** archivists argue whether "performed authenticity" documents belong in **Doubling** or require a new sub-order. **Clerkly** temperament resists category multiplication.
 
 ---
 
@@ -3523,17 +3592,31 @@ Use these to generate or categorize drafts:
 
 ## Step 10: The Densworld Addendum (REQUIRED)
 
-Every post must end with an out-of-character **Densworld Addendum** (2–6 sentences) that speculates about a Densworld analogue for the post's idea. This is a **seed** for future Archive/Debate work and remains **out-of-character** (a hand-off, not fiction).
+Every post must end with an out-of-character **Densworld Addendum** (2–6 sentences) that speculates about a Densworld analogue for the post's idea. This is a **seed** for future development and remains **out-of-character** (a hand-off, not fiction).
 
-### Include:
+### Choose Your Connection Path:
+Your addendum should connect to **EITHER** the Archive collection **OR** the Debate collection, whichever seems more relevant to your post's concept:
+
+#### Option A: Archive Connection
+When your idea suggests a **concrete Densworld scene, document, or artifact**:
 - A concrete Densworld image, device, practice, or scene your post suggests
 - A **proposed Order** (Boundary; Doubling; Craving; Silence & Withdrawal; Violence & Secret Life; Mediation & Aperture)
 - A **likely Region** (Capital; Dens/Densmok; Quarry; North/Northo; Tower/Sticks; Dead River; Capeast)
-- Optional: a likely **Debate** document type (memo, minute, hearing, counter-memo)
 
-### Example Addendum:
+#### Option B: Debate Connection  
+When your idea suggests an **institutional methodology question or archival policy**:
+- A concrete archival policy problem or methodological question your post suggests
+- A likely **Phase** (Phase I-IV of the archival system development)
+- A likely **Document Type** (memo, minute, field report, hearing, counter-memo, directive, ruling, brief, case note, colloquy note)
+- Which **Archivist Temperament** would likely author it (Clerkly, Romantic, Philosophical)
+
+### Example Addenda:
 ```markdown
-**Densworld Addendum (seed):** The "authenticity vs. performance" tension could surface in **North Town** as a murder-song requiring a masked **echoer** to confirm each line (→ **Doubling**). A clerk in **Capital** proposes banning masked echoers in depositions (→ potential **Counter-Memo** in Debate).
+**Archive-focused:**
+**Densworld Addendum (seed):** The "authenticity vs. performance" tension could surface in **North Town** as a murder-song requiring a masked **echoer** to confirm each line (→ **Doubling**). Archive entry might document testimonies about echoer-songs in the **North** region.
+
+**Debate-focused:**  
+**Densworld Addendum (seed):** The "authenticity vs. performance" question could prompt a **Phase III Hearing** where **Philosophical** archivists argue whether "performed authenticity" documents belong in **Doubling** or require a new sub-order. **Clerkly** temperament resists category multiplication.
 ```
 
 ---

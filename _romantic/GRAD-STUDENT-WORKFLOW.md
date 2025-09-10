@@ -101,24 +101,36 @@ kit_type: romantic
 
 ## Step 6 — The **Densworld Addendum (seed)** (short, required)
 
-Every Romantic Kit page ends with a **tiny, non-fictional hand-off** to the Archive/Debate system. This mirrors the posts practice (image/device/scene + Order + Region, optional Debate doc type) and lets theory feed fiction without breaking the kit’s OOC boundary  .
+Every Romantic Kit page ends with a **tiny, non-fictional hand-off** to either the Archive or Debate system. Choose the connection path that best fits your concept—concrete artifacts/scenes suggest Archive entries; methodological questions suggest Debate documents.
 
-**Include (2–4 sentences total):**
+**Choose Your Connection Path:**
 
-* A **concrete image, device, practice, or scene-seed** your concept suggests (one beat) .
-* A **proposed Order** and **likely Region** (see canonical lists below)  .
-* Optional: a likely **Debate** doc type (memo/minute/hearing/counter-memo) .
+### Option A: Archive Connection
+When your concept suggests **concrete Densworld scenes, artifacts, or practices**:
+* A **concrete image, device, practice, or scene-seed** your concept suggests
+* A **proposed Order** and **likely Region** (see canonical lists below)
 
-**Why tags?** The Debate formalizes **dual-tagging** (Order(s) + Region(s)) as standard archival practice—your seed should anticipate that .
+### Option B: Debate Connection  
+When your concept suggests **methodological questions or archival policy issues**:
+* A concrete archival policy problem or interpretive question your concept raises
+* A likely **Phase** (Phase I-IV of archival development)  
+* A likely **Document Type** and **Archivist Temperament** (see lists below)
 
-**Template snippet** (append under “Application Examples”):
+**Template snippets** (append under "Application Examples"):
 
 ```markdown
-### Densworld Addendum (seed)
-- Proposed Order: [Boundary | Doubling | Craving | Silence & Withdrawal | Violence & Secret Life | Mediation & Aperture]
-- Likely Region: [Capital | Dens/Densmok | Quarry | North/Northo | Tower/Sticks | Dead River | Capeast]
-- Fictional prompt (2–4 sentences, out-of-character): …
-- (Optional) Debate doc type to expect: [memo | minute | hearing | counter-memo]
+### Densworld Addendum (seed) — Archive Focus
+**Order:** [Boundary | Doubling | Craving | Silence & Withdrawal | Violence & Secret Life | Mediation & Aperture]  
+**Region:** [Capital | Dens/Densmok | Quarry | North/Northo | Tower/Sticks | Dead River | Capeast]
+
+[2-4 sentences describing the concrete scene/artifact your concept suggests]
+
+### Densworld Addendum (seed) — Debate Focus  
+**Phase:** [Phase I | Phase II | Phase III | Phase IV]  
+**Document Type:** [memo | minute | field report | hearing | counter-memo | directive | ruling | brief | case note | colloquy note]  
+**Likely Temperament:** [Clerkly | Romantic | Philosophical]
+
+[2-4 sentences describing the methodological question or policy debate your concept suggests]
 ```
 
 ---
@@ -133,11 +145,17 @@ Before you PR, confirm:
 * ✅ **Six-part structure** (Definition → How → History → Cross-Refs → Applications → **Addendum**)&#x20;
 * ✅ **Two-rail method** is explicit in your analysis&#x20;
 * ✅ **Cross-links** to the hub and at least 2 related kit pages&#x20;
-* ✅ **Addendum seed** includes **Order + Region** (and optional Debate doc type)  &#x20;
+* ✅ **Addendum seed** follows either Archive format (Order + Region) or Debate format (Phase + Doc Type + Temperament)
 
 ---
 
 ## Appendix — Canonical tags (for your Addendum)
 
-* **Orders**: Boundary; Doubling; Craving; Silence & Withdrawal; Violence & Secret Life; Mediation & Aperture .
-* **Regions**: Capital; Dens/Densmok; Quarry; North Town/Northo; Tower/Sticks; Dead River; Capeast .
+### For Archive Connections:
+* **Orders**: Boundary; Doubling; Craving; Silence & Withdrawal; Violence & Secret Life; Mediation & Aperture
+* **Regions**: Capital; Dens/Densmok; Quarry; North Town/Northo; Tower/Sticks; Dead River; Capeast
+
+### For Debate Connections:
+* **Phases**: Phase I (Years 1-12, Regional drawers); Phase II (Years 13-20, Geographic faults); Phase III (Year 22, Orders proposal); Phase IV (Year 23+, Implementation)
+* **Document Types**: memo, minute, field report, hearing, counter-memo, directive, ruling, brief, case note, colloquy note  
+* **Temperaments**: Clerkly (procedural, protocol-focused); Romantic (narrative, witness-focused); Philosophical (systematic, category-focused)

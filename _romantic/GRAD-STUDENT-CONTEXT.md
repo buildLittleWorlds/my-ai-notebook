@@ -58,32 +58,46 @@ The hub (`romantic-quick-kit.md`) plus component pages: **Hermeneutics** (method
 
 ---
 
-# New: Densworld Addendum for Romantic Kit pages (short, required)
+# Densworld Addendum for Romantic Kit pages (short, required)
 
 **Why add this to a theory page?**
-Blog posts already end with a required **Densworld Addendum (seed)** that proposes a concrete fiction-facing idea and tags it for the Archive system (Orders + Region) . We’ll do the **same, in miniature**, on each Romantic Kit page so theory cleanly “hands off” to fiction builders—still **out-of-character** to respect the kit’s non-fiction boundary .
+Blog posts already end with a required **Densworld Addendum (seed)** that can connect to either Archive or Debate. We'll do the **same, in miniature**, on each Romantic Kit page so theory cleanly "hands off" to fiction builders—still **out-of-character** to respect the kit's non-fiction boundary.
 
-**What to include (keep it to 2–4 sentences):**
+**Choose Your Connection Path:**
 
-* A **concrete image, device, practice, or scene-seed** your concept suggests (one beat, not a whole vignette) .
-* A **proposed Order** (Boundary; Doubling; Craving; Silence & Withdrawal; Violence & Secret Life; Mediation & Aperture) and a **likely Region** (Capital; Dens/Densmok; Quarry; North/Northo; Tower/Sticks; Dead River; Capeast) for where an Archivist would file the future fictional document  .
-* Optional: a likely **Debate** document type (memo, minute, hearing, counter-memo) to hint how the archivists might discuss it later (same option shown for posts) .
+### Archive Connection (for concrete scenarios)
+When your concept suggests **concrete Densworld scenes, artifacts, or practices**:
+* A **concrete image, device, practice, or scene-seed** your concept suggests (one beat, not a whole vignette)
+* A **proposed Order** and a **likely Region** for where an Archivist would file the future fictional document
 
-**Template snippet** (append beneath your “Application Examples”):
+### Debate Connection (for methodological questions)  
+When your concept suggests **methodological questions or archival policy issues**:
+* A concrete archival policy problem or interpretive question your concept raises
+* A likely **Phase** (Phase I-IV of archival development)
+* A likely **Document Type** and **Archivist Temperament**
+
+**Template snippets** (append beneath your "Application Examples"):
 
 ```markdown
-### Densworld Addendum (seed)
-- Proposed Order: [Boundary | Doubling | Craving | Silence & Withdrawal | Violence & Secret Life | Mediation & Aperture]
-- Likely Region: [Capital | Dens/Densmok | Quarry | North/Northo | Tower/Sticks | Dead River | Capeast]
-- Fictional prompt (2–4 sentences, out-of-character): …
-- (Optional) Debate doc type to expect: [memo | minute | hearing | counter-memo]
+### Densworld Addendum (seed) — Archive Focus
+**Order:** [Boundary | Doubling | Craving | Silence & Withdrawal | Violence & Secret Life | Mediation & Aperture]  
+**Region:** [Capital | Dens/Densmok | Quarry | North/Northo | Tower/Sticks | Dead River | Capeast]
+
+[2-4 sentences describing the concrete scene/artifact your concept suggests]
+
+### Densworld Addendum (seed) — Debate Focus  
+**Phase:** [Phase I | Phase II | Phase III | Phase IV]  
+**Document Type:** [memo | minute | field report | hearing | counter-memo | directive | ruling | brief | case note | colloquy note]  
+**Likely Temperament:** [Clerkly | Romantic | Philosophical]
+
+[2-4 sentences describing the methodological question or policy debate your concept suggests]
 ```
 
-**Three micro-examples (model the size/tone):**
+**Three micro-examples (Archive vs. Debate paths):**
 
-* **Authenticity.** In **North Town**, trial singers perform a murder-song that only “authenticates” when a masked **echoer** repeats each line perfectly; a clerk in **Capital** proposes banning echoers in depositions. → **Order: Doubling; Regions: North Town → Capital** (seed passes from culture to policy)  .
-* **Organic vs. Mechanical Form.** A quarry wheel “self-assembles” from mismatched parts if turned in a precise rhythm; apprentices argue whether the form lives or is merely fitted. → **Order: Boundary; Region: Quarry** .
-* **Technology & the Machine.** Bureau clerks in **Capital** trial a “grit-screen” that clarifies remote feeds from Densmok, arguing clarity enables exploitation. → **Order: Mediation & Aperture; Regions: Capital ↔ Dens/Densmok** .
+* **Authenticity (Archive path).** In **North Town**, trial singers perform a murder-song that only "authenticates" when a masked **echoer** repeats each line perfectly. → **Order: Doubling; Region: North Town** (archive entry documents echoer-song testimonies).
+* **Authenticity (Debate path).** Do "performed authenticity" documents belong in **Doubling** or require a new sub-order? → **Phase III Hearing; Philosophical temperament** argues for category expansion; **Clerkly** resists.
+* **Organic vs. Mechanical Form (Archive path).** A quarry wheel "self-assembles" from mismatched parts if turned in a precise rhythm; apprentices debate whether the form lives or is merely fitted. → **Order: Boundary; Region: Quarry**.
 
 > Note: the **Orders + Regions** pairing mirrors how the Archive files fictional documents; Debate records the institutional fight over those classifications and even formalizes **dual-tagging** standards .
 
@@ -102,7 +116,7 @@ Blog posts already end with a required **Densworld Addendum (seed)** that propos
 * **Two-rail clarity** leads to an evidence-based authenticity claim .
 * **Usable method** (your “How to Read” is actionable) and the **five core sections** are present .
 * **Cross-references** to related kit pages and back to the hub .
-* **Addendum seed** included (Orders + Region) to hand off toward Archive/Debate  .
+* **Addendum seed** included (Archive format with Order + Region, or Debate format with Phase + Doc Type + Temperament) to hand off toward future fictional development.
 
 ## Submission checklist (copy/paste and tick)
 
@@ -110,5 +124,5 @@ Blog posts already end with a required **Densworld Addendum (seed)** that propos
 * ✅ **Filename & front matter** follow kit specs&#x20;
 * ✅ **Top nav pill** links back to the Quick Kit hub&#x20;
 * ✅ **Five core sections** appear in order (Definition → How to Read → History → Cross-Refs → Applications)&#x20;
-* ✅ **Densworld Addendum (seed)** present (Orders + Region; 2–4 sentences; out-of-character) &#x20;
+* ✅ **Densworld Addendum (seed)** present (Archive format: Order + Region, or Debate format: Phase + Doc Type + Temperament; 2–4 sentences; out-of-character)
 

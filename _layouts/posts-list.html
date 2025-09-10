@@ -6,7 +6,7 @@ layout: default
   <h1>{{ page.title }}</h1>
   <nav aria-label="Posts">
     <ul class="post-list">
-      {% for post in site.posts reversed %}
+      {% for post in site.posts %}
       <li><a href="{{ post.url | relative_url }}">{{ post.post_number }} {{ post.title }}</a></li>
       {% endfor %}
     </ul>

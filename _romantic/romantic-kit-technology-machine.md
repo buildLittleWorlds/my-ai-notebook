@@ -93,6 +93,13 @@ the "miraculous in the common" and thereby re-enchant the world.
     (especially the chapter "Sounds") — Contains his famous meditations
     on the railroad.
 
+### Densworld Addendum (seed) — Debate Focus  
+**Phase:** Phase II  
+**Document Type:** Case Note  
+**Likely Temperament:** Clerkly  
+
+Gatekept instruction behaves like a **machine of access** in Hilly Dale: most kids get written **instructions** left on tables while one kid gets the **puzzle**—a split between remote directive and hands-on drill. Pair this with the **nickname device** (names fixed by relation to Vivian) to ask whether these are *apertures* installing cadence before the Sticks’ quiet-hours. Cross-link to **[Phase III — Memorandum: The Nickname Ledger (Vivian → Tower/Sticks chain)]({{ '/debate/phase3-memo-nickname-ledger-vivian/' | relative_url }})** and propose device-first filing for pre-Sticks pedagogy.
+
 <div class="bottom-links">
 
 <a href="{{ '/romantic/romantic-quick-kit/' | relative_url }}" class="quickkit-pill">← Back to Quick

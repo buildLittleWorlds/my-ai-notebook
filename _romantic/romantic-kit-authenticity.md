@@ -108,6 +108,13 @@ creates a more profound, more resilient, and more complete individual.
   - <span id="ref1">Lawrence Buell, "Transcendentalist Catalogue
     Rhetoric: Vision Versus Form," *American Literature* (1968).</span>
 
+### Densworld Addendum (seed) — Debate Focus  
+**Phase:** Phase II  
+**Document Type:** Case Note  
+**Likely Temperament:** Clerkly  
+
+If a **nickname** becomes the aperture through which a child is recognized (status tied to a “date with Vivian”), is “authenticity” a property or a **handling protocol**? Propose that Hilly Dale’s nickname economy be treated as a **device** that installs legibility—then ask Debate to standardize device-first cross-filing with Sticks withdrawals. Link: **[Phase III — Memorandum: The Nickname Ledger (Vivian & the Sticks)]({{ '/debate/phase3-memo-nickname-ledger-vivian/' | relative_url }})**.
+
 <div class="bottom-links">
 
 <a href="{{ '/romantic/romantic-quick-kit/' | relative_url }}" class="quickkit-pill">← Back to Quick

@@ -38,7 +38,7 @@ The architecture demonstrates how academic theory and creative methodology can e
 - **Main Hub**: `_romantic/romantic-quick-kit.md` (detailed systematic framework)  
 - **Components** (11 files): Hermeneutics, Authenticity, Organic Form, Gefühl, Technology & the Machine, national contexts (Germany/England/America), Glossary
 - **Voice**: Instructional, definitive, cross-referenced ("How to read for [concept]")
-- **Standard Template**: Definition → Method → Historical Development → Cross-References → Applications → **Densworld Addendum (seed)**
+- **Standard Template**: Definition → Method → Historical Development → Cross-References → Applications → **Densworld Addendum (seed to Archive or Debate)**
 
 #### B. **AI Hermeneutics Kit** (`_ai_hermeneutics/` collection → `/ai-hermeneutics/`)
 - **Purpose**: Framework for interpreting AI-generated texts, showing AI challenges as **intensifications** of traditional hermeneutic questions
@@ -47,14 +47,14 @@ The architecture demonstrates how academic theory and creative methodology can e
 - **Main Hub**: `_ai_hermeneutics/ai-hermeneutics-kit.md` (detailed systematic framework)
 - **Components** (20 files): Foundations (Author-function, Dialogue, Risk), Deleuzian frameworks (machine, forces, assemblage), Butlerian frameworks (performativity, interiority, parody, regulation), Additional frameworks (genealogy, distanciation, death of author), reference materials
 - **Voice**: Systematic, theoretically rigorous, practically oriented, cross-disciplinary
-- **Standard Template**: Theoretical Foundation → AI Application → Interpretive Method → Contemporary Relevance → Cross-References → **Densworld Addendum (seed)**
+- **Standard Template**: Theoretical Foundation → AI Application → Interpretive Method → Contemporary Relevance → Cross-References → **Densworld Addendum (seed to Archive or Debate)**
 
 **Kit Technical Specifications**:
 - **Layout**: `kit` layout for all pages  
 - **URL Patterns**: `/romantic/:name/` and `/ai-hermeneutics/:name/`
 - **Navigation**: Homepage → Theoretical Frameworks Section → detailed hubs with extensive cross-linking
 - **File Naming**: `romantic-kit-[topic].md` and `ai-kit-[topic].md`
-- **Integration**: Each kit page ends with a **Densworld Addendum (seed)** proposing Order + Region for future fictional development
+- **Integration**: Each kit page ends with a **Densworld Addendum (seed)** connecting to either Archive (Order + Region) or Debate (Phase + Document Type + Temperament) for future development
 
 ### 3. **Archive** (`_archive/` collection) — The Capital Archive & Densworld System
 **Fictional but rigorous archival practice** presenting fragments and testimonies from Densworld, organized by interpretive **Orders** (what reality a document performs) rather than geography (where it comes from).
@@ -301,22 +301,33 @@ When analyzing individual pages, consider:
 The site functions as a **systematic integration ecosystem** connecting real academic work with fictional world-building through a structured seeding process:
 
 ### The Densworld Addendum Requirement
-Every blog post must end with a **Densworld Addendum** (2–6 sentences) that:
+Every blog post must end with a **Densworld Addendum** (2–6 sentences) that connects to **either** the Archive **or** Debate collection:
+
+#### Archive Connection (for concrete scenarios):
 - Speculates about a Densworld analogue or reworking of the post's idea
 - Proposes a specific **Order** (Boundary, Doubling, Craving, Silence & Withdrawal, Violence & Secret Life, Mediation & Aperture)
 - Suggests a likely **Region** (Capital, Dens/Densmok, Quarry, North/Northo, Tower/Sticks, Dead River, Capeast)
-- Optionally suggests a **Debate** document type (memo, minute, hearing, counter-memo)
+
+#### Debate Connection (for methodological questions):
+- Suggests an archival policy problem or interpretive methodology question
+- Proposes a likely **Phase** (Phase I-IV of archival development)
+- Suggests a **Document Type** and **Archivist Temperament** (Clerkly, Romantic, Philosophical)
 - Remains **out-of-character** (a hand-off seed, not fiction itself)
 
-### Example Addendum:
+### Example Addenda:
 ```markdown
-**Densworld Addendum (seed):** The "authenticity vs. performance" tension could surface in **North Town** as a murder-song requiring a masked **echoer** to confirm each line (→ **Doubling**). A clerk in **Capital** proposes banning masked echoers in depositions (→ potential **Counter-Memo** in Debate).
+**Archive-focused:**
+**Densworld Addendum (seed):** The "authenticity vs. performance" tension could surface in **North Town** as a murder-song requiring a masked **echoer** (→ **Doubling**). Archive entry might document echoer-song testimonies in the **North** region.
+
+**Debate-focused:**  
+**Densworld Addendum (seed):** The "authenticity vs. performance" question could prompt a **Phase III Hearing** where **Philosophical** archivists debate whether "performed authenticity" documents belong in **Doubling** or require a new sub-order.
 ```
 
 ### Integration Flow:
-1. **Blog Posts** test ideas and generate Densworld seeds
-2. **Theory Collections** formalize recurring concepts into systematic frameworks
-3. **Archive/Debate Collections** realize fictional scenarios suggested by blog post seeds
-4. The system creates reciprocal enrichment between real scholarship and creative world-building
+1. **Blog Posts** test ideas and generate Densworld seeds (connecting to Archive or Debate)
+2. **Theory Collections** formalize recurring concepts into systematic frameworks (with flexible Archive/Debate connections)
+3. **Archive Collection** realizes concrete fictional scenarios suggested by seeds
+4. **Debate Collection** realizes methodological questions and policy debates suggested by seeds
+5. The system creates reciprocal enrichment between real scholarship and creative world-building
 
 This architecture ensures the site operates as a **self-referential academic ecosystem** demonstrating both theory and practice of literary-critical methodology.

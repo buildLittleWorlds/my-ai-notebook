@@ -119,6 +119,41 @@ manuals and rehab scripts not to collapse them but to keep their cadence togethe
 builds a world of correct joins, taught at the table one corner at a time.
 ---
 
+## File: ./craving-dead-river-queenmater-dose-ledger-c2.md
+
+---
+title: "Archive Post C2 — Dead River: Queenmater Handouts (dose ledger & franchise route)"
+order: "Craving"
+region: "Dead River"
+catalog_code: "C2"
+excerpt: "A sheet names forms of craving; a show standardizes dose. Appetite learns its meter on the street."
+layout: archive
+---
+
+**Catalog Code:** C2
+
+## Provenance
+
+Dead River · Street-circulated **Queenmater** “cheat” sheets; domestic witness to the **Dead River Whores** franchise (comic → TV); town speech motto logged at the limits.
+
+## Extract
+
+> || This thing will never be resolved. These handouts keep getting circulated all over town. I don’t know who this “Queenmater” person is. ||
+
+> || Queenmater Handouts -- Seven Ways of Words, Seven Forms of the Craving ||
+
+> || Dead River Whores was a TV show Cora’s son unfortunately watched all the time. Five episodes in a day if she let him. It had been a comic before someone made it a show, and now Evan was buying up old volumes and leaving them around where Yoyo, who was only ten, could see those awful covers, each with an almost naked woman dead in some ghastly way. ||
+
+> || Someone heard it was going to be an album… He thought it could be a game. It might be. A game about Dead River. ||
+
+> || Only bad things happen for a reason. Good things? Who knows and who cares. ||
+
+## Archivist’s Commentary
+
+Filed **Craving** (primary). The handout walks the streets naming **forms of craving**; the category becomes a **meter** people carry, not a gloss. The franchise regularizes a **dose** (“five episodes in a day”) and trains a **gaze** (covers as lesson), so appetite arrives with a schedule and a look. The motto supplies a counting rule—**causality is reserved for harm**—which tilts attention toward injuries and away from gifts; it’s a speech-device that tallies desire by what goes wrong. Cross-index (light): **Violence & Secret Life** (harm laundered as after-school time); **Mediation & Aperture** (formats—handout, panel, episode—function as apertures routing appetite). Region marks provenance (Dead River), but the mechanism—**how craving learns its beat**—is the reason for the file.
+
+---
+
 ## File: ./craving-densmok-theorists-shadow-b1.md
 
 ---
@@ -849,6 +884,74 @@ interior world (pickbox) without resolving who lasts. The dossier keeps the seam
 don't harden into firsts.
 ---
 
+## File: ./mediation-northo-pickbox-cart-composite-a3.md
+
+---
+layout: archive
+title: "Archive Post A3 — Northo: The Pickbox Cart, Rooms Within Rooms (composite testimonies)"
+order: "Mediation & Aperture"
+region: "Northo"
+catalog_code: "A3"
+excerpt: "A wheeled burden 'not quite larger than a wheelbarrow' opens inward to rooms upon rooms; five women walk as if roped though they are not; authorship refuses the file."
+---
+
+**Catalog Code:** A3
+
+## Provenance
+
+Roadside and tavern testimonies from the **North Town/Northo** line; axle-repair ledger notes; North murder-song index; Dead River detour account (nested lids); contextual notes from the Archive’s traveling-device appendix. Cross-filed to prior slip **E2** (“Northo: The Mapmaker’s Pickbox”) and to Debate **Case Note 19.4** (“On the Pickbox Cart and Authorless Burden”).
+
+## Extract
+
+> || *The mapmaker stopped at a village once… a cart that seemed tiny, almost no larger than a wheelbarrow, but which opened up inside into a house or even a town. And they had heard of the five women who walked behind the cart, roped to the cart and walking as one woman though they were five.* ||&#x20;
+
+> || *A man arrived with a cart not quite larger than a wheelbarrow yet opening inside into rooms upon rooms. Five women walked behind it as if roped though they were not… No one could agree on what made the cart so heavy, only that the man refused others’ food and the women refused his.* ||&#x20;
+
+> || *We lifted the lid. Inside was a second cart, smaller. Inside that, another. At the fifth, we stopped. The lids did not close again.* ||&#x20;
+
+> || *The cart rolled without him. It killed two girls. The song says: “pick, pick, pick,” but no name sings with it.* ||&#x20;
+
+> || *The pickbox cart is a region unto itself—Gunnr-wood, bone, leather, corners beyond corners… Its operator listens for a count—specifically five—in a girl’s tapping; counting recruits; the burden encloses its own geography. In North Town, a murder song reports the cart rolling without him.* ||&#x20;
+
+> || *…the fivefold figure in silhouette… how can a single fivefold being—five women-one being—maintain itself over generations? … Though what you might ask is whether the man in the pickbox cart might be himself some kind of immortal…* ||&#x20;
+
+## Index — Cross-Witness Notes
+
+| Locale            | Source Type      | Note                                                                                                             |
+| ----------------- | ---------------- | ---------------------------------------------------------------------------------------------------------------- |
+| Northo tavern     | stool transcript | Women sit cross-legged and **watch** while the mapmaker sleeps; no food taken; silence kept (cf. refusal motif)  |
+| Northo axle yard  | repair ledger    | Single rear axle; weight unexplained; departure toward **Gee** before dawn                                       |
+| Dead River limit  | detour ledger    | **Nested carts (five)**; lids fail to reseal; containment turns outward                                          |
+| North Town square | song index       | Murders logged by **sound** (“pick, pick, pick”); **no author named**                                            |
+
+## Archivist’s Commentary
+
+We file the **Pickbox** under **Mediation & Aperture** because each testimony treats the cart not as an object but as an **opening**: a burden that **permits contents** (rooms, tools, routes) while denying the body any clean authorship. The Northo witness reaches for measurement and fails—“not quite larger than a wheelbarrow,” then the sentence falls **inside** the box and returns as rooms and weight. The ledger wants a maker; the songs return only a **method** (“pick, pick, pick”). Where speech asks for a name, the cart **answers with a form**.&#x20;
+
+Three recurrent seams warrant the drawer:
+
+1. **Aperture before place.** As with the Capital’s windows and the map that makes Dead River, the cart **installs** a geography rather than inhabits one. The moment witnesses try to close the lid on provenance (“Northo cart”), the lid opens to **another cart**, and then another, until counting (five) becomes the only stable rule left. We have geography by device, not device by geography.&#x20;
+
+2. **Authorless burden.** The song that reports “the cart rolled without him” strips the file of its last custodian. We are not filing a man’s possession; we are filing an **operation** that persists without a confessor. In this respect the cart rhymes with the Archive’s own frustration: devices travel; names do not hold.&#x20;
+
+3. **Counting as gate.** Several records yoke the cart’s behavior to **five**—the number that already organizes Yeller’s figure and Dead River’s maintenance stories. The cart’s operator “listens for a count” to recruit; the detour book stops at the fifth lid; the songs in North keep five alive as menace and meter. In our schema that’s the pressure where **Doubling** (recurrence without origin) crosses the aperture, but the primary work remains **mediation**: a count that **admits**. &#x20;
+
+4. **Silence, refusal, watch.** The women’s refusals (of food, of commentary) and their practiced **watch** place them on the threshold between **agency** and **ordinance**. Their step is “as one though they were five,” which the parish world reads as offense against clothing or decorum elsewhere; here, the offense is against provenance. They arrive **before** the story that can house them. We mark their watching as a form of custodianship the cart itself requires: a **quiet** that keeps the aperture from collapsing into a person.&#x20;
+
+**Filing decision.**
+Primary **Order:** *Mediation & Aperture*. Region tagged **Northo** (first stable witness) with cross-notes to **North Town** (murder-song behavior) and **Dead River** (nested lids). We preserve counts (“five”), refusals, and the absence of author as evidence, not defects.
+
+**Methodological note.**
+To insist on a single geography is to force the lid shut. In these slips the lid **will not close**. We recommend device-first shelving across the family of cart cases; where **Region** is demanded by policy, retain it as **provenance** and maintain cross-refs by **Order**.
+
+## Cross-References
+
+* **[E2 — Northo: The Mapmaker's Pickbox (axle repair & tavern notes)]({{ '/archive/violence-northo-mapmaker-pickbox-e2/' | relative_url }})** — first canonical Northo extract ("not quite larger than a wheelbarrow… rooms upon rooms") for comparison
+* **[Case Note 19.4 — On the Pickbox Cart and Authorless Burden]({{ '/debate/phase2-case-pickbox/' | relative_url }})** — Debate filing that logs authorless operation and nested tins; useful for docket history
+* **Appendix — Traveling Figures and Codes** — cart as "region unto itself," relation to five and to Yeller
+
+---
+
 ## File: ./silence-capeast-festival-aftermath-g1.md
 
 ---
@@ -1036,6 +1139,44 @@ The Tower's drill makes speech lay the track for the hand—but the child's spee
 A procedural rule ("edges to edges") begets a private lexicon where colors pick up kinship, and steps on a puzzle
 board appear as steps toward a person. We file this under *Silence & Withdrawal* to keep it beside
 the catechism notes: repetition builds fit; fit spills into meaning.
+---
+
+## File: ./silence-tower-garden-dedication-h3.md
+
+---
+title: "Archive Post H3 — Tower: Garden Dedication (program & family notes)"
+order: "Silence & Withdrawal"
+region: "Tower of Mirado"
+catalog\_code: "H3"
+excerpt: "Dedication words lay a track the paths keep: speech withdraws; walking remembers."
+layout: archive
+---
+
+**Catalog Code:** H3
+
+## Provenance
+
+Tower of Mirado · Family trip notes surrounding the Lincoln Memorial Garden dedication; phone-call fragments about a prepared speech; later family retellings that preserve a Jensen line as doctrine (Springfield, IL; Meg/Josh/Esther/Harriet chain).
+
+## Extract
+
+> || Mom was saying words at the dedication. ||
+
+> || She’d sent ten or more copies of her three minute speech to Meg and called her so much about it that whenever her phone rang Josh had started whispering in the background, a bit too loudly to be safe, “Four score and fourteen years ago, my mother, my dear daughter’s grandmother, Harriet Knudson, brought forth, with the help of – God bless him – the most famous landscaper nobody’s heard of, a garden in Springfield. A garden for Mr. Lincoln. A garden...” ||
+
+> || So, instead of watching the time or leaning on the speedometer, she let the radio think for her and arrived at the garden with five minutes to spare. ||
+
+> || Meg had fallen for Josh because he’d known the difference between redbuds and dogwoods. ||
+
+> || …convincing world famous landscape architect Jens Jensen to drive down from Chicago and design what he later called “the only garden to truly embody my deepest principles,” ||
+
+
+## Archivist’s Commentary
+
+The day installs a method. A public **program** (copies of a three-minute speech; “Mom was saying words at the dedication”) is present in the ledgers, but the content itself does not survive in this packet. The record leaves a bracketed interval where the ceremony should be; what remains in force are the **habits** the day affirms: arriving to a tempo (“let the radio think”), then walking and naming—**redbuds / dogwoods**—until the garden’s rule lives in the hand (and eye). In the Tower, we file this under **Silence & Withdrawal**: speech **lays the track** and then **withdraws**, leaving practice to carry it forward . The Jensen sentence persists not as oratory but as doctrine—an articulated principle that the paths remember.
+
+Cross-index (light): **Boundary**—a garden as a managed edge between design and wild; keep the tension rather than resolve it (see Tower drills where a line both bounds and moves) .
+
 ---
 
 ## File: ./violence-dens-shaved-head-mechanic-c2.md
